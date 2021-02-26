@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <title>Workshop</title>
+</head>
+
+<body>
+    <div id="app">
+        <h1 v-text="header"></h1>
+        <hr>
+        <div v-for="message in messages">
+            {{ message }}
+        </div>
+        <hr>
+        <h2 v-text="title"></h2>
+
+        <div v-text="message1"></div>
+        <div><input type="text" v-model:value1="value1"></div>
+        <br>
+        <div>{{ value1 }}님 반갑습니다.</div>
+        <br/><hr>
+
+
+        <div v-text="message2"></div>
+        <li v-for="(major, index) in majorList">
+            <span>{{major}}</span>
+        </li>
+
+        <li v-for="(major, index) in majorList">
+            <input type="radio" name="major" onclick="app.value2=this.index">{{major}}<br>
+        </li>
+
+        <input type="radio" name="major" onclick="app.value2=1">컴퓨터 공학과<br>
+        <input type="radio" name="major" onclick="app.value2=2">수학과<br>
+        <input type="radio" name="major" onclick="app.value2=3">경제학과<br>
+        <input type="radio" name="major" onclick="app.value2=4">법학과<br>
+        <input type="radio" name="major" onclick="app.value2=5">음악과<br>
+
+        <div v-if="value2 == 1">
+            <li v-text="com"></li>
+        </div>
+        <div v-else-if = "value2 == 2">
+            <li v-text="math"></li>
+        </div>
+        <div v-else-if = "value2 == 3">
+            <li v-text="econ"></li>
+        </div>
+        <div v-else-if = "value2 == 4">
+            <li v-text="law"></li>
+        </div>
+        <div v-else-if = "value2 == 5">
+            <li v-text="music"></li>
+        </div>
+
+        <hr>
+        <h4 v-text="message3"></h4>
+        <div v-if="grade < 1.0">
+            <h2>학점 : Fail</h2>
+        </div>
+        <div v-else-if="grade >= 4.5">
+            <h2>학점 : 4.5</h2>
+        </div>
+        <div v-else>
+            <h2>학점 : {{grade}}</h2>
+        </div>
+        <button v-on:click="onClickUp" v-text = "label1"></button>
+        <button v-on:click="onClickDown" v-text = "label2"></button>
+        <hr>
+        <div>
+            {{value1}}님의 학점
+            <div v-if="grade < 1.0">
+                <h2>학점 : Fail</h2>
+            </div>
+            <div v-else-if="grade >= 4.5">
+                <h2>학점 : 4.5</h2>
+            </div>
+            <div v-else>
+                <h2>학점 : {{grade}}</h2>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="index.js"></script>
+</body>
+
+</html>
