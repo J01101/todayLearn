@@ -1,0 +1,575 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { /*
+
+Copyright The Closure Library Authors.
+SPDX-License-Identifier: Apache-2.0
+*/
+(function(){function e(g){this.t={};this.tick=function(h,k,f){this.t[h]=[void 0!=f?f:(new Date).getTime(),k];if(void 0==f)try{window.console.timeStamp("CSI/"+h)}catch(m){}};this.getStartTickTime=function(){return this.t.start[0]};this.tick("start",null,g)}var a;if(window.performance)var d=(a=window.performance.timing)&&a.responseStart;var l=0<d?new e(d):new e;window.jstiming={Timer:e,load:l};if(a){var b=a.navigationStart;0<b&&d>=b&&(window.jstiming.srt=d-b)}if(a){var c=window.jstiming.load;0<b&&d>=
+b&&(c.tick("_wtsrt",void 0,b),c.tick("wtsrt_","_wtsrt",d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),c&&0<b&&(c.tick("_tbnd",void 0,window.chrome.csi().startE),c.tick("tbnd_","_tbnd",b))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,c&&0<b&&(c.tick("_tbnd",void 0,window.external.startE),c.tick("tbnd_","_tbnd",b))),a&&(window.jstiming.pt=a)}catch(g){}})(); })()
+</script>
+<link rel="shortcut icon" type="image/x-icon" href="//www.google.com/images/icons/product/sites-16.ico" />
+<link rel="apple-touch-icon" href="https://ssl.gstatic.com/sites/p/b16caf/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { function d(a){return document.getElementById(a)}window.byId=d;function g(a){return a.replace(/^\s+|\s+$/g,"")}window.trim=g;var h=[],k=0;window.JOT_addListener=function(a,b,c){var f=new String(k++);a={eventName:a,handler:b,compId:c,key:f};h.push(a);return f};window.JOT_removeListenerByKey=function(a){for(var b=0;b<h.length;b++)if(h[b].key==a){h.splice(b,1);break}};window.JOT_removeAllListenersForName=function(a){for(var b=0;b<h.length;b++)h[b].eventName==a&&h.splice(b,1)};
+window.JOT_postEvent=function(a,b,c){var f={eventName:a,eventSrc:b||{},payload:c||{}};if(window.JOT_fullyLoaded)for(b=h.length,c=0;c<b&&c<h.length;c++){var e=h[c];e&&e.eventName==a&&(f.listenerCompId=e.compId||"",(e="function"==typeof e.handler?e.handler:window[e.handler])&&e(f))}else window.JOT_delayedEvents.push({eventName:a,eventSrc:b,payload:c})};window.JOT_delayedEvents=[];window.JOT_fullyLoaded=!1;
+window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1440<=a||0>a)return null;var c=0;60<=a&&(a/=60,c=2);2<=a&&c++;return b?window.JOT_siteRelTimeStrs[c].replace("__duration__",Math.floor(a)):window.JOT_userRelTimeStrs[c].replace("__duration__",Math.floor(a))}; })()
+</script>
+<link rel="stylesheet" type="text/css" href="https://ssl.gstatic.com/sites/p/b16caf/system/app/pagetypes/filecabinet/filecabinet.css" />
+<script>
+
+  
+
+  var breadcrumbs = [{"path":"/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil","deleted":false,"title":"2017\ub144 2\ud559\uae30 \uac15\uc758 \uc790\ub8cc\uc2e4","dir":"ltr"},{"path":"/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo","deleted":false,"title":"\ube45\ub370\uc774\ud130","dir":"ltr"}];
+  var JOT_clearDotPath = 'https://ssl.gstatic.com/sites/p/b16caf/system/app/images/cleardot.gif';
+
+  
+  var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+  
+  
+
+  
+
+  var webspace = {"gvizGstaticVersion":"current","enableAnalytics":false,"pageSharingId":"jotspot_page","codeembeds":{"outerIframeSrc":"https://www.gstatic.com/jotspot/embeds/code/0f08d42392f2000e7e3f3daf5b427a43/outer_iframe.html","innerIframeSrc":"https://1072258337-jotspot-embeds.googleusercontent.com/code/8d87fa64604b2a11fae2ed06104c58d3/inner_iframe.html"},"enableUniversalAnalytics":false,"sharingPolicy":"OPENED_WITH_INDICATOR","siteTitle":"\uc720\uc6d0\ub300\ud559\uad50 \ubbf8\ub514\uc5b4\ucf58\ud150\uce20\ud559\uacfc \uc774\ud638\uc900 \uad50\uc218 \uac15\uc758\uc790\ub8cc\uc2e4","experiments":{"enableSubpagesGadgetInTakeout":false,"DisableSiteEditingFeature__disable_site_editing":false},"jot2atari":{"eligibility":"ineligible"},"onepickUrl":"https://docs.google.com/picker","adsensePublisherId":null,"features":{"moreMobileStyleImprovements":null,"subscriptionDataMigrationInProgress":null,"plusBadge":false},"isPublic":true,"newSitesBaseUrl":"https://sites.google.com","isConsumer":false,"serverFlags":{"jot2AtariLearnMoreUrl":"https://support.google.com/sites/answer/7035197"},"domainAnalyticsAccountId":"","plusPageId":"","signInUrl":"https://accounts.google.com/AccountChooser?continue\u003dhttps://sites.google.com/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo\u0026service\u003djotspot","analyticsAccountId":"","scottyUrl":"/_/upload","homePath":"/","siteNoticeUrlEnabled":null,"plusPageUrl":"","adsensePromoClickedOrSiteIneligible":true,"csiReportUri":"https://gg.google.com/csi","sharingId":"jotspot","termsUrl":"//www.google.com/intl/en/policies/terms/","gvizVersion":1,"editorResources":{"sitelayout":["https://ssl.gstatic.com/sites/p/b16caf/system/app/css/sitelayouteditor.css"],"text":["https://ssl.gstatic.com/sites/p/b16caf/system/js/codemirror.js","https://ssl.gstatic.com/sites/p/b16caf/system/app/css/codemirror_css.css","https://ssl.gstatic.com/sites/p/b16caf/system/js/trog_edit__en.js","https://ssl.gstatic.com/sites/p/b16caf/system/app/css/trogedit.css","/a/webmail.yd.ac.kr/leehojoon/_/rsrc/1618471498000/system/app/css/editor.css","https://ssl.gstatic.com/sites/p/b16caf/system/app/css/codeeditor.css","/a/webmail.yd.ac.kr/leehojoon/_/rsrc/1618471498000/system/app/css/camelot/editor-jfk.css"]},"sharingUrlPrefix":"/_/sharing","isAdsenseEnabled":true,"domain":"webmail.yd.ac.kr","baseUri":"/a/webmail.yd.ac.kr/leehojoon","name":"leehojoon","siteTemplateId":false,"siteNoticeRevision":null,"siteNoticeUrlAddress":null,"siteNoticeMessage":null,"page":{"isRtlLocale":false,"canDeleteWebspace":null,"isPageDraft":null,"parentPath":"/2017nyeon-2haggi-gang-ui-jalyosil","parentWuid":"wuid:gx:f77841fd8fecefd","siteLocale":"ko","timeZone":"America/Los_Angeles","type":"filecabinet","title":"\ube45\ub370\uc774\ud130","locale":"en","wuid":"wuid:gx:1a84f974ff9c27e9","revision":1,"path":"/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo","isSiteRtlLocale":false,"pageInheritsPermissions":null,"name":"bigdeiteo","canChangePath":true,"state":"","properties":{},"bidiEnabled":false,"currentTemplate":{"path":"/system/app/pagetemplates/filecabinet","title":"File Cabinet"}},"canPublishScriptToAnyone":true,"user":{"keyboardShortcuts":true,"sessionIndex":"","guest_":true,"displayNameOrEmail":"guest","userName":"guest","uid":"","renderMobile":false,"domain":"","namespace":"","hasWriteAccess":false,"namespaceUser":false,"primaryEmail":"guest","hasAdminAccess":false},"gadgets":{"baseUri":"/a/webmail.yd.ac.kr/leehojoon/system/app/pages/gadgets"}};
+  webspace.page.breadcrumbs = breadcrumbs;
+
+  
+  var JOT_siteRelTimeStrs = ["1\ubd84 \uc804","__duration__\ubd84 \uc804","1\uc2dc\uac04 \uc804","__duration__\uc2dc\uac04 \uc804"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<meta name="title" content="빅데이터 - 유원대학교 미디어콘텐츠학과 이호준 교수 강의자료실" />
+<meta itemprop="name" content="빅데이터 - 유원대학교 미디어콘텐츠학과 이호준 교수 강의자료실" />
+<meta property="og:title" content="빅데이터 - 유원대학교 미디어콘텐츠학과 이호준 교수 강의자료실" />
+<meta name="description" content="유원대학교 미디어콘텐츠학과 이호준교수 강의 자료실" />
+<meta itemprop="description" content="유원대학교 미디어콘텐츠학과 이호준교수 강의 자료실" />
+<meta id="meta-tag-description" property="og:description" content="유원대학교 미디어콘텐츠학과 이호준교수 강의 자료실" />
+<style type="text/css">
+</style>
+<link rel="stylesheet" type="text/css" href="https://ssl.gstatic.com/sites/p/b16caf/system/app/themes/default/standard-css-default-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/a/webmail.yd.ac.kr/leehojoon/_/rsrc/1618471498000/system/app/css/overlay.css?cb=default38a200goog-ws-leftnone30themedefaultstandard" />
+<link rel="stylesheet" type="text/css" href="/a/webmail.yd.ac.kr/leehojoon/_/rsrc/1618471498000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/a/webmail.yd.ac.kr/leehojoon/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>빅데이터 - 유원대학교 미디어콘텐츠학과 이호준 교수 강의자료실</title>
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" ko            ">
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title" class="" role="banner"><div class="sites-header-cell-buffer-wrapper"><h2><a href="https://sites.google.com/a/webmail.yd.ac.kr/leehojoon/" dir="ltr" id="sites-chrome-userheader-title">유원대학교 미디어콘텐츠학과 이호준 교수 강의자료실</a></h2></div></td><td class="sites-layout-searchbox  "><div class="sites-header-cell-buffer-wrapper"><form id="sites-searchbox-form" action="/a/webmail.yd.ac.kr/leehojoon/system/app/pages/search" role="search"><input type="hidden" id="sites-searchbox-scope" name="scope" value="search-site" /><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="이 사이트 검색" /><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-search-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0">이 사이트 검색</div></div></form></div></td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
+</td>
+</tr>
+</table>
+</div>
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left initial" style="width:200px">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed" role="navigation"><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotId="navList" class="has-expander"><li class="topLevel nav-first parent " wuid="gx:9efe46f37b6251"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/webmail.yd.ac.kr/leehojoon/2021nyeondo-1haggi-gang-ui-jalyosil" jotId="wuid:gx:9efe46f37b6251" class="sites-navigation-link topLevel">2021년 1학기 강의 자료실</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2021nyeondo-1haggi-gang-ui-jalyosil/webgaebalgicho2021" jotId="wuid:gx:7fa38a94b70f4f2f" class="sites-navigation-link">웹개발기초</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2021nyeondo-1haggi-gang-ui-jalyosil/geimjejag-ilon" jotId="wuid:gx:7006761d30f24fda" class="sites-navigation-link">게임제작이론</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2021nyeondo-1haggi-gang-ui-jalyosil/jineunghyeong-inteolaegsyeonkontencheujonghabseolgyei" jotId="wuid:gx:5aa2cf36ecbf71cc" class="sites-navigation-link">지능형인터랙션콘텐츠종합설계I</a></div></li></ul></li><li class="topLevel parent " wuid="gx:34462cff0ca93f4b"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/webmail.yd.ac.kr/leehojoon/2020nyeon-2haggi-gang-ui-jalyosil" jotId="wuid:gx:34462cff0ca93f4b" class="sites-navigation-link topLevel">2020년 2학기 강의 자료실</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2020nyeon-2haggi-gang-ui-jalyosil/cmshwal-yong" jotId="wuid:gx:5d92848c4347a42c" class="sites-navigation-link">CMS활용</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2020nyeon-2haggi-gang-ui-jalyosil/geim-kontencheu-gicho" jotId="wuid:gx:5f48e8c987aeff6b" class="sites-navigation-link">게임 콘텐츠 기초</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2020nyeon-2haggi-gang-ui-jalyosil/geim-jejag-gihoeg" jotId="wuid:gx:138fa440ca628724" class="sites-navigation-link">게임 제작 기획</a></div></li></ul></li><li class="topLevel parent " wuid="gx:7a328fc02bc684c2"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/webmail.yd.ac.kr/leehojoon/2020nyeon-1haggi-gang-ui-jalyosil" jotId="wuid:gx:7a328fc02bc684c2" class="sites-navigation-link topLevel">2020년 1학기 강의 자료실</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2020nyeon-1haggi-gang-ui-jalyosil/u1-boosting" jotId="wuid:gx:4080d96fed33ea76" class="sites-navigation-link">U1 Boosting</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2020nyeon-1haggi-gang-ui-jalyosil/inteolaegsyeon-kontencheu-gicho" jotId="wuid:gx:4cf3bb60ebfdf3ba" class="sites-navigation-link">인터랙션 콘텐츠 기초</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2020nyeon-1haggi-gang-ui-jalyosil/geim-jejag-ilon" jotId="wuid:gx:1ae4cd9ca05804a5" class="sites-navigation-link">게임 제작 이론</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2020nyeon-1haggi-gang-ui-jalyosil/jineunghyeong-inteolaegsyeon-kontencheu-jonghabseolgye-i" jotId="wuid:gx:27f4d6ad093c07e1" class="sites-navigation-link">지능형 인터랙션 콘텐츠 종합설계 I</a></div></li></ul></li><li class="topLevel parent " wuid="gx:101c8d4f0212f5c6"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/webmail.yd.ac.kr/leehojoon/2019nyeon-2haggi-gang-ui-jalyosil" jotId="wuid:gx:101c8d4f0212f5c6" class="sites-navigation-link topLevel">2019년 2학기 강의 자료실</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2019nyeon-2haggi-gang-ui-jalyosil/geim-kontencheu-gicho" jotId="wuid:gx:fca8fe6516cb044" class="sites-navigation-link">게임 콘텐츠 기초</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2019nyeon-2haggi-gang-ui-jalyosil/geim-jejag-gihoeg" jotId="wuid:gx:4ac908672e0bf667" class="sites-navigation-link">게임 제작 기획</a></div></li></ul></li><li class="topLevel parent " wuid="gx:2555a429d72f04e3"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/webmail.yd.ac.kr/leehojoon/2019nyeon-1haggi-gang-ui-jalyosil" jotId="wuid:gx:2555a429d72f04e3" class="sites-navigation-link topLevel">2019년 1학기 강의 자료실</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2019nyeon-1haggi-gang-ui-jalyosil/kontencheu-peulogeulaeming-i" jotId="wuid:gx:1cfe96967331984d" class="sites-navigation-link">콘텐츠 프로그래밍 I</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2019nyeon-1haggi-gang-ui-jalyosil/inteolaegsyeon-kontencheu-gicho" jotId="wuid:gx:5def3c23e14d566e" class="sites-navigation-link">인터랙션 콘텐츠 기초</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2019nyeon-1haggi-gang-ui-jalyosil/geim-jejag-ilon" jotId="wuid:gx:48f7d18385c8777f" class="sites-navigation-link">게임 제작 이론</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2019nyeon-1haggi-gang-ui-jalyosil/jineunghyeong-web-seobiseu" jotId="wuid:gx:5d8b06bd50223ddb" class="sites-navigation-link">지능형 웹 서비스</a></div></li></ul></li><li class="topLevel parent " wuid="gx:6d0479cbd49cc66b"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/webmail.yd.ac.kr/leehojoon/2018nyeon-2haggi-gang-ui-jalyosil" jotId="wuid:gx:6d0479cbd49cc66b" class="sites-navigation-link topLevel">2018년 2학기 강의 자료실</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2018nyeon-2haggi-gang-ui-jalyosil/kontencheupeulogeulaemingii" jotId="wuid:gx:607b3da4ec8ff4af" class="sites-navigation-link">콘텐츠프로그래밍II</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2018nyeon-2haggi-gang-ui-jalyosil/samul-inteoneskontencheu" jotId="wuid:gx:36d8c2cd44c91c85" class="sites-navigation-link">사물인터넷콘텐츠</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2018nyeon-2haggi-gang-ui-jalyosil/jineunghyeong-webkontencheu" jotId="wuid:gx:7efec1a912697166" class="sites-navigation-link">지능형웹콘텐츠</a></div></li></ul></li><li class="topLevel parent " wuid="gx:10604f045c5a9763"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/webmail.yd.ac.kr/leehojoon/2018nyeon-1haggi-gang-ui-jalyosil" jotId="wuid:gx:10604f045c5a9763" class="sites-navigation-link topLevel">2018년 1학기 강의 자료실</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2018nyeon-1haggi-gang-ui-jalyosil/jaatamsaeggwa-daehagsaenghwal" jotId="wuid:gx:4d3799223ad64d87" class="sites-navigation-link">자아탐색과 대학생활</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2018nyeon-1haggi-gang-ui-jalyosil/kontencheupeulogeulaemingi" jotId="wuid:gx:1f31625ae97f7771" class="sites-navigation-link">콘텐츠프로그래밍I</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2018nyeon-1haggi-gang-ui-jalyosil/inteolaegsyeon-kontencheu" jotId="wuid:gx:6d5290dd66c33459" class="sites-navigation-link">인터랙션 콘텐츠 기초</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2018nyeon-1haggi-gang-ui-jalyosil/jineunghyeong-web-seobiseu" jotId="wuid:gx:4d6f5596c8e3fa61" class="sites-navigation-link">지능형 웹 서비스</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2018nyeon-1haggi-gang-ui-jalyosil/q-a" jotId="wuid:gx:557d73789194a067" class="sites-navigation-link">Q/A</a></div></li></ul></li><li class="topLevel parent " wuid="gx:f77841fd8fecefd"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil" jotId="wuid:gx:f77841fd8fecefd" class="sites-navigation-link topLevel">2017년 2학기 강의 자료실</a></div><ul role="navigation" class="has-expander"><li class=""><div class="current-bg" jotId="wuid:gx:1a84f974ff9c27e9" dir="ltr" style="padding-left: 38px;">빅데이터</div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/sahoebongsa" jotId="wuid:gx:8d4b9e8b7f37996" class="sites-navigation-link">사회봉사</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/uisasotongneunglyeog" jotId="wuid:gx:18e76039205726e1" class="sites-navigation-link">의사소통능력</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/kontencheupeulogeulaeming2" jotId="wuid:gx:4c6fd9fb68634888" class="sites-navigation-link">콘텐츠프로그래밍2</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/cmshwal-yong" jotId="wuid:gx:4b68d966bd7f4cab" class="sites-navigation-link">CMS활용</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteokontencheusilseub" jotId="wuid:gx:6da606651572c5ba" class="sites-navigation-link">빅데이터콘텐츠실습</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/q-a" jotId="wuid:gx:3343dfd80b4a1136" class="sites-navigation-link">Q/A</a></div></li></ul></li><li class="topLevel parent " wuid="gx:27dab0b7556adfa0"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-1haggi-gang-ui-jalyosil" jotId="wuid:gx:27dab0b7556adfa0" class="sites-navigation-link topLevel">2017년 1학기 강의 자료실</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-1haggi-gang-ui-jalyosil/kontencheupeulogeulaeming1" jotId="wuid:gx:467f4760283ed4ed" class="sites-navigation-link">콘텐츠프로그래밍1</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-1haggi-gang-ui-jalyosil/webgaebalgicho" jotId="wuid:gx:5eb009f32e1a77c0" class="sites-navigation-link">웹개발기초</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-1haggi-gang-ui-jalyosil/bigdeiteosigaghwagicho" jotId="wuid:gx:6185cd20da3461ec" class="sites-navigation-link">빅데이터시각화기초</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-1haggi-gang-ui-jalyosil/inpoakitegteu" jotId="wuid:gx:dc466376415f484" class="sites-navigation-link">인포아키텍트</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-1haggi-gang-ui-jalyosil/q-a" jotId="wuid:gx:64e8d8db00c13ade" class="sites-navigation-link">Q/A</a></div></li></ul></li><li class="topLevel parent " wuid="gx:3060bf6d215352b6"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/webmail.yd.ac.kr/leehojoon/2016nyeon-2haggi-gang-ui-jalyosil" jotId="wuid:gx:3060bf6d215352b6" class="sites-navigation-link topLevel">2016년 2학기 강의 자료실</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2016nyeon-2haggi-gang-ui-jalyosil/jeongboneunglyeog" jotId="wuid:gx:107bc031b630fafd" class="sites-navigation-link">정보능력</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2016nyeon-2haggi-gang-ui-jalyosil/uisasotongneunglyeog" jotId="wuid:gx:782bcdc336ccb621" class="sites-navigation-link">의사소통능력</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2016nyeon-2haggi-gang-ui-jalyosil/kontencheupeulogeulaeming2" jotId="wuid:gx:6f0b6be701aabbbb" class="sites-navigation-link">콘텐츠프로그래밍2</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2016nyeon-2haggi-gang-ui-jalyosil/q-a" jotId="wuid:gx:1b7882800b07fad" class="sites-navigation-link">Q/A</a></div></li></ul></li><li class="topLevel parent " wuid="gx:2bb6e0b97adb29ed"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/webmail.yd.ac.kr/leehojoon/2016nyeon-1haggi-gang-uijalyosil" jotId="wuid:gx:2bb6e0b97adb29ed" class="sites-navigation-link topLevel">2016년 1학기 강의 자료실</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2016nyeon-1haggi-gang-uijalyosil/jaatamsaeggwadaehagsaenghwal" jotId="wuid:gx:2345b5b705ba1511" class="sites-navigation-link">자아탐색과대학생활</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2016nyeon-1haggi-gang-uijalyosil/kontencheupeulogeulaeming1" jotId="wuid:gx:27622ae4513cb765" class="sites-navigation-link">콘텐츠프로그래밍1</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2016nyeon-1haggi-gang-uijalyosil/peulojegteugihoeggwapeulejenteisyeon" jotId="wuid:gx:41f8be2671721015" class="sites-navigation-link">프로젝트기획과프레젠테이션</a></div></li></ul></li><li class="topLevel parent " wuid="gx:6aabc3b6d5b9c60d"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/webmail.yd.ac.kr/leehojoon/2015nyeon-2haggi-gang-ui-jalyosil" jotId="wuid:gx:6aabc3b6d5b9c60d" class="sites-navigation-link topLevel">2015년 2학기 강의 자료실</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2015nyeon-2haggi-gang-ui-jalyosil/gaegchejihyangpeulogeulaeming2" jotId="wuid:gx:49072007582d5898" class="sites-navigation-link">객체지향프로그래밍2</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2015nyeon-2haggi-gang-ui-jalyosil/gogeubpeulogeulaeming" jotId="wuid:gx:6ed1029052b4fd6e" class="sites-navigation-link">고급프로그래밍</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2015nyeon-2haggi-gang-ui-jalyosil/chang-uijeogjonghabseolgye2" jotId="wuid:gx:548a2f6c10cd33e4" class="sites-navigation-link">창의적종합설계2</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/2015nyeon-2haggi-gang-ui-jalyosil/q-a" jotId="wuid:gx:78008cd226493550" class="sites-navigation-link">Q/A</a></div></li></ul></li><li class="topLevel parent " wuid="gx:78bb51b329964441"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/webmail.yd.ac.kr/leehojoon/home" jotId="wuid:gx:78bb51b329964441" class="sites-navigation-link topLevel">2015년 1학기 강의 자료실</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/home/2015nyeon1haggi_aebgaebalhwangyeong" jotId="wuid:gx:51c418c5259cd7dc" class="sites-navigation-link">앱개발환경</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/home/gaegchejihyangpeulogeulaeming1" jotId="wuid:gx:5e997450486b77ad" class="sites-navigation-link">객체지향프로그래밍1</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/webmail.yd.ac.kr/leehojoon/home/andeuloideu-peulogeulaeming" jotId="wuid:gx:7bdf002534d6ace3" class="sites-navigation-link">안드로이드 프로그래밍</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/a/webmail.yd.ac.kr/leehojoon/dong-ali" jotId="wuid:gx:29dece676fa18f39" class="sites-navigation-link topLevel">동아리</a></div></li></ul></div></div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas" role="main">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="">
+<A href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil" dir="ltr">2017년 2학기 강의 자료실</A>‎ &gt; ‎
+  </div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">빅데이터</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1 sites-layout-empty-tile"></td></tr></tbody></table>
+</div> 
+<div id="filecabinet-body" class="filecabinet">
+<div xmlns="http://www.w3.org/1999/xhtml" id="JOT_FILECAB_wrapper__unfiled" class="collapsible"><table id="JOT_FILECAB_folder__unfiled" class="filecabinet-table"><thead style="display: none"><tr><th class="td-select">Selection</th><th class="td-icon">File type icon</th><th class="td-file">File name</th><th class="td-desc filecabinet-desc">Description</th><th class="td-size">Size</th><th class="td-rev">Revision</th><th class="td-time">Time</th><th class="td-user">User</th></tr></thead><tbody><tr id="JOT_FILECAB_container_wuid:gx:6485301549560ae0">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:6485301549560ae0" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:6485301549560ae0" aria-hidden="true">00.빅데이터_기말고사대비.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NjQ4NTMwMTU0OTU2MGFlMA" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/00.%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B8%B0%EB%A7%90%EA%B3%A0%EC%82%AC%EB%8C%80%EB%B9%84.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="10047237">9812k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1512544091272">
+<script type="text/javascript">
+      //<![CDATA[
+        function JOT_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) {
+          var relTimeStr = JOT_formatRelativeToNow(timestamp, isSiteLocale);
+          if (relTimeStr) {
+            if (isSiteLocale) {
+              document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale +
+                '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            } else {
+              document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr +
+              '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            }
+          } else {
+            document.write(absTimeStr);
+          }
+        }
+      //]]>
+</script>
+<span dir="ltr">2017. 12. 5. 오후 11:08</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:5cdbeb4ec6ce4ba1">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:5cdbeb4ec6ce4ba1" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:5cdbeb4ec6ce4ba1" aria-hidden="true">00.빅데이터_중간고사대비.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NWNkYmViNGVjNmNlNGJhMQ" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/00.%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC%EB%8C%80%EB%B9%84.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="5604365">5473k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1508242507466">
+<span dir="ltr">2017. 10. 17. 오전 5:15</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:6a511a66ed8e915f">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:6a511a66ed8e915f" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:6a511a66ed8e915f" aria-hidden="true">00.빅데이터.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NmE1MTFhNjZlZDhlOTE1Zg" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/00.%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="137588">134k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1502956089810">
+<span dir="ltr">2017. 8. 17. 오전 12:48</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:4d9706fe7565b544">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:4d9706fe7565b544" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:4d9706fe7565b544" aria-hidden="true">01.빅데이터 소개.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NGQ5NzA2ZmU3NTY1YjU0NA" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/01.%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%86%8C%EA%B0%9C.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="5307470">5183k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1504069728886">
+<span dir="ltr">2017. 8. 29. 오후 10:08</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:55bbe63504f0c655">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:55bbe63504f0c655" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:55bbe63504f0c655" aria-hidden="true">02.4차산업혁명.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NTViYmU2MzUwNGYwYzY1NQ" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/02.4%EC%B0%A8%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="14807669">14461k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1504610481067">
+<span dir="ltr">2017. 9. 5. 오전 4:21</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:7d411da24b1f5626">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:7d411da24b1f5626" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:7d411da24b1f5626" aria-hidden="true">03.사물인터넷.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6N2Q0MTFkYTI0YjFmNTYyNg" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/03.%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="19944913">19477k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1502956109199">
+<span dir="ltr">2017. 8. 17. 오전 12:48</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:1d2ee1130fba14e1">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:1d2ee1130fba14e1" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:1d2ee1130fba14e1" aria-hidden="true">04.자율주행자동차.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6MWQyZWUxMTMwZmJhMTRlMQ" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/04.%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EC%9E%90%EB%8F%99%EC%B0%A8.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="734472">717k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1502956115937">
+<span dir="ltr">2017. 8. 17. 오전 12:48</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:48a52f51efd58a2e">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:48a52f51efd58a2e" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:48a52f51efd58a2e" aria-hidden="true">05.인공지능_Part1.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NDhhNTJmNTFlZmQ1OGEyZQ" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/05.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_Part1.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="16031731">15656k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1502956121847">
+<span dir="ltr">2017. 8. 17. 오전 12:48</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:35fea6787b4a75cd">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:35fea6787b4a75cd" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:35fea6787b4a75cd" aria-hidden="true">06.인공지능_Part2.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6MzVmZWE2Nzg3YjRhNzVjZA" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/06.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_Part2.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="9105402">8892k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1502956128375">
+<span dir="ltr">2017. 8. 17. 오전 12:48</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:53fcc6874b254d61">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:53fcc6874b254d61" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:53fcc6874b254d61" aria-hidden="true">07.빅데이터활용.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NTNmY2M2ODc0YjI1NGQ2MQ" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/07.%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%99%9C%EC%9A%A9.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="15337029">14978k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1509520131386">
+<span dir="ltr">2017. 11. 1. 오전 12:08</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:35fc4b67bfbafc7d">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:35fc4b67bfbafc7d" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:35fc4b67bfbafc7d" aria-hidden="true">09.빅데이터활용_사례발표_Part1.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6MzVmYzRiNjdiZmJhZmM3ZA" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/09.%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%99%9C%EC%9A%A9_%EC%82%AC%EB%A1%80%EB%B0%9C%ED%91%9C_Part1.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="130351">127k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1502956139602">
+<span dir="ltr">2017. 8. 17. 오전 12:48</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:5ad797f85c03d5ef">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:5ad797f85c03d5ef" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:5ad797f85c03d5ef" aria-hidden="true">10.빅데이터활용_사례발표_Part2.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NWFkNzk3Zjg1YzAzZDVlZg" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/10.%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%99%9C%EC%9A%A9_%EC%82%AC%EB%A1%80%EB%B0%9C%ED%91%9C_Part2.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="131606">129k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1502956144260">
+<span dir="ltr">2017. 8. 17. 오전 12:49</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:2e4d64c1f146417c">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:2e4d64c1f146417c" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:2e4d64c1f146417c" aria-hidden="true">11.빅데이터 개념과 처리 과정.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6MmU0ZDY0YzFmMTQ2NDE3Yw" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/11.%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B0%9C%EB%85%90%EA%B3%BC%20%EC%B2%98%EB%A6%AC%20%EA%B3%BC%EC%A0%95.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="20544944">20063k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1510728587677">
+<span dir="ltr">2017. 11. 14. 오후 10:49</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:79ee17617aa13e12">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:79ee17617aa13e12" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:79ee17617aa13e12" aria-hidden="true">12.빅데이터 수집 및 통합 기술.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NzllZTE3NjE3YWExM2UxMg" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/12.%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%ED%86%B5%ED%95%A9%20%EA%B8%B0%EC%88%A0.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="7942453">7756k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1511874437274">
+<span dir="ltr">2017. 11. 28. 오전 5:07</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:18d98e09470e3770">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:18d98e09470e3770" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:18d98e09470e3770" aria-hidden="true">13.비정형데이터와처리방법.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6MThkOThlMDk0NzBlMzc3MA" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/13.%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80%EC%B2%98%EB%A6%AC%EB%B0%A9%EB%B2%95.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="1290055">1260k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1511874443105">
+<span dir="ltr">2017. 11. 28. 오전 5:07</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:56d4c4a58677a0e">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:56d4c4a58677a0e" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-powerpoint" aria-label="Microsoft Powerpoint" title="Microsoft Powerpoint">ć</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:56d4c4a58677a0e" aria-hidden="true">14.빅데이터시각화.pptx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NTZkNGM0YTU4Njc3YTBl" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/14.%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%8B%9C%EA%B0%81%ED%99%94.pptx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="3987406">3894k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1512544099971">
+<span dir="ltr">2017. 12. 5. 오후 11:08</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:700202afff9b2626">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:700202afff9b2626" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-excel" aria-label="Microsoft Excel" title="Microsoft Excel">Ĉ</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:700202afff9b2626" aria-hidden="true">빅데이터_최종.xlsx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NzAwMjAyYWZmZjliMjYyNg" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%B5%9C%EC%A2%85.xlsx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="9968">10k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1514118972634">
+<span dir="ltr">2017. 12. 24. 오전 4:36</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:697b32da314a4b6c">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:697b32da314a4b6c" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-ms-excel" aria-label="Microsoft Excel" title="Microsoft Excel">Ĉ</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:697b32da314a4b6c" aria-hidden="true">빅데이터.xlsx</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6Njk3YjMyZGEzMTRhNGI2Yw" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0.xlsx?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="9030">9k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1513587181148">
+<span dir="ltr">2017. 12. 18. 오전 12:53</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:62382dab031e38eb">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:62382dab031e38eb" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-adobe-pdf" aria-label="Adobe PDF" title="Adobe PDF">Ċ</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:62382dab031e38eb" aria-hidden="true">ReadingMaterial_01_4차산업혁명.pdf</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NjIzODJkYWIwMzFlMzhlYg" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/ReadingMaterial_01_4%EC%B0%A8%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85.pdf?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="2517769">2459k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1504069662551">
+<span dir="ltr">2017. 8. 29. 오후 10:07</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:204d6b7cb05f9d31">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:204d6b7cb05f9d31" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-adobe-pdf" aria-label="Adobe PDF" title="Adobe PDF">Ċ</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:204d6b7cb05f9d31" aria-hidden="true">ReadingMaterial_02_사물인터넷.pdf</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6MjA0ZDZiN2NiMDVmOWQzMQ" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/ReadingMaterial_02_%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7.pdf?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="690915">675k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1504069668125">
+<span dir="ltr">2017. 8. 29. 오후 10:07</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:615b92664c2a742d">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:615b92664c2a742d" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-adobe-pdf" aria-label="Adobe PDF" title="Adobe PDF">Ċ</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:615b92664c2a742d" aria-hidden="true">ReadingMaterial_03_자율주행자동차.pdf</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NjE1YjkyNjY0YzJhNzQyZA" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/ReadingMaterial_03_%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EC%9E%90%EB%8F%99%EC%B0%A8.pdf?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="1106320">1080k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1504069673320">
+<span dir="ltr">2017. 8. 29. 오후 10:07</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:62e8256f31c18b81">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:62e8256f31c18b81" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-adobe-pdf" aria-label="Adobe PDF" title="Adobe PDF">Ċ</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:62e8256f31c18b81" aria-hidden="true">ReadingMaterial_05_인공지능스피커.pdf</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NjJlODI1NmYzMWMxOGI4MQ" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/ReadingMaterial_05_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%8A%A4%ED%94%BC%EC%BB%A4.pdf?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="2533615">2474k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1504069679771">
+<span dir="ltr">2017. 8. 29. 오후 10:07</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:23bbd213d88c99bd">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:23bbd213d88c99bd" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-adobe-pdf" aria-label="Adobe PDF" title="Adobe PDF">Ċ</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:23bbd213d88c99bd" aria-hidden="true">ReadingMaterial_05_챗봇.pdf</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6MjNiYmQyMTNkODhjOTliZA" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/ReadingMaterial_05_%EC%B1%97%EB%B4%87.pdf?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="650725">635k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1504069685675">
+<span dir="ltr">2017. 8. 29. 오후 10:08</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:4b5413296be56917">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:4b5413296be56917" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-adobe-pdf" aria-label="Adobe PDF" title="Adobe PDF">Ċ</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:4b5413296be56917" aria-hidden="true">ReadingMaterial_07_2015글로벌사례집.pdf</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NGI1NDEzMjk2YmU1NjkxNw" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/ReadingMaterial_07_2015%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%82%AC%EB%A1%80%EC%A7%91.pdf?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="7686136">7506k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1504069692532">
+<span dir="ltr">2017. 8. 29. 오후 10:08</span>
+</td>
+<td class="td-user">이호준</td>
+</tr><tr id="JOT_FILECAB_container_wuid:gx:5a8cd8b577bee93e">
+<td class="td-select"><input class="filecabinet-checkbox" type="checkbox" aria-labelledby="JOT_FILECAB_label_wuid:gx:5a8cd8b577bee93e" /></td>
+<td class="td-icon" style="line-height:20px">
+<span class="sites-symbol sites-color-adobe-pdf" aria-label="Adobe PDF" title="Adobe PDF">Ċ</span>
+</td>
+<td class="td-file"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:5a8cd8b577bee93e" aria-hidden="true">ReadingMaterial_07_빅데이터_분석의_국내외_활용_현황.pdf</span><br /><SPAN style="word-spacing: 3px;"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=d2VibWFpbC55ZC5hYy5rcnxsZWVob2pvb258Z3g6NWE4Y2Q4YjU3N2JlZTkzZQ" rel="nofollow" dir="ltr" target="_blank">보기</a> <a href="/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo/ReadingMaterial_07_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D%EC%9D%98_%EA%B5%AD%EB%82%B4%EC%99%B8_%ED%99%9C%EC%9A%A9_%ED%98%84%ED%99%A9.pdf?attredirects=0&amp;d=1" rel="nofollow" dir="ltr" target="_blank">다운로드</a></SPAN></td>
+<td class="td-desc filecabinet-desc" tabindex="0" dir=""> </td>
+<td class="td-size" data-val="1357007">1325k</td>
+<td class="td-rev" data-val="1">버전 1  </td>
+<td class="td-time" data-val="1504069699636">
+<span dir="ltr">2017. 8. 29. 오후 10:08</span>
+</td>
+<td class="td-user">이호준</td>
+</tr></tbody>
+</table>
+</div>
+</div>
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-subpages"> </div>
+<div id="sites-attachments-container">
+</div>
+<a xmlns="http://www.w3.org/1999/xhtml" name="page-comments"></a>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-comments"><div class="sites-comment-docos-wrapper"><div class="sites-comment-docos"><div class="sites-comment-docos-background"></div><div class="sites-comment-docos-header"><div class="sites-comment-docos-header-title">Comments</div></div><div id="sites-comment-docos-pane" class="sites-comment-docos-pane"></div></div></div></div>
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter" role="navigation"><p><a class="sites-system-link" href="https://accounts.google.com/ServiceLogin?continue=https://sites.google.com/a/webmail.yd.ac.kr/leehojoon/2017nyeon-2haggi-gang-ui-jalyosil/bigdeiteo&amp;service=jotspot">Sign in</a><span aria-hidden="true">|</span><a class="sites-system-link" href="/a/webmail.yd.ac.kr/leehojoon/system/app/pages/recentChanges">Recent Site Activity</a><span aria-hidden="true">|</span><a class="sites-system-link" href="https://sites.google.com/a/webmail.yd.ac.kr/leehojoon/system/app/pages/reportAbuse" target="_blank">Report Abuse</a><span aria-hidden="true">|</span><a class="sites-system-link" href="javascript:;" onclick="window.open(webspace.printUrl)">Print Page</a><span aria-hidden="true">|</span><span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com/site">Google Sites</a></b></p></div>
+</div>
+</div> 
+</div> 
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="https://ssl.gstatic.com/sites/p/b16caf/system/js/jot_min_filecabinet_view__ko.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+                JOT_postEvent('moduleLoad');
+              </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+                    sites.Searchbox.initialize(
+                        'sites-searchbox-search-button',
+                        {"object":[]}['object'],
+                        'search-site',
+                        {"label":"\uac80\uc0c9 \uc635\uc158 \uc124\uc815...","url":"/a/webmail.yd.ac.kr/leehojoon/system/app/pages/admin/settings"});
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("2bd", "강의자료실", false);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_2bd');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+              new sites.CommentPane('//docs.google.com/comments/d/AAHRpnXu3ofgkY2-g8LTeUsG_1nLA6WSqoIx07wjAa72mY4v-HquIvrMrzlQDo28lzLTmHvUocHivFtQXWx2LLHQF7vwLPNJyeQ_z6NDl6quhvyvmMByZFsX-DRIGaf-HHT3x4G3vIuwM/api/js?anon=true',
+                  false, false);
+            </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+  setTimeout(function() {
+    var fingerprint = gsites.date.TimeZone.getFingerprint([1109635200000, 1128902400000, 1130657000000, 1143333000000, 1143806400000, 1145000000000, 1146380000000, 1152489600000, 1159800000000, 1159500000000, 1162095000000, 1162075000000, 1162105500000]);
+    gsites.Xhr.send('https://sites.google.com/a/webmail.yd.ac.kr/leehojoon/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+  }, 500);
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'https://gg.google.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false,
+            false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "ko");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+        JOT_insertTranslateCode('en', 'ko');
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+  //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+          JOT_setupPostRenderingManager();
+        </script>
+<script type="text/javascript">
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+        </script>
+<script type="text/javascript">
+          sites.codeembed.init();
+        </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script type="text/javascript">
+          window.jstiming.load.tick('render');
+          JOT_postEvent('usercontentrendered', this);
+        </script>
+</body>
+</html>
