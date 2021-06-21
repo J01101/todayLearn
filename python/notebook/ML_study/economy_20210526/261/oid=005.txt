@@ -1,0 +1,83 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/050/2021/05/26/0000057516_001_20210526170902075.jpg?type=w647" alt="" /></span>LG전자가 국내 가전회사 가운데 처음으로 무인매장을 운영한다.<br><br>26일 LG전자에 따르면, LG전자가 야간 시간대에 무인매장으로 운영하는 LG베스트샵은 서울 강서본점, 금천본점, 봉천점, 불광본점, 쌍문본점, 서초본점 등 서울 지역의 6개 매장을 포함해 인천 부평구청점, 경기 일산본점, 부산 사상본점 등 총 9곳이다.<br><br>무인매장은 직원들이 퇴근한 이후인 오후 8시 30분부터 자정까지 평일은 물론 주말에도 동일하게 운영된다.<br><br>LG전자는 비대면 상담과 무인매장에 대한 고객들의 니즈가 높아지는 트렌드를 반영해 이 같은 무인매장 운영을 결정했다고 밝혔다.<br><br>고객은 매장 입구에서 QR코드를 스캔해 본인 인증을 거친 후 매장에 들어올 수 있다. 이후 매장 안에서 자유롭게 제품을 체험할 수 있다. 제품에 대한 상세정보가 필요하면 매장 내 여러 곳에 설치된 키오스크를 이용하거나 스마트폰으로 LG전자 홈페이지 또는 모바일앱 &lsquo;LGE.COM&rsquo; 에 접속해 최적화된 화면에서 검색할 수 있다.<br><br>고객이 각 매장의 카카오톡 채널에서 일대일 상담 메뉴를 통해 제품 정보, 매장 이용방법 등을 문의하면 바로 알려준다. 또 직원과의 대면 상담이 필요한 고객은 키오스크에서 상담을 예약하면 직원이 근무하는 시간에 다시 방문해 상담을 받을 수 있다.<br><br>무인매장은 매장에서 대면 상담을 받았던 고객이 구매 결정을 앞두고 제품을 한 번 더 보고 싶을 때에도 유용하다.<br><br>이번에 무인매장을 본격적으로 도입하기 전에 한 매장에서 야간 무인매장을 시범 운영한 결과, 고객들은 &ldquo;부담 없이 편하게 여러 번 방문할 수 있어서 좋다&rdquo;, &ldquo;구입할 제품이 아닌 다른 제품도 편하게 체험했다&rdquo;, &ldquo;제품을 충분히 체험하니 구매 의향이 높아졌다&rdquo; 등 긍정적인 평가를 내렸다.<br><br>LG전자는 고객의 반응과 운영 결과 등을 다각도로 분석해 향후 무인매장과 운영시간을 늘릴 계획이다.<br><br>오승진 LG전자 한국영업본부 한국전략담당은 &ldquo;언택트 경험을 선호하는 고객의 니즈에 발 빠르게 대응해 대면 상담 없이 편리하게 쇼핑할 수 있도록 무인매장을 런칭했다&rdquo;며 &ldquo;고객이 새로운 경험을 하며 LG전자 제품과 매장에 보다 친숙하게 접근할 수 있는 계기가 될 것&rdquo;이라고 말했다.<br><br>정채희 기자 <a href="mailto:poof34@hankyung.com">poof34@hankyung.com</a><br><br>▶ <a href="https://bit.ly/3wamHVB" target="_blank">한경비즈니스 네이버 뉴스에서 [구독 클릭]</a><br>▶ <a href="https://magazine.hankyung.com/apps/member?mode=subscription" target="_blank">잡지 정기구독 신청</a><br>▶ <a href="https://bit.ly/3yDTCnH" target="_blank">미래가 궁금하다면? &lt;한경무크 3종&gt;을 확인하세요. </a> <br><br>ⓒ 한경비즈니스, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/629/2021/05/26/202170871622008029_20210527104207181.jpg?type=w647" alt="" /><em class="img_desc">26일 업계에 따르면 창원지방법원은 지난 20일 정규직과 계약직 간 임금차별은 부당하다는 판결을 내렸다. 사진은 서울 시내 한 아파트 공사 현장 전경. /이재빈 기자</em></span><br><br><strong>"임금과 복지 처우, 정규직과 동일해야"</strong><br><br>[더팩트｜이재빈 기자] 건설 현장 계약직 근로자에게 임금을 차별하는 것은 부당하다는 법원의 판결이 나왔다. 기술자격수당도 통상임금에 포함시켜야 한다는 주장도 받아들여졌다. 업계에서는 이번 판결이 대부분의 건설사에 영향을 미칠 것으로 보고 있다.<br><br>26일 건설업계에 따르면 창원지방법원 제5민사부는 지난 20일 한 대형건설사 노조 조합원이 회사를 상대로 제기한 임금청구소송에서 원고 부분 승소 판결을 내렸다. 앞서 노조는 2019년 7월 계약직과 정규직 간 임금차별 시정과 기술자격수당 통상임금 인정 등을 주장하며 창원지법에 차별 시정 및 통상임금 청구 소송을 접수했다.<br><br>이날 법원이 원고 부분 승소 판결을 내림에 따라 계약직 근로자는 그간 정규직과 차별받던 임금 격차분을 모두 지급받게 됐다.<br><br>노조 관계자는 "법원은 무기계약직에 대해 따로 마련된 취업규칙이 없다면 정규직에 대한 취업규칙을 적용해 임금과 복지에 대한 처우를 정규직과 똑같이 적용하라는 주문을 냈다"며 "그간 계약직은 똑같은 업무를 수행함에도 정규직에 비해 적은 임금을 받아왔다. 이번 판결로 동일노동 동일임금 원칙이 바로서게 됐다"고 설명했다.<br><br>아울러 법원은 기술자격수당을 통상임금으로 인정하기로 했다. 그간 대부분의 건설사는 건축사·기술사·안전·산업위생관리 등을 소지한 근로자에게 매월 기술자격수당을 지급해 왔다. 하지만 통상임금에서는 기술자격수당을 제외해 연차수당이나 시간외수당, 퇴직금 책정 시에는 기술자격수당이 반영되지 않았다. 이날 법원은 기술자격수당을 '정기적, 일률적, 고정적으로 소정근로에 대해 지급되는 금액'으로 판단했다.<br><br>법원이 노조의 손을 들어줌에 따라 각 건설사는 인력·임금체계 재정비를 고심해야 하는 상황이다. 건설업계는 그간 프로젝트 계약직(PJT)에 대한 취업규칙이 따로 없다는 점을 이용해 상대적으로 더 적은 임금을 제공해 왔다. 하지만 2017년 PJT를 계약직이 아닌 무기계약직으로 봐야 한다는 대법원 판결이 나온 데 이어 임금차별도 시정해야 한다는 판결이 나온 만큼 PJT 처우 개선에 착수할 전망이다.<br><br>홍순관 건설기업노조 위원장은 "규모있는 상위권 건설사가 노동자 권리를 존중해야 부실시공 없고 안전한 건설현장을 만들 수 있따"며 "급증하고 있는 PJT의 부당한 차별을 시정해 나가겠다"고 말했다.<br><br>fuego@tf.co.kr<br><br><br><br><a href="http://fannstar.tf.co.kr/event/view/fanbership20092109" target="_blank"> - BTS 공연 비하인드 사진 얻는 방법? [팬버십 가입하기▶]  </a><br><a href="http://fannstar.tf.co.kr/" target="_blank"> - 내 아이돌 순위는 내가 정한다! [팬앤스타 투표하기] </a><br><br>저작권자 ⓒ 특종에 강한 더팩트 & tf.co.kr 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005373275_001_20210526111204660.jpg?type=w647" alt="" /></span><br>(인천=뉴스1) 정진욱 기자 = 박남춘 인천시장 26일 인천시 연수구 바이오 의약품 생산 기업 삼성바이오로직스에서 열린 더불어민주당 최고위원회의에서 발언하고 있다. 2021.5.26/뉴스1<br><br>gamja@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

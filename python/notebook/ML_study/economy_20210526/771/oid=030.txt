@@ -1,0 +1,265 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">중기중앙회-고용부 뿌리·조선업계 '주52시간제 설명회'<br>'도입 연기' '특별연장근로기간 확대' 한목소리<br>조선기자재업 "납기 지연에 수주 타격입을 수도…"</strong>중소기업계가 오는 7월 50인 미만 기업에 확대 시행되는 주52시간 근로제에 대해 ‘도입 연기’와 ‘특별연장근로 기간 확대’를 촉구했다.<br><br>26일 중소기업중앙회와 고용노동부가 제조업의 근간인 뿌리업계와 조선업계를 대상으로 주52시간제 설명회를 연 가운데 중소기업인들은 “현실과 맞지 않는 법”이라며 “지키기 어렵다”는 목소리를 냈다.<br><br>양옥석 중기중앙회 인력정책실장은 “주물 열처리 단조 등 전국 3만여 개 뿌리기업 중 상당수는 업종 특성상 공장을 24시간 가동해야 하기 때문에 주52시간제를 지키기 어려운 사례가 많다”고 말했다. 이종길 한국금속열처리공업협동조합 전무는 “주52시간제를 지키려면 인력을 더 고용해야 하는데 국내 수급이 어렵고 코로나 사태로 외국인 입국도 안되고 있다”며 “제도 시행을 연기해야 한다”고 지적했다.<br><br>조선업계에선 한 번에 4주씩 1년에 90일로 한정된 특별연장근로 기간을 늘려야 한다고 호소했다. 조선업계 관계자는 “이어지는 수주로 업무량이 폭증해 장기간 연장근로가 불가피하다”며 “기후에 영향을 받는 야외작업도 빈번해 주52시간제에 타격이 큰데 사람도 많이 부족하다”고 말했다. 그는 “주52시간제 때문에 납기가 지연되면 향후 조선업계의 해외 수주 활동에도 지장을 줄 수 있다”고 지적했다. <br><br>또 다른 조선업계 관계자는 "공무원들은 급여가 계속 오르셨겠지만 주52시간제 때문에 조선업계 협력사 임금은 10년 전 수준으로 퇴보했다"고 지적했다. 그는 "주52시간 불만은 경영자만 있는 것이 아니다. 근로자도 상당하다"며 "근무 마치고 야간에 아르바이트하는 사례도 많다"고 했다.<br><br>이날 실시간 유튜브 생중계로 진행된 행사에선 중소기업에 종사하는 네티즌들이 쓴소리를 이어갔다. 한 네티즌은 "특별연장근로를 신청하는 전제 조건이 너무 틀에 박혀 있어 한달 앞을 못보는 중소기업의 현실을 너무 모르는 것 아닌가 싶다"고 했다. 또 다른 네티즌은 "주52시간 근무시 최저시급으로 계산하면 4주 일하고 200만원도 못 벌어간다"며 "세금떼고 보험료떼고 나면그걸로 어떻게 먹고사나"라고 지적했다.<br><br>고용부 관계자는 "오늘 바쁜일이 많은데도 이런 자리를 마련했는 데 마음이 무겁다"며 "주52시간제가 안착되도록 협조해달라"고 말했다.<br><br><span style="font-family: 한경본문고딕, ">안대규 기자 powerzanic@hankyung.com</span><br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0017494139_web_20210526162959_20210526163109935.jpg?type=w647" alt="" /></span><br><br>[광주=뉴시스]이창우 기자= 26일 오후 광주 서구 KDB생명빌딩 16층 광주 창조경제혁신센터에서 '호남권 엔젤투자허브' 운영본부 개소식이 열렸다. 이날 '엔절투자허브' 초대 위원장으로 선임된 조덕선 SRB(사랑방)미디어 회장(앞줄 가운데)을 비롯한 윤종욱 전북 지방중소벤처기업청 청장, 김채광 한국엔젤투자협회 부회장 등 관계자들이 성공을 염원하는 퍼포먼스를 하고 있다. (사진=한국엔젤투자협회 제공) 2021.05.26. photo@newsis.com<br><br> *재판매 및 DB 금지<br><br><strong>[사진 영상 제보받습니다]</strong> 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스 가치나 화제성이 있다고 판단되는 사진 또는 영상을 뉴시스 사진영상부(n-photo@newsis.com)로 보내주시면 적극 반영하겠습니다.<br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0017494139_web_20210526162959_20210526163109935.jpg?type=w647" alt="" /></span><br><br>[광주=뉴시스]이창우 기자= 26일 오후 광주 서구 KDB생명빌딩 16층 광주 창조경제혁신센터에서 '호남권 엔젤투자허브' 운영본부 개소식이 열렸다. 이날 '엔절투자허브' 초대 위원장으로 선임된 조덕선 SRB(사랑방)미디어 회장(앞줄 가운데)을 비롯한 윤종욱 전북 지방중소벤처기업청 청장, 김채광 한국엔젤투자협회 부회장 등 관계자들이 성공을 염원하는 퍼포먼스를 하고 있다. (사진=한국엔젤투자협회 제공) 2021.05.26. photo@newsis.com<br><br> *재판매 및 DB 금지<br><br><strong>[사진 영상 제보받습니다]</strong> 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스 가치나 화제성이 있다고 판단되는 사진 또는 영상을 뉴시스 사진영상부(n-photo@newsis.com)로 보내주시면 적극 반영하겠습니다.<br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 최태범 기자] <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592759_001_20210526152401279.jpg?type=w647" alt="" /></span>크로스보더(국경초월) 핀테크 스타트업 아이씨비가 기업 간 무역대금 해외송금 서비스 &#039;디벙크비탁스&#039;를 출시했다고 26일 밝혔다. <br><br>이 서비스는 무역대금을 원화로 정산하고 환리스크와 송금 수수료가 없어 기업의 편의성을 높였다. 아이씨비 관계자는 &quot;개인 해외 송금 서비스 디벙크에 이어 송금 대상을 기업으로 확장하기 위해 엑스트랜스퍼와 파트너십을 맺었다&quot;고 했다. <br><br>엑스트랜스퍼는 중국 상해를 기반으로 한 해외 크로스보더 무역금융 솔루션 기업이다. 디벙크비탁스는 중국 관련 사업을 하는 한국 수입기업이 사용할 수 있다. 중국의 수출기업에 원화 계좌를 제공해 한국 수입기업은 무역대금을 원화로 입금 가능하다. <br><br>한국 수입기업은 무역대금 지급 시 환리스크와 송금 수수료에 대한 부담이 없다. 중국 수출기업은 원하는 시점에 우대 환율로 실시간 환전할 수 있어 기존 시스템으로 송금할 시 발생하는 국내·해외 은행 송금 수수료, 전신료, 환 손실 비용을 줄일 수 있다. <br><br>예를 들어 연간 중국 무역 거래액이 100억원인 기업의 경우 1회 1억원 기준 기존 시스템에서 송금할 때 국내·해외 은행 송금 수수료, 전신료, 환 손실 등 여러 단계에 걸쳐 발생하는 약 2000만원의 비용을 줄일 수 있다. <br><br>이한용 아이씨비 대표는 &quot;지난해 주요 국가 수입 규모를 보면 중국 시장이 약 120조로 기업 해외송금 시장도 가장 크다&quot;며 &quot;환리스크와 송금 수수료가 없는 디벙크비탁스가 대중 무역거래 활성화에 기여할 것으로 기대된다&quot;고 했다. <br><br><!--article_split-->최태범 기자 bum_t@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 최태범 기자] <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592759_001_20210526152401279.jpg?type=w647" alt="" /></span>크로스보더(국경초월) 핀테크 스타트업 아이씨비가 기업 간 무역대금 해외송금 서비스 &#039;디벙크비탁스&#039;를 출시했다고 26일 밝혔다. <br><br>이 서비스는 무역대금을 원화로 정산하고 환리스크와 송금 수수료가 없어 기업의 편의성을 높였다. 아이씨비 관계자는 &quot;개인 해외 송금 서비스 디벙크에 이어 송금 대상을 기업으로 확장하기 위해 엑스트랜스퍼와 파트너십을 맺었다&quot;고 했다. <br><br>엑스트랜스퍼는 중국 상해를 기반으로 한 해외 크로스보더 무역금융 솔루션 기업이다. 디벙크비탁스는 중국 관련 사업을 하는 한국 수입기업이 사용할 수 있다. 중국의 수출기업에 원화 계좌를 제공해 한국 수입기업은 무역대금을 원화로 입금 가능하다. <br><br>한국 수입기업은 무역대금 지급 시 환리스크와 송금 수수료에 대한 부담이 없다. 중국 수출기업은 원하는 시점에 우대 환율로 실시간 환전할 수 있어 기존 시스템으로 송금할 시 발생하는 국내·해외 은행 송금 수수료, 전신료, 환 손실 비용을 줄일 수 있다. <br><br>예를 들어 연간 중국 무역 거래액이 100억원인 기업의 경우 1회 1억원 기준 기존 시스템에서 송금할 때 국내·해외 은행 송금 수수료, 전신료, 환 손실 등 여러 단계에 걸쳐 발생하는 약 2000만원의 비용을 줄일 수 있다. <br><br>이한용 아이씨비 대표는 &quot;지난해 주요 국가 수입 규모를 보면 중국 시장이 약 120조로 기업 해외송금 시장도 가장 크다&quot;며 &quot;환리스크와 송금 수수료가 없는 디벙크비탁스가 대중 무역거래 활성화에 기여할 것으로 기대된다&quot;고 했다. <br><br><!--article_split-->최태범 기자 bum_t@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 최태범 기자] <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592759_001_20210526152401279.jpg?type=w647" alt="" /></span>크로스보더(국경초월) 핀테크 스타트업 아이씨비가 기업 간 무역대금 해외송금 서비스 &#039;디벙크비탁스&#039;를 출시했다고 26일 밝혔다. <br><br>이 서비스는 무역대금을 원화로 정산하고 환리스크와 송금 수수료가 없어 기업의 편의성을 높였다. 아이씨비 관계자는 &quot;개인 해외 송금 서비스 디벙크에 이어 송금 대상을 기업으로 확장하기 위해 엑스트랜스퍼와 파트너십을 맺었다&quot;고 했다. <br><br>엑스트랜스퍼는 중국 상해를 기반으로 한 해외 크로스보더 무역금융 솔루션 기업이다. 디벙크비탁스는 중국 관련 사업을 하는 한국 수입기업이 사용할 수 있다. 중국의 수출기업에 원화 계좌를 제공해 한국 수입기업은 무역대금을 원화로 입금 가능하다. <br><br>한국 수입기업은 무역대금 지급 시 환리스크와 송금 수수료에 대한 부담이 없다. 중국 수출기업은 원하는 시점에 우대 환율로 실시간 환전할 수 있어 기존 시스템으로 송금할 시 발생하는 국내·해외 은행 송금 수수료, 전신료, 환 손실 비용을 줄일 수 있다. <br><br>예를 들어 연간 중국 무역 거래액이 100억원인 기업의 경우 1회 1억원 기준 기존 시스템에서 송금할 때 국내·해외 은행 송금 수수료, 전신료, 환 손실 등 여러 단계에 걸쳐 발생하는 약 2000만원의 비용을 줄일 수 있다. <br><br>이한용 아이씨비 대표는 &quot;지난해 주요 국가 수입 규모를 보면 중국 시장이 약 120조로 기업 해외송금 시장도 가장 크다&quot;며 &quot;환리스크와 송금 수수료가 없는 디벙크비탁스가 대중 무역거래 활성화에 기여할 것으로 기대된다&quot;고 했다. <br><br><!--article_split-->최태범 기자 bum_t@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	 <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/014/2021/05/26/0004645609_001_20210526140904800.jpg?type=w647" alt="" /><em class="img_desc">‘트리플케어 식기세척기’. SK매직 제공.</em></span>  <br>[파이낸셜뉴스]SK매직이 ‘트리플케어 식기세척기’의 기능과 성능을 대폭 강화한 ‘2021년형 트리플케어 식기세척기’를 출시했다고 26일 밝혔다.  <br>  <br>카운터탑 형태의 트리플케어 식기세척기는 국내 최초 식기 세척 기능을 넘어, 건조와 보관까지 가능한 제품으로 각종 유해균 및 바이러스를 99.999% 살균 세척하는 신개념 식기세척기다. 고온고압의 물살이 사각지대 없이 세척하는 것은 물론 건조와 보관 기능을 높여 국내 최초 단독 건조가 가능하다.  <br>  <br>‘CES 혁신상(Innovation Award)’을 비롯해 세계 3대 디자인 어워드인 ‘레드닷 디자인 어워드'와 iF’에서 본상을 수상했다. '2020 IDEA 디자인어워드'에서 식기세척기로는 세계 최초로 최고상인 '금상(GOLD)'을 수상하며 기술력과 디자인 경쟁력을 국제적으로 인정받은 제품이기도 하다.  <br>  <br>SK매직은 이번 신모델에 성능 개선과 함께 동급사양으로는 국내 최초로 모터 10년 무상보증을 실시하는 등 식기세척기 시장 1위로써 기술력에 대한 강한 자신감을 드러냈다. 먼저 SK매직은 식기세척기 핵심 부품인 BLDC(Brushless DC) 모터의 성능을 10년 보증하고, 모터로 인해 고장 발생 시, 무상으로 모터를 수리 또는 교체해준다.  <br>  <br>최영은 SK매직 식기세척기 담당PM은 “품질 개선은 물론 사용자 만족도를 높이기 위해 기존 사용 고객의 의견을 적극 반영한 21년형 업그레이드 모델을 선보이게 됐다”며, “앞으로도 고객의 '페인 포인트(불편함을 느끼는 지점)'를 해결하기 위한 혁신적인 제품과 서비스를 선보일 수 있도록 고객의 목소리에 더욱 더 귀 기울일 것”이라고 말했다.  <br><br><span id="customByline">junjun@fnnews.com 최용준 기자</span>  <br>  <br> <strong><a target="_blank" href="https://www.fnnews.com/pineapple.html?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=pineapple"><u>▶ 날로먹고 구워먹는 금융이슈 [파인애플]</u></a><br><a target="_blank" href="https://www.fnnews.com/moasis?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=moasis"><u>▶ 모(毛)아 모아 [모아시스]</u></a><br><a target="_blank" href="https://hugs.fnnews.com/home?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=hugslink"><u>▶ 헉! 소리나는 스!토리 뉴스 [헉스]</u></a></strong> <br> <br>※ 저작권자 ⓒ 파이낸셜뉴스. 무단 전재-재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	 <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/014/2021/05/26/0004645609_001_20210526140904800.jpg?type=w647" alt="" /><em class="img_desc">‘트리플케어 식기세척기’. SK매직 제공.</em></span>  <br>[파이낸셜뉴스]SK매직이 ‘트리플케어 식기세척기’의 기능과 성능을 대폭 강화한 ‘2021년형 트리플케어 식기세척기’를 출시했다고 26일 밝혔다.  <br>  <br>카운터탑 형태의 트리플케어 식기세척기는 국내 최초 식기 세척 기능을 넘어, 건조와 보관까지 가능한 제품으로 각종 유해균 및 바이러스를 99.999% 살균 세척하는 신개념 식기세척기다. 고온고압의 물살이 사각지대 없이 세척하는 것은 물론 건조와 보관 기능을 높여 국내 최초 단독 건조가 가능하다.  <br>  <br>‘CES 혁신상(Innovation Award)’을 비롯해 세계 3대 디자인 어워드인 ‘레드닷 디자인 어워드'와 iF’에서 본상을 수상했다. '2020 IDEA 디자인어워드'에서 식기세척기로는 세계 최초로 최고상인 '금상(GOLD)'을 수상하며 기술력과 디자인 경쟁력을 국제적으로 인정받은 제품이기도 하다.  <br>  <br>SK매직은 이번 신모델에 성능 개선과 함께 동급사양으로는 국내 최초로 모터 10년 무상보증을 실시하는 등 식기세척기 시장 1위로써 기술력에 대한 강한 자신감을 드러냈다. 먼저 SK매직은 식기세척기 핵심 부품인 BLDC(Brushless DC) 모터의 성능을 10년 보증하고, 모터로 인해 고장 발생 시, 무상으로 모터를 수리 또는 교체해준다.  <br>  <br>최영은 SK매직 식기세척기 담당PM은 “품질 개선은 물론 사용자 만족도를 높이기 위해 기존 사용 고객의 의견을 적극 반영한 21년형 업그레이드 모델을 선보이게 됐다”며, “앞으로도 고객의 '페인 포인트(불편함을 느끼는 지점)'를 해결하기 위한 혁신적인 제품과 서비스를 선보일 수 있도록 고객의 목소리에 더욱 더 귀 기울일 것”이라고 말했다.  <br><br><span id="customByline">junjun@fnnews.com 최용준 기자</span>  <br>  <br> <strong><a target="_blank" href="https://www.fnnews.com/pineapple.html?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=pineapple"><u>▶ 날로먹고 구워먹는 금융이슈 [파인애플]</u></a><br><a target="_blank" href="https://www.fnnews.com/moasis?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=moasis"><u>▶ 모(毛)아 모아 [모아시스]</u></a><br><a target="_blank" href="https://hugs.fnnews.com/home?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=hugslink"><u>▶ 헉! 소리나는 스!토리 뉴스 [헉스]</u></a></strong> <br> <br>※ 저작권자 ⓒ 파이낸셜뉴스. 무단 전재-재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	 <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/014/2021/05/26/0004645609_001_20210526140904800.jpg?type=w647" alt="" /><em class="img_desc">‘트리플케어 식기세척기’. SK매직 제공.</em></span>  <br>[파이낸셜뉴스]SK매직이 ‘트리플케어 식기세척기’의 기능과 성능을 대폭 강화한 ‘2021년형 트리플케어 식기세척기’를 출시했다고 26일 밝혔다.  <br>  <br>카운터탑 형태의 트리플케어 식기세척기는 국내 최초 식기 세척 기능을 넘어, 건조와 보관까지 가능한 제품으로 각종 유해균 및 바이러스를 99.999% 살균 세척하는 신개념 식기세척기다. 고온고압의 물살이 사각지대 없이 세척하는 것은 물론 건조와 보관 기능을 높여 국내 최초 단독 건조가 가능하다.  <br>  <br>‘CES 혁신상(Innovation Award)’을 비롯해 세계 3대 디자인 어워드인 ‘레드닷 디자인 어워드'와 iF’에서 본상을 수상했다. '2020 IDEA 디자인어워드'에서 식기세척기로는 세계 최초로 최고상인 '금상(GOLD)'을 수상하며 기술력과 디자인 경쟁력을 국제적으로 인정받은 제품이기도 하다.  <br>  <br>SK매직은 이번 신모델에 성능 개선과 함께 동급사양으로는 국내 최초로 모터 10년 무상보증을 실시하는 등 식기세척기 시장 1위로써 기술력에 대한 강한 자신감을 드러냈다. 먼저 SK매직은 식기세척기 핵심 부품인 BLDC(Brushless DC) 모터의 성능을 10년 보증하고, 모터로 인해 고장 발생 시, 무상으로 모터를 수리 또는 교체해준다.  <br>  <br>최영은 SK매직 식기세척기 담당PM은 “품질 개선은 물론 사용자 만족도를 높이기 위해 기존 사용 고객의 의견을 적극 반영한 21년형 업그레이드 모델을 선보이게 됐다”며, “앞으로도 고객의 '페인 포인트(불편함을 느끼는 지점)'를 해결하기 위한 혁신적인 제품과 서비스를 선보일 수 있도록 고객의 목소리에 더욱 더 귀 기울일 것”이라고 말했다.  <br><br><span id="customByline">junjun@fnnews.com 최용준 기자</span>  <br>  <br> <strong><a target="_blank" href="https://www.fnnews.com/pineapple.html?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=pineapple"><u>▶ 날로먹고 구워먹는 금융이슈 [파인애플]</u></a><br><a target="_blank" href="https://www.fnnews.com/moasis?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=moasis"><u>▶ 모(毛)아 모아 [모아시스]</u></a><br><a target="_blank" href="https://hugs.fnnews.com/home?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=hugslink"><u>▶ 헉! 소리나는 스!토리 뉴스 [헉스]</u></a></strong> <br> <br>※ 저작권자 ⓒ 파이낸셜뉴스. 무단 전재-재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	 <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/014/2021/05/26/0004645609_001_20210526140904800.jpg?type=w647" alt="" /><em class="img_desc">‘트리플케어 식기세척기’. SK매직 제공.</em></span>  <br>[파이낸셜뉴스]SK매직이 ‘트리플케어 식기세척기’의 기능과 성능을 대폭 강화한 ‘2021년형 트리플케어 식기세척기’를 출시했다고 26일 밝혔다.  <br>  <br>카운터탑 형태의 트리플케어 식기세척기는 국내 최초 식기 세척 기능을 넘어, 건조와 보관까지 가능한 제품으로 각종 유해균 및 바이러스를 99.999% 살균 세척하는 신개념 식기세척기다. 고온고압의 물살이 사각지대 없이 세척하는 것은 물론 건조와 보관 기능을 높여 국내 최초 단독 건조가 가능하다.  <br>  <br>‘CES 혁신상(Innovation Award)’을 비롯해 세계 3대 디자인 어워드인 ‘레드닷 디자인 어워드'와 iF’에서 본상을 수상했다. '2020 IDEA 디자인어워드'에서 식기세척기로는 세계 최초로 최고상인 '금상(GOLD)'을 수상하며 기술력과 디자인 경쟁력을 국제적으로 인정받은 제품이기도 하다.  <br>  <br>SK매직은 이번 신모델에 성능 개선과 함께 동급사양으로는 국내 최초로 모터 10년 무상보증을 실시하는 등 식기세척기 시장 1위로써 기술력에 대한 강한 자신감을 드러냈다. 먼저 SK매직은 식기세척기 핵심 부품인 BLDC(Brushless DC) 모터의 성능을 10년 보증하고, 모터로 인해 고장 발생 시, 무상으로 모터를 수리 또는 교체해준다.  <br>  <br>최영은 SK매직 식기세척기 담당PM은 “품질 개선은 물론 사용자 만족도를 높이기 위해 기존 사용 고객의 의견을 적극 반영한 21년형 업그레이드 모델을 선보이게 됐다”며, “앞으로도 고객의 '페인 포인트(불편함을 느끼는 지점)'를 해결하기 위한 혁신적인 제품과 서비스를 선보일 수 있도록 고객의 목소리에 더욱 더 귀 기울일 것”이라고 말했다.  <br><br><span id="customByline">junjun@fnnews.com 최용준 기자</span>  <br>  <br> <strong><a target="_blank" href="https://www.fnnews.com/pineapple.html?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=pineapple"><u>▶ 날로먹고 구워먹는 금융이슈 [파인애플]</u></a><br><a target="_blank" href="https://www.fnnews.com/moasis?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=moasis"><u>▶ 모(毛)아 모아 [모아시스]</u></a><br><a target="_blank" href="https://hugs.fnnews.com/home?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=hugslink"><u>▶ 헉! 소리나는 스!토리 뉴스 [헉스]</u></a></strong> <br> <br>※ 저작권자 ⓒ 파이낸셜뉴스. 무단 전재-재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

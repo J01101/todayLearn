@@ -1,0 +1,769 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/082/2021/05/26/0001093865_001_20210526202302535.jpg?type=w647" alt="" /></span><div style="font-size:12px;">이상인 고용노동부 근로감독관이 뿌리·조선산업 주52시간제 도입 설명회에서 발언하고 있다. 중소기업중앙회 제공</div><br><br>뿌리·조선업계가 주 52시간제 도입을 앞두고 인력 구하기가 힘들어 사실상 인위적인 근로시간 조정이 어렵다고 밝혔다.<br><br>중소기업중앙회는 26일 오후 고용노동부·산업통상자원부와 공동으로 뿌리·조선산업 주52시간제 도입지원 설명회를 열었다.<br><br>이번 설명회에서는 고용노동부에 재직 중인 근로감독관이 직접 뿌리·조선업종에 맞는 교대제 개편방안, 유연근로제 활용방안 등을 실제 사례를 들어가며 상세히 안내했다.<br><br>이어 박종필 고용부 근로감독정책단장이 현장에 참석한 뿌리·조선업계 종사자들의 질의에 답변하고 애로를 청취하는 시간도 가졌다.<br><br>이종길 한국금속열처리공업협동조합 전무는 “뿌리산업은 24시간 내내 기계를 돌려야 해 주52시간제 준수를 위해서는 인력 충원을 통한 교대제 개편이 불가피하지만 국내 청장년층은 취업을 기피하고 외국인 근로자마저 입국이 중단되어 뾰족한 대응책이 없다”라고 어려움을 호소했다.<br><br>또 조선업계 참석자들은 공통적으로 “조선업은 기후에 영향을 받는 야외작업이 빈번해 유연근로제 도입을 위한 인위적인 근로시간 조정이 매우 어려우며 인력충원을 통해 대응하려 해도 추가 숙련인력을 구할 수가 없다”고 말했다.<br><br>또 조선업계측은 “4월 15일 확대경제장관회의에서 대통령께서 급증하는 수주 물량이 차질없이 소화될 수 있도록 조선산업 지원을 당부했는데 이를 위해서는 인력 수급이 어려운 도장·사상·족장 등 직종에 한해서라도 특별연장근로 인가기간 확대 등의 대응책을 마련해 주어야 한다”고 말했다.<br><br>도장은 선박 표면을 페인트칠을 하는 작업이며 사상은 선박 표면의 녹슨 부분을 기계로 제거하는 작업을 말한다. 또 족장은 선박 제작시 높은 곳에서 작업할 때 이를 위한 발판을 제작하는 작업이다.<br><br>이에 대해 이태희 중소기업중앙회 스마트일자리본부장은 “만성적인 인력난 등으로 주52시간제 준수가 버거운 뿌리와 조선 산업의 현실에 충분히 공감한다”며 “주52시간제가 부작용없이 현장에 안착될 수 있도록 애로사항을 토대로 개선 및 추가 지원방안에 대해서 고용노동부와 적극 협의해나가겠다”고 답했다.<br><br>이날 설명회는 온라인으로 실시간 생중계 했으며 영상은 중소기업중앙회 유투브 채널에서 다시 시청이 가능하다.<br><br>김덕준 기자 casiopea@busan.com<br><br><br><br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=082'>▶ 네이버에서 부산일보 구독하기 클릭!</a><br><a href='https://here.busan.com/bbs/login.php?urlencode=www.busan.com'>▶ 부산닷컴 회원가입. 회원 전환하면 부산일보 지면보기 무료이벤트</a><br><a href='http://www.busan.com'>▶ 부산일보 홈 바로가기</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/029/2021/05/26/0002676290_001_20210526192104027.jpg?type=w647" alt="" /><em class="img_desc">홍남기(왼쪽 네번째) 부총리가 26일 서울 혜화동 서울대병원 의학연구혁신센터에서 열린 '제10차 혁신성장 BIG3 추진회의'에 참석해 회의 시작에 앞서 참석자들과 함께 김효수 의생명연구원장으로부터 신약.의료기기 개발현황 설명을 듣고 있다. &lt;기획제정부 제공&gt;    </em></span>정부가 2023년부터 6년간 약 1조원을 투입해 '바이오 빅데이터 댐'을 구축한다.<br><br>26일 서울대학교병원에서 열린 '제10차 혁신성장 BIG3 추진 회의'에서 홍남기 부총리는 "바이오산업은 지속가능한 성장을 위한 신성장동력"이라며 "바이오 빅데이터 수집을 하는 '국가통합 바이오 댐'을 구축하겠다"며 이같이 밝혔다. <br><br>홍 부총리는 "데이터 기반 정밀의료가 바이오헬스 미래를 주도할 것으로 전망되면서 미국과 영국, 중국은 바이오 빅데이터 구축 활용을 위한 대규모 투자를 추진 중"이라며 "먼저 질환별 환자 40만명, 자발적 참여자 60만명 등 100만명 바이오 빅데이터를 수집하는 소위 '국가통합 바이오 댐'을 2028년까지 100% 구축할 것"이라고 말했다.<br><br>이어 "민감정보인 바이오 빅데이터의 원활하고 안전한 활용 등을 위해 빅데이터 표준화 및 품질관리를 위한 표준작업절차(SOP) 수립, 플랫폼 구축, 슈퍼컴퓨팅 기반 보안 분석환경 구축 등도 추진할 것"이라고 설명했다.<br><br>이날 회의에선 의료기기산업 육성전략이 논의됐다. 고령화 등에 따라 국내 의료기기산업은 빠르게 성장하고 있지만, 사용경험과 인지도 부족으로 시장진출에 한계가 있는 상항이다. 이에 정부는 2025년까지 세계시장 점유율 7위를 달성하기 위해 국내 의료기기 전략 분야 집중육성, 산업생태계 조성 등을 추진할 계획이다. <br><br>홍 부총리는 "국내 의료기기 활성화를 위해 병원부설 교육훈련센터 2개에 이어 광역형 센터 2개(수도권 1개, 비수도권 1개)를 추가로 구축하고 디지털 헬스 테스트베드 운영과 함께 혁신 의료기기 사용 의료기술은 건보 체계에 신속하게 포함할 것"이라며 "체외진단, 치과·영상진단 등 주력분야에 대해 범부처 전주기 연구개발(R&D)을 추진하고, 해외진출 지원을 위해 의료기기 국제인증지원센터를 구축할 것"이라고 설명했다. <br><br>이어 "신의료기술 평가 맞춤형 컨설팅을 시행하고, 신속 시장출시를 위한 허가·심사 특례개선, 의료기기산업 종합지원센터를 애로 해소의 허브로 활용할 계획이다"고 말했다. 또 "글로벌 백신허브 도약기반 구축을 위한 방안도 마련 중에 있고 조만간 발표할 것"이라고 덧붙였다.박재찬기자 jcpark@dt.co.kr <br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=029' target='_blank' >▶[ 네이버 메인에서 디지털타임스 구독 ]</a> / <a href='https://newsstand.naver.com/029' target='_blank' >▶[ 뉴스스탠드 구독 ]</a><br><a href='http://www.dt.co.kr/' target='_blank' >▶디지털타임스 홈페이지 바로가기</a><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552420_001_20210526190501379.jpg?type=w647" alt="" /></span>&#39;카카오톡 선물하기&#39; 등 모바일 상품권 서비스를 운영하는 1위 업체  쿠프마케팅이 매물로 나왔다.<br><br>26일 투자은행((IB) 업계에 따르면 쿠프마케팅의 최대 주주인 NH투자증권-IBK, 국내 사모펀드(PEF) 스틱인베스트먼트는 이 회사의 경영권을 포함한 지분을 매각하기로 하고, 마케팅 작업을 벌이고 있다. 매각주관사는 씨티글로벌마켓증권이다.<br><br>2005년 설립된 쿠프마케팅은 &#39;카카오톡 선물하기&#39; 서비스 등을 운영하는 것으로 유명한 모바일 상품권 플랫폼 업체다. 외식, 공연, 도서, 화장품 등 다양한 브랜드와 제휴해 실물 상품과 교환할 수 있는 모바일 상품권 시스템을 갖추고 있다. 2019년 기준 250개 브랜드와 제휴를 맺고 9200개의 상품을 판매하고 있다. 스타벅스, 투썸플레이스, 파리바게뜨, 맥도날드, 배스킨라빈스, 이마트 등 국내 중소 중견기업부터 대기업까지 제휴를 맺고 있다. <br><br>실물 상품을 넘어 보험 판매까지 영역을 확대했다. 2018년 인슈어테크 전문기업인 쿠프파이맵스를 설립해 지난해 말 부터 새롭게 보험 모바일 쿠폰 선물하기 서비스를 선보였다. 보험업은 전문성 확보가 중요한 영역이지만, 그간 쿠폰 선물하기 서비스를 통해 쌓은 노하우를 바탕으로 정식으로 서비스를 런칭하게 됐다. 쿠프마케팅은 보험을 시작으로 금융 영역까지 넘본다는 계획이다. 지난해 매출은 약 660억원,  영업손실 53억원을 기록했다.<br> <br>쿠프마케팅은 올해 들어 동남아 시장 공략에도 나선다. 이를 위해 최근 인도네시아 모바일 쿠폰업체 알드믹 테크놀로지 인도네시아의 경영권을 인수했다. 인도네시아는 인구 약 2억7000만명에 달하는 세계 4위의 인구 대국인데다, 젊은 인구가 많아 최근 모바일 쿠폰을 마케팅에 활용하는 기업이 증가해 관련 사업에 대한 수요도 커지고 있다.  알드믹 테크놀로지는 주로 기업 대상 모바일 쿠폰 유통과 솔루션을 개발·운영하는 대표적 업체다.  인도네시아 최대 담배 회사인 삼포르나(Sampoerna), 존슨앤존슨, 유니레버 등이 주요 거래처다.<br><br>스틱과 NH는 인수한 지 4년 만에 매각에 나선다. 스틱은 NH투자증권 PE본부와 공동으로 쿠프마케팅 지분 70%를 455억원에 최근 인수했다. <br><br>김채연 기자 why29@hankyung.com <br><br><strong style="color:inherit"><span style="color:#000080;">≪이 기사는 05월26일(18:01) 자본시장의 혜안 ‘</span><span style="color:#ff0000;">마켓인사이트</span><span style="color:#000080;">’에 게재된 기사입니다≫</span></strong><br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552420_001_20210526190501379.jpg?type=w647" alt="" /></span>&#39;카카오톡 선물하기&#39; 등 모바일 상품권 서비스를 운영하는 1위 업체  쿠프마케팅이 매물로 나왔다.<br><br>26일 투자은행((IB) 업계에 따르면 쿠프마케팅의 최대 주주인 NH투자증권-IBK, 국내 사모펀드(PEF) 스틱인베스트먼트는 이 회사의 경영권을 포함한 지분을 매각하기로 하고, 마케팅 작업을 벌이고 있다. 매각주관사는 씨티글로벌마켓증권이다.<br><br>2005년 설립된 쿠프마케팅은 &#39;카카오톡 선물하기&#39; 서비스 등을 운영하는 것으로 유명한 모바일 상품권 플랫폼 업체다. 외식, 공연, 도서, 화장품 등 다양한 브랜드와 제휴해 실물 상품과 교환할 수 있는 모바일 상품권 시스템을 갖추고 있다. 2019년 기준 250개 브랜드와 제휴를 맺고 9200개의 상품을 판매하고 있다. 스타벅스, 투썸플레이스, 파리바게뜨, 맥도날드, 배스킨라빈스, 이마트 등 국내 중소 중견기업부터 대기업까지 제휴를 맺고 있다. <br><br>실물 상품을 넘어 보험 판매까지 영역을 확대했다. 2018년 인슈어테크 전문기업인 쿠프파이맵스를 설립해 지난해 말 부터 새롭게 보험 모바일 쿠폰 선물하기 서비스를 선보였다. 보험업은 전문성 확보가 중요한 영역이지만, 그간 쿠폰 선물하기 서비스를 통해 쌓은 노하우를 바탕으로 정식으로 서비스를 런칭하게 됐다. 쿠프마케팅은 보험을 시작으로 금융 영역까지 넘본다는 계획이다. 지난해 매출은 약 660억원,  영업손실 53억원을 기록했다.<br> <br>쿠프마케팅은 올해 들어 동남아 시장 공략에도 나선다. 이를 위해 최근 인도네시아 모바일 쿠폰업체 알드믹 테크놀로지 인도네시아의 경영권을 인수했다. 인도네시아는 인구 약 2억7000만명에 달하는 세계 4위의 인구 대국인데다, 젊은 인구가 많아 최근 모바일 쿠폰을 마케팅에 활용하는 기업이 증가해 관련 사업에 대한 수요도 커지고 있다.  알드믹 테크놀로지는 주로 기업 대상 모바일 쿠폰 유통과 솔루션을 개발·운영하는 대표적 업체다.  인도네시아 최대 담배 회사인 삼포르나(Sampoerna), 존슨앤존슨, 유니레버 등이 주요 거래처다.<br><br>스틱과 NH는 인수한 지 4년 만에 매각에 나선다. 스틱은 NH투자증권 PE본부와 공동으로 쿠프마케팅 지분 70%를 455억원에 최근 인수했다. <br><br>김채연 기자 why29@hankyung.com <br><br><strong style="color:inherit"><span style="color:#000080;">≪이 기사는 05월26일(18:01) 자본시장의 혜안 ‘</span><span style="color:#ff0000;">마켓인사이트</span><span style="color:#000080;">’에 게재된 기사입니다≫</span></strong><br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+	<div class="vod_area">
+		<h4 class="blind">동영상 뉴스</h4>
+		<iframe _src="/main/readVod.nhn?oid=374&aid=0000245558" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe>
+	</div>
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong>■ 비즈포커스 - &#39;C레벨 라운지&#39;&nbsp;<br><br>◇ 경제외교 이끈 최태원&nbsp;</strong><br><br>첫 번째 인물은 최태원 SK 회장입니다.&nbsp;<br><br>최태원 회장은 문재인 대통령의 최근 미국 방문 기간동안 현지 유력 경제단체와 싱크탱크 리더 등을 잇달아 만나며 숨가쁘게 움직였습니다.<br><br>미국의 3대 경제단체 가운데 하나인 &#39;비즈니스 라운드 테이블(BRT)&#39;을 비롯해 IT 전문 단체인 정보통신산업협회(ITI), 미국의 유명 싱크탱크로 알려진 애틀랜틱 카운슬(Atlantic Council) 등 성사된 만남의 면면도 화려합니다.<br><br>지난 3월 대한상의 회장에 취임한 이후 첫 해외 출장이었던 만큼, 한국 경제를 세일즈하기 위해&nbsp;종횡무진 활약했는데요.<br><br>최 회장의 미국길에 동행한 삼성전자, 현대차, SK, LG 등 4대 그룹은 무려 44조 원에 달하는 대미 투자 계획을 내놓으며 한미 경제 협력에 힘을 실어줬습니다.<br><br>조 바이든 미국 대통령은 최 회장을 비롯해 우리 기업인들에게 직접 감사를 표했습니다.&nbsp;<br><br>[조 바이든 / 미국 대통령 : 삼성, 현대, SK, LG 여기 자리에 계신지 모르겠는데, 잠시 일어나 주시겠습니까? 매우 감사합니다. 우리는 함께 대단한 일을 할 겁니다.]<br><br>최 회장은 또 자신이 전도사를 자처하는 환경&middot;사회&middot;지배구조 이른바, ESG 경영을 강조하며 미국 경제계와의 협력을 다졌습니다.<br><br>그룹 회장으로서 갖고 있는 경영능력과 통찰력, 대한상의 회장으로서 갖고 있는 대미 네트워크를 통해 이끌어낸 한미 경제 협력이 어떤 결실을 맺을지 계속 지켜보겠습니다.&nbsp;<br><br><strong>◇ 2세 승계 단행 김상철&nbsp;</strong><br><br>저희가 꼽은 두 번째 인물은 김상철 한글과컴퓨터그룹 회장입니다.&nbsp;<br><br>국내 1세대 IT기업 중 한 곳인 한컴도 어느덧 2세 경영 채비를 서두르고 있습니다.&nbsp;<br><br>최근 오너 일가 지분에 큰 변동이 있었는데요.&nbsp;<br><br>김상철 회장과 아내 김정실 사내이사, 한컴 계열사 중 한 곳인 캐피탈 익스프레스가 각각 보유 중이던 한컴 주식 233만여 주가 큰 딸이 운영하는 회사로 넘어갔습니다.<br><br>김연수 한컴그룹 총괄부사장이 대표를 맡고 있는 다토즈와 이 회사가 새로 만든 HCIH를 통해 500억 원에 인수했습니다.&nbsp;<br><br>이로써 다토즈는 한컴 지분 9.4%를 인수하며 2대 주주가 됐습니다.<br><br>회사 측은 오너 지분 관계만 바뀌었을 뿐 경영진이 달라지는 건 아니라는 입장이지만 재계는 한컴 보유 지분이 큰 딸에게 모두 넘어간 이유에 더 주목하고 있습니다.&nbsp;<br><br>인수합병(M&amp;A)과 전략 기획통으로 탄탄한 필모그래피를 쌓아온 만만치 않은 이력 때문일 텐데요.&nbsp;<br><br>한컴 지분 인수 작업을 마친 김 총괄부사장의 향후 행보를 예의주시해야 하는 이유입니다.&nbsp;<br><br><strong>◇ 한국타이어家 장녀의 뒤끝</strong><br><br>마지막 인사는 한국타이어그룹의 장녀 조희경 한국타이어나눔재단 이사장입니다.<br><br>아버지 조양래 회장을 상대로 성년후견 심판을 청구했던 조 이사장이 최근 조 회장에 대한 신체 감정기관 변경을 요청했습니다.<br><br>감정기관으로 지정된 국립정신건강센터를 분당서울대병원으로 변경해달라는 내용의 감정기관 변경 신청서를 법원에 제출했는데요.<br><br>객관적이고 정밀한 검사를 위해 감정기관 변경을 요청했다는 설명입니다.<br><br>그러나 둘째 아들 조현범 사장에게 경영권을 물려준 아버지의 결정이 자발적 의사가 아니란 조희경 이사장의 주장과는 달리 아버지는 법원 심문에서 자신의 건재함을 과시했습니다.&nbsp;<br><br>아버지의 신체 건강 상태가 이상하다는 의혹을&nbsp;꾸준히 제기하고 있는 장녀, 이에 맞서 자신은&nbsp;아무 문제가 없다는 아버지, 한국타이어그룹의&nbsp;경영권을 둘러싼 가족 분쟁은 현재 진행형입니다. &nbsp;<br><br>이번 주 &#39;C-레벨 라운지&#39; 여기까지입니다.<br><br>조슬기 기자(skcho@sbs.co.kr)<br><br><br><br>          <p>▶ <a href='https://tv.naver.com/countmoney' target='_blank'>돈 세는 남자의 기업분석 '카운트머니' [네이버TV]</a></p><p>▶ <a href='https://tv.naver.com/moneylab' target='_blank'>경제를 실험한다~ '머니랩' [네이버TV]</a></p><br>          <p>저작권자 SBS미디어넷 & SBS I&M 무단전재-재배포 금지</p><br>        
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+	<div class="vod_area">
+		<h4 class="blind">동영상 뉴스</h4>
+		<iframe _src="/main/readVod.nhn?oid=374&aid=0000245558" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe>
+	</div>
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong>■ 비즈포커스 - &#39;C레벨 라운지&#39;&nbsp;<br><br>◇ 경제외교 이끈 최태원&nbsp;</strong><br><br>첫 번째 인물은 최태원 SK 회장입니다.&nbsp;<br><br>최태원 회장은 문재인 대통령의 최근 미국 방문 기간동안 현지 유력 경제단체와 싱크탱크 리더 등을 잇달아 만나며 숨가쁘게 움직였습니다.<br><br>미국의 3대 경제단체 가운데 하나인 &#39;비즈니스 라운드 테이블(BRT)&#39;을 비롯해 IT 전문 단체인 정보통신산업협회(ITI), 미국의 유명 싱크탱크로 알려진 애틀랜틱 카운슬(Atlantic Council) 등 성사된 만남의 면면도 화려합니다.<br><br>지난 3월 대한상의 회장에 취임한 이후 첫 해외 출장이었던 만큼, 한국 경제를 세일즈하기 위해&nbsp;종횡무진 활약했는데요.<br><br>최 회장의 미국길에 동행한 삼성전자, 현대차, SK, LG 등 4대 그룹은 무려 44조 원에 달하는 대미 투자 계획을 내놓으며 한미 경제 협력에 힘을 실어줬습니다.<br><br>조 바이든 미국 대통령은 최 회장을 비롯해 우리 기업인들에게 직접 감사를 표했습니다.&nbsp;<br><br>[조 바이든 / 미국 대통령 : 삼성, 현대, SK, LG 여기 자리에 계신지 모르겠는데, 잠시 일어나 주시겠습니까? 매우 감사합니다. 우리는 함께 대단한 일을 할 겁니다.]<br><br>최 회장은 또 자신이 전도사를 자처하는 환경&middot;사회&middot;지배구조 이른바, ESG 경영을 강조하며 미국 경제계와의 협력을 다졌습니다.<br><br>그룹 회장으로서 갖고 있는 경영능력과 통찰력, 대한상의 회장으로서 갖고 있는 대미 네트워크를 통해 이끌어낸 한미 경제 협력이 어떤 결실을 맺을지 계속 지켜보겠습니다.&nbsp;<br><br><strong>◇ 2세 승계 단행 김상철&nbsp;</strong><br><br>저희가 꼽은 두 번째 인물은 김상철 한글과컴퓨터그룹 회장입니다.&nbsp;<br><br>국내 1세대 IT기업 중 한 곳인 한컴도 어느덧 2세 경영 채비를 서두르고 있습니다.&nbsp;<br><br>최근 오너 일가 지분에 큰 변동이 있었는데요.&nbsp;<br><br>김상철 회장과 아내 김정실 사내이사, 한컴 계열사 중 한 곳인 캐피탈 익스프레스가 각각 보유 중이던 한컴 주식 233만여 주가 큰 딸이 운영하는 회사로 넘어갔습니다.<br><br>김연수 한컴그룹 총괄부사장이 대표를 맡고 있는 다토즈와 이 회사가 새로 만든 HCIH를 통해 500억 원에 인수했습니다.&nbsp;<br><br>이로써 다토즈는 한컴 지분 9.4%를 인수하며 2대 주주가 됐습니다.<br><br>회사 측은 오너 지분 관계만 바뀌었을 뿐 경영진이 달라지는 건 아니라는 입장이지만 재계는 한컴 보유 지분이 큰 딸에게 모두 넘어간 이유에 더 주목하고 있습니다.&nbsp;<br><br>인수합병(M&amp;A)과 전략 기획통으로 탄탄한 필모그래피를 쌓아온 만만치 않은 이력 때문일 텐데요.&nbsp;<br><br>한컴 지분 인수 작업을 마친 김 총괄부사장의 향후 행보를 예의주시해야 하는 이유입니다.&nbsp;<br><br><strong>◇ 한국타이어家 장녀의 뒤끝</strong><br><br>마지막 인사는 한국타이어그룹의 장녀 조희경 한국타이어나눔재단 이사장입니다.<br><br>아버지 조양래 회장을 상대로 성년후견 심판을 청구했던 조 이사장이 최근 조 회장에 대한 신체 감정기관 변경을 요청했습니다.<br><br>감정기관으로 지정된 국립정신건강센터를 분당서울대병원으로 변경해달라는 내용의 감정기관 변경 신청서를 법원에 제출했는데요.<br><br>객관적이고 정밀한 검사를 위해 감정기관 변경을 요청했다는 설명입니다.<br><br>그러나 둘째 아들 조현범 사장에게 경영권을 물려준 아버지의 결정이 자발적 의사가 아니란 조희경 이사장의 주장과는 달리 아버지는 법원 심문에서 자신의 건재함을 과시했습니다.&nbsp;<br><br>아버지의 신체 건강 상태가 이상하다는 의혹을&nbsp;꾸준히 제기하고 있는 장녀, 이에 맞서 자신은&nbsp;아무 문제가 없다는 아버지, 한국타이어그룹의&nbsp;경영권을 둘러싼 가족 분쟁은 현재 진행형입니다. &nbsp;<br><br>이번 주 &#39;C-레벨 라운지&#39; 여기까지입니다.<br><br>조슬기 기자(skcho@sbs.co.kr)<br><br><br><br>          <p>▶ <a href='https://tv.naver.com/countmoney' target='_blank'>돈 세는 남자의 기업분석 '카운트머니' [네이버TV]</a></p><p>▶ <a href='https://tv.naver.com/moneylab' target='_blank'>경제를 실험한다~ '머니랩' [네이버TV]</a></p><br>          <p>저작권자 SBS미디어넷 & SBS I&M 무단전재-재배포 금지</p><br>        
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+	<div class="vod_area">
+		<h4 class="blind">동영상 뉴스</h4>
+		<iframe _src="/main/readVod.nhn?oid=374&aid=0000245558" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe>
+	</div>
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong>■ 비즈포커스 - &#39;C레벨 라운지&#39;&nbsp;<br><br>◇ 경제외교 이끈 최태원&nbsp;</strong><br><br>첫 번째 인물은 최태원 SK 회장입니다.&nbsp;<br><br>최태원 회장은 문재인 대통령의 최근 미국 방문 기간동안 현지 유력 경제단체와 싱크탱크 리더 등을 잇달아 만나며 숨가쁘게 움직였습니다.<br><br>미국의 3대 경제단체 가운데 하나인 &#39;비즈니스 라운드 테이블(BRT)&#39;을 비롯해 IT 전문 단체인 정보통신산업협회(ITI), 미국의 유명 싱크탱크로 알려진 애틀랜틱 카운슬(Atlantic Council) 등 성사된 만남의 면면도 화려합니다.<br><br>지난 3월 대한상의 회장에 취임한 이후 첫 해외 출장이었던 만큼, 한국 경제를 세일즈하기 위해&nbsp;종횡무진 활약했는데요.<br><br>최 회장의 미국길에 동행한 삼성전자, 현대차, SK, LG 등 4대 그룹은 무려 44조 원에 달하는 대미 투자 계획을 내놓으며 한미 경제 협력에 힘을 실어줬습니다.<br><br>조 바이든 미국 대통령은 최 회장을 비롯해 우리 기업인들에게 직접 감사를 표했습니다.&nbsp;<br><br>[조 바이든 / 미국 대통령 : 삼성, 현대, SK, LG 여기 자리에 계신지 모르겠는데, 잠시 일어나 주시겠습니까? 매우 감사합니다. 우리는 함께 대단한 일을 할 겁니다.]<br><br>최 회장은 또 자신이 전도사를 자처하는 환경&middot;사회&middot;지배구조 이른바, ESG 경영을 강조하며 미국 경제계와의 협력을 다졌습니다.<br><br>그룹 회장으로서 갖고 있는 경영능력과 통찰력, 대한상의 회장으로서 갖고 있는 대미 네트워크를 통해 이끌어낸 한미 경제 협력이 어떤 결실을 맺을지 계속 지켜보겠습니다.&nbsp;<br><br><strong>◇ 2세 승계 단행 김상철&nbsp;</strong><br><br>저희가 꼽은 두 번째 인물은 김상철 한글과컴퓨터그룹 회장입니다.&nbsp;<br><br>국내 1세대 IT기업 중 한 곳인 한컴도 어느덧 2세 경영 채비를 서두르고 있습니다.&nbsp;<br><br>최근 오너 일가 지분에 큰 변동이 있었는데요.&nbsp;<br><br>김상철 회장과 아내 김정실 사내이사, 한컴 계열사 중 한 곳인 캐피탈 익스프레스가 각각 보유 중이던 한컴 주식 233만여 주가 큰 딸이 운영하는 회사로 넘어갔습니다.<br><br>김연수 한컴그룹 총괄부사장이 대표를 맡고 있는 다토즈와 이 회사가 새로 만든 HCIH를 통해 500억 원에 인수했습니다.&nbsp;<br><br>이로써 다토즈는 한컴 지분 9.4%를 인수하며 2대 주주가 됐습니다.<br><br>회사 측은 오너 지분 관계만 바뀌었을 뿐 경영진이 달라지는 건 아니라는 입장이지만 재계는 한컴 보유 지분이 큰 딸에게 모두 넘어간 이유에 더 주목하고 있습니다.&nbsp;<br><br>인수합병(M&amp;A)과 전략 기획통으로 탄탄한 필모그래피를 쌓아온 만만치 않은 이력 때문일 텐데요.&nbsp;<br><br>한컴 지분 인수 작업을 마친 김 총괄부사장의 향후 행보를 예의주시해야 하는 이유입니다.&nbsp;<br><br><strong>◇ 한국타이어家 장녀의 뒤끝</strong><br><br>마지막 인사는 한국타이어그룹의 장녀 조희경 한국타이어나눔재단 이사장입니다.<br><br>아버지 조양래 회장을 상대로 성년후견 심판을 청구했던 조 이사장이 최근 조 회장에 대한 신체 감정기관 변경을 요청했습니다.<br><br>감정기관으로 지정된 국립정신건강센터를 분당서울대병원으로 변경해달라는 내용의 감정기관 변경 신청서를 법원에 제출했는데요.<br><br>객관적이고 정밀한 검사를 위해 감정기관 변경을 요청했다는 설명입니다.<br><br>그러나 둘째 아들 조현범 사장에게 경영권을 물려준 아버지의 결정이 자발적 의사가 아니란 조희경 이사장의 주장과는 달리 아버지는 법원 심문에서 자신의 건재함을 과시했습니다.&nbsp;<br><br>아버지의 신체 건강 상태가 이상하다는 의혹을&nbsp;꾸준히 제기하고 있는 장녀, 이에 맞서 자신은&nbsp;아무 문제가 없다는 아버지, 한국타이어그룹의&nbsp;경영권을 둘러싼 가족 분쟁은 현재 진행형입니다. &nbsp;<br><br>이번 주 &#39;C-레벨 라운지&#39; 여기까지입니다.<br><br>조슬기 기자(skcho@sbs.co.kr)<br><br><br><br>          <p>▶ <a href='https://tv.naver.com/countmoney' target='_blank'>돈 세는 남자의 기업분석 '카운트머니' [네이버TV]</a></p><p>▶ <a href='https://tv.naver.com/moneylab' target='_blank'>경제를 실험한다~ '머니랩' [네이버TV]</a></p><br>          <p>저작권자 SBS미디어넷 & SBS I&M 무단전재-재배포 금지</p><br>        
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+	<div class="vod_area">
+		<h4 class="blind">동영상 뉴스</h4>
+		<iframe _src="/main/readVod.nhn?oid=422&aid=0000486916" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe>
+	</div>
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23<br><br><a href="http://media.naver.com/channel/promotion.nhn?oid=422"> ▶ 네이버에서 연합뉴스TV를 구독하세요</a><br><a href="https://www.yonhapnewstv.co.kr/live" target="_blank"> ▶ 연합뉴스TV 생방송 만나보기 </a><br><a href="http://www.yonhapnewstv.co.kr/add/mobileApp" target="_blank"> ▶ 균형있는 뉴스, 연합뉴스TV 앱 다운받기</a><br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">지난해 시범수출 이후 대표 수출 농산물로 육성<br>올해 1000t, 7억 원 규모 수출 목표…농가 소득창출 기여</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000754300_web_20210526172553_20210526173407803.jpg?type=w647" alt="" /><em class="img_desc">[포항=뉴시스] 강진구 기자 = 경북 포항시는 오는 6월 3일 청정 죽장지역에서 생산된 ‘봄 배추’를 대만으로 1차분 16t을 수출한다고 26일 밝혔다.사진은 이날 오전 봄 배추 출하 전경.(사진=포항시 제공) 2021.05.26.photo@newsis.com *재판매 및 DB 금지</em></span>[포항=뉴시스] 강진구 기자 = 경북 포항시는 오는 6월 3일 청정 죽장지역에서 생산된 ‘봄 배추’를 대만으로 1차분 16t을 수출한다고 26일 밝혔다.<br><br>시는 지난해 11월 캐나다와 홍콩으로 가을 배추 38t을 시범 수출한 이래 올해는 계약재배 물량 1000t(7억 원)을 대만·미국·캐나다·홍콩 등지로 수출할 예정이다.<br><br>우선 오는 6월 3일 1차분 16t의 배추를 대만으로 수출한다. 오는 2022년부터는 매년 1200t 이상을 수출할 계획이다.<br><br>이에 시는 계약재배를 통한 안정적인 공급이 이뤄져 농가소득 창출에 이바지 할 것으로 기대하고 있다.<br><br>죽장지역에서 재배되는 배추는 밤낮의 기온차가 커 육질이 단단하고 식감이 좋으며 상품이 균일해 수출경쟁력이 높은 것으로 조사됐다.  <br><br>죽장면 상옥리 일원에서 5월 출하되는 ‘봄 배추’는 시설 토마토 전작이고,  노지에서 재배와 생산되는 양배추는 오는 11월에 출하되는 ‘가을배추’의 전작 농산물이다.<br><br>배성규 시 농식품유통과장은 “죽장지역 대표작물인 배추, 양배추, 토마토를 지역특화 작물로 육성하며 수출 확대를 위해 노력하고 있다”며 “올해 대규모 수출이 예상되는 ‘죽장 배추’는 경쟁력이 높은 만큼 수출이 대폭 확대될 수 있도록 역량을 집중해 수출전문단지로 육성해 나가겠다”고 말했다.<br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> dr.kang@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">지난해 시범수출 이후 대표 수출 농산물로 육성<br>올해 1000t, 7억 원 규모 수출 목표…농가 소득창출 기여</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000754300_web_20210526172553_20210526173407803.jpg?type=w647" alt="" /><em class="img_desc">[포항=뉴시스] 강진구 기자 = 경북 포항시는 오는 6월 3일 청정 죽장지역에서 생산된 ‘봄 배추’를 대만으로 1차분 16t을 수출한다고 26일 밝혔다.사진은 이날 오전 봄 배추 출하 전경.(사진=포항시 제공) 2021.05.26.photo@newsis.com *재판매 및 DB 금지</em></span>[포항=뉴시스] 강진구 기자 = 경북 포항시는 오는 6월 3일 청정 죽장지역에서 생산된 ‘봄 배추’를 대만으로 1차분 16t을 수출한다고 26일 밝혔다.<br><br>시는 지난해 11월 캐나다와 홍콩으로 가을 배추 38t을 시범 수출한 이래 올해는 계약재배 물량 1000t(7억 원)을 대만·미국·캐나다·홍콩 등지로 수출할 예정이다.<br><br>우선 오는 6월 3일 1차분 16t의 배추를 대만으로 수출한다. 오는 2022년부터는 매년 1200t 이상을 수출할 계획이다.<br><br>이에 시는 계약재배를 통한 안정적인 공급이 이뤄져 농가소득 창출에 이바지 할 것으로 기대하고 있다.<br><br>죽장지역에서 재배되는 배추는 밤낮의 기온차가 커 육질이 단단하고 식감이 좋으며 상품이 균일해 수출경쟁력이 높은 것으로 조사됐다.  <br><br>죽장면 상옥리 일원에서 5월 출하되는 ‘봄 배추’는 시설 토마토 전작이고,  노지에서 재배와 생산되는 양배추는 오는 11월에 출하되는 ‘가을배추’의 전작 농산물이다.<br><br>배성규 시 농식품유통과장은 “죽장지역 대표작물인 배추, 양배추, 토마토를 지역특화 작물로 육성하며 수출 확대를 위해 노력하고 있다”며 “올해 대규모 수출이 예상되는 ‘죽장 배추’는 경쟁력이 높은 만큼 수출이 대폭 확대될 수 있도록 역량을 집중해 수출전문단지로 육성해 나가겠다”고 말했다.<br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> dr.kang@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">지난해 시범수출 이후 대표 수출 농산물로 육성<br>올해 1000t, 7억 원 규모 수출 목표…농가 소득창출 기여</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000754300_web_20210526172553_20210526173407803.jpg?type=w647" alt="" /><em class="img_desc">[포항=뉴시스] 강진구 기자 = 경북 포항시는 오는 6월 3일 청정 죽장지역에서 생산된 ‘봄 배추’를 대만으로 1차분 16t을 수출한다고 26일 밝혔다.사진은 이날 오전 봄 배추 출하 전경.(사진=포항시 제공) 2021.05.26.photo@newsis.com *재판매 및 DB 금지</em></span>[포항=뉴시스] 강진구 기자 = 경북 포항시는 오는 6월 3일 청정 죽장지역에서 생산된 ‘봄 배추’를 대만으로 1차분 16t을 수출한다고 26일 밝혔다.<br><br>시는 지난해 11월 캐나다와 홍콩으로 가을 배추 38t을 시범 수출한 이래 올해는 계약재배 물량 1000t(7억 원)을 대만·미국·캐나다·홍콩 등지로 수출할 예정이다.<br><br>우선 오는 6월 3일 1차분 16t의 배추를 대만으로 수출한다. 오는 2022년부터는 매년 1200t 이상을 수출할 계획이다.<br><br>이에 시는 계약재배를 통한 안정적인 공급이 이뤄져 농가소득 창출에 이바지 할 것으로 기대하고 있다.<br><br>죽장지역에서 재배되는 배추는 밤낮의 기온차가 커 육질이 단단하고 식감이 좋으며 상품이 균일해 수출경쟁력이 높은 것으로 조사됐다.  <br><br>죽장면 상옥리 일원에서 5월 출하되는 ‘봄 배추’는 시설 토마토 전작이고,  노지에서 재배와 생산되는 양배추는 오는 11월에 출하되는 ‘가을배추’의 전작 농산물이다.<br><br>배성규 시 농식품유통과장은 “죽장지역 대표작물인 배추, 양배추, 토마토를 지역특화 작물로 육성하며 수출 확대를 위해 노력하고 있다”며 “올해 대규모 수출이 예상되는 ‘죽장 배추’는 경쟁력이 높은 만큼 수출이 대폭 확대될 수 있도록 역량을 집중해 수출전문단지로 육성해 나가겠다”고 말했다.<br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> dr.kang@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/AKR20210526150700002_01_i_P4_20210526172112093.jpg?type=w647" alt="" /><em class="img_desc">에이디엠코리아<br>[서울IR 제공]</em></span><br><br>    (서울=연합뉴스) 김아람 기자 = 임상시험수탁기관(CRO) 기업 에이디엠코리아는 일반 공모 청약 경쟁률이 2천345.40대 1로 집계됐다고 26일 밝혔다.<br><br>    증거금은 약 5조133억원을 기록했다.<br><br>    에이디엠코리아는 다음 달 3일 코스닥시장에 상장한다. 공모가는 3천800원이다.<br><br>    강준모 에이디엠코리아 대표는 "상장 후에도 높은 재무 안정성을 기반으로 아시아 대표 CRO가 되도록 최선을 다할 것"이라고 말했다.<br><br>    rice@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/AKR20210526150700002_01_i_P4_20210526172112093.jpg?type=w647" alt="" /><em class="img_desc">에이디엠코리아<br>[서울IR 제공]</em></span><br><br>    (서울=연합뉴스) 김아람 기자 = 임상시험수탁기관(CRO) 기업 에이디엠코리아는 일반 공모 청약 경쟁률이 2천345.40대 1로 집계됐다고 26일 밝혔다.<br><br>    증거금은 약 5조133억원을 기록했다.<br><br>    에이디엠코리아는 다음 달 3일 코스닥시장에 상장한다. 공모가는 3천800원이다.<br><br>    강준모 에이디엠코리아 대표는 "상장 후에도 높은 재무 안정성을 기반으로 아시아 대표 CRO가 되도록 최선을 다할 것"이라고 말했다.<br><br>    rice@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">해수부, 지자체·해경과 3주간 1만2538개소 조사<br>165개소 미표시 또는 거짓표시…7년 징역 또는 1억원 벌금 등</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/277/2021/05/26/0004909388_001_20210526171503507.jpg?type=w647" alt="" /><em class="img_desc">경상남도 통영시의 어업인이 지난달 26일 통영시 정량동 이순신공원 앞 해상에서 '후쿠시마 원전 오염수 방류 규탄 통영대회'를 열고 일본 정부를 규탄하는 모습.(이미지 출처=연합뉴스)</em></span><br><br>[세종=아시아경제 문채석 기자] 일본이 후쿠시마 원전 방사능 오염수를 바다에 뿌리기로 해 국민 불안이 커진 가운데 수산물 원산지를 제대로 표시하지 않은 업체 165개소가 정부에 덜미를 잡혔다. 적발 품목의 절반이 일본산이었던 것으로 드러났다. <br><br>26일 해양수산부는 지난달 22일부터 지난 12일까지 3주간 지방자치단체, 해양경찰청 등과 수산물 원산지 표시 특별점검을 한 결과 1만2538개소 중 165개소가 법을 어긴 것으로 드러났다고 밝혔다. <br><br>구체적으로 원산지를 표시하지 않은 업체는 123개소, 거짓으로 표시한 업체는 42개소였다. 적발 품목은 191건으로 일본산 47.7%, 중국산 18.8%, 러시아산 5.2% 순이다.<br><br>원산지를 거짓 표시한 품목 49건 중에는 일본산이 28건으로 가장 많았고 러시아산(6건), 중국산(5건)이 뒤를 이었다. 품목별로는 돔류(32.3%)에 이어 가리비(17.3%), 명태(6.3%) 및 낙지(4.2%) 순이었다.<br><br>해수부는 이번에 잡아낸 165개소 중 거짓 표시 42개소를 고발하기로 했다. 이들은 최대 7년 이하의 징역 또는 1억원 이하의 벌금에 처해진다. 원산지를 표시하지 않은 123개소는 위반금액에 따라 1000만원 이해의 과태료를 물 예정이다.<br><br>해수부는 수입수산물 유통이력 점검을 강화하기로 했다. 위반 실적이 많은 수산물은 지자체, 해경과 협력해 연중 집중 단속을 할 방침이다. 아울러 소비자 단체, 민관협의회와의 협력을 통해 수산물 수입·유통·판매 업체들이 스스로 제도를 지키도록 적극 노력한다.<br><br>김준석 해수부 수산정책실장은 "판매자는 투명한 원산지 표시만이 소비자의 신뢰와 매출을 얻는 최선의 방법임을 재인식하고, 소비자는 안심하고 수산물을 사 먹는 구조를 만드는 게 중요하다"며 "수산물 구매 시 원산지 표시를 반드시 확인하고 의심될 경우 수산물 원산지 표시위반 신고 전화 또는 카카오톡 '수산물원산지표시' 채널에 적극 제보해주기 바란다"고 당부했다. <br><br>세종=문채석 기자 chaeso@asiae.co.kr<br><br><a href="https://www.asiae.co.kr/fortune/index.htm?utm_source=navernews&utm_medium=naver_view&utm_campaign=fortune">▶ 속 시원한 풀이! 2021년 정통사주·운세·토정비결</a><br><a href="https://www.asiae.co.kr/event/2021/jobgo/">▶ 직장인을 위한 '빅데이터 분석' 국비 특화과정 모집</a><br><a href="https://core.asiae.co.kr/?utm_source=naver_article&utm_medium=pc_mobile&utm_campaign=core">▶ 투자 성공의 핵심은 기업분석! 'CORE' 바로가기</a><br><br>&lt;ⓒ경제를 보는 눈, 세계를 보는 창 아시아경제 무단전재 배포금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/021/2021/05/26/0002472412_001_20210526170103967.jpg?type=w647" alt="" /></span><br><br> LG이노텍(대표 정철동·사진)은 글로벌 자동차 업체인 재규어랜드로버로부터 ‘품질 인증(Jaguar Land Rover Quality Certificate)’을 획득했다고 26일 밝혔다. 프리미엄 브랜드를 지향하는 재규어랜드로버의 품질 인증은 부품 업계 사이에서 까다롭기로 정평이 나 있다. LG이노텍은 2017년부터 재규어랜드로버에 ‘DC-DC(직류-직류) 컨버터’를 공급해 왔는데 품질 인증을 받은 것은 이번이 처음이다. DC-DC 컨버터는 배터리에서 나오는 고압의 직류 전력을 차량 내부 장치에 적합한 저압 직류로 바꿔주는 부품이다.LG이노텍 관계자는 “품질 인증 획득을 계기로 전장부품의 글로벌 품질 경쟁력을 세계 시장에 다시 한번 확고히 입증했다”고 말했다. <br><br>장병철 기자 jjangbeng@munhwa.com<br><br><b>[ <a href="http://www.munhwa.com" target="_blank">문화닷컴</a> | <a href="http://media.naver.com/channel/promotion.nhn?oid=021" target="_blank">네이버 뉴스 채널 구독</a> | <a href="http://m.munhwa.com" target="_blank">모바일 웹</a> | <a href="https://m.post.naver.com/lustforlife1073" target="_blank">슬기로운 문화생활</a> ]</b><br><br><br>[Copyrightⓒmunhwa.com '대한민국 오후를 여는 유일석간 문화일보' 무단 전재 및 재배포 금지(<a href="http://www.munhwa.com/service/gudok_request.html" target="_blank">구독신청:02)3701-5555</a>)]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/021/2021/05/26/0002472412_001_20210526170103967.jpg?type=w647" alt="" /></span><br><br> LG이노텍(대표 정철동·사진)은 글로벌 자동차 업체인 재규어랜드로버로부터 ‘품질 인증(Jaguar Land Rover Quality Certificate)’을 획득했다고 26일 밝혔다. 프리미엄 브랜드를 지향하는 재규어랜드로버의 품질 인증은 부품 업계 사이에서 까다롭기로 정평이 나 있다. LG이노텍은 2017년부터 재규어랜드로버에 ‘DC-DC(직류-직류) 컨버터’를 공급해 왔는데 품질 인증을 받은 것은 이번이 처음이다. DC-DC 컨버터는 배터리에서 나오는 고압의 직류 전력을 차량 내부 장치에 적합한 저압 직류로 바꿔주는 부품이다.LG이노텍 관계자는 “품질 인증 획득을 계기로 전장부품의 글로벌 품질 경쟁력을 세계 시장에 다시 한번 확고히 입증했다”고 말했다. <br><br>장병철 기자 jjangbeng@munhwa.com<br><br><b>[ <a href="http://www.munhwa.com" target="_blank">문화닷컴</a> | <a href="http://media.naver.com/channel/promotion.nhn?oid=021" target="_blank">네이버 뉴스 채널 구독</a> | <a href="http://m.munhwa.com" target="_blank">모바일 웹</a> | <a href="https://m.post.naver.com/lustforlife1073" target="_blank">슬기로운 문화생활</a> ]</b><br><br><br>[Copyrightⓒmunhwa.com '대한민국 오후를 여는 유일석간 문화일보' 무단 전재 및 재배포 금지(<a href="http://www.munhwa.com/service/gudok_request.html" target="_blank">구독신청:02)3701-5555</a>)]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">해외 연기금 비해 책임투자 비중 낮아 높여야 한다는 부담 속<br>기계적인 적용될까 우려<br>네덜란드·미국·일본 연기금 다양한 방식 도입</strong>[서울경제] <br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915086_001_20210526165003897.jpg?type=w647" alt="" /></span><br><br>국민연금이 환경·사회·지배구조(ESG)투자 차원에서 특정 기업 투자를 배제하는 네거티브(nagative) 원칙 도입을 앞두고 자율성을 줘야 한다는 지적이 나오고 있다. ESG 투자 비중을 키우되, 투자 운용역이 현실적인 판단을 할 수 있는 여지를 둬야 한다는 것이다. 최근 국민연금은 해외연기금과 자산운용사와 협업을 늘리고 있는데 이들의 ESG투자 노하우를 확보할 수 있을지 주목된다. <br><br>26일 국민연금에 따르면 연금은 28일 기금운용위원회에서 ESG투자 강화를 위한 네거티브 원칙 도입을 논의한다. 석탄 화력 등 탄소배출이 많은 에너지를 사용하거나 담배나 술, 무기 등 특정 업종에 투자를 금지하거나 회수하는 방식이다. 제조 과정에서 인권을 유린하거나 삼림파괴 등 환경을 훼손하는 행위에 발생해도 투자를 금지한다. 국민연금은 지난달에도 같은 안건을 논의했으나 위원들은 수익과 연관성이 불분명하고 투자 집행 과정에서 나올 현실적인 문제를 고려해야 한다는 반론을 제기했다. <br><br>당시 회의에서는 네거티브 원칙에 따라 국민연금이 해외 석탄 발전 관련 사업이나 관련 기업 투자를 철회하면 중국이 대신 가져갈 것이라는 비판이 나왔다. 상대적으로 ESG 관리가 소홀한 중국 기업이 해당 사업을 진행하면 한국에서 맡았을 때보다 오히려 탄소 배출이 더 커질 수 있다는 얘기다. <br><br>네거티브 원칙은 유럽을 필두로 전세계 연기금과 자산운용사 사이에서 가장 많이 사용하는 ESG투자 방식이다. 국내 기업 중 KT&amp;G·포비스TNC(담배생산), 풍산·한화·LIG·S&amp;T(무기), 포스코(노동탄압, 환경파괴) 등이 네덜란드나 스웨덴 연기금 등의 투자 배제 대상에 올라있다. 다만 구체적인 적용 방식은 연기금이나 운용사 별로 다양하다. <br><br>네덜란드 공적연금(APG)은 최근 국민연금 기금운용본부 고위 관계자와 만나 ESG투자 원칙이 확고하지만 경우에 따라 융통성 있게 집행한다고 설명했다. 석탄 화력 발전이어도 탄소배출을 줄일 수 있거나 탄소배출권을 확보하는 등 대안이 있다면 투자가 가능하다는 것이다. <br><br>네덜란드 연금은 투자배제를 최후의 수단으로 삼고 수년간 기업 경영진과 해법을 찾는다. 그럼에도 개선이 없을 경우는 해당 기업의 지분을 매각한다. 최근에는 투자배제 기준을 정교화하기 위해 담배나 무기 등 특정 영역에 해당하더라도 최대 4개의 기준에 충족되어야 배제한다. <br><br>석유를 함유한 모래인 오일샌드는 석유 자원으로 분류되어 투자배제 대상이지만 네덜란드 연금은 전세계 에너지 수요를 고려해 지속가능성을 추구하고 인권을 존중하는 오일 샌드 기업이면 투자를 허용한다. <br><br>미국 캘리포니아 주 공무원퇴직연금(CalPERS·캘퍼스)는 책임투자를 지속가능성에 기반해 바라본다. 단기적인 수익률이나 윤리성이 아니라 장기적인 수익을 내기 위해 네거티브 원칙을 활용하는 것이다. <br><br>이에 따라 캘퍼스는 최근 투자 배제 정책을 재검토하겠다는 입장을 밝혔다. 연금 자산이 연금 지급액보다 부족한 점, 담배 관련 기업 투자 배제로 손실이 발생한 점 등을 고려한 결과다. <br><br>전세계 연기금 중 규모 1위인 일본 공적연금은 ESG 원칙에 부합하는 기업에 투자를 늘리는 포지티브(positive) 원칙을 도입했다. 일본 공적연금은 2016년에서 2019년 사이 ESG투자 자산 규모 5배 가까이 늘리면서 주목받고 있다. <br><br>기금운용위 관계자는 “무턱대고 네거티브 투자를 도입하겠다는 선언을 하기 전에 구체적으로 어떻게 투자 원칙을 확정할지 충분한 논의 후 결정하지 않으면 역설적인 상황이 발생할 수 있다”고 설명했다. <br><br>/임세원 기자 why@sedaily.com<br><br><ul><li><a href="https://bit.ly/3bhqTuL" target="_blank" style="color:#000000">▶ [지구용] 투명해진 맥주병, 그런데 말입니다...</a></li><li><a href="https://thepolitics.sedaily.com" target="_blank" style="color:#000000">▶ 서울경제 더 폴리틱스 뉴스를 만나보세요!</a></li><li><a href="https://www.sedaily.com/v/Zipchelin" target="_blank" style="color:#000000">▶ 미슐랭 가이드처럼 알찬 부동산 뉴스 '집슐랭'</a></li></ul><br><br>저작권자 ⓒ 서울경제, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052618050000300_P4_20210526163811940.jpg?type=w647" alt="" /></span><br><br>    (서울=연합뉴스) 한국선급(KR)이 팬오션, 포스에스엠과 함께 풍력 보조장치 '로터 세일 시스템'(Rotor Sail System)에 관한 공동연구를 시작했다고 26일 밝혔다. 사진은 지난 6일 한국선급 본사에서 열린 환경규제 대응을 위한 신기술 공동 연구 협약식. 2021.5.26<br><br>    [한국선급 제공. 재판매 및 DB 금지]<br><br>    photo@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104609_001_20210526154801709.jpg?type=w647" alt="" /><em class="img_desc">한 유통업체의 면접 모습. 뉴시스</em></span>        <span class="mask"></span>              </div>                        </div>           <br>   신종 코로나바이러스 감염증(코로나19) 여파로 국내 대기업 직원(정규직)들의 고용 희비가 엇갈린 것으로 나타났다. 코로나19 타격을 입은 롯데쇼핑은 직원 2700여명을 줄였고, 비대면 여가ㆍ근로 확산에 따라 코웨이는 1700여 명을 늘렸다.   <br>      <br>   26일 기업평가사이트 CEO스코어는 국내 500대 기업 정규직 증감수를 집계했다. 이 가운데 직원수가 공개된 회사 309곳을 대상으로 2019년 4분기와 올해 1분기의 고용 현황을 비교했다. 코로나19가 확산되기 시작한 게 2020년 1분기였다는 점을 감안해 시기를 정한 것이다.  <br>      <br>   이 조사에 따르면 직원수가 가장 크게 감소한 회사는 롯데쇼핑(-2768명)이다. GS리테일도 직원수가 2678명 줄었다. 감소 비율은 각각 11%와 31%다. 유통업종의 평균 직원수 감소폭은 7.6%에 이른다. 지난해 재무구조 개선 작업을 거친 두산중공업은 1366명(-23.1%)의 직원이 줄었다. 정부의 탈원전 정책으로 영업이익에 타격을 입은 영향도 있다는 게 해석도 업계에서 나온다.  <br>      <br>           <div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104609_002_20210526154801733.jpg?type=w647" alt="" /><em class="img_desc">서울 성동구 희망일자리센터에 걸린 구인정보. 뉴시스</em></span>        <span class="mask"></span>              </div>                        </div>           <br>   현대자동차는 2019년 4분기(1조1643억원)에 비해 올해 1분기(1조6566억원) 영업이익이 증가했지만, 같은 기간 직원수는 1303명(-2.0%) 줄었다. 기아도 933명(-2.7%)이 감소한 것으로 나타났다. 자동차업계 관계자는 “공장 자동화에 따라 정년ㆍ자발적 퇴직 직원수만큼 신규 채용이 이뤄지지 않은 것”이라고 분석했다.  <br>      <br>   반대로 직원수가 가장 많이 증가한 회사는 삼성전자다. 이 기간 6358명의 직원이 늘었는데, 증가율은 6.1%다. 같은 반도체 업종인 SK하이닉스의 직원수도 884명(3.1%) 늘었다. 삼성전자 다음으로는 코웨이의 직원수(1703명, 36.0%)가 많이 증가했다. 특수고용노동자였던 정수기 등 제품 설치ㆍ수리기사들이 정규직으로 전환되고 있는 영향이다.   <br>      <br>   한ㆍ미 정상회담을 계기로 워싱턴에서 모더나와 코로나19 백신 위탁생산 계약을 맺은 삼성바이오로직스의 직원수도 777명(31.5%) 늘었다. 또 소프트웨어 개발자 품귀 상황을 겪고 있는 엔씨소프트(645명, 17.7%)와 네이버(617명, 18.0%)도 직원수 증가 기업 상위에 이름을 올렸다.  <br>      <br>   조사 대상 기업 전체적으로는 정규직 직원수는 114만3018명에서 113만1308명으로 1만여 명이 감소했다. 반면 비정규직 직원수는 7만573명에서 7만2527명으로 증가했다. 이에 대해 CEO스코어는 “코로나19 여파로 좋은 일자리는 줄고 일자리의 질이 나빠졌다"고 해석했다.  <br>      <br>   최선욱 기자 isotope@joongang.co.kr  <br><br><br>▶ <a href="https://news.joins.com/newsletter?utm_source=naver&utm_medium=referral&utm_campaign=link1_naver&utm_content=210526" target="_blank">그가 들려주는 이야기, 이상언의 '더 모닝'</a><br>▶ <a href="https://news.joins.com/issueSeries/1039?utm_source=naver&utm_medium=referral&utm_campaign=link2_naver&utm_content=210526" target="_blank">건강한 주식 맛집, 앤츠랩이 차린 메뉴</a><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=025" target="_blank">'실검'이 사라졌다, 이슈는 어디서 봐?</a><br><br>ⓒ중앙일보(https://joongang.co.kr), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104609_001_20210526154801709.jpg?type=w647" alt="" /><em class="img_desc">한 유통업체의 면접 모습. 뉴시스</em></span>        <span class="mask"></span>              </div>                        </div>           <br>   신종 코로나바이러스 감염증(코로나19) 여파로 국내 대기업 직원(정규직)들의 고용 희비가 엇갈린 것으로 나타났다. 코로나19 타격을 입은 롯데쇼핑은 직원 2700여명을 줄였고, 비대면 여가ㆍ근로 확산에 따라 코웨이는 1700여 명을 늘렸다.   <br>      <br>   26일 기업평가사이트 CEO스코어는 국내 500대 기업 정규직 증감수를 집계했다. 이 가운데 직원수가 공개된 회사 309곳을 대상으로 2019년 4분기와 올해 1분기의 고용 현황을 비교했다. 코로나19가 확산되기 시작한 게 2020년 1분기였다는 점을 감안해 시기를 정한 것이다.  <br>      <br>   이 조사에 따르면 직원수가 가장 크게 감소한 회사는 롯데쇼핑(-2768명)이다. GS리테일도 직원수가 2678명 줄었다. 감소 비율은 각각 11%와 31%다. 유통업종의 평균 직원수 감소폭은 7.6%에 이른다. 지난해 재무구조 개선 작업을 거친 두산중공업은 1366명(-23.1%)의 직원이 줄었다. 정부의 탈원전 정책으로 영업이익에 타격을 입은 영향도 있다는 게 해석도 업계에서 나온다.  <br>      <br>           <div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104609_002_20210526154801733.jpg?type=w647" alt="" /><em class="img_desc">서울 성동구 희망일자리센터에 걸린 구인정보. 뉴시스</em></span>        <span class="mask"></span>              </div>                        </div>           <br>   현대자동차는 2019년 4분기(1조1643억원)에 비해 올해 1분기(1조6566억원) 영업이익이 증가했지만, 같은 기간 직원수는 1303명(-2.0%) 줄었다. 기아도 933명(-2.7%)이 감소한 것으로 나타났다. 자동차업계 관계자는 “공장 자동화에 따라 정년ㆍ자발적 퇴직 직원수만큼 신규 채용이 이뤄지지 않은 것”이라고 분석했다.  <br>      <br>   반대로 직원수가 가장 많이 증가한 회사는 삼성전자다. 이 기간 6358명의 직원이 늘었는데, 증가율은 6.1%다. 같은 반도체 업종인 SK하이닉스의 직원수도 884명(3.1%) 늘었다. 삼성전자 다음으로는 코웨이의 직원수(1703명, 36.0%)가 많이 증가했다. 특수고용노동자였던 정수기 등 제품 설치ㆍ수리기사들이 정규직으로 전환되고 있는 영향이다.   <br>      <br>   한ㆍ미 정상회담을 계기로 워싱턴에서 모더나와 코로나19 백신 위탁생산 계약을 맺은 삼성바이오로직스의 직원수도 777명(31.5%) 늘었다. 또 소프트웨어 개발자 품귀 상황을 겪고 있는 엔씨소프트(645명, 17.7%)와 네이버(617명, 18.0%)도 직원수 증가 기업 상위에 이름을 올렸다.  <br>      <br>   조사 대상 기업 전체적으로는 정규직 직원수는 114만3018명에서 113만1308명으로 1만여 명이 감소했다. 반면 비정규직 직원수는 7만573명에서 7만2527명으로 증가했다. 이에 대해 CEO스코어는 “코로나19 여파로 좋은 일자리는 줄고 일자리의 질이 나빠졌다"고 해석했다.  <br>      <br>   최선욱 기자 isotope@joongang.co.kr  <br><br><br>▶ <a href="https://news.joins.com/newsletter?utm_source=naver&utm_medium=referral&utm_campaign=link1_naver&utm_content=210526" target="_blank">그가 들려주는 이야기, 이상언의 '더 모닝'</a><br>▶ <a href="https://news.joins.com/issueSeries/1039?utm_source=naver&utm_medium=referral&utm_campaign=link2_naver&utm_content=210526" target="_blank">건강한 주식 맛집, 앤츠랩이 차린 메뉴</a><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=025" target="_blank">'실검'이 사라졌다, 이슈는 어디서 봐?</a><br><br>ⓒ중앙일보(https://joongang.co.kr), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">제56회 공인회계사 제2차시험 총 3708명 지원, 전년보다 179명 증가<br><br>여성 지원자 31%, 최초로 30% 넘겨 <br><br>제2차 시험 6월 26일~27일<br><br>합격자 발표 8월 27일</strong>  <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/123/2021/05/26/0002246983_001_20210526154003045.jpg?type=w647" alt="" /></span><br><br>올해 치러지는 공인회계사 2차 시험 경쟁률은 3.4:1로, 최근 5년 중 가장 높은 것으로 나타났다.<br>  <br>  26일 금융감독원은 이달 13일~25일 제56회 공인회계사 제2차시험 응시원서를 접수한 결과, 총 3708명이 지원해 전년도보다 179명(5.1%) 증가했다고 밝혔다.<br>  <br>  금감원은 최소선발예정인원(1100명)을 기준으로 할 때 경쟁률이 3.4:1로 예상된다고 전했다. 응시대상자(전년 또는 금년 제1차시험 합격자, 제1차시험 면제자) 4212명 중에서 88%가 지원한 셈이다.<br>  <br>  최근 연도별 경쟁률을 보면 2017년 3.2:1, 2018년 3.1:1, 2019년 3:1, 2020년 3.2:1로 올해보다 낮았다.<br>  <br>  성별을 보면 지원자의 69%는 남성이고 여성이 31%인 것으로 나타났다. 여성 비중은 2017년 27.2%, 2018년 26.7%, 2019년 27.5%, 2020년 28.9%로 올해 처음 30%를 넘어섰다.<br>  <br>  지원자 평균 연령은 만 27.2세이며, 20대후반이 52.6%를 차지해 가장 많고, 20대 전반(13.7%), 30대 전반(10.8%) 등의 순으로 나타났다. 54.2%는 대학교 재학 중이고, 75.2%는 상경계열 전공이다.<br>  <br>  응시자 구성을 보면 올해 합격자(동차생)가 1725명, 전년도 합격자(유예생)가 1447명, 올해와 전년도 중복 합격자(중복생)가 481명, 제1차시험 면제자가 55명이다. <br>  <br>  제2차 시험 장소 및 시간은 금융감독원과 금융위원회 홈페이지에 다음달 3일 공고된다.<br>  <br>  제2차 시험은 다음달 26일~27일 2일간 실시될 예정이다.<br>  <br>  최종 합격자 발표는 오는 8월 27일이다.<br><br><strong>▶ <a href="http://www.joseilbo.com" target="_blank">조세일보 홈페이지</a><br>▶ <a href="https://newsstand.naver.com/?pcode=123" target="_blank">조세일보 네이버 뉴스스탠드 구독(종합/경제)</a><strong><br><br>이현재(rozzhj@joseilbo.com)<br><br>저작권자 ⓒ 조세일보(http://www.joseilbo.com). 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/056/2021/05/26/0011051248_001_20210526160407568.jpg?type=w647" alt="" /></span> <br>한국경영자총협회는 입법 예고된 소비자기본법 개정안에 대한 반대 의견을 공정거래위원회에 제출했다고 오늘(26일) 밝혔습니다.<br> <br>공정위가 입법 예고한 소비자기본법 개정안은 예방적 금지 청구권 도입과 소송허가 절차 폐지 등을 통해 소비자단체소송 제기 요건을 완화했고, 소비자권익증진과 관련한 실태조사를 위해 필요한 자료를 사업자에게 요구할 수 있도록 했습니다.<br> <br>경총은 "예방적 금지 청구권 도입 등으로 소송이 남발되고, 빈번한 실태조사 시행에 기업의 자료 제출 부담이 커지고 영업기밀도 유출될 수 있다"고 주장했습니다.<br> <br>특히 경총은 소비자단체소송 제기 요건 완화와 관련해, "소비자 권익의 '현저한 침해 예상'만으로 소송이 가능한 예방적 금지 청구를 허용하고, 소송 필요성을 사전점검하는 허가 절차를 없애면 기획소송 등 제도가 악용될 우려가 있다"고 지적했습니다. <br> <br>경총은 "소송 제기 요건 완화보다 현행 제도 보완이 바람직하다"면서 "불가피하게 소송제기 요건이 완화돼도 소비자단체 소송이 남용되지 않도록 보완장치가 마련돼야 한다"고 강조했습니다.<br><br>[사진 출처 : 연합뉴스]<br><br>김지숙 (jskim84@kbs.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=056" target="_blank">▶ 더 빠르고 정확한 소식을 원하시면 KBS뉴스 구독!</a><br><a href="http://news.kbs.co.kr/special/covid19/vaccine.html"_blank">▶ 코로나19 언제 어떤 백신을 누가 맞을까?</a><br><a href="https://pf.kakao.com/_REkxbE" target="_blank">▶ 뉴스 제보하기 [여기를 클릭!]</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915010_001_20210526151603430.jpg?type=w647" alt="" /></span><br>[서울경제] <br><br>경기 화성 동탄2신도시에 분양된 ‘로또 단지’ ‘동탄역 금강펜테리움 더 시글로’가 세 자릿수의 높은 경쟁률로 1순위 청약을 마감했다.<br><br>26일 청약홈에 따르면 해당 단지는 지난 25일 진행된 1순위 청약에서 170가구 모집에 2만2,936명이 몰리며 평균 134.9대 1의 평균 청약 경쟁률을 기록했다. 최고 경쟁률은 전용면적 58㎡A 기타경기(966대 1)에서 나왔다. 해당 단지는 분양가는 상한제를 적용받아 전용 52㎡ 기준 3억3,900만∼3억4,700만원, 전용 58㎡ 기준 3억9,800만∼4억800만원으로 분양가가 책정됐다. 단지는 지하 3층·지상 38층, 3개 동, 전용면적 52~ 58㎡, 380가구 규모의 주상복합아파트이며, 지상 1층과 2층에는 근린생활시설이 들어선다. 주택형별 가구 수는 △52㎡A 108가구 △52㎡B 82가구 △58㎡A 108가구 △58㎡B 82가구 등이다.<br><br>분양가 상한제가 적용되는 동탄2신도시는 시세 대비 저렴한 가격에 분양 물량이 쏟아지면서 청약자들의 관심을 모으고 있다. 앞서 화성시 동탄2신도시에서 분양한 ‘동탄역 디에트르 퍼스티지’는 지난 11일 1순위 청약에서 302가구 모집에 24만4,343명이 접수해 평균 809.1대 1의 경쟁률을 기록하기도 했다.<br><br>/권혁준 기자 awlkwon@sedaily.com<br><br><ul><li><a href="https://bit.ly/3bhqTuL" target="_blank" style="color:#000000">▶ [지구용] 투명해진 맥주병, 그런데 말입니다...</a></li><li><a href="https://thepolitics.sedaily.com" target="_blank" style="color:#000000">▶ 서울경제 더 폴리틱스 뉴스를 만나보세요!</a></li><li><a href="https://www.sedaily.com/v/Zipchelin" target="_blank" style="color:#000000">▶ 미슐랭 가이드처럼 알찬 부동산 뉴스 '집슐랭'</a></li></ul><br><br>저작권자 ⓒ 서울경제, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052615820001300_P4_20210526145916347.jpg?type=w647" alt="" /></span><br><br>    (서울=연합뉴스) 권태신 전경련 부회장이 26일 서울 전경련회관 컨퍼런스센터에서 주한 외교관을 대상으로 열린 '한국과 K-비즈니스에 대한 특별교육'에서 '한국경제와 기업'을 주제로 강연하고 있다. 2021.5.26 <br><br>    [전국경제인연합회 제공. 재판매 및 DB 금지]<br><br>    photo@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">농촌경제연구원, 유통변화로 소매비중 60%<br>“지역농산물 순환체계 핵심시설로 활용해야”<br>푸드플랜·공공성결합 가능성 높아, 판매체계 개선도 필요</strong>인구 감소, 대기업자본의 농산물 도소매 유통 분야 유입, 로컬푸드 직매장 등으로 지역의 농산물 도매시장이 경쟁력을 잃어가고 있다.<br><br>지역별 유통경로를 분석해보니 최종 유통단계에서 각 지역의 외식업체와 소매업체의 비중이 약 60% 이상을 차지하는 것으로 나타났으며, 이들은 신선하고 저렴한 지역농산물 공급을 희망하는 것으로 조사됐다.<br><br>이에 따라 지방 도매시장을 지역농산물 유통 순환체계의 핵심시설로 활용해 지역 농산물 유통을 활성화하고, 푸드플랜과 지방 도매시장의 공공성을 결합해 활력을 높여야 한다는 주장이 제기됐다.<br><br>이는 한국농촌경제연구원(KREI)이 ‘지역유통 순환체계 구축을 위한 지방 도매시장 기능 재편방안’ 연구를 통해 제시됐다.<br><br>연구책임자인 최병옥 연구위원은 “지역 내 지역농산물 이용률을 높이기 위해서는 소매업체와 외식업체가 지역농산물의 이용률을 향상 시킬 수 있는 방안을 모색하는 것이 필요하다”며 “이들의 주요 농산물 공급처인 지방 도매시장이 향후 지역농산물 취급 확대를 위한 방안을 수립·시행하는 것이 지역농산물 시장 규모를 확대할 수 있는 핵심”이라고 강조했다.<br><br>연구진은 도매시장의 기능인 농산물의 수집·가격 결정·분산 등의 수행이 어려운 지방 도매시장을 대상으로 해당 소재 지역 중 푸드플랜이 수립된 춘천시·익산시·진주시를 사례지역으로 설정해 조사·분석했다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/119/2021/05/26/0002496226_001_20210526145302964.jpeg?type=w647" alt="" /><em class="img_desc">대구의 한 농수산물도매시장에서 관계자들이 산지에서 올라온 수박을 출하하기 위해 하역작업을 하고 있다. ⓒ뉴시스</em></span>사례지역의 먹거리 유통실태를 분석한 결과, 대부분의 주요 생산품목이 산지유통시설을 통해 외부 대도시로 공급되고 있으며, 지역 도매시장의 거래 상위품목에는 지역 주요 생산품목이 없는 것으로 파악됐다.<br><br>즉 지역에서 생산된 농산물이 외부로 공급되는 비중이 높아지면서, 지역 내 생산과 소비의 불균형이 발생하고 있었다.<br><br>하지만 이와 별개로 로컬푸드 직매장 점포 수와 매출액은 확대되는 것으로 나타났고 소비자의 지역 먹거리 선호도는 증가하고 있어, 이에 따른 지역농산물의 지역 내 소비 확대 가능성도 보인다는 분석이다.<br><br>이와 관련, 지역농산물 취급에 대해 도매시장법인·중도매인·소매점·외식업체 모두 확대의 필요성을 거론했고, 지역농산물 유통의 핵심인 도매시장법인과 중도매인도 지역유통 순환체계가 필요하다며 참여 의향도 보인 것으로 조사됐다.<br><br>연구팀은 도매시장에 비영리법인형태의 유통 주체와 푸드플랜 관련 시설을 연계한다면 단기간에 지역농산물 취급 확대가 가능할 것이라고 전했다.<br><br>또한 연구진은 지역농산물 순환체계의 핵심 시설로 지방 도매시장을 활용하기 위한 기본 방향에 유통·물류 기능과 공간 활용 혁신, 맞춤형 생산·소비체계로 유통 혁신, 제도와 운영시스템 혁신 등을 제안했다.<br><br>이를 위한 정책과제로 ▲로컬푸드의 지역 범위 확대 ▲타 지역과 전략적 제휴 ▲유통·물류 기능 확대, 도매시장 공간 활용 ▲지역농산물 생산과 소비조직 연계 ▲지역농산물 순환을 통한 재생산 촉진 ▲제도·수급관리·판매체계 개선을 들었다.<br><br>데일리안 이소희 기자 (aswith@dailian.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=119">▶ 데일리안 네이버 구독하기</a><br><a href="http://naver.me/xorooYvI">★ 구독만 해도 스타벅스쿠폰이 쏟아진다!</a><br><a target="_blank" href="https://m.dailian.co.kr/report">▶ 제보하기</a><br><br>ⓒ (주)데일리안 - 무단전재, 변형, 무단배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021031916620005700_P4_20210526141811458.jpg?type=w647" alt="" /><em class="img_desc">오토바이 경적 시위하는 현대중공업 조합원들<br>현대중공업 노조가 2년 치 임단협 교섭 난항을 이유로 지난 3월 19일 부분 파업할 때 모습 [현대중공업 노조 제공. 재판매 및 DB 금지]</em></span><br><br>    (울산=연합뉴스) 김근주 기자 = 현대중공업 노동조합은 2019·2020년 임금 및 단체협약 교섭 난항으로 26일 부분 파업에 들어갔다.<br><br>    노조는 이날 오후 1시부터 울산 본사에서 전 조합원 대상 4시간 부분 파업에 돌입했다.<br><br>    파업 참여 조합원은 회사 정문 앞에서 열린 금속노조 영남권 결의대회에 참석해 주변을 행진했다.<br><br>    노조는 2019년과 2020년 통합 임금 및 단체협약 잠정합의안이 두 차례 부결된 이후 사측이 재교섭에 나서지 않는 것을 항의하는 의미로 파업했다고 설명했다.<br><br>    노조는 "재교섭 요구 후 두 달이 다 돼가는데도 사측은 반응이 없다"고 지적했다.<br><br>    사측은 현재까지 이날 파업으로 큰 생산 차질은 없는 것으로 파악했다.<br><br>    canto@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">해외점포 포함 2500여명 직원 대상</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/119/2021/05/26/0002496194_001_20210526135902775.jpeg?type=w647" alt="" /><em class="img_desc">신한은행 로고</em></span>신한은행은 자금세탁방지에 대한 직원 이해도 향상을 위해 ‘톰슨 로이터’의 자금세탁방지 및 경제제재 준수 교육 프로그램을 확대 시행한다고 26일 밝혔다.<br><br>톰슨 로이터는 전 세계 800개 이상의 금융기관과 기업에 각국의 최신 법규 및 규제 동향을 반영한 컴플라이언스 교육 프로그램을 제공하는 글로벌 솔루션업체이다. 국제적으로 컴플라이언스 교육 부문에서 브랜드 인지도가 높다.<br><br>특히 신한은행이 시행중인 자금세탁방지 및 경제제재 준수 교육프로그램은 110개국에서 사용 중인 대표적인 자금세탁방지 교육 프로그램이다.<br><br>신한은행은 지난해까지 자금세탁방지부를 포함한 본점 유관부서, 예비 주재원, 해외점포 직원을 대상으로 교육을 시행해왔다. 그러나 최근 높아진 국내외 금융감독기관의 규제 수준과 임직원 교육 강화 요구에 발맞춰 본부부서 전체, 관련 업무 수행 가능성이 높은 기업점포 직원까지 범위를 확대해 2500여명을 대상으로 교육을 진행한다.<br><br>대상직원은 26일부터 약 6주에 걸쳐 교육과정을 받는다. 자금세탁방지제도 및 경제제재에 대한 내용은 물론 최근 교육 필요성이 부각되고 있는 미국 해외자산통제국(OFAC) 제재와 관련된 교육까지 총 3개의 과정을 수료하게 된다.<br><br>신한은행 관계자는 “자금세탁방지 및 경제제재 준수는 직원 이해도가 가장 중요한 만큼 진옥동 은행장이 직접 대상직원들의 적극적인 참여를 당부하는 등 교육 확대 시행에 관심이 높다”며 “앞으로도 자금세탁방지 전문가 양성에 지원을 강화해 고객이 믿고 맡길 수 있는 안전한 은행이 되고자 노력하겠다”라고 말했다.<br><br>데일리안 이호연 기자 (mico911@dailian.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=119">▶ 데일리안 네이버 구독하기</a><br><a href="http://naver.me/xorooYvI">★ 구독만 해도 스타벅스쿠폰이 쏟아진다!</a><br><a target="_blank" href="https://m.dailian.co.kr/report">▶ 제보하기</a><br><br>ⓒ (주)데일리안 - 무단전재, 변형, 무단배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052612940001300_P4_20210526134713120.jpg?type=w647" alt="" /></span><br><br>    (서울=연합뉴스) 김인철 기자 = 26일 서울 강남구 삼성동 코엑스에서 열린 서울리빙디자인페어에서 방문객들이 '풍화, 아세안의 빛' 전시를 관람하고 있다. 2021.5.26<br><br>    yatoya@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

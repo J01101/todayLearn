@@ -1,0 +1,27 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/277/2021/05/26/0004909122_001_20210526122204629.jpg?type=w647" alt="" /></span><br><br>26일 서울 강남구 코엑스에서 열린 '서울리빙디자인페어'를 찾은 관람객들이 다양한 디자인 소품을 보고 있다./강진형 기자aymsdream@<br><br><a href="https://www.asiae.co.kr/fortune/index.htm?utm_source=navernews&utm_medium=naver_view&utm_campaign=fortune">▶ 속 시원한 풀이! 2021년 정통사주·운세·토정비결</a><br><a href="https://www.asiae.co.kr/event/2021/jobgo/">▶ 직장인을 위한 '빅데이터 분석' 국비 특화과정 모집</a><br><a href="https://core.asiae.co.kr/?utm_source=naver_article&utm_medium=pc_mobile&utm_campaign=core">▶ 투자 성공의 핵심은 기업분석! 'CORE' 바로가기</a><br><br>&lt;ⓒ경제를 보는 눈, 세계를 보는 창 아시아경제 무단전재 배포금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

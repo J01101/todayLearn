@@ -1,0 +1,53 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	 <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/014/2021/05/26/0004645718_001_20210526154303611.jpg?type=w647" alt="" /><em class="img_desc">아마존과 MGM의 로고.로이터뉴스1</em></span>  <br>전자상거래업체 아마존의 영화사 MGM 인수가 실현될 일부 스트리밍 업체들이 사라지는 등 시장에 큰 지각변동이 예상되고 있다.  <br>  <br>25일(현지시간) 경제 매체 야후파이낸스는 아마존과 MGM의 90억달러(약 10조1024억원) 규모 합병이 예정대로 진행된다면 경쟁은 한층 더 치열해지고 아마존이 스트리밍 시장에서 넷플릭스와 디즈니, 애플과 경쟁할 수 있는 위치에 오를 것이라고 보도했다.  <br>  <br>투자은행 자문업체 에버코어ISI 이사 마크 머헤이니는 야후파이낸스와 가진 인터뷰에서 스트리밍 경쟁에 합류하는데 드는 비용은 계속 증가할 것이라며 앞으로 더 많은 업체들간 합병도 예상했다.  <br>  <br>그는 글로벌 스트리밍 시장에서 경쟁력을 갖추려면 연간 100억달러(약 11조1700억원)를 투자해야한다며 5대 업체들을 제외하고는 이러한 규모를 감당하기 힘들 것으로 전망했다.  <br>  <br>코넬대 로스쿨 조지 헤이 교수는 헤이 교수는 야후파이낸스에 &quot;워너미디어와 디스커버리의 합병, 넷플릭스가 코로나19 이후 가입자를 늘리는데 고전하고 있는 것은 기존의 강자들에게도 스트리밍 시장이 얼마나 경쟁이 치열한지를 보여주고 있다”고 말했다.  <br>  <br>지난주 워너미디어와 디스커버리는 합병을 발표했다. 애널리스트들은 앞으로 컴캐스트와 비아콤CBS 같은 대형 미디어 기업들도 합병을 추진할 수 밖에 없을 것으로 예상하고 있다.  <br>  <br>반면 머헤이니는 일부는 결국 보유하고 있는 콘텐츠를 대형 스트리밍 업체에 매각하고 정리를 하는 경우도 있을 것이라고 예상했다.  <br>  <br>코넬대 헤이 교수는 아마존의 MGM 인수를 계기로 반독점 문제가 다시 제기되겠으나 저지하기 힘들 것이라고 밝혔다.  <br>  <br>뉴욕대 무역규제 전문가인 엘레노르 폭스 교수는 아마존이 아직 스트리밍 시장에서는 강자가 아니며 영화 제작에서는 걸음마 단계라고 이번 MGM 인수으로 나타날 수 있는 파급효과를 축소했다.  <br>  <br>  <span id="customByline">jjyoon@fnnews.com 윤재준 기자</span>  <br>  <br> <strong><a target="_blank" href="https://www.fnnews.com/pineapple.html?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=pineapple"><u>▶ 날로먹고 구워먹는 금융이슈 [파인애플]</u></a><br><a target="_blank" href="https://www.fnnews.com/moasis?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=moasis"><u>▶ 모(毛)아 모아 [모아시스]</u></a><br><a target="_blank" href="https://hugs.fnnews.com/home?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=hugslink"><u>▶ 헉! 소리나는 스!토리 뉴스 [헉스]</u></a></strong> <br> <br>※ 저작권자 ⓒ 파이낸셜뉴스. 무단 전재-재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">FTC위원장으로 거론되는 칼 러신 워싱턴DC 검찰총장이 주도<br>"아마존 외 사이트에선 더 싸게 팔지 말라"는 조항이 문제</strong><TABLE cellSpacing="5" cellPadding="0" width="500" align="CENTER" bgColor="ffffff" border="0"><TR><TD style="PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px;" bgColor="ffffff"><TABLE cellSpacing="5" cellPadding="0" bgColor="ffffff" border="0"><TR><TD><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/018/2021/05/26/0004939196_001_20210526114601502.jpg?type=w647" alt="" /></span></TD></TR><TR><TD style="PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: 돋움,돋움체; COLOR: 595959; FONT-SIZE: 9pt !important; PADDING-TOP: 2px;">(사진=AFP)</TD></TR></TABLE></TD></TR></TABLE>[이데일리 최정희 기자] 미국 워싱턴DC 검찰이 아마존을 상대로 반독점 소송을 제기했다. 아마존이 소매업자에게 아마존 외의 사이트에서 제품을 더 싸게 판매하는 것을 금지하고 있어 소비자 판매 가격을 인위적으로 통제하고 있다는 비판이다. <br><br>이번 소송은 빅테크 업체들의 반독점 위반을 비판해왔던 칼 러신 워싱턴DC 검찰총장이 주도한다는 측면에서도 주목된다. 그는 연방거래위원회(FTC) 위원장으로 유력하게 거론되고 있다. 이에 따라 아마존은 시작일 뿐, 페이스북 및 구글 등 빅테크를 향한 반독점 규제 등이 강화될 수 있다는 평가가 나온다. <br><br>25일(현지시간) 월스트리트저널(WSJ) 등에 따르면 워싱턴DC 검찰은 아마존이 전자상거래 시장에서 지배적 지위를 이용해 ‘소매업자가 자신의 웹사이트를 포함한 다른 웹사이트에 물건을 팔 때 아마존 플랫폼보다 더 낮은 가격을 제공하는 것을 금지한다’는 내용으로 소매업자와 제3자 판매 계약을 맺는 것이 반독점법 위반이라고 밝혔다. 이에 따라 워싱턴DC 검찰은 아마존이 공정경쟁을 헤쳤다며 반독점법 위반을 근거로 위싱턴DC 법원에 소장을 접수했다. <br><br>칼 러신 워싱턴DC 검찰총장은 “아마존이 소매업자가 다른 곳에서 더 나은 조건으로 거래를 하는 것을 차단했다. 이는 소비자 가격을 인위적으로 높이게 된다”며 “아마존은 온라인 소매 판매시장에서 가격을 통제하고 다른 모든 사람들보다 우위를 차지하기 때문에 독점력을 유지할 수 있었다”고 비판했다. <br><br>아마존은 2019년 반독점 규제 움직임이 가시화되자 이 계약 조항의 이름을 ‘가격 동등성 조항’에서 ‘공정 가격 책정 규정’으로만 바꿨을 뿐 계약 내용을 수정하진 않았다. 즉, 아마존에서 판매하는 가격이 하한선으로 형성돼 사실상 가격을 통제하게 된다는 설명이다. 만약 소매업자가 아마존 플랫폼보다 다른 곳에서 가격을 더 싸게 팔 경우 아마존은 해당 제품을 ‘추천’하지 않게 되고 이것이 소매업자가 아마존에서 판매하는 가격을 하한가로 설정할 수밖에 없는 이유가 된다는 게 러신 총장의 주장이다. <br><br>이에 아마존은 소매업자가 자체적으로 가격을 책정할 수 있다며 반발했다. 아마존측은 이러한 ‘공정 가격 책정 규정’이 아마존을 이용하는 소비자가 다른 곳보다 비싸게 물건을 구입하지 않도록 하기 위한 취지에서 고안됐다고 설명했다. 아마존 대변인은 “워싱턴DC 검찰총장은 (우리의 정책을) 정확히 반대로 이해했다”며 “소매업자들은 우리 플랫폼에서 물건의 가격을 스스로 정한다”고 말했다. <br><br>이번 아마존에 대한 반독점 소송은 다른 빅테크 업체들의 반독점 규제에도 영향을 미칠 것으로 보인다. 아마존이 미국에서 반독점 혐의로 피소된 것은 처음이다. 특히 조 바이든 행정부가 빅테크 업체들의 반독점 규제를 강화하겠다고 밝혀왔던 터라 이번 소송이 더욱 주목되고 있다. 바이든 대통령은 아마존의 반독점 폐해를 정면 비판하는 논문을 쓴 리나 칸 컬럼비아대 교수를 FTC 위원으로 지명했다. 이번 소송을 주도한 칼 러신 총장은 FTC 위원장으로 유력하게 거론되고 있다. 러신은 2019년엔 구글의 온라인 검색에 대한 독점권이 불법이라고 주장했다.<br><br>워싱턴DC 검찰 외에 미국 내 다른 주나 연방거래위원회 등도 아마존의 사업 행태에 대해 조사하고 있다. 유럽연합은 작년 아마존을 독점금지법 위반 혐의로 조사하기도 했다.<br><br>최정희 (jhid0201@edaily.co.kr)<br><br><a target="_blank" href="https://www.edaily.co.kr/newsplus">▶ #24시간 빠른 #미리보는 뉴스 #eNews+</a><br><a target="_blank" href="http://media.naver.com/channel/promotion.nhn?oid=018">▶ 네이버에서 '이데일리 뉴스'를 만나보세요</a><br><a target="_blank" href="http://snaptime.edaily.co.kr/">▶ 빡침해소, 청춘뉘우스 '스냅타임'</a><br><br><p><br>＜ⓒ종합 경제정보 미디어 이데일리 - 무단전재 & 재배포 금지＞</p>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

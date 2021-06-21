@@ -1,0 +1,1293 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="vod_area"><iframe _src="/main/readVod.nhn?oid=056&aid=0011051475&position=1&autoPlay=true&viewType=" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe></div><br><br>[앵커]<br><br>여러분, 안녕하십니까?<br><br>백신을 한 번만 맞아도 당장 다음 달부터 가족들과 더 여럿이 모일 수 있고, 7월부터는 야외에서 마스크를 벗어도 됩니다.<br><br>정부가 코로나19 백신 접종에 따른 혜택들을 발표했습니다.<br><br>첫 소식, 김도영 기자가 전해드립니다.<br><br> [리포트]<br><br> 현재 직계가족은  8인까지만 모임이 허용됩니다.<br><br> 하지만 다음 달부터 백신을 한 번이라도 맞은 사람은 인원에서 제외합니다.<br><br> 예를 들어 가족 중 할아버지 할머니  두 명이 접종했다면 이 두 사람에 인원제한 범위인 8명을 더해 모두 10명이 모일 수 있습니다.<br><br> [권덕철/중앙재난안전대책본부 1차장 : "고령층뿐 아니라 1차 접종자는 인원제한에서 제외되므로 가족 내 접종자가 많아질수록 모일 수 있는 인원은 늘어나게 됩니다."]<br><br> 노인복지시설에선  접종자들을 위한 프로그램도 열리고 경로당도 운영이 가능합니다.<br><br>  국립공원과 고궁 등의 공공시설 이용료 할인, 무료입장 혜택도 있습니다.<br><br> 정부 목표는  다음 달 말까지 전 국민의 25%인 1,300만 명이 1차 접종을 마치는 겁니다.<br><br> 이 목표가 달성되면 7월부터는 방역 조치가 더욱 완화됩니다.<br><br> 백신을 한 번만 맞았더라도  야외에서 마스크를 안 써도 됩니다.<br><br> [박혜경/중앙방역대책본부 방역지원단장 : "(1차 접종자는) 야외에서의 전파 가능성이 매우 낮은 것으로 보고 있고, 타인으로의 전파 가능성도 매우 낮아져 있는 상황이라고 판단하고."]<br><br> 예방접종을 완료하면 5인 이상 사적모임 금지 기준에서 제외됩니다.<br><br> 식당과 카페 등은 1차 접종자는 실외, 2차 접종자는 실내외 모두  인원 제한에 상관없이  이용할 수 있습니다.<br><br> 예배와 미사, 법회 등  대면 종교활동도  인원 기준에서 빠지게 됩니다.<br><br> 국민 70%가 1차 접종을 마치는 9월 말 이후엔  거리두기와 방역수칙이 대폭 완화될 것으로 보입니다.<br><br> [김부겸/중앙재난안전대책본부장 : "집단면역이 달성되는 시점에서는 실내에서의 마스크 착용 완화도 검토하게 될 것입니다."]<br><br> 정부는 이와 함께 접종률이 높은 지자체에 방역조치를 완화하는 권한도 확대하고 재난안전특별교부세를 지원하는 방안도 검토 중입니다.<br><br> KBS 뉴스 김도영입니다.<br><br> 영상편집:사명환/그래픽:김현갑<br><br><center><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/056/2021/05/26/0011051475_004_20210526222302707.png?type=w647" alt="" /></span></center><br><br>김도영 (peace1000@kbs.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=056" target="_blank">▶ 더 빠르고 정확한 소식을 원하시면 KBS뉴스 구독!</a><br><a href="http://news.kbs.co.kr/special/covid19/vaccine.html"_blank">▶ 코로나19 언제 어떤 백신을 누가 맞을까?</a><br><a href="https://pf.kakao.com/_REkxbE" target="_blank">▶ 뉴스 제보하기 [여기를 클릭!]</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span style="border-left:4px solid #959595; padding-left: 20px; display: inline-block"><strong>코인마켓캡 시세 비트코인 8.47% 뛴 4만257달러<br>가상화폐 대신 금·은 투자 인플레 헤지 수단 부각</strong></span><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/009/2021/05/26/0004799943_001_20210526214402810.jpg?type=w647" alt="" /><em class="img_desc">[사진 제공 = 연합뉴스]</em></span>국내서 비트코인 개당 가격이 오름세를 보이면서 4800만원대에 거래되고 있다.<br><br>26일 오후 9시 30분 국내 거래소 빗썸에서 가상화폐 대장격인 비트코인 개당 가격은 24시간 전보다 4.78% 오른 4828만4000원에 거래되고 있다. 이더리움은 8.18% 급등한 342만7000원이다.<br><br>같은 시간 업비트에서도 비트코인 개당 가격은 4800만원대로, 전일 대비 2.51% 상승한 4822만6000원에 시세가 형성돼 있다.<br><br>이더리움은 전일 대비 3.47% 오른 343만1000원, 도지코인은 0.47% 상승한 428원이다.<br><br>가상화폐는 주식시장과 달리 거래소 단위로 거래가 이뤄져 같은 종류라도 거래소별로 거래 가격이 조금씩 다르다.<br><br>글로벌 가상화폐 시황 중계사이트인 코인마켓캡에 따르면 같은 시간(한국시간 기준) 비트코인은 24시간 전보다 8.47% 뛴 4만257달러에 시세가 형성됐다. 이더리움은 16.72% 급등한 2865달러를, 도지코인은 7.06% 오른 35.71센트를 각각 기록했다.<br><br>앞서 비트코인 가격은 지난 19일 30% 가량 폭락하며 한때 3만달러에 바짝 근접했다. 이더리움은 지난 11일 개당 4300달러를 넘었다가 내림세가 이어져 현재 2800달러대를 오르내리고 있다.<br><br>가상화폐 시장에는 최근 악재가 이어졌다. 미국 정부는 지난 20일(현지시간) 1만달러 이상 가상화폐 거래에 대해 국세청(IRS)에 신고 의무를 부과하는 등 가상화폐 규제에 나선다고 밝혔다. 바로 전날에는 중국이 가상자산 발행과 거래금지를 넘어 채굴까지 금지하기로 했다. 일론 머스크가 트위터를 통해 돌발 메시지를 던지는 것도 가상화폐 시장에 불확실성을 높이고 있다.<br><br><hr style="border:0.5px solid#333333; display: block !important;"><B>비트코인 가격 아직 바닥 근접하지 않았다 주장도<hr style="border:0.5px solid#333333; display: block !important;"></b><br><br>최근 가상자산 시장에서 비트코인 등 가상화폐 가격이 급락하며 변동성이 커지는 가운데 일각에서는 아직 바닥에 근접하지 않았다는 전망과 함께 투자자들이 이제는 금과 은 등 원자재 시장에 주목할 것이라는 주장도 나온다.   <br><br>구겐하임파트너스의 스캇 미너드(Scott Minerd) 최고투자책임자(CIO)는 지난 25일(현지시간) CNBC에 출연해 "돈은 가상화폐를 떠나고 사람들은 여전히 인플레이션 헤지 수단을 찾고 있기 때문에 금과 은이 더 좋은 장소가 될 것"이라고 말했다. 지난달 비트코인 붕괴를 경고했던 미너드 CIO는 비트코인의 추가 하락을 예상했다. 그는 비트코인 가격이 5만5000달러 근처였던 지난달 21일 "매우 거품이 많아 보인다"며 "단기적으로 50% 급락해 2만~3만달러 사이가 될 수 있다"고 전망한 바 있다. 그는 이날 역시 가상화폐 시장이 안정되려면 시간이 걸릴 것이라고 예상했다.<br><br>미너드 CIO는 "경쟁 통화가 확산되면서 비트코인에 투자했던 사람들이 돈을 빼내 다른 코인에 배분하고 있다"며 "인터넷 버블처럼 생존자가 누구일지 물음 속에서 정리할 시간을 갖기 위해 가격 하락과 자금 유출을 겪어야만 하는데, 향후 몇 년 동안 겪어야 할 일도 바로 그것"이라고 말했다.<br><br>국내에서도 암호화폐 가격 급등락으로 불안감을 느낀 투자자들이 다시 금에 주목하고 있다는 분석도 나온다. 대표적인 안전자산인 금은 위험자산과 가격이 반대로 움직이는 경향을 보인다. 금이 인플레이션(추세적인 물가 상승) 헤지(hedge·위험 회피) 수단으로 부각하고 있는 것. 추세적으로 물가가 오를 경우 다른 자산에 비해 금이 가치 유지에 더 용이하기 때문이다.<br><br>황병진 NH투자증권 연구원은 "금과 같은 안전자산 선호 현상이 적어도 올해 2분기까지, 길게 보면 8월까지 이어질 전망"이라며 "앞으로의 (금값 흐름의) 관건은 금리를 자극할 미국 연방준비제도(연준)의 테이퍼링(자산매입 축소) 언급 여부가 제롬 파월 연준 의장의 입에서 직접 언급되는 것"이라고 말했다.<br><br>김소현 대신증권 연구원은 "전반적으로 금값이 오르고 있고 인플레이션 우려가 계속 나오고 있는 가운데 실제로도 이런 우려가 높아지는 상황"이라며 "인플레이션 헤지 수요로 금에 대한 투자 매력이 높아지고 있고 이런 추세가 올해 상반기, 길면 연말까지 이어질 것으로 예상한다"고 말했다.<br><br>[전종헌 매경닷컴 기자 cap@mk.co.kr]<br><br><!-- r_start //--><!-- r_end //--><a href="https://media.naver.com/channel/promotion.nhn?oid=009" target="_blank">▶ '경제 1위' 매일경제, 네이버에서 구독하세요</a><br><a href="https://www.mk.co.kr/premium/series/20121/?utm_source=naver&utm_medium=promotion&utm_campaign=make" target="_blank">▶ 이 제품은 '이렇게 만들죠' 영상으로 만나요</a><br><a href="https://tv.naver.com/mkestatetv" target="_blank">▶ 부동산의 모든것 '매부리TV'가 펼칩니다</a><br><br>[ⓒ 매일경제 & mk.co.kr, 무단전재 및 재배포 금지]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<iframe src="https://player.audiop.naver.com/player?cpId=audioclip&cpMetaId=CH_508_EP_1638" title="골라듣는 뉴스룸 플레이어" width="507px" height="160px" frameborder="0" scrolling="no" class="naveraudioplayer"></iframe><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/055/2021/05/26/0000896689_001_20210526185302199.jpg?type=w647" alt="" /></span><br><div style="text-align: center;"><br>&#x1f3a7; 아래 주소로 접속하시면 음성으로 기사를 들을 수 있습니다.<br>[ https://news.sbs.co.kr/n/?id=N1006330727 ]<br> </div><span style="font-size:16px"><strong>[골룸] 뭘스트리트 33 : 애증의 테슬라, 손절은 아직 이르다?</strong></span><br><br>장거리 전기차의 선두주자로 표준을 만들어온 혁신 기업 테슬라.<br><br>하지만 최근에는 CEO 일론 머스크가 비트코인 등에 관련된 여러 구설수로 시끄럽고, 엎친데 덮친격으로 수직으로 솟았던 주가가 조정을 받으며 고평가 논란까지 일고 있는데요.<br><br>국내 서학 개미들의 엄청난 사랑을 받아온 테슬라의 미래 가치는 무엇인지 치열해진 전기차 업계에서 '자율주행' 기술로 선두를 유지할 수 있을 지 종합적으로 따져봅니다.<br><br>00:00 전기차 테슬라의 미래가치는?<br>10:10 바람 잘 날 없는 머스크<br>13:20 코인에 관한 논란<br>17:25 매출과 영업 이익 사이?<br>20:08 자율주행의 절대 강자<br>27:35 스페이스X가 미칠 영향은<br>29:18 치열해진 전기차 업계<br>32:31 테슬라의 신차들<br><br>*본 콘텐츠에 포함되는 투자정보는 참고만을 위해서 전해드립니다.<br>&nbsp;투자의 판단과 책임은 전적으로 투자자에게 있습니다.<br><br><span style="font-size:16px"><span style="color:rgb(105, 105, 105)"><strong>▶ <span style="font-size:12px">&lt;골룸: 골라듣는 뉴스룸&gt; 팟캐스트는 '팟빵', '네이버 오디오클립', '애플 팟캐스트'에서도 들을 수 있습니다.</span></strong><br>- '팟빵' 접속하기<br><span>[ http://podbbang.com/ch/8888 ]</span><br>- '네이버 오디오클립' 접속하기<br><span>[ http://naver.me/FfpbjhZj ]</span><br>- '애플 팟캐스트'로 접속하기<br><span>[ https://podcasts.apple.com/kr/podcast/id964021756 ]</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div>&nbsp;</div><br><br>정호선 기자(hosun@sbs.co.kr)<br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000261&plink=FOOT&cooper=NAVER">▶ 더 깊은 인물 이야기 [그, 사람]</a><br><a href="https://news.sbs.co.kr/news/newsHotIssueList.do?tagId=10000050973&plink=FOOT&cooper=NAVER">▶ 코로나19 현황 속보</a><br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000260&plink=FOOT&cooper=NAVER">※ ⓒ SBS & SBS Digital News Lab. : 무단복제 및 재배포 금지</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<iframe src="https://player.audiop.naver.com/player?cpId=audioclip&cpMetaId=CH_508_EP_1638" title="골라듣는 뉴스룸 플레이어" width="507px" height="160px" frameborder="0" scrolling="no" class="naveraudioplayer"></iframe><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/055/2021/05/26/0000896689_001_20210526185302199.jpg?type=w647" alt="" /></span><br><div style="text-align: center;"><br>&#x1f3a7; 아래 주소로 접속하시면 음성으로 기사를 들을 수 있습니다.<br>[ https://news.sbs.co.kr/n/?id=N1006330727 ]<br> </div><span style="font-size:16px"><strong>[골룸] 뭘스트리트 33 : 애증의 테슬라, 손절은 아직 이르다?</strong></span><br><br>장거리 전기차의 선두주자로 표준을 만들어온 혁신 기업 테슬라.<br><br>하지만 최근에는 CEO 일론 머스크가 비트코인 등에 관련된 여러 구설수로 시끄럽고, 엎친데 덮친격으로 수직으로 솟았던 주가가 조정을 받으며 고평가 논란까지 일고 있는데요.<br><br>국내 서학 개미들의 엄청난 사랑을 받아온 테슬라의 미래 가치는 무엇인지 치열해진 전기차 업계에서 '자율주행' 기술로 선두를 유지할 수 있을 지 종합적으로 따져봅니다.<br><br>00:00 전기차 테슬라의 미래가치는?<br>10:10 바람 잘 날 없는 머스크<br>13:20 코인에 관한 논란<br>17:25 매출과 영업 이익 사이?<br>20:08 자율주행의 절대 강자<br>27:35 스페이스X가 미칠 영향은<br>29:18 치열해진 전기차 업계<br>32:31 테슬라의 신차들<br><br>*본 콘텐츠에 포함되는 투자정보는 참고만을 위해서 전해드립니다.<br>&nbsp;투자의 판단과 책임은 전적으로 투자자에게 있습니다.<br><br><span style="font-size:16px"><span style="color:rgb(105, 105, 105)"><strong>▶ <span style="font-size:12px">&lt;골룸: 골라듣는 뉴스룸&gt; 팟캐스트는 '팟빵', '네이버 오디오클립', '애플 팟캐스트'에서도 들을 수 있습니다.</span></strong><br>- '팟빵' 접속하기<br><span>[ http://podbbang.com/ch/8888 ]</span><br>- '네이버 오디오클립' 접속하기<br><span>[ http://naver.me/FfpbjhZj ]</span><br>- '애플 팟캐스트'로 접속하기<br><span>[ https://podcasts.apple.com/kr/podcast/id964021756 ]</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div>&nbsp;</div><br><br>정호선 기자(hosun@sbs.co.kr)<br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000261&plink=FOOT&cooper=NAVER">▶ 더 깊은 인물 이야기 [그, 사람]</a><br><a href="https://news.sbs.co.kr/news/newsHotIssueList.do?tagId=10000050973&plink=FOOT&cooper=NAVER">▶ 코로나19 현황 속보</a><br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000260&plink=FOOT&cooper=NAVER">※ ⓒ SBS & SBS Digital News Lab. : 무단복제 및 재배포 금지</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<iframe src="https://player.audiop.naver.com/player?cpId=audioclip&cpMetaId=CH_508_EP_1638" title="골라듣는 뉴스룸 플레이어" width="507px" height="160px" frameborder="0" scrolling="no" class="naveraudioplayer"></iframe><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/055/2021/05/26/0000896689_001_20210526185302199.jpg?type=w647" alt="" /></span><br><div style="text-align: center;"><br>&#x1f3a7; 아래 주소로 접속하시면 음성으로 기사를 들을 수 있습니다.<br>[ https://news.sbs.co.kr/n/?id=N1006330727 ]<br> </div><span style="font-size:16px"><strong>[골룸] 뭘스트리트 33 : 애증의 테슬라, 손절은 아직 이르다?</strong></span><br><br>장거리 전기차의 선두주자로 표준을 만들어온 혁신 기업 테슬라.<br><br>하지만 최근에는 CEO 일론 머스크가 비트코인 등에 관련된 여러 구설수로 시끄럽고, 엎친데 덮친격으로 수직으로 솟았던 주가가 조정을 받으며 고평가 논란까지 일고 있는데요.<br><br>국내 서학 개미들의 엄청난 사랑을 받아온 테슬라의 미래 가치는 무엇인지 치열해진 전기차 업계에서 '자율주행' 기술로 선두를 유지할 수 있을 지 종합적으로 따져봅니다.<br><br>00:00 전기차 테슬라의 미래가치는?<br>10:10 바람 잘 날 없는 머스크<br>13:20 코인에 관한 논란<br>17:25 매출과 영업 이익 사이?<br>20:08 자율주행의 절대 강자<br>27:35 스페이스X가 미칠 영향은<br>29:18 치열해진 전기차 업계<br>32:31 테슬라의 신차들<br><br>*본 콘텐츠에 포함되는 투자정보는 참고만을 위해서 전해드립니다.<br>&nbsp;투자의 판단과 책임은 전적으로 투자자에게 있습니다.<br><br><span style="font-size:16px"><span style="color:rgb(105, 105, 105)"><strong>▶ <span style="font-size:12px">&lt;골룸: 골라듣는 뉴스룸&gt; 팟캐스트는 '팟빵', '네이버 오디오클립', '애플 팟캐스트'에서도 들을 수 있습니다.</span></strong><br>- '팟빵' 접속하기<br><span>[ http://podbbang.com/ch/8888 ]</span><br>- '네이버 오디오클립' 접속하기<br><span>[ http://naver.me/FfpbjhZj ]</span><br>- '애플 팟캐스트'로 접속하기<br><span>[ https://podcasts.apple.com/kr/podcast/id964021756 ]</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div>&nbsp;</div><br><br>정호선 기자(hosun@sbs.co.kr)<br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000261&plink=FOOT&cooper=NAVER">▶ 더 깊은 인물 이야기 [그, 사람]</a><br><a href="https://news.sbs.co.kr/news/newsHotIssueList.do?tagId=10000050973&plink=FOOT&cooper=NAVER">▶ 코로나19 현황 속보</a><br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000260&plink=FOOT&cooper=NAVER">※ ⓒ SBS & SBS Digital News Lab. : 무단복제 및 재배포 금지</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<iframe src="https://player.audiop.naver.com/player?cpId=audioclip&cpMetaId=CH_508_EP_1638" title="골라듣는 뉴스룸 플레이어" width="507px" height="160px" frameborder="0" scrolling="no" class="naveraudioplayer"></iframe><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/055/2021/05/26/0000896689_001_20210526185302199.jpg?type=w647" alt="" /></span><br><div style="text-align: center;"><br>&#x1f3a7; 아래 주소로 접속하시면 음성으로 기사를 들을 수 있습니다.<br>[ https://news.sbs.co.kr/n/?id=N1006330727 ]<br> </div><span style="font-size:16px"><strong>[골룸] 뭘스트리트 33 : 애증의 테슬라, 손절은 아직 이르다?</strong></span><br><br>장거리 전기차의 선두주자로 표준을 만들어온 혁신 기업 테슬라.<br><br>하지만 최근에는 CEO 일론 머스크가 비트코인 등에 관련된 여러 구설수로 시끄럽고, 엎친데 덮친격으로 수직으로 솟았던 주가가 조정을 받으며 고평가 논란까지 일고 있는데요.<br><br>국내 서학 개미들의 엄청난 사랑을 받아온 테슬라의 미래 가치는 무엇인지 치열해진 전기차 업계에서 '자율주행' 기술로 선두를 유지할 수 있을 지 종합적으로 따져봅니다.<br><br>00:00 전기차 테슬라의 미래가치는?<br>10:10 바람 잘 날 없는 머스크<br>13:20 코인에 관한 논란<br>17:25 매출과 영업 이익 사이?<br>20:08 자율주행의 절대 강자<br>27:35 스페이스X가 미칠 영향은<br>29:18 치열해진 전기차 업계<br>32:31 테슬라의 신차들<br><br>*본 콘텐츠에 포함되는 투자정보는 참고만을 위해서 전해드립니다.<br>&nbsp;투자의 판단과 책임은 전적으로 투자자에게 있습니다.<br><br><span style="font-size:16px"><span style="color:rgb(105, 105, 105)"><strong>▶ <span style="font-size:12px">&lt;골룸: 골라듣는 뉴스룸&gt; 팟캐스트는 '팟빵', '네이버 오디오클립', '애플 팟캐스트'에서도 들을 수 있습니다.</span></strong><br>- '팟빵' 접속하기<br><span>[ http://podbbang.com/ch/8888 ]</span><br>- '네이버 오디오클립' 접속하기<br><span>[ http://naver.me/FfpbjhZj ]</span><br>- '애플 팟캐스트'로 접속하기<br><span>[ https://podcasts.apple.com/kr/podcast/id964021756 ]</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div>&nbsp;</div><br><br>정호선 기자(hosun@sbs.co.kr)<br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000261&plink=FOOT&cooper=NAVER">▶ 더 깊은 인물 이야기 [그, 사람]</a><br><a href="https://news.sbs.co.kr/news/newsHotIssueList.do?tagId=10000050973&plink=FOOT&cooper=NAVER">▶ 코로나19 현황 속보</a><br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000260&plink=FOOT&cooper=NAVER">※ ⓒ SBS & SBS Digital News Lab. : 무단복제 및 재배포 금지</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<iframe src="https://player.audiop.naver.com/player?cpId=audioclip&cpMetaId=CH_508_EP_1638" title="골라듣는 뉴스룸 플레이어" width="507px" height="160px" frameborder="0" scrolling="no" class="naveraudioplayer"></iframe><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/055/2021/05/26/0000896689_001_20210526185302199.jpg?type=w647" alt="" /></span><br><div style="text-align: center;"><br>&#x1f3a7; 아래 주소로 접속하시면 음성으로 기사를 들을 수 있습니다.<br>[ https://news.sbs.co.kr/n/?id=N1006330727 ]<br> </div><span style="font-size:16px"><strong>[골룸] 뭘스트리트 33 : 애증의 테슬라, 손절은 아직 이르다?</strong></span><br><br>장거리 전기차의 선두주자로 표준을 만들어온 혁신 기업 테슬라.<br><br>하지만 최근에는 CEO 일론 머스크가 비트코인 등에 관련된 여러 구설수로 시끄럽고, 엎친데 덮친격으로 수직으로 솟았던 주가가 조정을 받으며 고평가 논란까지 일고 있는데요.<br><br>국내 서학 개미들의 엄청난 사랑을 받아온 테슬라의 미래 가치는 무엇인지 치열해진 전기차 업계에서 '자율주행' 기술로 선두를 유지할 수 있을 지 종합적으로 따져봅니다.<br><br>00:00 전기차 테슬라의 미래가치는?<br>10:10 바람 잘 날 없는 머스크<br>13:20 코인에 관한 논란<br>17:25 매출과 영업 이익 사이?<br>20:08 자율주행의 절대 강자<br>27:35 스페이스X가 미칠 영향은<br>29:18 치열해진 전기차 업계<br>32:31 테슬라의 신차들<br><br>*본 콘텐츠에 포함되는 투자정보는 참고만을 위해서 전해드립니다.<br>&nbsp;투자의 판단과 책임은 전적으로 투자자에게 있습니다.<br><br><span style="font-size:16px"><span style="color:rgb(105, 105, 105)"><strong>▶ <span style="font-size:12px">&lt;골룸: 골라듣는 뉴스룸&gt; 팟캐스트는 '팟빵', '네이버 오디오클립', '애플 팟캐스트'에서도 들을 수 있습니다.</span></strong><br>- '팟빵' 접속하기<br><span>[ http://podbbang.com/ch/8888 ]</span><br>- '네이버 오디오클립' 접속하기<br><span>[ http://naver.me/FfpbjhZj ]</span><br>- '애플 팟캐스트'로 접속하기<br><span>[ https://podcasts.apple.com/kr/podcast/id964021756 ]</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div>&nbsp;</div><br><br>정호선 기자(hosun@sbs.co.kr)<br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000261&plink=FOOT&cooper=NAVER">▶ 더 깊은 인물 이야기 [그, 사람]</a><br><a href="https://news.sbs.co.kr/news/newsHotIssueList.do?tagId=10000050973&plink=FOOT&cooper=NAVER">▶ 코로나19 현황 속보</a><br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000260&plink=FOOT&cooper=NAVER">※ ⓒ SBS & SBS Digital News Lab. : 무단복제 및 재배포 금지</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	경영난에 빠진 르노삼성자동차가 다음달부터 유럽 시장에서 소형 스포츠유틸리티차(SUV) XM3를 본격 판매한다고 26일 밝혔다. 수출명은 ‘뉴 아르카나’다.<br><br>르노삼성차는 지난 3월 프랑스·독일·이탈리아·스페인 등 4개국에 XM3 1.3 가솔린 터보 모델을 출시했다. 이번에는 하이브리드 모델을 새로 추가해 판매 지역을 유럽 내 28개 국가로 확대했다. 사실상 유럽 전역 판매에 나서는 셈이다. 사전 출시에서는 목표였던 7250대를 초과했고, 이달 말까지 8000대 이상의 판매 실적을 올릴 것으로 예상된다. XM3는 프랑스 자동차 전문 매거진 오토모토가 선정한 ‘최고의 SUV’에서 1위를 차지하는 등 유럽에서 호평을 받고 있다. XM3는 르노삼성차 중앙연구소가 글로벌 프로젝트를 통해 연구개발해 선보인 모델이다. 러시아를 제외한 전 세계 판매 물량을 부산공장에서 생산하고 있다. 지난해 7월 남미 지역에 처음 진출했고, 같은 해 12월 핵심 시장인 유럽 수출이 이뤄졌다. XM3의 총수출 실적은 현재까지 1만 3000대에 달한다.<br><br><!-- MobileAdNew center -->도미니크 시뇨라 르노삼성차 사장은 “XM3가 뛰어난 품질과 가격 경쟁력을 가지고 유럽 시장에 안정적으로 공급을 이어 갈 수 있다면 부산공장의 생산 물량 회복과 임직원의 고용 안정에도 크게 기여할 수 있을 것”이라고 말했다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	경영난에 빠진 르노삼성자동차가 다음달부터 유럽 시장에서 소형 스포츠유틸리티차(SUV) XM3를 본격 판매한다고 26일 밝혔다. 수출명은 ‘뉴 아르카나’다.<br><br>르노삼성차는 지난 3월 프랑스·독일·이탈리아·스페인 등 4개국에 XM3 1.3 가솔린 터보 모델을 출시했다. 이번에는 하이브리드 모델을 새로 추가해 판매 지역을 유럽 내 28개 국가로 확대했다. 사실상 유럽 전역 판매에 나서는 셈이다. 사전 출시에서는 목표였던 7250대를 초과했고, 이달 말까지 8000대 이상의 판매 실적을 올릴 것으로 예상된다. XM3는 프랑스 자동차 전문 매거진 오토모토가 선정한 ‘최고의 SUV’에서 1위를 차지하는 등 유럽에서 호평을 받고 있다. XM3는 르노삼성차 중앙연구소가 글로벌 프로젝트를 통해 연구개발해 선보인 모델이다. 러시아를 제외한 전 세계 판매 물량을 부산공장에서 생산하고 있다. 지난해 7월 남미 지역에 처음 진출했고, 같은 해 12월 핵심 시장인 유럽 수출이 이뤄졌다. XM3의 총수출 실적은 현재까지 1만 3000대에 달한다.<br><br><!-- MobileAdNew center -->도미니크 시뇨라 르노삼성차 사장은 “XM3가 뛰어난 품질과 가격 경쟁력을 가지고 유럽 시장에 안정적으로 공급을 이어 갈 수 있다면 부산공장의 생산 물량 회복과 임직원의 고용 안정에도 크게 기여할 수 있을 것”이라고 말했다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	경영난에 빠진 르노삼성자동차가 다음달부터 유럽 시장에서 소형 스포츠유틸리티차(SUV) XM3를 본격 판매한다고 26일 밝혔다. 수출명은 ‘뉴 아르카나’다.<br><br>르노삼성차는 지난 3월 프랑스·독일·이탈리아·스페인 등 4개국에 XM3 1.3 가솔린 터보 모델을 출시했다. 이번에는 하이브리드 모델을 새로 추가해 판매 지역을 유럽 내 28개 국가로 확대했다. 사실상 유럽 전역 판매에 나서는 셈이다. 사전 출시에서는 목표였던 7250대를 초과했고, 이달 말까지 8000대 이상의 판매 실적을 올릴 것으로 예상된다. XM3는 프랑스 자동차 전문 매거진 오토모토가 선정한 ‘최고의 SUV’에서 1위를 차지하는 등 유럽에서 호평을 받고 있다. XM3는 르노삼성차 중앙연구소가 글로벌 프로젝트를 통해 연구개발해 선보인 모델이다. 러시아를 제외한 전 세계 판매 물량을 부산공장에서 생산하고 있다. 지난해 7월 남미 지역에 처음 진출했고, 같은 해 12월 핵심 시장인 유럽 수출이 이뤄졌다. XM3의 총수출 실적은 현재까지 1만 3000대에 달한다.<br><br><!-- MobileAdNew center -->도미니크 시뇨라 르노삼성차 사장은 “XM3가 뛰어난 품질과 가격 경쟁력을 가지고 유럽 시장에 안정적으로 공급을 이어 갈 수 있다면 부산공장의 생산 물량 회복과 임직원의 고용 안정에도 크게 기여할 수 있을 것”이라고 말했다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	경영난에 빠진 르노삼성자동차가 다음달부터 유럽 시장에서 소형 스포츠유틸리티차(SUV) XM3를 본격 판매한다고 26일 밝혔다. 수출명은 ‘뉴 아르카나’다.<br><br>르노삼성차는 지난 3월 프랑스·독일·이탈리아·스페인 등 4개국에 XM3 1.3 가솔린 터보 모델을 출시했다. 이번에는 하이브리드 모델을 새로 추가해 판매 지역을 유럽 내 28개 국가로 확대했다. 사실상 유럽 전역 판매에 나서는 셈이다. 사전 출시에서는 목표였던 7250대를 초과했고, 이달 말까지 8000대 이상의 판매 실적을 올릴 것으로 예상된다. XM3는 프랑스 자동차 전문 매거진 오토모토가 선정한 ‘최고의 SUV’에서 1위를 차지하는 등 유럽에서 호평을 받고 있다. XM3는 르노삼성차 중앙연구소가 글로벌 프로젝트를 통해 연구개발해 선보인 모델이다. 러시아를 제외한 전 세계 판매 물량을 부산공장에서 생산하고 있다. 지난해 7월 남미 지역에 처음 진출했고, 같은 해 12월 핵심 시장인 유럽 수출이 이뤄졌다. XM3의 총수출 실적은 현재까지 1만 3000대에 달한다.<br><br><!-- MobileAdNew center -->도미니크 시뇨라 르노삼성차 사장은 “XM3가 뛰어난 품질과 가격 경쟁력을 가지고 유럽 시장에 안정적으로 공급을 이어 갈 수 있다면 부산공장의 생산 물량 회복과 임직원의 고용 안정에도 크게 기여할 수 있을 것”이라고 말했다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	경영난에 빠진 르노삼성자동차가 다음달부터 유럽 시장에서 소형 스포츠유틸리티차(SUV) XM3를 본격 판매한다고 26일 밝혔다. 수출명은 ‘뉴 아르카나’다.<br><br>르노삼성차는 지난 3월 프랑스·독일·이탈리아·스페인 등 4개국에 XM3 1.3 가솔린 터보 모델을 출시했다. 이번에는 하이브리드 모델을 새로 추가해 판매 지역을 유럽 내 28개 국가로 확대했다. 사실상 유럽 전역 판매에 나서는 셈이다. 사전 출시에서는 목표였던 7250대를 초과했고, 이달 말까지 8000대 이상의 판매 실적을 올릴 것으로 예상된다. XM3는 프랑스 자동차 전문 매거진 오토모토가 선정한 ‘최고의 SUV’에서 1위를 차지하는 등 유럽에서 호평을 받고 있다. XM3는 르노삼성차 중앙연구소가 글로벌 프로젝트를 통해 연구개발해 선보인 모델이다. 러시아를 제외한 전 세계 판매 물량을 부산공장에서 생산하고 있다. 지난해 7월 남미 지역에 처음 진출했고, 같은 해 12월 핵심 시장인 유럽 수출이 이뤄졌다. XM3의 총수출 실적은 현재까지 1만 3000대에 달한다.<br><br><!-- MobileAdNew center -->도미니크 시뇨라 르노삼성차 사장은 “XM3가 뛰어난 품질과 가격 경쟁력을 가지고 유럽 시장에 안정적으로 공급을 이어 갈 수 있다면 부산공장의 생산 물량 회복과 임직원의 고용 안정에도 크게 기여할 수 있을 것”이라고 말했다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	경영난에 빠진 르노삼성자동차가 다음달부터 유럽 시장에서 소형 스포츠유틸리티차(SUV) XM3를 본격 판매한다고 26일 밝혔다. 수출명은 ‘뉴 아르카나’다.<br><br>르노삼성차는 지난 3월 프랑스·독일·이탈리아·스페인 등 4개국에 XM3 1.3 가솔린 터보 모델을 출시했다. 이번에는 하이브리드 모델을 새로 추가해 판매 지역을 유럽 내 28개 국가로 확대했다. 사실상 유럽 전역 판매에 나서는 셈이다. 사전 출시에서는 목표였던 7250대를 초과했고, 이달 말까지 8000대 이상의 판매 실적을 올릴 것으로 예상된다. XM3는 프랑스 자동차 전문 매거진 오토모토가 선정한 ‘최고의 SUV’에서 1위를 차지하는 등 유럽에서 호평을 받고 있다. XM3는 르노삼성차 중앙연구소가 글로벌 프로젝트를 통해 연구개발해 선보인 모델이다. 러시아를 제외한 전 세계 판매 물량을 부산공장에서 생산하고 있다. 지난해 7월 남미 지역에 처음 진출했고, 같은 해 12월 핵심 시장인 유럽 수출이 이뤄졌다. XM3의 총수출 실적은 현재까지 1만 3000대에 달한다.<br><br><!-- MobileAdNew center -->도미니크 시뇨라 르노삼성차 사장은 “XM3가 뛰어난 품질과 가격 경쟁력을 가지고 유럽 시장에 안정적으로 공급을 이어 갈 수 있다면 부산공장의 생산 물량 회복과 임직원의 고용 안정에도 크게 기여할 수 있을 것”이라고 말했다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	경영난에 빠진 르노삼성자동차가 다음달부터 유럽 시장에서 소형 스포츠유틸리티차(SUV) XM3를 본격 판매한다고 26일 밝혔다. 수출명은 ‘뉴 아르카나’다.<br><br>르노삼성차는 지난 3월 프랑스·독일·이탈리아·스페인 등 4개국에 XM3 1.3 가솔린 터보 모델을 출시했다. 이번에는 하이브리드 모델을 새로 추가해 판매 지역을 유럽 내 28개 국가로 확대했다. 사실상 유럽 전역 판매에 나서는 셈이다. 사전 출시에서는 목표였던 7250대를 초과했고, 이달 말까지 8000대 이상의 판매 실적을 올릴 것으로 예상된다. XM3는 프랑스 자동차 전문 매거진 오토모토가 선정한 ‘최고의 SUV’에서 1위를 차지하는 등 유럽에서 호평을 받고 있다. XM3는 르노삼성차 중앙연구소가 글로벌 프로젝트를 통해 연구개발해 선보인 모델이다. 러시아를 제외한 전 세계 판매 물량을 부산공장에서 생산하고 있다. 지난해 7월 남미 지역에 처음 진출했고, 같은 해 12월 핵심 시장인 유럽 수출이 이뤄졌다. XM3의 총수출 실적은 현재까지 1만 3000대에 달한다.<br><br><!-- MobileAdNew center -->도미니크 시뇨라 르노삼성차 사장은 “XM3가 뛰어난 품질과 가격 경쟁력을 가지고 유럽 시장에 안정적으로 공급을 이어 갈 수 있다면 부산공장의 생산 물량 회복과 임직원의 고용 안정에도 크게 기여할 수 있을 것”이라고 말했다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">미국 정재계 인사 만나 ‘ESG 경영’ 설파<br>SK이노, 탄소포집·저장(CSS) 사업 수행<br>美 배터리 공장 1000명 추가 채용 계획<br>SK텔레콤 인적분할… 지배구조 개편도</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/081/2021/05/26/0003189282_001_20210526181602692.jpg?type=w647" alt="" /><em class="img_desc">최태원 SK그룹 회장</em></span>‘딥체인지’(근본적 변화)와 ‘구성원의 행복’을 설파해 온 최태원 SK그룹 회장이 요즘 ‘ESG 전도사’로 변신했다. ESG는 환경·사회·지배구조의 약자로 기업이 추구해야 할 3가지 분야를 뜻한다. 최 회장이 이끄는 SK그룹도 ESG 경영의 핵심 실천 사항인 친환경 사업에 대한 투자 확대를 본격화했다.<br><br>26일 재계에 따르면 최근 한미 정상회담 경제사절단 대표 자격으로 미국을 방문한 최 회장은 미국 정재계 핵심 인사들과 만나 “ESG 경영이 기후변화, 소득격차, 인구감소라는 전 지구적 문제를 해결할 해법”이라고 강조했다. 미국 측 인사들은 최 회장의 ESG 경영 철학에 공감을 표한 것은 물론, ESG 가치를 향한 최 회장의 열정에 엄지를 치켜세운 것으로 전해졌다.<br><br><!-- MobileAdNew center -->최 회장은 이번 미국 순방길에 SK이노베이션과 포드의 전기차 배터리 합작법인 ‘블루오벌SK’ 설립 계약을 성사시켰다. 한미 양국이 전기차 배터리 사업에 동맹을 맺은 건 ESG 가운데 ‘환경’(Environment) 분야 실천에 해당한다. 조 바이든 대통령이 최 회장을 비롯한 국내 4대 그룹 대표단을 향해 “생큐”를 세 번 외친 것도 국내 기업의 ‘ESG 투자’에 대한 감사의 표현이라 할 수 있다.<br><br>SK그룹은 최 회장의 ‘ESG 열정’에 부응하고자 ESG 이행 작업에 나섰다. SK이노베이션은 이날 한국석유공사와 동해가스전을 활용한 ‘탄소 포집 및 저장’(CCS) 실증 모델을 개발하는 국책과제를 함께 수행한다는 협약을 체결했다. CCS는 지구 온난화 주범인 이산화탄소를 발생단계에서 포집해 제거하는 기술이다.<br><br>SK이노베이션과 SK에너지는 울산 산업시설에서 이산화탄소 포집 기술 관련 모델을 개발하고, 한국석유공사는 이산화탄소 이송·저장 모델 개발에 참여한다. 이성준 SK이노베이션 환경기술원장은 “CCS 기술은 에너지 소비가 많은 산업계에서 이산화탄소 감축을 위한 필수 조건”이라면서 “최적의 CCS 기술을 확보해 ESG 경영 가속화에 힘쓸 것”이라고 말했다.<br><br>아울러 SK이노베이션은 미국 조지아주에 짓는 전기차 배터리 공장에 1000명의 노동자를 올해 안으로 추가 채용하겠다고 밝혔다. 일자리 확대는 ESG 가운데 ‘사회’(Social) 분야를 실천하는 일이다.<br><br>앞서 SK그룹 지주사 SK㈜와 SK머티리얼즈, SKC, SK실트론 등 4사는 각각 100억엔(약 1025억원)씩 총 400억엔(약 4100억원)을 출자해 ‘SK 일본 투자법인’을 설립한다고 공시했다. 최 회장의 의지가 반영된 이 법인은 다양한 ESG 실천 사업에 재무적 투자자로 참여한다.<br><br>최 회장은 ESG의 마지막 퍼즐인 ‘지배구조’(Governance) 개편도 추진한다. SK텔레콤은 인적분할을 통해 쪼개진 두 법인을 연내 재상장하는 방안을 추진하고 있다. 통신분야와 비통신분야를 둘로 나눠 통신업과 반도체·신사업 분야의 경쟁력을 동시에 높이기 위한 의도다. SK하이닉스에 대한 투자가 신속하게 이뤄지도록 지분 구조를 개편해 신규 반도체 사업 진출에 속도를 내려는 목적도 있다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">미국 정재계 인사 만나 ‘ESG 경영’ 설파<br>SK이노, 탄소포집·저장(CSS) 사업 수행<br>美 배터리 공장 1000명 추가 채용 계획<br>SK텔레콤 인적분할… 지배구조 개편도</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/081/2021/05/26/0003189282_001_20210526181602692.jpg?type=w647" alt="" /><em class="img_desc">최태원 SK그룹 회장</em></span>‘딥체인지’(근본적 변화)와 ‘구성원의 행복’을 설파해 온 최태원 SK그룹 회장이 요즘 ‘ESG 전도사’로 변신했다. ESG는 환경·사회·지배구조의 약자로 기업이 추구해야 할 3가지 분야를 뜻한다. 최 회장이 이끄는 SK그룹도 ESG 경영의 핵심 실천 사항인 친환경 사업에 대한 투자 확대를 본격화했다.<br><br>26일 재계에 따르면 최근 한미 정상회담 경제사절단 대표 자격으로 미국을 방문한 최 회장은 미국 정재계 핵심 인사들과 만나 “ESG 경영이 기후변화, 소득격차, 인구감소라는 전 지구적 문제를 해결할 해법”이라고 강조했다. 미국 측 인사들은 최 회장의 ESG 경영 철학에 공감을 표한 것은 물론, ESG 가치를 향한 최 회장의 열정에 엄지를 치켜세운 것으로 전해졌다.<br><br><!-- MobileAdNew center -->최 회장은 이번 미국 순방길에 SK이노베이션과 포드의 전기차 배터리 합작법인 ‘블루오벌SK’ 설립 계약을 성사시켰다. 한미 양국이 전기차 배터리 사업에 동맹을 맺은 건 ESG 가운데 ‘환경’(Environment) 분야 실천에 해당한다. 조 바이든 대통령이 최 회장을 비롯한 국내 4대 그룹 대표단을 향해 “생큐”를 세 번 외친 것도 국내 기업의 ‘ESG 투자’에 대한 감사의 표현이라 할 수 있다.<br><br>SK그룹은 최 회장의 ‘ESG 열정’에 부응하고자 ESG 이행 작업에 나섰다. SK이노베이션은 이날 한국석유공사와 동해가스전을 활용한 ‘탄소 포집 및 저장’(CCS) 실증 모델을 개발하는 국책과제를 함께 수행한다는 협약을 체결했다. CCS는 지구 온난화 주범인 이산화탄소를 발생단계에서 포집해 제거하는 기술이다.<br><br>SK이노베이션과 SK에너지는 울산 산업시설에서 이산화탄소 포집 기술 관련 모델을 개발하고, 한국석유공사는 이산화탄소 이송·저장 모델 개발에 참여한다. 이성준 SK이노베이션 환경기술원장은 “CCS 기술은 에너지 소비가 많은 산업계에서 이산화탄소 감축을 위한 필수 조건”이라면서 “최적의 CCS 기술을 확보해 ESG 경영 가속화에 힘쓸 것”이라고 말했다.<br><br>아울러 SK이노베이션은 미국 조지아주에 짓는 전기차 배터리 공장에 1000명의 노동자를 올해 안으로 추가 채용하겠다고 밝혔다. 일자리 확대는 ESG 가운데 ‘사회’(Social) 분야를 실천하는 일이다.<br><br>앞서 SK그룹 지주사 SK㈜와 SK머티리얼즈, SKC, SK실트론 등 4사는 각각 100억엔(약 1025억원)씩 총 400억엔(약 4100억원)을 출자해 ‘SK 일본 투자법인’을 설립한다고 공시했다. 최 회장의 의지가 반영된 이 법인은 다양한 ESG 실천 사업에 재무적 투자자로 참여한다.<br><br>최 회장은 ESG의 마지막 퍼즐인 ‘지배구조’(Governance) 개편도 추진한다. SK텔레콤은 인적분할을 통해 쪼개진 두 법인을 연내 재상장하는 방안을 추진하고 있다. 통신분야와 비통신분야를 둘로 나눠 통신업과 반도체·신사업 분야의 경쟁력을 동시에 높이기 위한 의도다. SK하이닉스에 대한 투자가 신속하게 이뤄지도록 지분 구조를 개편해 신규 반도체 사업 진출에 속도를 내려는 목적도 있다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">미국 정재계 인사 만나 ‘ESG 경영’ 설파<br>SK이노, 탄소포집·저장(CSS) 사업 수행<br>美 배터리 공장 1000명 추가 채용 계획<br>SK텔레콤 인적분할… 지배구조 개편도</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/081/2021/05/26/0003189282_001_20210526181602692.jpg?type=w647" alt="" /><em class="img_desc">최태원 SK그룹 회장</em></span>‘딥체인지’(근본적 변화)와 ‘구성원의 행복’을 설파해 온 최태원 SK그룹 회장이 요즘 ‘ESG 전도사’로 변신했다. ESG는 환경·사회·지배구조의 약자로 기업이 추구해야 할 3가지 분야를 뜻한다. 최 회장이 이끄는 SK그룹도 ESG 경영의 핵심 실천 사항인 친환경 사업에 대한 투자 확대를 본격화했다.<br><br>26일 재계에 따르면 최근 한미 정상회담 경제사절단 대표 자격으로 미국을 방문한 최 회장은 미국 정재계 핵심 인사들과 만나 “ESG 경영이 기후변화, 소득격차, 인구감소라는 전 지구적 문제를 해결할 해법”이라고 강조했다. 미국 측 인사들은 최 회장의 ESG 경영 철학에 공감을 표한 것은 물론, ESG 가치를 향한 최 회장의 열정에 엄지를 치켜세운 것으로 전해졌다.<br><br><!-- MobileAdNew center -->최 회장은 이번 미국 순방길에 SK이노베이션과 포드의 전기차 배터리 합작법인 ‘블루오벌SK’ 설립 계약을 성사시켰다. 한미 양국이 전기차 배터리 사업에 동맹을 맺은 건 ESG 가운데 ‘환경’(Environment) 분야 실천에 해당한다. 조 바이든 대통령이 최 회장을 비롯한 국내 4대 그룹 대표단을 향해 “생큐”를 세 번 외친 것도 국내 기업의 ‘ESG 투자’에 대한 감사의 표현이라 할 수 있다.<br><br>SK그룹은 최 회장의 ‘ESG 열정’에 부응하고자 ESG 이행 작업에 나섰다. SK이노베이션은 이날 한국석유공사와 동해가스전을 활용한 ‘탄소 포집 및 저장’(CCS) 실증 모델을 개발하는 국책과제를 함께 수행한다는 협약을 체결했다. CCS는 지구 온난화 주범인 이산화탄소를 발생단계에서 포집해 제거하는 기술이다.<br><br>SK이노베이션과 SK에너지는 울산 산업시설에서 이산화탄소 포집 기술 관련 모델을 개발하고, 한국석유공사는 이산화탄소 이송·저장 모델 개발에 참여한다. 이성준 SK이노베이션 환경기술원장은 “CCS 기술은 에너지 소비가 많은 산업계에서 이산화탄소 감축을 위한 필수 조건”이라면서 “최적의 CCS 기술을 확보해 ESG 경영 가속화에 힘쓸 것”이라고 말했다.<br><br>아울러 SK이노베이션은 미국 조지아주에 짓는 전기차 배터리 공장에 1000명의 노동자를 올해 안으로 추가 채용하겠다고 밝혔다. 일자리 확대는 ESG 가운데 ‘사회’(Social) 분야를 실천하는 일이다.<br><br>앞서 SK그룹 지주사 SK㈜와 SK머티리얼즈, SKC, SK실트론 등 4사는 각각 100억엔(약 1025억원)씩 총 400억엔(약 4100억원)을 출자해 ‘SK 일본 투자법인’을 설립한다고 공시했다. 최 회장의 의지가 반영된 이 법인은 다양한 ESG 실천 사업에 재무적 투자자로 참여한다.<br><br>최 회장은 ESG의 마지막 퍼즐인 ‘지배구조’(Governance) 개편도 추진한다. SK텔레콤은 인적분할을 통해 쪼개진 두 법인을 연내 재상장하는 방안을 추진하고 있다. 통신분야와 비통신분야를 둘로 나눠 통신업과 반도체·신사업 분야의 경쟁력을 동시에 높이기 위한 의도다. SK하이닉스에 대한 투자가 신속하게 이뤄지도록 지분 구조를 개편해 신규 반도체 사업 진출에 속도를 내려는 목적도 있다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552420_001_20210526190501379.jpg?type=w647" alt="" /></span>&#39;카카오톡 선물하기&#39; 등 모바일 상품권 서비스를 운영하는 1위 업체  쿠프마케팅이 매물로 나왔다.<br><br>26일 투자은행((IB) 업계에 따르면 쿠프마케팅의 최대 주주인 NH투자증권-IBK, 국내 사모펀드(PEF) 스틱인베스트먼트는 이 회사의 경영권을 포함한 지분을 매각하기로 하고, 마케팅 작업을 벌이고 있다. 매각주관사는 씨티글로벌마켓증권이다.<br><br>2005년 설립된 쿠프마케팅은 &#39;카카오톡 선물하기&#39; 서비스 등을 운영하는 것으로 유명한 모바일 상품권 플랫폼 업체다. 외식, 공연, 도서, 화장품 등 다양한 브랜드와 제휴해 실물 상품과 교환할 수 있는 모바일 상품권 시스템을 갖추고 있다. 2019년 기준 250개 브랜드와 제휴를 맺고 9200개의 상품을 판매하고 있다. 스타벅스, 투썸플레이스, 파리바게뜨, 맥도날드, 배스킨라빈스, 이마트 등 국내 중소 중견기업부터 대기업까지 제휴를 맺고 있다. <br><br>실물 상품을 넘어 보험 판매까지 영역을 확대했다. 2018년 인슈어테크 전문기업인 쿠프파이맵스를 설립해 지난해 말 부터 새롭게 보험 모바일 쿠폰 선물하기 서비스를 선보였다. 보험업은 전문성 확보가 중요한 영역이지만, 그간 쿠폰 선물하기 서비스를 통해 쌓은 노하우를 바탕으로 정식으로 서비스를 런칭하게 됐다. 쿠프마케팅은 보험을 시작으로 금융 영역까지 넘본다는 계획이다. 지난해 매출은 약 660억원,  영업손실 53억원을 기록했다.<br> <br>쿠프마케팅은 올해 들어 동남아 시장 공략에도 나선다. 이를 위해 최근 인도네시아 모바일 쿠폰업체 알드믹 테크놀로지 인도네시아의 경영권을 인수했다. 인도네시아는 인구 약 2억7000만명에 달하는 세계 4위의 인구 대국인데다, 젊은 인구가 많아 최근 모바일 쿠폰을 마케팅에 활용하는 기업이 증가해 관련 사업에 대한 수요도 커지고 있다.  알드믹 테크놀로지는 주로 기업 대상 모바일 쿠폰 유통과 솔루션을 개발·운영하는 대표적 업체다.  인도네시아 최대 담배 회사인 삼포르나(Sampoerna), 존슨앤존슨, 유니레버 등이 주요 거래처다.<br><br>스틱과 NH는 인수한 지 4년 만에 매각에 나선다. 스틱은 NH투자증권 PE본부와 공동으로 쿠프마케팅 지분 70%를 455억원에 최근 인수했다. <br><br>김채연 기자 why29@hankyung.com <br><br><strong style="color:inherit"><span style="color:#000080;">≪이 기사는 05월26일(18:01) 자본시장의 혜안 ‘</span><span style="color:#ff0000;">마켓인사이트</span><span style="color:#000080;">’에 게재된 기사입니다≫</span></strong><br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552420_001_20210526190501379.jpg?type=w647" alt="" /></span>&#39;카카오톡 선물하기&#39; 등 모바일 상품권 서비스를 운영하는 1위 업체  쿠프마케팅이 매물로 나왔다.<br><br>26일 투자은행((IB) 업계에 따르면 쿠프마케팅의 최대 주주인 NH투자증권-IBK, 국내 사모펀드(PEF) 스틱인베스트먼트는 이 회사의 경영권을 포함한 지분을 매각하기로 하고, 마케팅 작업을 벌이고 있다. 매각주관사는 씨티글로벌마켓증권이다.<br><br>2005년 설립된 쿠프마케팅은 &#39;카카오톡 선물하기&#39; 서비스 등을 운영하는 것으로 유명한 모바일 상품권 플랫폼 업체다. 외식, 공연, 도서, 화장품 등 다양한 브랜드와 제휴해 실물 상품과 교환할 수 있는 모바일 상품권 시스템을 갖추고 있다. 2019년 기준 250개 브랜드와 제휴를 맺고 9200개의 상품을 판매하고 있다. 스타벅스, 투썸플레이스, 파리바게뜨, 맥도날드, 배스킨라빈스, 이마트 등 국내 중소 중견기업부터 대기업까지 제휴를 맺고 있다. <br><br>실물 상품을 넘어 보험 판매까지 영역을 확대했다. 2018년 인슈어테크 전문기업인 쿠프파이맵스를 설립해 지난해 말 부터 새롭게 보험 모바일 쿠폰 선물하기 서비스를 선보였다. 보험업은 전문성 확보가 중요한 영역이지만, 그간 쿠폰 선물하기 서비스를 통해 쌓은 노하우를 바탕으로 정식으로 서비스를 런칭하게 됐다. 쿠프마케팅은 보험을 시작으로 금융 영역까지 넘본다는 계획이다. 지난해 매출은 약 660억원,  영업손실 53억원을 기록했다.<br> <br>쿠프마케팅은 올해 들어 동남아 시장 공략에도 나선다. 이를 위해 최근 인도네시아 모바일 쿠폰업체 알드믹 테크놀로지 인도네시아의 경영권을 인수했다. 인도네시아는 인구 약 2억7000만명에 달하는 세계 4위의 인구 대국인데다, 젊은 인구가 많아 최근 모바일 쿠폰을 마케팅에 활용하는 기업이 증가해 관련 사업에 대한 수요도 커지고 있다.  알드믹 테크놀로지는 주로 기업 대상 모바일 쿠폰 유통과 솔루션을 개발·운영하는 대표적 업체다.  인도네시아 최대 담배 회사인 삼포르나(Sampoerna), 존슨앤존슨, 유니레버 등이 주요 거래처다.<br><br>스틱과 NH는 인수한 지 4년 만에 매각에 나선다. 스틱은 NH투자증권 PE본부와 공동으로 쿠프마케팅 지분 70%를 455억원에 최근 인수했다. <br><br>김채연 기자 why29@hankyung.com <br><br><strong style="color:inherit"><span style="color:#000080;">≪이 기사는 05월26일(18:01) 자본시장의 혜안 ‘</span><span style="color:#ff0000;">마켓인사이트</span><span style="color:#000080;">’에 게재된 기사입니다≫</span></strong><br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+	<div class="vod_area">
+		<h4 class="blind">동영상 뉴스</h4>
+		<iframe _src="/main/readVod.nhn?oid=374&aid=0000245558" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe>
+	</div>
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong>■ 비즈포커스 - &#39;C레벨 라운지&#39;&nbsp;<br><br>◇ 경제외교 이끈 최태원&nbsp;</strong><br><br>첫 번째 인물은 최태원 SK 회장입니다.&nbsp;<br><br>최태원 회장은 문재인 대통령의 최근 미국 방문 기간동안 현지 유력 경제단체와 싱크탱크 리더 등을 잇달아 만나며 숨가쁘게 움직였습니다.<br><br>미국의 3대 경제단체 가운데 하나인 &#39;비즈니스 라운드 테이블(BRT)&#39;을 비롯해 IT 전문 단체인 정보통신산업협회(ITI), 미국의 유명 싱크탱크로 알려진 애틀랜틱 카운슬(Atlantic Council) 등 성사된 만남의 면면도 화려합니다.<br><br>지난 3월 대한상의 회장에 취임한 이후 첫 해외 출장이었던 만큼, 한국 경제를 세일즈하기 위해&nbsp;종횡무진 활약했는데요.<br><br>최 회장의 미국길에 동행한 삼성전자, 현대차, SK, LG 등 4대 그룹은 무려 44조 원에 달하는 대미 투자 계획을 내놓으며 한미 경제 협력에 힘을 실어줬습니다.<br><br>조 바이든 미국 대통령은 최 회장을 비롯해 우리 기업인들에게 직접 감사를 표했습니다.&nbsp;<br><br>[조 바이든 / 미국 대통령 : 삼성, 현대, SK, LG 여기 자리에 계신지 모르겠는데, 잠시 일어나 주시겠습니까? 매우 감사합니다. 우리는 함께 대단한 일을 할 겁니다.]<br><br>최 회장은 또 자신이 전도사를 자처하는 환경&middot;사회&middot;지배구조 이른바, ESG 경영을 강조하며 미국 경제계와의 협력을 다졌습니다.<br><br>그룹 회장으로서 갖고 있는 경영능력과 통찰력, 대한상의 회장으로서 갖고 있는 대미 네트워크를 통해 이끌어낸 한미 경제 협력이 어떤 결실을 맺을지 계속 지켜보겠습니다.&nbsp;<br><br><strong>◇ 2세 승계 단행 김상철&nbsp;</strong><br><br>저희가 꼽은 두 번째 인물은 김상철 한글과컴퓨터그룹 회장입니다.&nbsp;<br><br>국내 1세대 IT기업 중 한 곳인 한컴도 어느덧 2세 경영 채비를 서두르고 있습니다.&nbsp;<br><br>최근 오너 일가 지분에 큰 변동이 있었는데요.&nbsp;<br><br>김상철 회장과 아내 김정실 사내이사, 한컴 계열사 중 한 곳인 캐피탈 익스프레스가 각각 보유 중이던 한컴 주식 233만여 주가 큰 딸이 운영하는 회사로 넘어갔습니다.<br><br>김연수 한컴그룹 총괄부사장이 대표를 맡고 있는 다토즈와 이 회사가 새로 만든 HCIH를 통해 500억 원에 인수했습니다.&nbsp;<br><br>이로써 다토즈는 한컴 지분 9.4%를 인수하며 2대 주주가 됐습니다.<br><br>회사 측은 오너 지분 관계만 바뀌었을 뿐 경영진이 달라지는 건 아니라는 입장이지만 재계는 한컴 보유 지분이 큰 딸에게 모두 넘어간 이유에 더 주목하고 있습니다.&nbsp;<br><br>인수합병(M&amp;A)과 전략 기획통으로 탄탄한 필모그래피를 쌓아온 만만치 않은 이력 때문일 텐데요.&nbsp;<br><br>한컴 지분 인수 작업을 마친 김 총괄부사장의 향후 행보를 예의주시해야 하는 이유입니다.&nbsp;<br><br><strong>◇ 한국타이어家 장녀의 뒤끝</strong><br><br>마지막 인사는 한국타이어그룹의 장녀 조희경 한국타이어나눔재단 이사장입니다.<br><br>아버지 조양래 회장을 상대로 성년후견 심판을 청구했던 조 이사장이 최근 조 회장에 대한 신체 감정기관 변경을 요청했습니다.<br><br>감정기관으로 지정된 국립정신건강센터를 분당서울대병원으로 변경해달라는 내용의 감정기관 변경 신청서를 법원에 제출했는데요.<br><br>객관적이고 정밀한 검사를 위해 감정기관 변경을 요청했다는 설명입니다.<br><br>그러나 둘째 아들 조현범 사장에게 경영권을 물려준 아버지의 결정이 자발적 의사가 아니란 조희경 이사장의 주장과는 달리 아버지는 법원 심문에서 자신의 건재함을 과시했습니다.&nbsp;<br><br>아버지의 신체 건강 상태가 이상하다는 의혹을&nbsp;꾸준히 제기하고 있는 장녀, 이에 맞서 자신은&nbsp;아무 문제가 없다는 아버지, 한국타이어그룹의&nbsp;경영권을 둘러싼 가족 분쟁은 현재 진행형입니다. &nbsp;<br><br>이번 주 &#39;C-레벨 라운지&#39; 여기까지입니다.<br><br>조슬기 기자(skcho@sbs.co.kr)<br><br><br><br>          <p>▶ <a href='https://tv.naver.com/countmoney' target='_blank'>돈 세는 남자의 기업분석 '카운트머니' [네이버TV]</a></p><p>▶ <a href='https://tv.naver.com/moneylab' target='_blank'>경제를 실험한다~ '머니랩' [네이버TV]</a></p><br>          <p>저작권자 SBS미디어넷 & SBS I&M 무단전재-재배포 금지</p><br>        
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+	<div class="vod_area">
+		<h4 class="blind">동영상 뉴스</h4>
+		<iframe _src="/main/readVod.nhn?oid=374&aid=0000245558" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe>
+	</div>
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong>■ 비즈포커스 - &#39;C레벨 라운지&#39;&nbsp;<br><br>◇ 경제외교 이끈 최태원&nbsp;</strong><br><br>첫 번째 인물은 최태원 SK 회장입니다.&nbsp;<br><br>최태원 회장은 문재인 대통령의 최근 미국 방문 기간동안 현지 유력 경제단체와 싱크탱크 리더 등을 잇달아 만나며 숨가쁘게 움직였습니다.<br><br>미국의 3대 경제단체 가운데 하나인 &#39;비즈니스 라운드 테이블(BRT)&#39;을 비롯해 IT 전문 단체인 정보통신산업협회(ITI), 미국의 유명 싱크탱크로 알려진 애틀랜틱 카운슬(Atlantic Council) 등 성사된 만남의 면면도 화려합니다.<br><br>지난 3월 대한상의 회장에 취임한 이후 첫 해외 출장이었던 만큼, 한국 경제를 세일즈하기 위해&nbsp;종횡무진 활약했는데요.<br><br>최 회장의 미국길에 동행한 삼성전자, 현대차, SK, LG 등 4대 그룹은 무려 44조 원에 달하는 대미 투자 계획을 내놓으며 한미 경제 협력에 힘을 실어줬습니다.<br><br>조 바이든 미국 대통령은 최 회장을 비롯해 우리 기업인들에게 직접 감사를 표했습니다.&nbsp;<br><br>[조 바이든 / 미국 대통령 : 삼성, 현대, SK, LG 여기 자리에 계신지 모르겠는데, 잠시 일어나 주시겠습니까? 매우 감사합니다. 우리는 함께 대단한 일을 할 겁니다.]<br><br>최 회장은 또 자신이 전도사를 자처하는 환경&middot;사회&middot;지배구조 이른바, ESG 경영을 강조하며 미국 경제계와의 협력을 다졌습니다.<br><br>그룹 회장으로서 갖고 있는 경영능력과 통찰력, 대한상의 회장으로서 갖고 있는 대미 네트워크를 통해 이끌어낸 한미 경제 협력이 어떤 결실을 맺을지 계속 지켜보겠습니다.&nbsp;<br><br><strong>◇ 2세 승계 단행 김상철&nbsp;</strong><br><br>저희가 꼽은 두 번째 인물은 김상철 한글과컴퓨터그룹 회장입니다.&nbsp;<br><br>국내 1세대 IT기업 중 한 곳인 한컴도 어느덧 2세 경영 채비를 서두르고 있습니다.&nbsp;<br><br>최근 오너 일가 지분에 큰 변동이 있었는데요.&nbsp;<br><br>김상철 회장과 아내 김정실 사내이사, 한컴 계열사 중 한 곳인 캐피탈 익스프레스가 각각 보유 중이던 한컴 주식 233만여 주가 큰 딸이 운영하는 회사로 넘어갔습니다.<br><br>김연수 한컴그룹 총괄부사장이 대표를 맡고 있는 다토즈와 이 회사가 새로 만든 HCIH를 통해 500억 원에 인수했습니다.&nbsp;<br><br>이로써 다토즈는 한컴 지분 9.4%를 인수하며 2대 주주가 됐습니다.<br><br>회사 측은 오너 지분 관계만 바뀌었을 뿐 경영진이 달라지는 건 아니라는 입장이지만 재계는 한컴 보유 지분이 큰 딸에게 모두 넘어간 이유에 더 주목하고 있습니다.&nbsp;<br><br>인수합병(M&amp;A)과 전략 기획통으로 탄탄한 필모그래피를 쌓아온 만만치 않은 이력 때문일 텐데요.&nbsp;<br><br>한컴 지분 인수 작업을 마친 김 총괄부사장의 향후 행보를 예의주시해야 하는 이유입니다.&nbsp;<br><br><strong>◇ 한국타이어家 장녀의 뒤끝</strong><br><br>마지막 인사는 한국타이어그룹의 장녀 조희경 한국타이어나눔재단 이사장입니다.<br><br>아버지 조양래 회장을 상대로 성년후견 심판을 청구했던 조 이사장이 최근 조 회장에 대한 신체 감정기관 변경을 요청했습니다.<br><br>감정기관으로 지정된 국립정신건강센터를 분당서울대병원으로 변경해달라는 내용의 감정기관 변경 신청서를 법원에 제출했는데요.<br><br>객관적이고 정밀한 검사를 위해 감정기관 변경을 요청했다는 설명입니다.<br><br>그러나 둘째 아들 조현범 사장에게 경영권을 물려준 아버지의 결정이 자발적 의사가 아니란 조희경 이사장의 주장과는 달리 아버지는 법원 심문에서 자신의 건재함을 과시했습니다.&nbsp;<br><br>아버지의 신체 건강 상태가 이상하다는 의혹을&nbsp;꾸준히 제기하고 있는 장녀, 이에 맞서 자신은&nbsp;아무 문제가 없다는 아버지, 한국타이어그룹의&nbsp;경영권을 둘러싼 가족 분쟁은 현재 진행형입니다. &nbsp;<br><br>이번 주 &#39;C-레벨 라운지&#39; 여기까지입니다.<br><br>조슬기 기자(skcho@sbs.co.kr)<br><br><br><br>          <p>▶ <a href='https://tv.naver.com/countmoney' target='_blank'>돈 세는 남자의 기업분석 '카운트머니' [네이버TV]</a></p><p>▶ <a href='https://tv.naver.com/moneylab' target='_blank'>경제를 실험한다~ '머니랩' [네이버TV]</a></p><br>          <p>저작권자 SBS미디어넷 & SBS I&M 무단전재-재배포 금지</p><br>        
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+	<div class="vod_area">
+		<h4 class="blind">동영상 뉴스</h4>
+		<iframe _src="/main/readVod.nhn?oid=374&aid=0000245558" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe>
+	</div>
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong>■ 비즈포커스 - &#39;C레벨 라운지&#39;&nbsp;<br><br>◇ 경제외교 이끈 최태원&nbsp;</strong><br><br>첫 번째 인물은 최태원 SK 회장입니다.&nbsp;<br><br>최태원 회장은 문재인 대통령의 최근 미국 방문 기간동안 현지 유력 경제단체와 싱크탱크 리더 등을 잇달아 만나며 숨가쁘게 움직였습니다.<br><br>미국의 3대 경제단체 가운데 하나인 &#39;비즈니스 라운드 테이블(BRT)&#39;을 비롯해 IT 전문 단체인 정보통신산업협회(ITI), 미국의 유명 싱크탱크로 알려진 애틀랜틱 카운슬(Atlantic Council) 등 성사된 만남의 면면도 화려합니다.<br><br>지난 3월 대한상의 회장에 취임한 이후 첫 해외 출장이었던 만큼, 한국 경제를 세일즈하기 위해&nbsp;종횡무진 활약했는데요.<br><br>최 회장의 미국길에 동행한 삼성전자, 현대차, SK, LG 등 4대 그룹은 무려 44조 원에 달하는 대미 투자 계획을 내놓으며 한미 경제 협력에 힘을 실어줬습니다.<br><br>조 바이든 미국 대통령은 최 회장을 비롯해 우리 기업인들에게 직접 감사를 표했습니다.&nbsp;<br><br>[조 바이든 / 미국 대통령 : 삼성, 현대, SK, LG 여기 자리에 계신지 모르겠는데, 잠시 일어나 주시겠습니까? 매우 감사합니다. 우리는 함께 대단한 일을 할 겁니다.]<br><br>최 회장은 또 자신이 전도사를 자처하는 환경&middot;사회&middot;지배구조 이른바, ESG 경영을 강조하며 미국 경제계와의 협력을 다졌습니다.<br><br>그룹 회장으로서 갖고 있는 경영능력과 통찰력, 대한상의 회장으로서 갖고 있는 대미 네트워크를 통해 이끌어낸 한미 경제 협력이 어떤 결실을 맺을지 계속 지켜보겠습니다.&nbsp;<br><br><strong>◇ 2세 승계 단행 김상철&nbsp;</strong><br><br>저희가 꼽은 두 번째 인물은 김상철 한글과컴퓨터그룹 회장입니다.&nbsp;<br><br>국내 1세대 IT기업 중 한 곳인 한컴도 어느덧 2세 경영 채비를 서두르고 있습니다.&nbsp;<br><br>최근 오너 일가 지분에 큰 변동이 있었는데요.&nbsp;<br><br>김상철 회장과 아내 김정실 사내이사, 한컴 계열사 중 한 곳인 캐피탈 익스프레스가 각각 보유 중이던 한컴 주식 233만여 주가 큰 딸이 운영하는 회사로 넘어갔습니다.<br><br>김연수 한컴그룹 총괄부사장이 대표를 맡고 있는 다토즈와 이 회사가 새로 만든 HCIH를 통해 500억 원에 인수했습니다.&nbsp;<br><br>이로써 다토즈는 한컴 지분 9.4%를 인수하며 2대 주주가 됐습니다.<br><br>회사 측은 오너 지분 관계만 바뀌었을 뿐 경영진이 달라지는 건 아니라는 입장이지만 재계는 한컴 보유 지분이 큰 딸에게 모두 넘어간 이유에 더 주목하고 있습니다.&nbsp;<br><br>인수합병(M&amp;A)과 전략 기획통으로 탄탄한 필모그래피를 쌓아온 만만치 않은 이력 때문일 텐데요.&nbsp;<br><br>한컴 지분 인수 작업을 마친 김 총괄부사장의 향후 행보를 예의주시해야 하는 이유입니다.&nbsp;<br><br><strong>◇ 한국타이어家 장녀의 뒤끝</strong><br><br>마지막 인사는 한국타이어그룹의 장녀 조희경 한국타이어나눔재단 이사장입니다.<br><br>아버지 조양래 회장을 상대로 성년후견 심판을 청구했던 조 이사장이 최근 조 회장에 대한 신체 감정기관 변경을 요청했습니다.<br><br>감정기관으로 지정된 국립정신건강센터를 분당서울대병원으로 변경해달라는 내용의 감정기관 변경 신청서를 법원에 제출했는데요.<br><br>객관적이고 정밀한 검사를 위해 감정기관 변경을 요청했다는 설명입니다.<br><br>그러나 둘째 아들 조현범 사장에게 경영권을 물려준 아버지의 결정이 자발적 의사가 아니란 조희경 이사장의 주장과는 달리 아버지는 법원 심문에서 자신의 건재함을 과시했습니다.&nbsp;<br><br>아버지의 신체 건강 상태가 이상하다는 의혹을&nbsp;꾸준히 제기하고 있는 장녀, 이에 맞서 자신은&nbsp;아무 문제가 없다는 아버지, 한국타이어그룹의&nbsp;경영권을 둘러싼 가족 분쟁은 현재 진행형입니다. &nbsp;<br><br>이번 주 &#39;C-레벨 라운지&#39; 여기까지입니다.<br><br>조슬기 기자(skcho@sbs.co.kr)<br><br><br><br>          <p>▶ <a href='https://tv.naver.com/countmoney' target='_blank'>돈 세는 남자의 기업분석 '카운트머니' [네이버TV]</a></p><p>▶ <a href='https://tv.naver.com/moneylab' target='_blank'>경제를 실험한다~ '머니랩' [네이버TV]</a></p><br>          <p>저작권자 SBS미디어넷 & SBS I&M 무단전재-재배포 금지</p><br>        
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+	<div class="vod_area">
+		<h4 class="blind">동영상 뉴스</h4>
+		<iframe _src="/main/readVod.nhn?oid=374&aid=0000245558" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe>
+	</div>
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong>■ 비즈포커스 - &#39;C레벨 라운지&#39;&nbsp;<br><br>◇ 경제외교 이끈 최태원&nbsp;</strong><br><br>첫 번째 인물은 최태원 SK 회장입니다.&nbsp;<br><br>최태원 회장은 문재인 대통령의 최근 미국 방문 기간동안 현지 유력 경제단체와 싱크탱크 리더 등을 잇달아 만나며 숨가쁘게 움직였습니다.<br><br>미국의 3대 경제단체 가운데 하나인 &#39;비즈니스 라운드 테이블(BRT)&#39;을 비롯해 IT 전문 단체인 정보통신산업협회(ITI), 미국의 유명 싱크탱크로 알려진 애틀랜틱 카운슬(Atlantic Council) 등 성사된 만남의 면면도 화려합니다.<br><br>지난 3월 대한상의 회장에 취임한 이후 첫 해외 출장이었던 만큼, 한국 경제를 세일즈하기 위해&nbsp;종횡무진 활약했는데요.<br><br>최 회장의 미국길에 동행한 삼성전자, 현대차, SK, LG 등 4대 그룹은 무려 44조 원에 달하는 대미 투자 계획을 내놓으며 한미 경제 협력에 힘을 실어줬습니다.<br><br>조 바이든 미국 대통령은 최 회장을 비롯해 우리 기업인들에게 직접 감사를 표했습니다.&nbsp;<br><br>[조 바이든 / 미국 대통령 : 삼성, 현대, SK, LG 여기 자리에 계신지 모르겠는데, 잠시 일어나 주시겠습니까? 매우 감사합니다. 우리는 함께 대단한 일을 할 겁니다.]<br><br>최 회장은 또 자신이 전도사를 자처하는 환경&middot;사회&middot;지배구조 이른바, ESG 경영을 강조하며 미국 경제계와의 협력을 다졌습니다.<br><br>그룹 회장으로서 갖고 있는 경영능력과 통찰력, 대한상의 회장으로서 갖고 있는 대미 네트워크를 통해 이끌어낸 한미 경제 협력이 어떤 결실을 맺을지 계속 지켜보겠습니다.&nbsp;<br><br><strong>◇ 2세 승계 단행 김상철&nbsp;</strong><br><br>저희가 꼽은 두 번째 인물은 김상철 한글과컴퓨터그룹 회장입니다.&nbsp;<br><br>국내 1세대 IT기업 중 한 곳인 한컴도 어느덧 2세 경영 채비를 서두르고 있습니다.&nbsp;<br><br>최근 오너 일가 지분에 큰 변동이 있었는데요.&nbsp;<br><br>김상철 회장과 아내 김정실 사내이사, 한컴 계열사 중 한 곳인 캐피탈 익스프레스가 각각 보유 중이던 한컴 주식 233만여 주가 큰 딸이 운영하는 회사로 넘어갔습니다.<br><br>김연수 한컴그룹 총괄부사장이 대표를 맡고 있는 다토즈와 이 회사가 새로 만든 HCIH를 통해 500억 원에 인수했습니다.&nbsp;<br><br>이로써 다토즈는 한컴 지분 9.4%를 인수하며 2대 주주가 됐습니다.<br><br>회사 측은 오너 지분 관계만 바뀌었을 뿐 경영진이 달라지는 건 아니라는 입장이지만 재계는 한컴 보유 지분이 큰 딸에게 모두 넘어간 이유에 더 주목하고 있습니다.&nbsp;<br><br>인수합병(M&amp;A)과 전략 기획통으로 탄탄한 필모그래피를 쌓아온 만만치 않은 이력 때문일 텐데요.&nbsp;<br><br>한컴 지분 인수 작업을 마친 김 총괄부사장의 향후 행보를 예의주시해야 하는 이유입니다.&nbsp;<br><br><strong>◇ 한국타이어家 장녀의 뒤끝</strong><br><br>마지막 인사는 한국타이어그룹의 장녀 조희경 한국타이어나눔재단 이사장입니다.<br><br>아버지 조양래 회장을 상대로 성년후견 심판을 청구했던 조 이사장이 최근 조 회장에 대한 신체 감정기관 변경을 요청했습니다.<br><br>감정기관으로 지정된 국립정신건강센터를 분당서울대병원으로 변경해달라는 내용의 감정기관 변경 신청서를 법원에 제출했는데요.<br><br>객관적이고 정밀한 검사를 위해 감정기관 변경을 요청했다는 설명입니다.<br><br>그러나 둘째 아들 조현범 사장에게 경영권을 물려준 아버지의 결정이 자발적 의사가 아니란 조희경 이사장의 주장과는 달리 아버지는 법원 심문에서 자신의 건재함을 과시했습니다.&nbsp;<br><br>아버지의 신체 건강 상태가 이상하다는 의혹을&nbsp;꾸준히 제기하고 있는 장녀, 이에 맞서 자신은&nbsp;아무 문제가 없다는 아버지, 한국타이어그룹의&nbsp;경영권을 둘러싼 가족 분쟁은 현재 진행형입니다. &nbsp;<br><br>이번 주 &#39;C-레벨 라운지&#39; 여기까지입니다.<br><br>조슬기 기자(skcho@sbs.co.kr)<br><br><br><br>          <p>▶ <a href='https://tv.naver.com/countmoney' target='_blank'>돈 세는 남자의 기업분석 '카운트머니' [네이버TV]</a></p><p>▶ <a href='https://tv.naver.com/moneylab' target='_blank'>경제를 실험한다~ '머니랩' [네이버TV]</a></p><br>          <p>저작권자 SBS미디어넷 & SBS I&M 무단전재-재배포 금지</p><br>        
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+	<div class="vod_area">
+		<h4 class="blind">동영상 뉴스</h4>
+		<iframe _src="/main/readVod.nhn?oid=374&aid=0000245558" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe>
+	</div>
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong>■ 비즈포커스 - &#39;C레벨 라운지&#39;&nbsp;<br><br>◇ 경제외교 이끈 최태원&nbsp;</strong><br><br>첫 번째 인물은 최태원 SK 회장입니다.&nbsp;<br><br>최태원 회장은 문재인 대통령의 최근 미국 방문 기간동안 현지 유력 경제단체와 싱크탱크 리더 등을 잇달아 만나며 숨가쁘게 움직였습니다.<br><br>미국의 3대 경제단체 가운데 하나인 &#39;비즈니스 라운드 테이블(BRT)&#39;을 비롯해 IT 전문 단체인 정보통신산업협회(ITI), 미국의 유명 싱크탱크로 알려진 애틀랜틱 카운슬(Atlantic Council) 등 성사된 만남의 면면도 화려합니다.<br><br>지난 3월 대한상의 회장에 취임한 이후 첫 해외 출장이었던 만큼, 한국 경제를 세일즈하기 위해&nbsp;종횡무진 활약했는데요.<br><br>최 회장의 미국길에 동행한 삼성전자, 현대차, SK, LG 등 4대 그룹은 무려 44조 원에 달하는 대미 투자 계획을 내놓으며 한미 경제 협력에 힘을 실어줬습니다.<br><br>조 바이든 미국 대통령은 최 회장을 비롯해 우리 기업인들에게 직접 감사를 표했습니다.&nbsp;<br><br>[조 바이든 / 미국 대통령 : 삼성, 현대, SK, LG 여기 자리에 계신지 모르겠는데, 잠시 일어나 주시겠습니까? 매우 감사합니다. 우리는 함께 대단한 일을 할 겁니다.]<br><br>최 회장은 또 자신이 전도사를 자처하는 환경&middot;사회&middot;지배구조 이른바, ESG 경영을 강조하며 미국 경제계와의 협력을 다졌습니다.<br><br>그룹 회장으로서 갖고 있는 경영능력과 통찰력, 대한상의 회장으로서 갖고 있는 대미 네트워크를 통해 이끌어낸 한미 경제 협력이 어떤 결실을 맺을지 계속 지켜보겠습니다.&nbsp;<br><br><strong>◇ 2세 승계 단행 김상철&nbsp;</strong><br><br>저희가 꼽은 두 번째 인물은 김상철 한글과컴퓨터그룹 회장입니다.&nbsp;<br><br>국내 1세대 IT기업 중 한 곳인 한컴도 어느덧 2세 경영 채비를 서두르고 있습니다.&nbsp;<br><br>최근 오너 일가 지분에 큰 변동이 있었는데요.&nbsp;<br><br>김상철 회장과 아내 김정실 사내이사, 한컴 계열사 중 한 곳인 캐피탈 익스프레스가 각각 보유 중이던 한컴 주식 233만여 주가 큰 딸이 운영하는 회사로 넘어갔습니다.<br><br>김연수 한컴그룹 총괄부사장이 대표를 맡고 있는 다토즈와 이 회사가 새로 만든 HCIH를 통해 500억 원에 인수했습니다.&nbsp;<br><br>이로써 다토즈는 한컴 지분 9.4%를 인수하며 2대 주주가 됐습니다.<br><br>회사 측은 오너 지분 관계만 바뀌었을 뿐 경영진이 달라지는 건 아니라는 입장이지만 재계는 한컴 보유 지분이 큰 딸에게 모두 넘어간 이유에 더 주목하고 있습니다.&nbsp;<br><br>인수합병(M&amp;A)과 전략 기획통으로 탄탄한 필모그래피를 쌓아온 만만치 않은 이력 때문일 텐데요.&nbsp;<br><br>한컴 지분 인수 작업을 마친 김 총괄부사장의 향후 행보를 예의주시해야 하는 이유입니다.&nbsp;<br><br><strong>◇ 한국타이어家 장녀의 뒤끝</strong><br><br>마지막 인사는 한국타이어그룹의 장녀 조희경 한국타이어나눔재단 이사장입니다.<br><br>아버지 조양래 회장을 상대로 성년후견 심판을 청구했던 조 이사장이 최근 조 회장에 대한 신체 감정기관 변경을 요청했습니다.<br><br>감정기관으로 지정된 국립정신건강센터를 분당서울대병원으로 변경해달라는 내용의 감정기관 변경 신청서를 법원에 제출했는데요.<br><br>객관적이고 정밀한 검사를 위해 감정기관 변경을 요청했다는 설명입니다.<br><br>그러나 둘째 아들 조현범 사장에게 경영권을 물려준 아버지의 결정이 자발적 의사가 아니란 조희경 이사장의 주장과는 달리 아버지는 법원 심문에서 자신의 건재함을 과시했습니다.&nbsp;<br><br>아버지의 신체 건강 상태가 이상하다는 의혹을&nbsp;꾸준히 제기하고 있는 장녀, 이에 맞서 자신은&nbsp;아무 문제가 없다는 아버지, 한국타이어그룹의&nbsp;경영권을 둘러싼 가족 분쟁은 현재 진행형입니다. &nbsp;<br><br>이번 주 &#39;C-레벨 라운지&#39; 여기까지입니다.<br><br>조슬기 기자(skcho@sbs.co.kr)<br><br><br><br>          <p>▶ <a href='https://tv.naver.com/countmoney' target='_blank'>돈 세는 남자의 기업분석 '카운트머니' [네이버TV]</a></p><p>▶ <a href='https://tv.naver.com/moneylab' target='_blank'>경제를 실험한다~ '머니랩' [네이버TV]</a></p><br>          <p>저작권자 SBS미디어넷 & SBS I&M 무단전재-재배포 금지</p><br>        
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+	<div class="vod_area">
+		<h4 class="blind">동영상 뉴스</h4>
+		<iframe _src="/main/readVod.nhn?oid=422&aid=0000486916" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe>
+	</div>
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23<br><br><a href="http://media.naver.com/channel/promotion.nhn?oid=422"> ▶ 네이버에서 연합뉴스TV를 구독하세요</a><br><a href="https://www.yonhapnewstv.co.kr/live" target="_blank"> ▶ 연합뉴스TV 생방송 만나보기 </a><br><a href="http://www.yonhapnewstv.co.kr/add/mobileApp" target="_blank"> ▶ 균형있는 뉴스, 연합뉴스TV 앱 다운받기</a><br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/AKR20210526150700002_01_i_P4_20210526172112093.jpg?type=w647" alt="" /><em class="img_desc">에이디엠코리아<br>[서울IR 제공]</em></span><br><br>    (서울=연합뉴스) 김아람 기자 = 임상시험수탁기관(CRO) 기업 에이디엠코리아는 일반 공모 청약 경쟁률이 2천345.40대 1로 집계됐다고 26일 밝혔다.<br><br>    증거금은 약 5조133억원을 기록했다.<br><br>    에이디엠코리아는 다음 달 3일 코스닥시장에 상장한다. 공모가는 3천800원이다.<br><br>    강준모 에이디엠코리아 대표는 "상장 후에도 높은 재무 안정성을 기반으로 아시아 대표 CRO가 되도록 최선을 다할 것"이라고 말했다.<br><br>    rice@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">해수부, 지자체·해경과 3주간 1만2538개소 조사<br>165개소 미표시 또는 거짓표시…7년 징역 또는 1억원 벌금 등</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/277/2021/05/26/0004909388_001_20210526171503507.jpg?type=w647" alt="" /><em class="img_desc">경상남도 통영시의 어업인이 지난달 26일 통영시 정량동 이순신공원 앞 해상에서 '후쿠시마 원전 오염수 방류 규탄 통영대회'를 열고 일본 정부를 규탄하는 모습.(이미지 출처=연합뉴스)</em></span><br><br>[세종=아시아경제 문채석 기자] 일본이 후쿠시마 원전 방사능 오염수를 바다에 뿌리기로 해 국민 불안이 커진 가운데 수산물 원산지를 제대로 표시하지 않은 업체 165개소가 정부에 덜미를 잡혔다. 적발 품목의 절반이 일본산이었던 것으로 드러났다. <br><br>26일 해양수산부는 지난달 22일부터 지난 12일까지 3주간 지방자치단체, 해양경찰청 등과 수산물 원산지 표시 특별점검을 한 결과 1만2538개소 중 165개소가 법을 어긴 것으로 드러났다고 밝혔다. <br><br>구체적으로 원산지를 표시하지 않은 업체는 123개소, 거짓으로 표시한 업체는 42개소였다. 적발 품목은 191건으로 일본산 47.7%, 중국산 18.8%, 러시아산 5.2% 순이다.<br><br>원산지를 거짓 표시한 품목 49건 중에는 일본산이 28건으로 가장 많았고 러시아산(6건), 중국산(5건)이 뒤를 이었다. 품목별로는 돔류(32.3%)에 이어 가리비(17.3%), 명태(6.3%) 및 낙지(4.2%) 순이었다.<br><br>해수부는 이번에 잡아낸 165개소 중 거짓 표시 42개소를 고발하기로 했다. 이들은 최대 7년 이하의 징역 또는 1억원 이하의 벌금에 처해진다. 원산지를 표시하지 않은 123개소는 위반금액에 따라 1000만원 이해의 과태료를 물 예정이다.<br><br>해수부는 수입수산물 유통이력 점검을 강화하기로 했다. 위반 실적이 많은 수산물은 지자체, 해경과 협력해 연중 집중 단속을 할 방침이다. 아울러 소비자 단체, 민관협의회와의 협력을 통해 수산물 수입·유통·판매 업체들이 스스로 제도를 지키도록 적극 노력한다.<br><br>김준석 해수부 수산정책실장은 "판매자는 투명한 원산지 표시만이 소비자의 신뢰와 매출을 얻는 최선의 방법임을 재인식하고, 소비자는 안심하고 수산물을 사 먹는 구조를 만드는 게 중요하다"며 "수산물 구매 시 원산지 표시를 반드시 확인하고 의심될 경우 수산물 원산지 표시위반 신고 전화 또는 카카오톡 '수산물원산지표시' 채널에 적극 제보해주기 바란다"고 당부했다. <br><br>세종=문채석 기자 chaeso@asiae.co.kr<br><br><a href="https://www.asiae.co.kr/fortune/index.htm?utm_source=navernews&utm_medium=naver_view&utm_campaign=fortune">▶ 속 시원한 풀이! 2021년 정통사주·운세·토정비결</a><br><a href="https://www.asiae.co.kr/event/2021/jobgo/">▶ 직장인을 위한 '빅데이터 분석' 국비 특화과정 모집</a><br><a href="https://core.asiae.co.kr/?utm_source=naver_article&utm_medium=pc_mobile&utm_campaign=core">▶ 투자 성공의 핵심은 기업분석! 'CORE' 바로가기</a><br><br>&lt;ⓒ경제를 보는 눈, 세계를 보는 창 아시아경제 무단전재 배포금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">해외 연기금 비해 책임투자 비중 낮아 높여야 한다는 부담 속<br>기계적인 적용될까 우려<br>네덜란드·미국·일본 연기금 다양한 방식 도입</strong>[서울경제] <br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915086_001_20210526165003897.jpg?type=w647" alt="" /></span><br><br>국민연금이 환경·사회·지배구조(ESG)투자 차원에서 특정 기업 투자를 배제하는 네거티브(nagative) 원칙 도입을 앞두고 자율성을 줘야 한다는 지적이 나오고 있다. ESG 투자 비중을 키우되, 투자 운용역이 현실적인 판단을 할 수 있는 여지를 둬야 한다는 것이다. 최근 국민연금은 해외연기금과 자산운용사와 협업을 늘리고 있는데 이들의 ESG투자 노하우를 확보할 수 있을지 주목된다. <br><br>26일 국민연금에 따르면 연금은 28일 기금운용위원회에서 ESG투자 강화를 위한 네거티브 원칙 도입을 논의한다. 석탄 화력 등 탄소배출이 많은 에너지를 사용하거나 담배나 술, 무기 등 특정 업종에 투자를 금지하거나 회수하는 방식이다. 제조 과정에서 인권을 유린하거나 삼림파괴 등 환경을 훼손하는 행위에 발생해도 투자를 금지한다. 국민연금은 지난달에도 같은 안건을 논의했으나 위원들은 수익과 연관성이 불분명하고 투자 집행 과정에서 나올 현실적인 문제를 고려해야 한다는 반론을 제기했다. <br><br>당시 회의에서는 네거티브 원칙에 따라 국민연금이 해외 석탄 발전 관련 사업이나 관련 기업 투자를 철회하면 중국이 대신 가져갈 것이라는 비판이 나왔다. 상대적으로 ESG 관리가 소홀한 중국 기업이 해당 사업을 진행하면 한국에서 맡았을 때보다 오히려 탄소 배출이 더 커질 수 있다는 얘기다. <br><br>네거티브 원칙은 유럽을 필두로 전세계 연기금과 자산운용사 사이에서 가장 많이 사용하는 ESG투자 방식이다. 국내 기업 중 KT&amp;G·포비스TNC(담배생산), 풍산·한화·LIG·S&amp;T(무기), 포스코(노동탄압, 환경파괴) 등이 네덜란드나 스웨덴 연기금 등의 투자 배제 대상에 올라있다. 다만 구체적인 적용 방식은 연기금이나 운용사 별로 다양하다. <br><br>네덜란드 공적연금(APG)은 최근 국민연금 기금운용본부 고위 관계자와 만나 ESG투자 원칙이 확고하지만 경우에 따라 융통성 있게 집행한다고 설명했다. 석탄 화력 발전이어도 탄소배출을 줄일 수 있거나 탄소배출권을 확보하는 등 대안이 있다면 투자가 가능하다는 것이다. <br><br>네덜란드 연금은 투자배제를 최후의 수단으로 삼고 수년간 기업 경영진과 해법을 찾는다. 그럼에도 개선이 없을 경우는 해당 기업의 지분을 매각한다. 최근에는 투자배제 기준을 정교화하기 위해 담배나 무기 등 특정 영역에 해당하더라도 최대 4개의 기준에 충족되어야 배제한다. <br><br>석유를 함유한 모래인 오일샌드는 석유 자원으로 분류되어 투자배제 대상이지만 네덜란드 연금은 전세계 에너지 수요를 고려해 지속가능성을 추구하고 인권을 존중하는 오일 샌드 기업이면 투자를 허용한다. <br><br>미국 캘리포니아 주 공무원퇴직연금(CalPERS·캘퍼스)는 책임투자를 지속가능성에 기반해 바라본다. 단기적인 수익률이나 윤리성이 아니라 장기적인 수익을 내기 위해 네거티브 원칙을 활용하는 것이다. <br><br>이에 따라 캘퍼스는 최근 투자 배제 정책을 재검토하겠다는 입장을 밝혔다. 연금 자산이 연금 지급액보다 부족한 점, 담배 관련 기업 투자 배제로 손실이 발생한 점 등을 고려한 결과다. <br><br>전세계 연기금 중 규모 1위인 일본 공적연금은 ESG 원칙에 부합하는 기업에 투자를 늘리는 포지티브(positive) 원칙을 도입했다. 일본 공적연금은 2016년에서 2019년 사이 ESG투자 자산 규모 5배 가까이 늘리면서 주목받고 있다. <br><br>기금운용위 관계자는 “무턱대고 네거티브 투자를 도입하겠다는 선언을 하기 전에 구체적으로 어떻게 투자 원칙을 확정할지 충분한 논의 후 결정하지 않으면 역설적인 상황이 발생할 수 있다”고 설명했다. <br><br>/임세원 기자 why@sedaily.com<br><br><ul><li><a href="https://bit.ly/3bhqTuL" target="_blank" style="color:#000000">▶ [지구용] 투명해진 맥주병, 그런데 말입니다...</a></li><li><a href="https://thepolitics.sedaily.com" target="_blank" style="color:#000000">▶ 서울경제 더 폴리틱스 뉴스를 만나보세요!</a></li><li><a href="https://www.sedaily.com/v/Zipchelin" target="_blank" style="color:#000000">▶ 미슐랭 가이드처럼 알찬 부동산 뉴스 '집슐랭'</a></li></ul><br><br>저작권자 ⓒ 서울경제, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052618050000300_P4_20210526163811940.jpg?type=w647" alt="" /></span><br><br>    (서울=연합뉴스) 한국선급(KR)이 팬오션, 포스에스엠과 함께 풍력 보조장치 '로터 세일 시스템'(Rotor Sail System)에 관한 공동연구를 시작했다고 26일 밝혔다. 사진은 지난 6일 한국선급 본사에서 열린 환경규제 대응을 위한 신기술 공동 연구 협약식. 2021.5.26<br><br>    [한국선급 제공. 재판매 및 DB 금지]<br><br>    photo@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong style="display:block;overflow:hidden;position:relative;margin:33px 20px 10px 3px;padding-left:11px;font-weight:bold;border-left: 2px solid #141414;">2021년 중장기 조세정책운용계획 수립 착수</strong><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021050401350001300_P4_20210526163212381.jpg?type=w647" alt="" /><em class="img_desc">이억원 기획재정부 제1차관<br>[기획재정부 제공. 재판매 및 DB 금지] </em></span><br><br>    (세종=연합뉴스) 곽민서 기자 = 이억원 기획재정부 제1차관은 26일 "디지털 경제 확산에 대응해 국제거래를 통한 세 부담 회피 방지 노력을 강화하겠다"고 말했다.<br><br>    이 차관은 이날 대한상공회의소에서 열린 중장기 조세정책심의위원회 1차 회의에서 중장기 조세정책운용계획 수립 방향을 논의하며 이같이 밝혔다.<br><br>    이 차관은 또 "과세 기반을 정비하기 위해 앞으로도 불요불급한 비과세·감면제도를 계속해서 정비해 나가는 한편, 변칙적 탈세행위와 고액 체납자의 악의적 재산은닉에 대해서는 엄정히 대응하겠다"고 말했다.<br><br>    이외 정부는 중장기 계획 수립을 통해 반도체 등 핵심산업의 성장을 지원하고, 소상공인 등 코로나19 피해가 집중된 계층을 지원하는 데 정책 역량을 집중할 계획이다.<br><br>    기재부는 효율적인 조세정책을 위해 매년 향후 5년간의 조세정책 기본방향 등을 담은 중장기 조세정책 운용계획을 수립하고 있다.<br><br>    확정된 계획은 오는 9월 초 국가재정운용계획과 함께 국회에 제출된다.<br><br>    mskwak@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong style="display:block;overflow:hidden;position:relative;margin:33px 20px 10px 3px;padding-left:11px;font-weight:bold;border-left: 2px solid #141414;">2021년 중장기 조세정책운용계획 수립 착수</strong><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021050401350001300_P4_20210526163212381.jpg?type=w647" alt="" /><em class="img_desc">이억원 기획재정부 제1차관<br>[기획재정부 제공. 재판매 및 DB 금지] </em></span><br><br>    (세종=연합뉴스) 곽민서 기자 = 이억원 기획재정부 제1차관은 26일 "디지털 경제 확산에 대응해 국제거래를 통한 세 부담 회피 방지 노력을 강화하겠다"고 말했다.<br><br>    이 차관은 이날 대한상공회의소에서 열린 중장기 조세정책심의위원회 1차 회의에서 중장기 조세정책운용계획 수립 방향을 논의하며 이같이 밝혔다.<br><br>    이 차관은 또 "과세 기반을 정비하기 위해 앞으로도 불요불급한 비과세·감면제도를 계속해서 정비해 나가는 한편, 변칙적 탈세행위와 고액 체납자의 악의적 재산은닉에 대해서는 엄정히 대응하겠다"고 말했다.<br><br>    이외 정부는 중장기 계획 수립을 통해 반도체 등 핵심산업의 성장을 지원하고, 소상공인 등 코로나19 피해가 집중된 계층을 지원하는 데 정책 역량을 집중할 계획이다.<br><br>    기재부는 효율적인 조세정책을 위해 매년 향후 5년간의 조세정책 기본방향 등을 담은 중장기 조세정책 운용계획을 수립하고 있다.<br><br>    확정된 계획은 오는 9월 초 국가재정운용계획과 함께 국회에 제출된다.<br><br>    mskwak@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong style="display:block;overflow:hidden;position:relative;margin:33px 20px 10px 3px;padding-left:11px;font-weight:bold;border-left: 2px solid #141414;">2021년 중장기 조세정책운용계획 수립 착수</strong><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021050401350001300_P4_20210526163212381.jpg?type=w647" alt="" /><em class="img_desc">이억원 기획재정부 제1차관<br>[기획재정부 제공. 재판매 및 DB 금지] </em></span><br><br>    (세종=연합뉴스) 곽민서 기자 = 이억원 기획재정부 제1차관은 26일 "디지털 경제 확산에 대응해 국제거래를 통한 세 부담 회피 방지 노력을 강화하겠다"고 말했다.<br><br>    이 차관은 이날 대한상공회의소에서 열린 중장기 조세정책심의위원회 1차 회의에서 중장기 조세정책운용계획 수립 방향을 논의하며 이같이 밝혔다.<br><br>    이 차관은 또 "과세 기반을 정비하기 위해 앞으로도 불요불급한 비과세·감면제도를 계속해서 정비해 나가는 한편, 변칙적 탈세행위와 고액 체납자의 악의적 재산은닉에 대해서는 엄정히 대응하겠다"고 말했다.<br><br>    이외 정부는 중장기 계획 수립을 통해 반도체 등 핵심산업의 성장을 지원하고, 소상공인 등 코로나19 피해가 집중된 계층을 지원하는 데 정책 역량을 집중할 계획이다.<br><br>    기재부는 효율적인 조세정책을 위해 매년 향후 5년간의 조세정책 기본방향 등을 담은 중장기 조세정책 운용계획을 수립하고 있다.<br><br>    확정된 계획은 오는 9월 초 국가재정운용계획과 함께 국회에 제출된다.<br><br>    mskwak@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/382/2021/05/26/0000912350_001_20210526162104118.jpg?type=w647" alt="" /></span><br>KT는 DB손해보험과 ‘AI 서비스 로봇 전용 보험’ 개발 협력을 위한 양해각서(MOU)를 체결했다. KT는 DB손해보험이 6월 말 출시할 ‘AI 서빙로봇 서비스형 상품’을 통해 먼저 영업배상 보험에 가입하고, 1년간 로봇을 운영하며 발생하는 사고 데이터를 수집할 계획이다. 또 양사는 이렇게 수집된 데이터를 분석해 로봇에 특화된 전용 보험 상품을 공동 개발한다는 계획이다. <br><br>송재호 KT AI/DX융합사업부문장(부사장)은 “AI 서비스 로봇이 점차 확산되고 있는 현 시장 상황에서 KT와 DB손해보험의 협력은 양질의 고객 만족 서비스를 제공하는 첫 걸음이 될 것이다”며 ”양사 모두 새로운 미래 먹거리 발굴을 위한 협력의 중요성에 대해 공감하고 고객이 만족할 수 있는 상품을 선보이겠다”고 말했다.<br><br>김명근 기자 dionys@donga.com<br><br><br><br><br><br><a href='http://sports.donga.com/Series/20'>▶ 연예현장 진짜 이야기 </a> / <a href='http://sports.donga.com/Pictorial'>스타들의 아찔한 순간</a><br><a href='http://idolpick.donga.com/'>▶ 나의 아이돌을 픽♥ 해주세요. / 이번 주는 누가 1위?</a><br><br>- Copyrights ⓒ <a href='http://sports.donga.com'>스포츠동아</a> 무단 전재 및 재배포 금지 -
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/382/2021/05/26/0000912350_001_20210526162104118.jpg?type=w647" alt="" /></span><br>KT는 DB손해보험과 ‘AI 서비스 로봇 전용 보험’ 개발 협력을 위한 양해각서(MOU)를 체결했다. KT는 DB손해보험이 6월 말 출시할 ‘AI 서빙로봇 서비스형 상품’을 통해 먼저 영업배상 보험에 가입하고, 1년간 로봇을 운영하며 발생하는 사고 데이터를 수집할 계획이다. 또 양사는 이렇게 수집된 데이터를 분석해 로봇에 특화된 전용 보험 상품을 공동 개발한다는 계획이다. <br><br>송재호 KT AI/DX융합사업부문장(부사장)은 “AI 서비스 로봇이 점차 확산되고 있는 현 시장 상황에서 KT와 DB손해보험의 협력은 양질의 고객 만족 서비스를 제공하는 첫 걸음이 될 것이다”며 ”양사 모두 새로운 미래 먹거리 발굴을 위한 협력의 중요성에 대해 공감하고 고객이 만족할 수 있는 상품을 선보이겠다”고 말했다.<br><br>김명근 기자 dionys@donga.com<br><br><br><br><br><br><a href='http://sports.donga.com/Series/20'>▶ 연예현장 진짜 이야기 </a> / <a href='http://sports.donga.com/Pictorial'>스타들의 아찔한 순간</a><br><a href='http://idolpick.donga.com/'>▶ 나의 아이돌을 픽♥ 해주세요. / 이번 주는 누가 1위?</a><br><br>- Copyrights ⓒ <a href='http://sports.donga.com'>스포츠동아</a> 무단 전재 및 재배포 금지 -
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">미국·유럽·아시아서 독자·합작 공장 투자 쏟아져<br>한국·중국 양강으로 재편 중…소재 확보·가격 경쟁력 등 과제</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/088/2021/05/26/0000704691_001_20210526160302747.jpg?type=w647" alt="" /><em class="img_desc">한미정상회담차 미국을 방문한 문재인 대통령이 22일 오후(현지시간) 애틀랜타 SK이노베이션 전기차 배터리 공장을 찾았다. 연합뉴스</em></span><br><br>LG에너지솔루션, 삼성SDI, SK이노베이션 등 전기차 배터리 시장에서 영향력을 키우고 있는 한국 배터리 3사가 가파른 시장 성장세에 대응해 미국, 유럽, 중국 등지에 걸쳐 천문학적 글로벌 투자를 본격화하고 있다.<br><br>26일 시장조사업체 SNE리서치에 따르면 세계 전기차 수요는 지난해 310만대에서 2030년 5천180만대로 17배, 이에 따른 전기차 배터리 수요도 139GWh에서 3천254GWh로 23배 급증할 전망이다.<br><br>전기차 시장 팽창에 맞춰 완성차 업체와 배터리 업체 모두 물량 확보를 위한 대규모 투자를 쏟아내고 있다. 배터리 업체들의 자체 생산 능력 확대는 물론 완성차 업체와 협업하는 '합작 열풍'이 거세다.<br><br>LG에너지솔루션은 미국 내 대규모 투자 계획을 연이어 내놨다. 미국 1위 완성차 업체인 GM과 오하이오주에 건설 중인 합작 제1공장에 이어, 테네시주에 제2공장을 설립한다고 발표했다. 오하이오주 1공장은 내년, 테네시주 2공장은 2023년 가동을 목표로 2조원을 출자한다.<br><br>유럽 폴란드와 중국 공장에는 2025년까지 증설 투자를 진행하고 있다. 폴란드 증설 총 투자 금액은 약 6조7천억원, 중국 증설 투자 금액은 약 2조3천억원이다.<br><br>삼성SDI는 2019년 5천600억원을 투자해 유럽 헝가리 공장을 증설했고, 올해 추가 증설에 9천400억원의 투자를 결정했다. 미국 배터리 조립 공장 증설에 2018년 6천만 달러를 투자한 바 있다.<br><br>삼성SDI가 미국 정부의 친환경 정책 및 관세 혜택 등과 맞물려 미국에 투자 계획을 머지않아 내놓을 것이라는 전망도 나온다.<br><br>최근 '제2의 테슬라'라고 불리는 미국 전기차 스타트업 리비안과 공급 계약을 맺었으며, 테슬라에 전기차 배터리 공급 가능성이 높다는 게 업계 전망이다.<br><br>배터리 사업 후발 주자인 SK이노베이션도 공격적인 글로벌 투자 행보를 보이고 있다.<br><br>SK이노베이션은 현재 미국 조지아주에 22GWh 규모의 전기차 배터리 1·2공장을 건설 중이다. 조지아주 1·2공장 총 투자 금액은 약 3조원이다. SK이노베이션 조지아주 공장은 최근 한미정상회담 차 미국을 방문한 문재인 대통령이 찾은 곳이다.<br><br>SK이노베이션은 또한 최근 미국 완성차 2위사인 포드와 합작 공장(60GWh)을 설립한다고 발표했다. SK가 총 투자금액의 절반인 3조원을 투자한다.<br><br>배터리 시장을 주도하는 한국 3사의 글로벌 투자 확대 추세에 따라 향후 시장 판도가 크게 바뀔 것이라는 예상이 나온다.<br><br>전기차 배터리 시장이 한국과 중국 업체 중심으로 재편되고, 파나소닉 등 전통 강자였던 일본 업체들의 점유율은 감소할 것으로 보인다.<br><br>채원영 기자 chae10@imaeil.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=088' title='네이버에서 매일신문 구독하기'>▶ 네이버에서 매일신문 구독하기</a><br><a href='https://tv.naver.com/maeilshinmun' title='매일신문 네이버TV 바로가기'>▶ 매일신문 네이버TV 바로가기</a><br><a href='https://m.news.naver.com/hotissue/main.nhn?sid1=163&cid=1087577'>▶ 나눔의 기적, 매일신문 이웃사랑</a><br><br><br>ⓒ매일신문 - www.imaeil.com<br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">제56회 공인회계사 제2차시험 총 3708명 지원, 전년보다 179명 증가<br><br>여성 지원자 31%, 최초로 30% 넘겨 <br><br>제2차 시험 6월 26일~27일<br><br>합격자 발표 8월 27일</strong>  <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/123/2021/05/26/0002246983_001_20210526154003045.jpg?type=w647" alt="" /></span><br><br>올해 치러지는 공인회계사 2차 시험 경쟁률은 3.4:1로, 최근 5년 중 가장 높은 것으로 나타났다.<br>  <br>  26일 금융감독원은 이달 13일~25일 제56회 공인회계사 제2차시험 응시원서를 접수한 결과, 총 3708명이 지원해 전년도보다 179명(5.1%) 증가했다고 밝혔다.<br>  <br>  금감원은 최소선발예정인원(1100명)을 기준으로 할 때 경쟁률이 3.4:1로 예상된다고 전했다. 응시대상자(전년 또는 금년 제1차시험 합격자, 제1차시험 면제자) 4212명 중에서 88%가 지원한 셈이다.<br>  <br>  최근 연도별 경쟁률을 보면 2017년 3.2:1, 2018년 3.1:1, 2019년 3:1, 2020년 3.2:1로 올해보다 낮았다.<br>  <br>  성별을 보면 지원자의 69%는 남성이고 여성이 31%인 것으로 나타났다. 여성 비중은 2017년 27.2%, 2018년 26.7%, 2019년 27.5%, 2020년 28.9%로 올해 처음 30%를 넘어섰다.<br>  <br>  지원자 평균 연령은 만 27.2세이며, 20대후반이 52.6%를 차지해 가장 많고, 20대 전반(13.7%), 30대 전반(10.8%) 등의 순으로 나타났다. 54.2%는 대학교 재학 중이고, 75.2%는 상경계열 전공이다.<br>  <br>  응시자 구성을 보면 올해 합격자(동차생)가 1725명, 전년도 합격자(유예생)가 1447명, 올해와 전년도 중복 합격자(중복생)가 481명, 제1차시험 면제자가 55명이다. <br>  <br>  제2차 시험 장소 및 시간은 금융감독원과 금융위원회 홈페이지에 다음달 3일 공고된다.<br>  <br>  제2차 시험은 다음달 26일~27일 2일간 실시될 예정이다.<br>  <br>  최종 합격자 발표는 오는 8월 27일이다.<br><br><strong>▶ <a href="http://www.joseilbo.com" target="_blank">조세일보 홈페이지</a><br>▶ <a href="https://newsstand.naver.com/?pcode=123" target="_blank">조세일보 네이버 뉴스스탠드 구독(종합/경제)</a><strong><br><br>이현재(rozzhj@joseilbo.com)<br><br>저작권자 ⓒ 조세일보(http://www.joseilbo.com). 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000754092_web_20210526150931_20210526152407502.jpg?type=w647" alt="" /></span>[서울=뉴시스] 최선윤 기자 = 신한은행은 신한 쏠(SOL)에서 전기차 관련 정부·지자체 보조금, 차량 가격 등 각종 차량 정보들을 한눈에 확인할 수 있는 전기차 가격조회 플랫폼을 오픈했다고 26일 밝혔다.<br><br>신한은행은 최근 전기차에 대한 관심이 높아지는 추세에 발맞춰 온라인 차량 정보 전문 업체인 겟차와 협업해 전기차 구입을 희망하는 고객에게 필요한 전기차의 모든 정보를 손쉽게 조회할 수 있는 전기차 가격 조회 플랫폼을 신한 쏠(SOL)의 라이프 메뉴 내 마련했다.<br><br>이 플랫폼에서는 고객의 거주지만 설정하면 지자체 별로 각기 다른 보조금을 포함한 모든 전기차종의 가격을 한눈에 비교할 수 있다. 제조사의 할인 정보를 포함한 최저 가격과 주행가능거리, AS정보, 사용자 리뷰 등도 확인해 볼 수 있다.<br><br>신한은행의 친환경 차량 전용 대출상품인 그린마이카 대출의 한도와 금리까지 확인해 볼 수 있어 전기차 구입을 위해 다른 웹 사이트를 찾아 다닐 필요가 전혀 없다.<br><br>신한은행 관계자는 "친환경 실천에 대한 관심이 높아지는 상황에 발맞춰 전기차와 경쟁력 있는 금융상품을 결합한 새로운 생활금융 서비스를 제공하고자 전기차 가격조회 플랫폼을 마련했다"고 말했다.<br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> csy625@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong style="display:block;overflow:hidden;position:relative;margin:33px 20px 10px 3px;padding-left:11px;font-weight:bold;border-left: 2px solid #141414;">일부 학부모들 "온라인 홍보·설문조사 탓에 투표율 낮아"<br>교육청 "코로나로 가정통신문 활용 못 해 온라인 방식…재투표 불가"</strong><br><br>(화성=연합뉴스) 최해민 기자 = 교육 당국의 경기 화성 병점지역 학생 재배치 계획이 학부모 찬성 미달로 무산된 가운데, 일부지역 학부모들이 온라인 설문조사 방식을 문제 삼으며 재투표를 요구하고 나섰다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/AKR20210526115900061_01_i_P4_20210526151510582.jpg?type=w647" alt="" /><em class="img_desc">병점지역 학생지배치에 따른 학교 이전 계획 무산<br>[화성오산교육지원청 제공. 재판매 및 DB금지]</em></span><br><br>    화성오산교육지원청은 화성벌말초를 2025년까지 능동지구 내 '능동1초' 신설 부지로 옮기고, 기존 화성벌말초 자리에 진안중을 이전하는 내용의 학교 이전 계획을 세웠다.<br><br>    이는 화성벌말초가 송화초와 도로 하나를 사이에 두고 50m밖에 떨어지지 않은 데다 병점지역 내 중학교 3곳이 모두 북쪽에 몰려 있고, 최근 병점 남쪽으로 병점지구·능동지구 등 개발이 진행되면서 가장 북쪽에 있는 진안중의 선호도가 떨어진다는 등의 이유에서다.<br><br>    이에 따라 교육청은 지난 17일부터 21일까지 5일간 화성벌말초와 진안중 학부모를 상대로 이전 찬성 여부를 묻는 설문조사를 진행했으나 화성벌말초 찬성이 기준치(60%)에 미달하는 53.7%로 나와 이전 계획은 전면 취소됐다.<br><br>    하지만 화성벌말초가 이전할 예정이었던 '능동1초' 부지 인근 아파트 주민들은 이번 설문조사는 온라인으로 진행한 탓에 참여율이 저조했다며 재투표를 요구하는 집단 민원을 제기하고 있다.<br><br>    능동1초 부지 인근 아파트에 거주하는 한 학부모는 "학교 이전은 매우 중요한 사안인데도 교육청과 해당 학교들은 문서가 아닌 학교 정보 알림 시스템인 'e알리미'를 통한 홍보와 조사를 진행했다"며 "이로 인해 2년 전 1차 투표 때보다 '무응답·기권' 비율이 높아 전체 학부모의 의견이 반영됐다고 받아들이기가 어려운 만큼 재투표를 요구한다"고 말했다.<br><br>    실제로 이번 조사에서 화성벌말초는 학부모 588명 중 465명(79.1%)이 응답해 316명(53.7%)이 찬성했고, 진안중은 650명 중 593명(91.2%)이 응답해 398명(61.2%)이 찬성했다.<br><br>    이는 2년 전인 2019년 같은 사안에 대한 두 학교 설문조사 결과, 응답률이 각각 93.6%, 98.7%였던 것과 비교할 때 다소 낮은 수치다.<br><br>    이에 대해 학교 이전을 찬성하는 학부모와 '능동1초' 부지 인근 학부모들은 교육 당국이 1차 때는 문서로 된 가정통신문을 배포한 뒤 수거하는 방식으로 조사했으나, 이번에는 e알리미를 통한 온라인 조사를 벌여 참여율이 낮았다고 주장한다.<br><br>    또 학교 이전에 대한 설명도 서면 가정통신문이 아닌 e알리미로만 홍보하다 보니 사안 자체를 알지 못해 투표에 참여하지 못한 학부모도 있다고 지적했다.<br><br>    투표가 끝난 후 26일 오후 현재까지 화성오산교육청에는 100건이 넘는 재투표 민원이 접수된 상태다.<br><br>    화성오산교육청 관계자는 "코로나라는 특수한 상황 때문에 등교 수업이 이뤄지지 않아 부득이 e알리미로 홍보하고, 온라인으로 설문조사를 진행한 것"이라며 "이달 3일부터 7일까지 사전 안내, 10일부터 14일까지 학부모 설명회 영상자료 유튜브 게재, 17일부터 21일까지 조사 기간 매일 e알리미 홍보, 마지막 날에는 문자메시지로 투표 참여 독려 등 할 수 있는 한 최대한 알렸다"고 말했다.<br><br>    이어 "규정상 재투표는 어렵다"며 "특히 학교 이전을 반대하는 학부모들의 반대 민원도 만만치 않은 상황이라 공정성 차원에서도 객관적으로 진행한 설문조사를 다시 할 수는 없다"고 덧붙였다.<br><br>    goals@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong style="display:block;overflow:hidden;position:relative;margin:33px 20px 10px 3px;padding-left:11px;font-weight:bold;border-left: 2px solid #141414;">일부 학부모들 "온라인 홍보·설문조사 탓에 투표율 낮아"<br>교육청 "코로나로 가정통신문 활용 못 해 온라인 방식…재투표 불가"</strong><br><br>(화성=연합뉴스) 최해민 기자 = 교육 당국의 경기 화성 병점지역 학생 재배치 계획이 학부모 찬성 미달로 무산된 가운데, 일부지역 학부모들이 온라인 설문조사 방식을 문제 삼으며 재투표를 요구하고 나섰다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/AKR20210526115900061_01_i_P4_20210526151510582.jpg?type=w647" alt="" /><em class="img_desc">병점지역 학생지배치에 따른 학교 이전 계획 무산<br>[화성오산교육지원청 제공. 재판매 및 DB금지]</em></span><br><br>    화성오산교육지원청은 화성벌말초를 2025년까지 능동지구 내 '능동1초' 신설 부지로 옮기고, 기존 화성벌말초 자리에 진안중을 이전하는 내용의 학교 이전 계획을 세웠다.<br><br>    이는 화성벌말초가 송화초와 도로 하나를 사이에 두고 50m밖에 떨어지지 않은 데다 병점지역 내 중학교 3곳이 모두 북쪽에 몰려 있고, 최근 병점 남쪽으로 병점지구·능동지구 등 개발이 진행되면서 가장 북쪽에 있는 진안중의 선호도가 떨어진다는 등의 이유에서다.<br><br>    이에 따라 교육청은 지난 17일부터 21일까지 5일간 화성벌말초와 진안중 학부모를 상대로 이전 찬성 여부를 묻는 설문조사를 진행했으나 화성벌말초 찬성이 기준치(60%)에 미달하는 53.7%로 나와 이전 계획은 전면 취소됐다.<br><br>    하지만 화성벌말초가 이전할 예정이었던 '능동1초' 부지 인근 아파트 주민들은 이번 설문조사는 온라인으로 진행한 탓에 참여율이 저조했다며 재투표를 요구하는 집단 민원을 제기하고 있다.<br><br>    능동1초 부지 인근 아파트에 거주하는 한 학부모는 "학교 이전은 매우 중요한 사안인데도 교육청과 해당 학교들은 문서가 아닌 학교 정보 알림 시스템인 'e알리미'를 통한 홍보와 조사를 진행했다"며 "이로 인해 2년 전 1차 투표 때보다 '무응답·기권' 비율이 높아 전체 학부모의 의견이 반영됐다고 받아들이기가 어려운 만큼 재투표를 요구한다"고 말했다.<br><br>    실제로 이번 조사에서 화성벌말초는 학부모 588명 중 465명(79.1%)이 응답해 316명(53.7%)이 찬성했고, 진안중은 650명 중 593명(91.2%)이 응답해 398명(61.2%)이 찬성했다.<br><br>    이는 2년 전인 2019년 같은 사안에 대한 두 학교 설문조사 결과, 응답률이 각각 93.6%, 98.7%였던 것과 비교할 때 다소 낮은 수치다.<br><br>    이에 대해 학교 이전을 찬성하는 학부모와 '능동1초' 부지 인근 학부모들은 교육 당국이 1차 때는 문서로 된 가정통신문을 배포한 뒤 수거하는 방식으로 조사했으나, 이번에는 e알리미를 통한 온라인 조사를 벌여 참여율이 낮았다고 주장한다.<br><br>    또 학교 이전에 대한 설명도 서면 가정통신문이 아닌 e알리미로만 홍보하다 보니 사안 자체를 알지 못해 투표에 참여하지 못한 학부모도 있다고 지적했다.<br><br>    투표가 끝난 후 26일 오후 현재까지 화성오산교육청에는 100건이 넘는 재투표 민원이 접수된 상태다.<br><br>    화성오산교육청 관계자는 "코로나라는 특수한 상황 때문에 등교 수업이 이뤄지지 않아 부득이 e알리미로 홍보하고, 온라인으로 설문조사를 진행한 것"이라며 "이달 3일부터 7일까지 사전 안내, 10일부터 14일까지 학부모 설명회 영상자료 유튜브 게재, 17일부터 21일까지 조사 기간 매일 e알리미 홍보, 마지막 날에는 문자메시지로 투표 참여 독려 등 할 수 있는 한 최대한 알렸다"고 말했다.<br><br>    이어 "규정상 재투표는 어렵다"며 "특히 학교 이전을 반대하는 학부모들의 반대 민원도 만만치 않은 상황이라 공정성 차원에서도 객관적으로 진행한 설문조사를 다시 할 수는 없다"고 덧붙였다.<br><br>    goals@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">농촌경제연구원, 유통변화로 소매비중 60%<br>“지역농산물 순환체계 핵심시설로 활용해야”<br>푸드플랜·공공성결합 가능성 높아, 판매체계 개선도 필요</strong>인구 감소, 대기업자본의 농산물 도소매 유통 분야 유입, 로컬푸드 직매장 등으로 지역의 농산물 도매시장이 경쟁력을 잃어가고 있다.<br><br>지역별 유통경로를 분석해보니 최종 유통단계에서 각 지역의 외식업체와 소매업체의 비중이 약 60% 이상을 차지하는 것으로 나타났으며, 이들은 신선하고 저렴한 지역농산물 공급을 희망하는 것으로 조사됐다.<br><br>이에 따라 지방 도매시장을 지역농산물 유통 순환체계의 핵심시설로 활용해 지역 농산물 유통을 활성화하고, 푸드플랜과 지방 도매시장의 공공성을 결합해 활력을 높여야 한다는 주장이 제기됐다.<br><br>이는 한국농촌경제연구원(KREI)이 ‘지역유통 순환체계 구축을 위한 지방 도매시장 기능 재편방안’ 연구를 통해 제시됐다.<br><br>연구책임자인 최병옥 연구위원은 “지역 내 지역농산물 이용률을 높이기 위해서는 소매업체와 외식업체가 지역농산물의 이용률을 향상 시킬 수 있는 방안을 모색하는 것이 필요하다”며 “이들의 주요 농산물 공급처인 지방 도매시장이 향후 지역농산물 취급 확대를 위한 방안을 수립·시행하는 것이 지역농산물 시장 규모를 확대할 수 있는 핵심”이라고 강조했다.<br><br>연구진은 도매시장의 기능인 농산물의 수집·가격 결정·분산 등의 수행이 어려운 지방 도매시장을 대상으로 해당 소재 지역 중 푸드플랜이 수립된 춘천시·익산시·진주시를 사례지역으로 설정해 조사·분석했다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/119/2021/05/26/0002496226_001_20210526145302964.jpeg?type=w647" alt="" /><em class="img_desc">대구의 한 농수산물도매시장에서 관계자들이 산지에서 올라온 수박을 출하하기 위해 하역작업을 하고 있다. ⓒ뉴시스</em></span>사례지역의 먹거리 유통실태를 분석한 결과, 대부분의 주요 생산품목이 산지유통시설을 통해 외부 대도시로 공급되고 있으며, 지역 도매시장의 거래 상위품목에는 지역 주요 생산품목이 없는 것으로 파악됐다.<br><br>즉 지역에서 생산된 농산물이 외부로 공급되는 비중이 높아지면서, 지역 내 생산과 소비의 불균형이 발생하고 있었다.<br><br>하지만 이와 별개로 로컬푸드 직매장 점포 수와 매출액은 확대되는 것으로 나타났고 소비자의 지역 먹거리 선호도는 증가하고 있어, 이에 따른 지역농산물의 지역 내 소비 확대 가능성도 보인다는 분석이다.<br><br>이와 관련, 지역농산물 취급에 대해 도매시장법인·중도매인·소매점·외식업체 모두 확대의 필요성을 거론했고, 지역농산물 유통의 핵심인 도매시장법인과 중도매인도 지역유통 순환체계가 필요하다며 참여 의향도 보인 것으로 조사됐다.<br><br>연구팀은 도매시장에 비영리법인형태의 유통 주체와 푸드플랜 관련 시설을 연계한다면 단기간에 지역농산물 취급 확대가 가능할 것이라고 전했다.<br><br>또한 연구진은 지역농산물 순환체계의 핵심 시설로 지방 도매시장을 활용하기 위한 기본 방향에 유통·물류 기능과 공간 활용 혁신, 맞춤형 생산·소비체계로 유통 혁신, 제도와 운영시스템 혁신 등을 제안했다.<br><br>이를 위한 정책과제로 ▲로컬푸드의 지역 범위 확대 ▲타 지역과 전략적 제휴 ▲유통·물류 기능 확대, 도매시장 공간 활용 ▲지역농산물 생산과 소비조직 연계 ▲지역농산물 순환을 통한 재생산 촉진 ▲제도·수급관리·판매체계 개선을 들었다.<br><br>데일리안 이소희 기자 (aswith@dailian.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=119">▶ 데일리안 네이버 구독하기</a><br><a href="http://naver.me/xorooYvI">★ 구독만 해도 스타벅스쿠폰이 쏟아진다!</a><br><a target="_blank" href="https://m.dailian.co.kr/report">▶ 제보하기</a><br><br>ⓒ (주)데일리안 - 무단전재, 변형, 무단배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005373967_001_20210526143204740.jpg?type=w647" alt="" /></span><br>(세종=뉴스1) 장수영 기자 = 유은혜 사회부총리 겸 교육부 장관이 26일 정부세종청사에서 열린 서울-세종 영상 사회관계장관회의에 참석하고 있다. 2021.5.26/뉴스1<br><br>presy@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">정부, 29일까지 10개 특별세션 통해 2050 탄소중립 실현 '모색'<br>26일 해양·27일 비즈니스, 생물다양성 세션 개최 예정</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005373929_001_20210526142604692.jpg?type=w647" alt="" /><em class="img_desc">24일 오후 서울 중구 을지로 동대문디자인플라자에서 열린 2021 P4G 서울 정상회의 특별세션 '지방 정부 탄소 중립 실천'이 진행되고 있다. 2021.5.24/뉴스1 &#169; News1 임세영 기자</em></span><br>(세종=뉴스1) 나혜윤 기자 = 환경 분야 다자정상회의 '2021 P4G 서울 녹색미래 정상회의'가 오는 30~31일 개최를 앞두고 있는 가운데, 정부가 이에 앞서 운영 중인 '특별세션'에서는 순환경제 및 2050년 탄소중립 실현을 위한 다양한 방안들이 논의되고 있다. <br><br>26일 환경부에 따르면 정부는 P4G(녹색성장 및 글로벌 목표 2030을 위한 연대) 정상회의 개최에 앞서 오는 29일까지 10개의 특별세션을 개최한다. 정부는 24일부터 29일까지를 'P4G 녹색미래주간'으로 지정하고 &#916;지자체의 탄소중립 실천 &#916;해양 &#916;산림 &#916;녹색금융 &#916;녹색기술 &#916;그린뉴딜 &#916;비즈니스 포럼 &#916;생물다양성 &#916;시민사회 &#916;미래세대 등 10개의 특별세션을 개최한다. <br><br>정부는 녹색미래주간을 통해 국가 주도의 '2030 탄소중립'과 순환경제, 친환경 성장을 위한 지방정부의 정책 등을 공유하며 녹색성장을 도모할 계획이다. <br><br>특별세션은 현재까지 &#916;탄소중립실천-글로벌 탄소중립을 위한 지방정부의 역할(환경부) &#916;그린뉴딜-녹색 경제로의 청정 전환(기획재정부) &#916;시민사회-풀뿌리 시민사회 참여를 통한 정의로운 녹색 회복(환경부) 등의 주제를 통해 기후위기 극복을 위한 탄소중립과 녹색미래 실천 방안을 모색했다. <br><br>탄소중립실천 세션에서는 도넛경제학의 저자인 케이트 레이워스가 '도시, 저탄소사회 전환을 이끌다'라는 주제로 기조연설에 나섰다. <br><br>레이워스는 멜버른의 풍력발전단지, 암스테르담의 순환경제 등의 사례를 통해 지구의 순환체계 안에서 공존하는 '계획을 통한 재생'과 브리질 쿠리치바의 대주교통, 비엔나의 주택분배정책 등의 사례를 언급하며 '계획을 통한 분배'를 강조했다.  <br><br>그린뉴딜 세션에서는 야닉 그레마렉 녹색기후기금(GCF) 사무총장이 '코로나19 상황 속 지속가능한 개발을 위한 재원의 역할' 보고서를 발표하고, 각 국가들이 이산화탄소의 세부 배출 저감 경로와 자금 조달 계획을 마련해야 할 필요성을 강조했다. <br><br>특히 홍남기 부총리 겸 기재부 장관은 그린뉴딜 특별세션을 계기로 25일 그레마렉 사무총장과 면담을 통해 국내 그린뉴딜 기업의 해외진출 지원을 위한 우리 정부의 지원방안을 논의했다. <br><br>양측은 GCF사업 중 8개 사업, 총사업비 23억달러 수준인 한국 기관이 참여하는 그린뉴딜 해외사업을 확대하고, 사업참여 기반 강화를 위해 한국의 GCF 인증기구 수를 확대해 나가기로 협의했다.<br><br>전날(25일) 열린 시민사회 세션에서는 공정하고 친환경적인 경제로의 전환 행동을 위한 정부-시민사회-기업 파트너십 방안과 과제에 대한 대담이 진행됐다. 패널들은 녹색 전환을 위한 P4G 지속가능성 및 포용성 전략과 녹색 경기회복과 SDGs 달성을 위한 사회적 경제의 역할과 과제에 대해 토론했다. <br><br>이날 오후 8시부터는 &#916;해양-해양을 통한 푸른회복(해양수산부) 특별세션이 예정돼있다. 27일에는 &#916;비즈니스포럼-ESG&middot;녹색기술 시대의 새로운 경영 대전환(대한상공회의소&middot;산업통상자원부) &#916;생물다양성-미래의 희망 '생물 다양성 회복'(환경부) 세션이 진행될 예정이다. <br><br>28일에는 &#916;녹색기술-탄소중립 사회를 위한 패스파인더(과학기술정보통신부)와 &#916;산림-글로벌 탄소중립과 평화를 위한 산림(산림청)이 예정됐고 29일에는 &#916;녹색금융-포스트 코로나19 녹색회복을 위한 금융의 역할(금융위원회) &#916;미래세대-지구의 목소리, 지구를 위한 목소리(국가기후환경회의)가 진행된다.<br><br>freshness410@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">정부, 29일까지 10개 특별세션 통해 2050 탄소중립 실현 '모색'<br>26일 해양·27일 비즈니스, 생물다양성 세션 개최 예정</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005373929_001_20210526142604692.jpg?type=w647" alt="" /><em class="img_desc">24일 오후 서울 중구 을지로 동대문디자인플라자에서 열린 2021 P4G 서울 정상회의 특별세션 '지방 정부 탄소 중립 실천'이 진행되고 있다. 2021.5.24/뉴스1 &#169; News1 임세영 기자</em></span><br>(세종=뉴스1) 나혜윤 기자 = 환경 분야 다자정상회의 '2021 P4G 서울 녹색미래 정상회의'가 오는 30~31일 개최를 앞두고 있는 가운데, 정부가 이에 앞서 운영 중인 '특별세션'에서는 순환경제 및 2050년 탄소중립 실현을 위한 다양한 방안들이 논의되고 있다. <br><br>26일 환경부에 따르면 정부는 P4G(녹색성장 및 글로벌 목표 2030을 위한 연대) 정상회의 개최에 앞서 오는 29일까지 10개의 특별세션을 개최한다. 정부는 24일부터 29일까지를 'P4G 녹색미래주간'으로 지정하고 &#916;지자체의 탄소중립 실천 &#916;해양 &#916;산림 &#916;녹색금융 &#916;녹색기술 &#916;그린뉴딜 &#916;비즈니스 포럼 &#916;생물다양성 &#916;시민사회 &#916;미래세대 등 10개의 특별세션을 개최한다. <br><br>정부는 녹색미래주간을 통해 국가 주도의 '2030 탄소중립'과 순환경제, 친환경 성장을 위한 지방정부의 정책 등을 공유하며 녹색성장을 도모할 계획이다. <br><br>특별세션은 현재까지 &#916;탄소중립실천-글로벌 탄소중립을 위한 지방정부의 역할(환경부) &#916;그린뉴딜-녹색 경제로의 청정 전환(기획재정부) &#916;시민사회-풀뿌리 시민사회 참여를 통한 정의로운 녹색 회복(환경부) 등의 주제를 통해 기후위기 극복을 위한 탄소중립과 녹색미래 실천 방안을 모색했다. <br><br>탄소중립실천 세션에서는 도넛경제학의 저자인 케이트 레이워스가 '도시, 저탄소사회 전환을 이끌다'라는 주제로 기조연설에 나섰다. <br><br>레이워스는 멜버른의 풍력발전단지, 암스테르담의 순환경제 등의 사례를 통해 지구의 순환체계 안에서 공존하는 '계획을 통한 재생'과 브리질 쿠리치바의 대주교통, 비엔나의 주택분배정책 등의 사례를 언급하며 '계획을 통한 분배'를 강조했다.  <br><br>그린뉴딜 세션에서는 야닉 그레마렉 녹색기후기금(GCF) 사무총장이 '코로나19 상황 속 지속가능한 개발을 위한 재원의 역할' 보고서를 발표하고, 각 국가들이 이산화탄소의 세부 배출 저감 경로와 자금 조달 계획을 마련해야 할 필요성을 강조했다. <br><br>특히 홍남기 부총리 겸 기재부 장관은 그린뉴딜 특별세션을 계기로 25일 그레마렉 사무총장과 면담을 통해 국내 그린뉴딜 기업의 해외진출 지원을 위한 우리 정부의 지원방안을 논의했다. <br><br>양측은 GCF사업 중 8개 사업, 총사업비 23억달러 수준인 한국 기관이 참여하는 그린뉴딜 해외사업을 확대하고, 사업참여 기반 강화를 위해 한국의 GCF 인증기구 수를 확대해 나가기로 협의했다.<br><br>전날(25일) 열린 시민사회 세션에서는 공정하고 친환경적인 경제로의 전환 행동을 위한 정부-시민사회-기업 파트너십 방안과 과제에 대한 대담이 진행됐다. 패널들은 녹색 전환을 위한 P4G 지속가능성 및 포용성 전략과 녹색 경기회복과 SDGs 달성을 위한 사회적 경제의 역할과 과제에 대해 토론했다. <br><br>이날 오후 8시부터는 &#916;해양-해양을 통한 푸른회복(해양수산부) 특별세션이 예정돼있다. 27일에는 &#916;비즈니스포럼-ESG&middot;녹색기술 시대의 새로운 경영 대전환(대한상공회의소&middot;산업통상자원부) &#916;생물다양성-미래의 희망 '생물 다양성 회복'(환경부) 세션이 진행될 예정이다. <br><br>28일에는 &#916;녹색기술-탄소중립 사회를 위한 패스파인더(과학기술정보통신부)와 &#916;산림-글로벌 탄소중립과 평화를 위한 산림(산림청)이 예정됐고 29일에는 &#916;녹색금융-포스트 코로나19 녹색회복을 위한 금융의 역할(금융위원회) &#916;미래세대-지구의 목소리, 지구를 위한 목소리(국가기후환경회의)가 진행된다.<br><br>freshness410@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">정부, 29일까지 10개 특별세션 통해 2050 탄소중립 실현 '모색'<br>26일 해양·27일 비즈니스, 생물다양성 세션 개최 예정</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005373929_001_20210526142604692.jpg?type=w647" alt="" /><em class="img_desc">24일 오후 서울 중구 을지로 동대문디자인플라자에서 열린 2021 P4G 서울 정상회의 특별세션 '지방 정부 탄소 중립 실천'이 진행되고 있다. 2021.5.24/뉴스1 &#169; News1 임세영 기자</em></span><br>(세종=뉴스1) 나혜윤 기자 = 환경 분야 다자정상회의 '2021 P4G 서울 녹색미래 정상회의'가 오는 30~31일 개최를 앞두고 있는 가운데, 정부가 이에 앞서 운영 중인 '특별세션'에서는 순환경제 및 2050년 탄소중립 실현을 위한 다양한 방안들이 논의되고 있다. <br><br>26일 환경부에 따르면 정부는 P4G(녹색성장 및 글로벌 목표 2030을 위한 연대) 정상회의 개최에 앞서 오는 29일까지 10개의 특별세션을 개최한다. 정부는 24일부터 29일까지를 'P4G 녹색미래주간'으로 지정하고 &#916;지자체의 탄소중립 실천 &#916;해양 &#916;산림 &#916;녹색금융 &#916;녹색기술 &#916;그린뉴딜 &#916;비즈니스 포럼 &#916;생물다양성 &#916;시민사회 &#916;미래세대 등 10개의 특별세션을 개최한다. <br><br>정부는 녹색미래주간을 통해 국가 주도의 '2030 탄소중립'과 순환경제, 친환경 성장을 위한 지방정부의 정책 등을 공유하며 녹색성장을 도모할 계획이다. <br><br>특별세션은 현재까지 &#916;탄소중립실천-글로벌 탄소중립을 위한 지방정부의 역할(환경부) &#916;그린뉴딜-녹색 경제로의 청정 전환(기획재정부) &#916;시민사회-풀뿌리 시민사회 참여를 통한 정의로운 녹색 회복(환경부) 등의 주제를 통해 기후위기 극복을 위한 탄소중립과 녹색미래 실천 방안을 모색했다. <br><br>탄소중립실천 세션에서는 도넛경제학의 저자인 케이트 레이워스가 '도시, 저탄소사회 전환을 이끌다'라는 주제로 기조연설에 나섰다. <br><br>레이워스는 멜버른의 풍력발전단지, 암스테르담의 순환경제 등의 사례를 통해 지구의 순환체계 안에서 공존하는 '계획을 통한 재생'과 브리질 쿠리치바의 대주교통, 비엔나의 주택분배정책 등의 사례를 언급하며 '계획을 통한 분배'를 강조했다.  <br><br>그린뉴딜 세션에서는 야닉 그레마렉 녹색기후기금(GCF) 사무총장이 '코로나19 상황 속 지속가능한 개발을 위한 재원의 역할' 보고서를 발표하고, 각 국가들이 이산화탄소의 세부 배출 저감 경로와 자금 조달 계획을 마련해야 할 필요성을 강조했다. <br><br>특히 홍남기 부총리 겸 기재부 장관은 그린뉴딜 특별세션을 계기로 25일 그레마렉 사무총장과 면담을 통해 국내 그린뉴딜 기업의 해외진출 지원을 위한 우리 정부의 지원방안을 논의했다. <br><br>양측은 GCF사업 중 8개 사업, 총사업비 23억달러 수준인 한국 기관이 참여하는 그린뉴딜 해외사업을 확대하고, 사업참여 기반 강화를 위해 한국의 GCF 인증기구 수를 확대해 나가기로 협의했다.<br><br>전날(25일) 열린 시민사회 세션에서는 공정하고 친환경적인 경제로의 전환 행동을 위한 정부-시민사회-기업 파트너십 방안과 과제에 대한 대담이 진행됐다. 패널들은 녹색 전환을 위한 P4G 지속가능성 및 포용성 전략과 녹색 경기회복과 SDGs 달성을 위한 사회적 경제의 역할과 과제에 대해 토론했다. <br><br>이날 오후 8시부터는 &#916;해양-해양을 통한 푸른회복(해양수산부) 특별세션이 예정돼있다. 27일에는 &#916;비즈니스포럼-ESG&middot;녹색기술 시대의 새로운 경영 대전환(대한상공회의소&middot;산업통상자원부) &#916;생물다양성-미래의 희망 '생물 다양성 회복'(환경부) 세션이 진행될 예정이다. <br><br>28일에는 &#916;녹색기술-탄소중립 사회를 위한 패스파인더(과학기술정보통신부)와 &#916;산림-글로벌 탄소중립과 평화를 위한 산림(산림청)이 예정됐고 29일에는 &#916;녹색금융-포스트 코로나19 녹색회복을 위한 금융의 역할(금융위원회) &#916;미래세대-지구의 목소리, 지구를 위한 목소리(국가기후환경회의)가 진행된다.<br><br>freshness410@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021031916620005700_P4_20210526141811458.jpg?type=w647" alt="" /><em class="img_desc">오토바이 경적 시위하는 현대중공업 조합원들<br>현대중공업 노조가 2년 치 임단협 교섭 난항을 이유로 지난 3월 19일 부분 파업할 때 모습 [현대중공업 노조 제공. 재판매 및 DB 금지]</em></span><br><br>    (울산=연합뉴스) 김근주 기자 = 현대중공업 노동조합은 2019·2020년 임금 및 단체협약 교섭 난항으로 26일 부분 파업에 들어갔다.<br><br>    노조는 이날 오후 1시부터 울산 본사에서 전 조합원 대상 4시간 부분 파업에 돌입했다.<br><br>    파업 참여 조합원은 회사 정문 앞에서 열린 금속노조 영남권 결의대회에 참석해 주변을 행진했다.<br><br>    노조는 2019년과 2020년 통합 임금 및 단체협약 잠정합의안이 두 차례 부결된 이후 사측이 재교섭에 나서지 않는 것을 항의하는 의미로 파업했다고 설명했다.<br><br>    노조는 "재교섭 요구 후 두 달이 다 돼가는데도 사측은 반응이 없다"고 지적했다.<br><br>    사측은 현재까지 이날 파업으로 큰 생산 차질은 없는 것으로 파악했다.<br><br>    canto@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021031916620005700_P4_20210526141811458.jpg?type=w647" alt="" /><em class="img_desc">오토바이 경적 시위하는 현대중공업 조합원들<br>현대중공업 노조가 2년 치 임단협 교섭 난항을 이유로 지난 3월 19일 부분 파업할 때 모습 [현대중공업 노조 제공. 재판매 및 DB 금지]</em></span><br><br>    (울산=연합뉴스) 김근주 기자 = 현대중공업 노동조합은 2019·2020년 임금 및 단체협약 교섭 난항으로 26일 부분 파업에 들어갔다.<br><br>    노조는 이날 오후 1시부터 울산 본사에서 전 조합원 대상 4시간 부분 파업에 돌입했다.<br><br>    파업 참여 조합원은 회사 정문 앞에서 열린 금속노조 영남권 결의대회에 참석해 주변을 행진했다.<br><br>    노조는 2019년과 2020년 통합 임금 및 단체협약 잠정합의안이 두 차례 부결된 이후 사측이 재교섭에 나서지 않는 것을 항의하는 의미로 파업했다고 설명했다.<br><br>    노조는 "재교섭 요구 후 두 달이 다 돼가는데도 사측은 반응이 없다"고 지적했다.<br><br>    사측은 현재까지 이날 파업으로 큰 생산 차질은 없는 것으로 파악했다.<br><br>    canto@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<b>삼성 OLED 유해물질 방출량 기존 LCD 대비 절반 수준</b><br><br>삼성 노트북용 유기발광다이오드(OLED) 패널이 글로벌 인증기관 ‘UL(Underwriters Laboratories)’로부터 공기질 안전성을 인정받았다.<br><br>삼성디스플레이는 자사의 노트북용 OLED 총 9종(13.3∼16인치)이 유해물질 배출량을 최소화해 UL에서 ‘그린가드 골드’ 인증을 받았다고 26일 밝혔다. 이 패널은 최근 삼성전자가 출시한 ‘갤럭시 북 프로’ 시리즈에도 적용됐다.<br><br>그린가드 골드는 전자제품, 의료기기 등의 제품에서 발생하는 휘발성 유기화합물 등을 측정해 방출량이 기준치 이하일 경우 부여하는 친환경 인증으로, 제품의 실내 공기질 안전성에 대한 영향을 판단하는 기준으로 사용된다.<br><br>삼성디스플레이는 휘발성 유기화합물 발생의 주요 원인인 플라스틱 시트 사용을 최소화한 친환경 노트북용 OLED를 개발했다. UL과 공동 진행한 평가에 따르면 삼성 OLED는 백라이트를 사용하지 않는 자발광 구조로 유해물질 방출량을 기존 LCD 대비 절반 수준으로 줄였다.<br><br>삼성디스플레이 관계자는 “신종 코로나바이러스 감염증(코로나19) 시대에 밀폐된 실내 공간에서 노트북 사용시간이 급격히 늘면서 건강한 사용 환경에 대한 관심이 높아지고 있다”며 “업계 최초로 ‘그린가드’를 획득한 노트북용 OLED를 출시하면서 소비자들에게 건강하고 안전한 제품 선택의 기회를 제공하게 됐다”고 말했다. <br><br>장병철 기자<br><br><b>[ <a href="http://www.munhwa.com" target="_blank">문화닷컴</a> | <a href="http://media.naver.com/channel/promotion.nhn?oid=021" target="_blank">네이버 뉴스 채널 구독</a> | <a href="http://m.munhwa.com" target="_blank">모바일 웹</a> | <a href="https://m.post.naver.com/lustforlife1073" target="_blank">슬기로운 문화생활</a> ]</b><br><br>[Copyrightⓒmunhwa.com '대한민국 오후를 여는 유일석간 문화일보' 무단 전재 및 재배포 금지(<a href="http://www.munhwa.com/service/gudok_request.html" target="_blank">구독신청:02)3701-5555</a>)]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PCM20191120000147990_P4_20210526135210073.jpg?type=w647" alt="" /><em class="img_desc">페트병 재활용 (CG)<br>[연합뉴스TV 제공]</em></span><br><br>(전주=연합뉴스) 정경재 기자 = 전북 전주시 환경관리원들이 패트병을 재활용해 만든 친환경 옷을 입는다.<br><br>    시는 자원순환 체계를 강화하고 환경을 보전하기 위해 버려진 페트병에서 뽑아낸 원사를 활용한 티셔츠를 환경관리원에게 지급할 예정이라고 26일 밝혔다.<br><br>    지급 규모는 목 부분에 지퍼가 달린 반 집업 티셔츠 219벌과 반소매 티 438벌, 하의 219벌 등 총 876벌이다.<br><br>    이들 티셔츠는 공공주택 등에서 분리 배출한 투명페트병을 세척해 칩(chip) 형태로 만든 뒤, 원사를 추출하는 공정을 거쳐 만들어진다.<br><br>    유명 아웃도어 브랜드나 운동복 제작업체에서도 최근 이러한 방식으로 다양한 기능성 의류를 생산하고 있다.  <br><br>    시는 깨끗한 페트병을 확보하기 위해 공공주택에 분리수거함과 마대 봉투를 제공하고, 주부 환경감시원을 통한 분리배출 홍보를 강화할 방침이다.<br><br>    이기섭 시 청소지원과장은 "하절기 의류 보급을 시작으로 동절기에도 환경관리원들에게 친환경 의류를 지원할 예정"이라고 말했다.<br><br>    jaya@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

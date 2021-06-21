@@ -1,0 +1,105 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="vod_area"><iframe _src="/main/readVod.nhn?oid=056&aid=0011051475&position=1&autoPlay=true&viewType=" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe></div><br><br>[앵커]<br><br>여러분, 안녕하십니까?<br><br>백신을 한 번만 맞아도 당장 다음 달부터 가족들과 더 여럿이 모일 수 있고, 7월부터는 야외에서 마스크를 벗어도 됩니다.<br><br>정부가 코로나19 백신 접종에 따른 혜택들을 발표했습니다.<br><br>첫 소식, 김도영 기자가 전해드립니다.<br><br> [리포트]<br><br> 현재 직계가족은  8인까지만 모임이 허용됩니다.<br><br> 하지만 다음 달부터 백신을 한 번이라도 맞은 사람은 인원에서 제외합니다.<br><br> 예를 들어 가족 중 할아버지 할머니  두 명이 접종했다면 이 두 사람에 인원제한 범위인 8명을 더해 모두 10명이 모일 수 있습니다.<br><br> [권덕철/중앙재난안전대책본부 1차장 : "고령층뿐 아니라 1차 접종자는 인원제한에서 제외되므로 가족 내 접종자가 많아질수록 모일 수 있는 인원은 늘어나게 됩니다."]<br><br> 노인복지시설에선  접종자들을 위한 프로그램도 열리고 경로당도 운영이 가능합니다.<br><br>  국립공원과 고궁 등의 공공시설 이용료 할인, 무료입장 혜택도 있습니다.<br><br> 정부 목표는  다음 달 말까지 전 국민의 25%인 1,300만 명이 1차 접종을 마치는 겁니다.<br><br> 이 목표가 달성되면 7월부터는 방역 조치가 더욱 완화됩니다.<br><br> 백신을 한 번만 맞았더라도  야외에서 마스크를 안 써도 됩니다.<br><br> [박혜경/중앙방역대책본부 방역지원단장 : "(1차 접종자는) 야외에서의 전파 가능성이 매우 낮은 것으로 보고 있고, 타인으로의 전파 가능성도 매우 낮아져 있는 상황이라고 판단하고."]<br><br> 예방접종을 완료하면 5인 이상 사적모임 금지 기준에서 제외됩니다.<br><br> 식당과 카페 등은 1차 접종자는 실외, 2차 접종자는 실내외 모두  인원 제한에 상관없이  이용할 수 있습니다.<br><br> 예배와 미사, 법회 등  대면 종교활동도  인원 기준에서 빠지게 됩니다.<br><br> 국민 70%가 1차 접종을 마치는 9월 말 이후엔  거리두기와 방역수칙이 대폭 완화될 것으로 보입니다.<br><br> [김부겸/중앙재난안전대책본부장 : "집단면역이 달성되는 시점에서는 실내에서의 마스크 착용 완화도 검토하게 될 것입니다."]<br><br> 정부는 이와 함께 접종률이 높은 지자체에 방역조치를 완화하는 권한도 확대하고 재난안전특별교부세를 지원하는 방안도 검토 중입니다.<br><br> KBS 뉴스 김도영입니다.<br><br> 영상편집:사명환/그래픽:김현갑<br><br><center><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/056/2021/05/26/0011051475_004_20210526222302707.png?type=w647" alt="" /></span></center><br><br>김도영 (peace1000@kbs.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=056" target="_blank">▶ 더 빠르고 정확한 소식을 원하시면 KBS뉴스 구독!</a><br><a href="http://news.kbs.co.kr/special/covid19/vaccine.html"_blank">▶ 코로나19 언제 어떤 백신을 누가 맞을까?</a><br><a href="https://pf.kakao.com/_REkxbE" target="_blank">▶ 뉴스 제보하기 [여기를 클릭!]</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="vod_area"><iframe _src="/main/readVod.nhn?oid=056&aid=0011051475&position=1&autoPlay=true&viewType=" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe></div><br><br>[앵커]<br><br>여러분, 안녕하십니까?<br><br>백신을 한 번만 맞아도 당장 다음 달부터 가족들과 더 여럿이 모일 수 있고, 7월부터는 야외에서 마스크를 벗어도 됩니다.<br><br>정부가 코로나19 백신 접종에 따른 혜택들을 발표했습니다.<br><br>첫 소식, 김도영 기자가 전해드립니다.<br><br> [리포트]<br><br> 현재 직계가족은  8인까지만 모임이 허용됩니다.<br><br> 하지만 다음 달부터 백신을 한 번이라도 맞은 사람은 인원에서 제외합니다.<br><br> 예를 들어 가족 중 할아버지 할머니  두 명이 접종했다면 이 두 사람에 인원제한 범위인 8명을 더해 모두 10명이 모일 수 있습니다.<br><br> [권덕철/중앙재난안전대책본부 1차장 : "고령층뿐 아니라 1차 접종자는 인원제한에서 제외되므로 가족 내 접종자가 많아질수록 모일 수 있는 인원은 늘어나게 됩니다."]<br><br> 노인복지시설에선  접종자들을 위한 프로그램도 열리고 경로당도 운영이 가능합니다.<br><br>  국립공원과 고궁 등의 공공시설 이용료 할인, 무료입장 혜택도 있습니다.<br><br> 정부 목표는  다음 달 말까지 전 국민의 25%인 1,300만 명이 1차 접종을 마치는 겁니다.<br><br> 이 목표가 달성되면 7월부터는 방역 조치가 더욱 완화됩니다.<br><br> 백신을 한 번만 맞았더라도  야외에서 마스크를 안 써도 됩니다.<br><br> [박혜경/중앙방역대책본부 방역지원단장 : "(1차 접종자는) 야외에서의 전파 가능성이 매우 낮은 것으로 보고 있고, 타인으로의 전파 가능성도 매우 낮아져 있는 상황이라고 판단하고."]<br><br> 예방접종을 완료하면 5인 이상 사적모임 금지 기준에서 제외됩니다.<br><br> 식당과 카페 등은 1차 접종자는 실외, 2차 접종자는 실내외 모두  인원 제한에 상관없이  이용할 수 있습니다.<br><br> 예배와 미사, 법회 등  대면 종교활동도  인원 기준에서 빠지게 됩니다.<br><br> 국민 70%가 1차 접종을 마치는 9월 말 이후엔  거리두기와 방역수칙이 대폭 완화될 것으로 보입니다.<br><br> [김부겸/중앙재난안전대책본부장 : "집단면역이 달성되는 시점에서는 실내에서의 마스크 착용 완화도 검토하게 될 것입니다."]<br><br> 정부는 이와 함께 접종률이 높은 지자체에 방역조치를 완화하는 권한도 확대하고 재난안전특별교부세를 지원하는 방안도 검토 중입니다.<br><br> KBS 뉴스 김도영입니다.<br><br> 영상편집:사명환/그래픽:김현갑<br><br><center><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/056/2021/05/26/0011051475_004_20210526222302707.png?type=w647" alt="" /></span></center><br><br>김도영 (peace1000@kbs.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=056" target="_blank">▶ 더 빠르고 정확한 소식을 원하시면 KBS뉴스 구독!</a><br><a href="http://news.kbs.co.kr/special/covid19/vaccine.html"_blank">▶ 코로나19 언제 어떤 백신을 누가 맞을까?</a><br><a href="https://pf.kakao.com/_REkxbE" target="_blank">▶ 뉴스 제보하기 [여기를 클릭!]</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span style="border-left:4px solid #959595; padding-left: 20px; display: inline-block"><strong>코인마켓캡 시세 비트코인 8.47% 뛴 4만257달러<br>가상화폐 대신 금·은 투자 인플레 헤지 수단 부각</strong></span><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/009/2021/05/26/0004799943_001_20210526214402810.jpg?type=w647" alt="" /><em class="img_desc">[사진 제공 = 연합뉴스]</em></span>국내서 비트코인 개당 가격이 오름세를 보이면서 4800만원대에 거래되고 있다.<br><br>26일 오후 9시 30분 국내 거래소 빗썸에서 가상화폐 대장격인 비트코인 개당 가격은 24시간 전보다 4.78% 오른 4828만4000원에 거래되고 있다. 이더리움은 8.18% 급등한 342만7000원이다.<br><br>같은 시간 업비트에서도 비트코인 개당 가격은 4800만원대로, 전일 대비 2.51% 상승한 4822만6000원에 시세가 형성돼 있다.<br><br>이더리움은 전일 대비 3.47% 오른 343만1000원, 도지코인은 0.47% 상승한 428원이다.<br><br>가상화폐는 주식시장과 달리 거래소 단위로 거래가 이뤄져 같은 종류라도 거래소별로 거래 가격이 조금씩 다르다.<br><br>글로벌 가상화폐 시황 중계사이트인 코인마켓캡에 따르면 같은 시간(한국시간 기준) 비트코인은 24시간 전보다 8.47% 뛴 4만257달러에 시세가 형성됐다. 이더리움은 16.72% 급등한 2865달러를, 도지코인은 7.06% 오른 35.71센트를 각각 기록했다.<br><br>앞서 비트코인 가격은 지난 19일 30% 가량 폭락하며 한때 3만달러에 바짝 근접했다. 이더리움은 지난 11일 개당 4300달러를 넘었다가 내림세가 이어져 현재 2800달러대를 오르내리고 있다.<br><br>가상화폐 시장에는 최근 악재가 이어졌다. 미국 정부는 지난 20일(현지시간) 1만달러 이상 가상화폐 거래에 대해 국세청(IRS)에 신고 의무를 부과하는 등 가상화폐 규제에 나선다고 밝혔다. 바로 전날에는 중국이 가상자산 발행과 거래금지를 넘어 채굴까지 금지하기로 했다. 일론 머스크가 트위터를 통해 돌발 메시지를 던지는 것도 가상화폐 시장에 불확실성을 높이고 있다.<br><br><hr style="border:0.5px solid#333333; display: block !important;"><B>비트코인 가격 아직 바닥 근접하지 않았다 주장도<hr style="border:0.5px solid#333333; display: block !important;"></b><br><br>최근 가상자산 시장에서 비트코인 등 가상화폐 가격이 급락하며 변동성이 커지는 가운데 일각에서는 아직 바닥에 근접하지 않았다는 전망과 함께 투자자들이 이제는 금과 은 등 원자재 시장에 주목할 것이라는 주장도 나온다.   <br><br>구겐하임파트너스의 스캇 미너드(Scott Minerd) 최고투자책임자(CIO)는 지난 25일(현지시간) CNBC에 출연해 "돈은 가상화폐를 떠나고 사람들은 여전히 인플레이션 헤지 수단을 찾고 있기 때문에 금과 은이 더 좋은 장소가 될 것"이라고 말했다. 지난달 비트코인 붕괴를 경고했던 미너드 CIO는 비트코인의 추가 하락을 예상했다. 그는 비트코인 가격이 5만5000달러 근처였던 지난달 21일 "매우 거품이 많아 보인다"며 "단기적으로 50% 급락해 2만~3만달러 사이가 될 수 있다"고 전망한 바 있다. 그는 이날 역시 가상화폐 시장이 안정되려면 시간이 걸릴 것이라고 예상했다.<br><br>미너드 CIO는 "경쟁 통화가 확산되면서 비트코인에 투자했던 사람들이 돈을 빼내 다른 코인에 배분하고 있다"며 "인터넷 버블처럼 생존자가 누구일지 물음 속에서 정리할 시간을 갖기 위해 가격 하락과 자금 유출을 겪어야만 하는데, 향후 몇 년 동안 겪어야 할 일도 바로 그것"이라고 말했다.<br><br>국내에서도 암호화폐 가격 급등락으로 불안감을 느낀 투자자들이 다시 금에 주목하고 있다는 분석도 나온다. 대표적인 안전자산인 금은 위험자산과 가격이 반대로 움직이는 경향을 보인다. 금이 인플레이션(추세적인 물가 상승) 헤지(hedge·위험 회피) 수단으로 부각하고 있는 것. 추세적으로 물가가 오를 경우 다른 자산에 비해 금이 가치 유지에 더 용이하기 때문이다.<br><br>황병진 NH투자증권 연구원은 "금과 같은 안전자산 선호 현상이 적어도 올해 2분기까지, 길게 보면 8월까지 이어질 전망"이라며 "앞으로의 (금값 흐름의) 관건은 금리를 자극할 미국 연방준비제도(연준)의 테이퍼링(자산매입 축소) 언급 여부가 제롬 파월 연준 의장의 입에서 직접 언급되는 것"이라고 말했다.<br><br>김소현 대신증권 연구원은 "전반적으로 금값이 오르고 있고 인플레이션 우려가 계속 나오고 있는 가운데 실제로도 이런 우려가 높아지는 상황"이라며 "인플레이션 헤지 수요로 금에 대한 투자 매력이 높아지고 있고 이런 추세가 올해 상반기, 길면 연말까지 이어질 것으로 예상한다"고 말했다.<br><br>[전종헌 매경닷컴 기자 cap@mk.co.kr]<br><br><!-- r_start //--><!-- r_end //--><a href="https://media.naver.com/channel/promotion.nhn?oid=009" target="_blank">▶ '경제 1위' 매일경제, 네이버에서 구독하세요</a><br><a href="https://www.mk.co.kr/premium/series/20121/?utm_source=naver&utm_medium=promotion&utm_campaign=make" target="_blank">▶ 이 제품은 '이렇게 만들죠' 영상으로 만나요</a><br><a href="https://tv.naver.com/mkestatetv" target="_blank">▶ 부동산의 모든것 '매부리TV'가 펼칩니다</a><br><br>[ⓒ 매일경제 & mk.co.kr, 무단전재 및 재배포 금지]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<b>삼성 OLED 유해물질 방출량 기존 LCD 대비 절반 수준</b><br><br>삼성 노트북용 유기발광다이오드(OLED) 패널이 글로벌 인증기관 ‘UL(Underwriters Laboratories)’로부터 공기질 안전성을 인정받았다.<br><br>삼성디스플레이는 자사의 노트북용 OLED 총 9종(13.3∼16인치)이 유해물질 배출량을 최소화해 UL에서 ‘그린가드 골드’ 인증을 받았다고 26일 밝혔다. 이 패널은 최근 삼성전자가 출시한 ‘갤럭시 북 프로’ 시리즈에도 적용됐다.<br><br>그린가드 골드는 전자제품, 의료기기 등의 제품에서 발생하는 휘발성 유기화합물 등을 측정해 방출량이 기준치 이하일 경우 부여하는 친환경 인증으로, 제품의 실내 공기질 안전성에 대한 영향을 판단하는 기준으로 사용된다.<br><br>삼성디스플레이는 휘발성 유기화합물 발생의 주요 원인인 플라스틱 시트 사용을 최소화한 친환경 노트북용 OLED를 개발했다. UL과 공동 진행한 평가에 따르면 삼성 OLED는 백라이트를 사용하지 않는 자발광 구조로 유해물질 방출량을 기존 LCD 대비 절반 수준으로 줄였다.<br><br>삼성디스플레이 관계자는 “신종 코로나바이러스 감염증(코로나19) 시대에 밀폐된 실내 공간에서 노트북 사용시간이 급격히 늘면서 건강한 사용 환경에 대한 관심이 높아지고 있다”며 “업계 최초로 ‘그린가드’를 획득한 노트북용 OLED를 출시하면서 소비자들에게 건강하고 안전한 제품 선택의 기회를 제공하게 됐다”고 말했다. <br><br>장병철 기자<br><br><b>[ <a href="http://www.munhwa.com" target="_blank">문화닷컴</a> | <a href="http://media.naver.com/channel/promotion.nhn?oid=021" target="_blank">네이버 뉴스 채널 구독</a> | <a href="http://m.munhwa.com" target="_blank">모바일 웹</a> | <a href="https://m.post.naver.com/lustforlife1073" target="_blank">슬기로운 문화생활</a> ]</b><br><br>[Copyrightⓒmunhwa.com '대한민국 오후를 여는 유일석간 문화일보' 무단 전재 및 재배포 금지(<a href="http://www.munhwa.com/service/gudok_request.html" target="_blank">구독신청:02)3701-5555</a>)]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

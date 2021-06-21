@@ -1,0 +1,29 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005372451_001_20210526071804556.jpg?type=w647" alt="" /><em class="img_desc">미국 석유시추설비/AFP=뉴스1</em></span><br>(서울=뉴스1) 신기림 기자 = 국제유가가 3거래일 연속 상승했다. <br><br>25일(현지시간) 미국 서부텍사스원유(WTI) 7월 인도분 선물은 전장 대비 2센트(0.03%) 올라 배럴당 66.07달러를 기록했다. 미미하게 상승했지만 3거래일 연속 오른 것으로 이달 17일 이후 일주일 만에 최고다. <br><br>북해 브렌트유 7월물은 19센트(0.3%) 상승해 배럴당 68.85달러를 나타냈다. 8월물은 12센트(0.2%) 올라 배럴당 68.49달러로 거래됐다. <br><br>이날 유가는 소폭이지만 상승했다. 이란 핵합의 복귀 가능성에 시장의 관심이 집중되고 있지만, 아직 미국의 제재해제가 긴박하지 않다는 신중론이 크다. 이란산 원유가 대규모 풀리면서 갑자기 공급 과잉을 불러 오지는 않을 것이라는 전망이다.<br><br>리스태드에너지의 루이즈 딕슨 원유시장 분석가는 유가가 1주일 만에 최고수준을 유지했다며 "원유수요가 높아지는 시즌이 다가왔고 유럽과 미국의 제한조치들이 풀리고 있다"고 말했다.<br><br>shinkirim@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="https://www.news1.kr/sissues/?corona19"  > ▶  코로나19 뉴스 </a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

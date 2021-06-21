@@ -1,0 +1,31 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052615820001300_P4_20210526145916347.jpg?type=w647" alt="" /></span><br><br>    (서울=연합뉴스) 권태신 전경련 부회장이 26일 서울 전경련회관 컨퍼런스센터에서 주한 외교관을 대상으로 열린 '한국과 K-비즈니스에 대한 특별교육'에서 '한국경제와 기업'을 주제로 강연하고 있다. 2021.5.26 <br><br>    [전국경제인연합회 제공. 재판매 및 DB 금지]<br><br>    photo@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

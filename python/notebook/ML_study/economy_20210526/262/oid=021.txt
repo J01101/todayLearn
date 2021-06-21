@@ -1,0 +1,27 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	 <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/014/2021/05/26/0004645718_001_20210526154303611.jpg?type=w647" alt="" /><em class="img_desc">아마존과 MGM의 로고.로이터뉴스1</em></span>  <br>전자상거래업체 아마존의 영화사 MGM 인수가 실현될 일부 스트리밍 업체들이 사라지는 등 시장에 큰 지각변동이 예상되고 있다.  <br>  <br>25일(현지시간) 경제 매체 야후파이낸스는 아마존과 MGM의 90억달러(약 10조1024억원) 규모 합병이 예정대로 진행된다면 경쟁은 한층 더 치열해지고 아마존이 스트리밍 시장에서 넷플릭스와 디즈니, 애플과 경쟁할 수 있는 위치에 오를 것이라고 보도했다.  <br>  <br>투자은행 자문업체 에버코어ISI 이사 마크 머헤이니는 야후파이낸스와 가진 인터뷰에서 스트리밍 경쟁에 합류하는데 드는 비용은 계속 증가할 것이라며 앞으로 더 많은 업체들간 합병도 예상했다.  <br>  <br>그는 글로벌 스트리밍 시장에서 경쟁력을 갖추려면 연간 100억달러(약 11조1700억원)를 투자해야한다며 5대 업체들을 제외하고는 이러한 규모를 감당하기 힘들 것으로 전망했다.  <br>  <br>코넬대 로스쿨 조지 헤이 교수는 헤이 교수는 야후파이낸스에 &quot;워너미디어와 디스커버리의 합병, 넷플릭스가 코로나19 이후 가입자를 늘리는데 고전하고 있는 것은 기존의 강자들에게도 스트리밍 시장이 얼마나 경쟁이 치열한지를 보여주고 있다”고 말했다.  <br>  <br>지난주 워너미디어와 디스커버리는 합병을 발표했다. 애널리스트들은 앞으로 컴캐스트와 비아콤CBS 같은 대형 미디어 기업들도 합병을 추진할 수 밖에 없을 것으로 예상하고 있다.  <br>  <br>반면 머헤이니는 일부는 결국 보유하고 있는 콘텐츠를 대형 스트리밍 업체에 매각하고 정리를 하는 경우도 있을 것이라고 예상했다.  <br>  <br>코넬대 헤이 교수는 아마존의 MGM 인수를 계기로 반독점 문제가 다시 제기되겠으나 저지하기 힘들 것이라고 밝혔다.  <br>  <br>뉴욕대 무역규제 전문가인 엘레노르 폭스 교수는 아마존이 아직 스트리밍 시장에서는 강자가 아니며 영화 제작에서는 걸음마 단계라고 이번 MGM 인수으로 나타날 수 있는 파급효과를 축소했다.  <br>  <br>  <span id="customByline">jjyoon@fnnews.com 윤재준 기자</span>  <br>  <br> <strong><a target="_blank" href="https://www.fnnews.com/pineapple.html?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=pineapple"><u>▶ 날로먹고 구워먹는 금융이슈 [파인애플]</u></a><br><a target="_blank" href="https://www.fnnews.com/moasis?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=moasis"><u>▶ 모(毛)아 모아 [모아시스]</u></a><br><a target="_blank" href="https://hugs.fnnews.com/home?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=hugslink"><u>▶ 헉! 소리나는 스!토리 뉴스 [헉스]</u></a></strong> <br> <br>※ 저작권자 ⓒ 파이낸셜뉴스. 무단 전재-재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

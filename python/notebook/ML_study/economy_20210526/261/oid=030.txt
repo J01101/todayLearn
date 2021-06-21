@@ -1,0 +1,289 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">투자금 전액손실 공제회 등<br>"소유권 양도 안 알려 무효"<br>미래에셋·NH·신금투 등에<br>이르면 금주 소장 제출할 듯</strong>[서울경제] <span style='color:#0f73ae;'>[편집자註] 이 기사는 2021년 5월 26일 14:17 <strong>프리미엄 컨버전스 미디어&nbsp;&nbsp;'시그널(Signal)'</strong> 에 표출된 기사입니다.</span><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915119_001_20210527112101434.jpg?type=w647" alt="" /><em class="img_desc">미국 더 드루 라스베이거스 조감도/사진 제공=AIP자산운용</em></span><br><br>미국 라스베이거스 호텔 개발 사업의 디폴트 사태로 투자금 전액을 잃은 국내 기관투자가들이 투자 주관을 맡은 국내 대형 증권사를 대상으로 소송을 제기한다. 기관투자가들은 이번 사태의 핵심으로 떠오른 ‘부동산 소유권 양도 제도(DIL·Deed In Lieu)’ 조항을 사전에 알리지 않은 점을 앞세워 거래 무효를 주장하고 있다.<br><br>26일 투자은행(IB) 업계에 따르면 미국 대규모 리조트 개발 사업 프로젝트인 ‘더 드루 라스베이거스(The Drew Las Vegas)’에 투자한 공제회와 일반 기업, 방송사 등 국내 기관투자가는 이르면 이번 주 <span stockcode='006800'>미래에셋증권(006800)</span>과 <span stockcode='005940'>NH투자증권(005940)</span>·신한금융투자·하나금융투자를 상대로 소송을 제기한다. 기관투자가들이 제기하는 소송 가액은 1,300억 원 규모에 이른다.<strong>(※관련 기사 </strong><a href="https://www.sedaily.com/NewsView/22IH7PG45L"><strong>美 호텔 투자한 국내 투자자들, 3000억 원 날렸다</strong></a><strong>)</strong><br><br>먼저 투자에 참여한 주요 공제회와 <span stockcode='001500'>현대차증권(001500)</span>·방송사 등은 법무법인 린을 선임해 900억 원대 소송을 준비하고 있다. 증권사를 통해 투자에 참여했던 상장 기업 3개사 역시 법무법인 한누리와 한결을 통해 400억 원 규모의 소송을 제기해 기관들과 공동 대응할 방침이다. 기관투자가들은 이르면 이번 주 법원에 소장을 제출할 예정이다. 개인투자자들은 금융감독원에 분쟁 조정 민원을 접수하는 방안을 검토 중이다. 10억 원을 투자한 개인투자자 A 씨는 “신한PWM을 통해 투자할 당시 DIL 조항 여부를 듣지 못했고 원금 손실 가능성도 사전에 알리지 않았다”며 불완전 판매 가능성을 시사했다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915119_002_20210527112101495.jpg?type=w647" alt="" /></span><br><br>‘더 드루’ 프로젝트는 국내 금융사가 주축이 돼 진행한 총 3조 원 규모의 대형 사업이다. 미래에셋이 대표 주관을, NH투자증권과 하나금융투자는 중순위 메자닌 주선을 담당했다. 신한금융투자는 리테일용으로 상품을 구성해 판매했다. 이들을 통해 흘러간 기관과 개인 자금 3,000억 원은 올 초 차주인 위트코프(Witkoff)그룹이 DIL을 선언하면서 모두 날아갔다. DIL을 선언하면 채무자는 선순위 채권자에게 자산 소유권을 넘기는 대신 상환 의무를 지울 수 있다.<br><br>증권사의 불완전 판매가 이번 법적 다툼의 핵심 사안이다. 기관들은 지난해 5월 기한이익상실(EOD)이 발생한 후 6개월이 지나서야 DIL 조항이 투자 계약에 포함됐다는 사실을 인지했다고 주장하고 있다. EOD에 대비하기 위한 질의응답 과정에서도 DIL 조항에 대해 언급하지 않았다는 것이다.<br><br>투자금 전액 손실이라는 최악의 상황을 막기 위해 주관사의 대응이 적절했는지도 쟁점이다. EOD 발생 직후 선순위 투자자인 JP모건은 국내 증권사에 담보로 잡힌 호텔을 4,000억 원에 인수할 기회를 줬다. 그러나 9개월간 의견을 모으지 못해 추가 투자가 이뤄지지 않았고 투자금은 공중분해됐다. 증권사가 위트코프로부터 5,000만 달러(약 550억 원) 규모의 워런트(일정 수의 주식을 합의한 가격에 살 수 있는 권한)를 받은 사실을 고지하지 않아 역시 문제가 되고 있다. 일종의 성공 보수인데 기관투자가들은 증권사들이 무리하게 자금을 끌어모은 배경이 될 수 있다고 주장한다.<br><br>법무법인 린은 “국내 대표 금융기관들이 거래의 위험성을 제대로 고지하지 않고 위험도가 높은 금융 상품을 제대로 된 이해도 없이 판매했다는 점이 문제가 될 것으로 보인다”며 “금융 상품 판매와 국제 금융을 대하는 금융계의 잘못된 관행이 드러났다는 점에서 의미가 있다”고 말했다.<br><br>/조윤희 기자 choyh@sedaily.com<br><br><ul><li><a href="https://bit.ly/3bhqTuL" target="_blank" style="color:#000000">▶ [지구용] 투명해진 맥주병, 그런데 말입니다...</a></li><li><a href="https://thepolitics.sedaily.com" target="_blank" style="color:#000000">▶ 서울경제 더 폴리틱스 뉴스를 만나보세요!</a></li><li><a href="https://www.sedaily.com/v/Zipchelin" target="_blank" style="color:#000000">▶ 미슐랭 가이드처럼 알찬 부동산 뉴스 '집슐랭'</a></li></ul><br><br>저작권자 ⓒ 서울경제, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">투자금 전액손실 공제회 등<br>"소유권 양도 안 알려 무효"<br>미래에셋·NH·신금투 등에<br>이르면 금주 소장 제출할 듯</strong>[서울경제] <span style='color:#0f73ae;'>[편집자註] 이 기사는 2021년 5월 26일 14:17 <strong>프리미엄 컨버전스 미디어&nbsp;&nbsp;'시그널(Signal)'</strong> 에 표출된 기사입니다.</span><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915119_001_20210527112101434.jpg?type=w647" alt="" /><em class="img_desc">미국 더 드루 라스베이거스 조감도/사진 제공=AIP자산운용</em></span><br><br>미국 라스베이거스 호텔 개발 사업의 디폴트 사태로 투자금 전액을 잃은 국내 기관투자가들이 투자 주관을 맡은 국내 대형 증권사를 대상으로 소송을 제기한다. 기관투자가들은 이번 사태의 핵심으로 떠오른 ‘부동산 소유권 양도 제도(DIL·Deed In Lieu)’ 조항을 사전에 알리지 않은 점을 앞세워 거래 무효를 주장하고 있다.<br><br>26일 투자은행(IB) 업계에 따르면 미국 대규모 리조트 개발 사업 프로젝트인 ‘더 드루 라스베이거스(The Drew Las Vegas)’에 투자한 공제회와 일반 기업, 방송사 등 국내 기관투자가는 이르면 이번 주 <span stockcode='006800'>미래에셋증권(006800)</span>과 <span stockcode='005940'>NH투자증권(005940)</span>·신한금융투자·하나금융투자를 상대로 소송을 제기한다. 기관투자가들이 제기하는 소송 가액은 1,300억 원 규모에 이른다.<strong>(※관련 기사 </strong><a href="https://www.sedaily.com/NewsView/22IH7PG45L"><strong>美 호텔 투자한 국내 투자자들, 3000억 원 날렸다</strong></a><strong>)</strong><br><br>먼저 투자에 참여한 주요 공제회와 <span stockcode='001500'>현대차증권(001500)</span>·방송사 등은 법무법인 린을 선임해 900억 원대 소송을 준비하고 있다. 증권사를 통해 투자에 참여했던 상장 기업 3개사 역시 법무법인 한누리와 한결을 통해 400억 원 규모의 소송을 제기해 기관들과 공동 대응할 방침이다. 기관투자가들은 이르면 이번 주 법원에 소장을 제출할 예정이다. 개인투자자들은 금융감독원에 분쟁 조정 민원을 접수하는 방안을 검토 중이다. 10억 원을 투자한 개인투자자 A 씨는 “신한PWM을 통해 투자할 당시 DIL 조항 여부를 듣지 못했고 원금 손실 가능성도 사전에 알리지 않았다”며 불완전 판매 가능성을 시사했다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915119_002_20210527112101495.jpg?type=w647" alt="" /></span><br><br>‘더 드루’ 프로젝트는 국내 금융사가 주축이 돼 진행한 총 3조 원 규모의 대형 사업이다. 미래에셋이 대표 주관을, NH투자증권과 하나금융투자는 중순위 메자닌 주선을 담당했다. 신한금융투자는 리테일용으로 상품을 구성해 판매했다. 이들을 통해 흘러간 기관과 개인 자금 3,000억 원은 올 초 차주인 위트코프(Witkoff)그룹이 DIL을 선언하면서 모두 날아갔다. DIL을 선언하면 채무자는 선순위 채권자에게 자산 소유권을 넘기는 대신 상환 의무를 지울 수 있다.<br><br>증권사의 불완전 판매가 이번 법적 다툼의 핵심 사안이다. 기관들은 지난해 5월 기한이익상실(EOD)이 발생한 후 6개월이 지나서야 DIL 조항이 투자 계약에 포함됐다는 사실을 인지했다고 주장하고 있다. EOD에 대비하기 위한 질의응답 과정에서도 DIL 조항에 대해 언급하지 않았다는 것이다.<br><br>투자금 전액 손실이라는 최악의 상황을 막기 위해 주관사의 대응이 적절했는지도 쟁점이다. EOD 발생 직후 선순위 투자자인 JP모건은 국내 증권사에 담보로 잡힌 호텔을 4,000억 원에 인수할 기회를 줬다. 그러나 9개월간 의견을 모으지 못해 추가 투자가 이뤄지지 않았고 투자금은 공중분해됐다. 증권사가 위트코프로부터 5,000만 달러(약 550억 원) 규모의 워런트(일정 수의 주식을 합의한 가격에 살 수 있는 권한)를 받은 사실을 고지하지 않아 역시 문제가 되고 있다. 일종의 성공 보수인데 기관투자가들은 증권사들이 무리하게 자금을 끌어모은 배경이 될 수 있다고 주장한다.<br><br>법무법인 린은 “국내 대표 금융기관들이 거래의 위험성을 제대로 고지하지 않고 위험도가 높은 금융 상품을 제대로 된 이해도 없이 판매했다는 점이 문제가 될 것으로 보인다”며 “금융 상품 판매와 국제 금융을 대하는 금융계의 잘못된 관행이 드러났다는 점에서 의미가 있다”고 말했다.<br><br>/조윤희 기자 choyh@sedaily.com<br><br><ul><li><a href="https://bit.ly/3bhqTuL" target="_blank" style="color:#000000">▶ [지구용] 투명해진 맥주병, 그런데 말입니다...</a></li><li><a href="https://thepolitics.sedaily.com" target="_blank" style="color:#000000">▶ 서울경제 더 폴리틱스 뉴스를 만나보세요!</a></li><li><a href="https://www.sedaily.com/v/Zipchelin" target="_blank" style="color:#000000">▶ 미슐랭 가이드처럼 알찬 부동산 뉴스 '집슐랭'</a></li></ul><br><br>저작권자 ⓒ 서울경제, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">뉴스카페<br><br>조회수 475만건 인기 폭발</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552346_001_20210527020601406.jpg?type=w647" alt="" /></span><br>한 소년이 곰인형을 불만스럽게 바라보고 있다. 곰인형은 긴장한 채 윗옷을 벗는다. 이어 세탁기가 돌아간다. 소년은 곰인형을 혼내거나 버리려는 게 아니라 더러워진 옷을 빨아주려 했던 것. 그리고 나오는 노래 가사. “난 다시 깨달았어 았어. 날 사랑했다는 것을.”(서태지와 아이들 ‘컴백홈’)<br><br>삼성전자가 지난 14일 공개한 비스포크 가전 광고 영상의 한 대목이다. 이 영상은 26일 기준 조회수 475만 건을 돌파하는 등 화제가 되고 있다. 원곡 뮤직비디오(134만 건)보다 조회수가 많다. 시청자들이 남긴 댓글도 300건이 넘는다. TV에서 이 광고를 본 뒤 다시 보고 싶어서 유튜브를 찾았다는 반응이 주를 이뤘다.<br><br>‘컴 비스포크 홈’이라는 제목으로 제작된 이 광고 영상의 모티브는 서태지와 아이들의 ‘컴백홈’ 뮤직비디오다. 노래에 맞춰 삼성 비스포크의 여러 가전 제품을 소개한다. 비스포크 가전으로 자신에게 맞게 꾸며진 집으로 오라는 내용을 담았다.<br><br>컴백홈의 가사, 서태지와 아이들의 안무와 뮤직비디오 등에서 모티브를 얻은 연출이 영상 곳곳에 등장했다. 양현석과 이주노가 서로 교차하는 안무에서 착안해 청소기 먼지통을 비우는 장면을 연출한 것이 대표적이다.<br><br>이 노래를 광고에 쓰자는 아이디어를 낸 직원은 제일기획의 20대 막내 팀원이다. ‘세상에서 가장 나다운 공간인 집으로 돌아가자’는 메시지를 전할 수 있는 곡을 찾다가 ‘컴백홈’을 골랐다는 설명이다.<br><br>광고를 제작한 이슬기 제일기획 크리에이티브 디렉터(CD)는 “서태지의 음악을 듣고 자란 30~40대가 공감할 수 있고, 10~20대도 신선함을 느낄 것이라는 판단에 배경음악으로 선택했다”며 “신혼부부 위주였던 타깃층을 전 연령층으로 넓히는 효과를 노렸다”고 설명했다.<br><br>이수빈 기자 lsb@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">작년 9월 첫선, KT 이어 LG유플도 도입</strong>SK텔레콤이 지난해 첫선을 보인 '보이는 컬러링'(V컬러링)을 KT를 비롯해 LG유플러스도 도입키로 했다. 이로써 국내 이동통신 3사 이용자는 통신사에 관계 없이 타사 가입자들과 함께 V컬러링 서비스를 공동으로&nbsp;즐길 수 있게 됐다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/648/2021/05/26/0000001314_001_20210526163006149.jpg?type=w647" alt="" /><em class="img_desc">이동통신 3사 대리점/사진=이명근 기자 qwe123@</em></span>SK텔레콤은 LG유플러스와 손잡고 공동으로 V컬러링 서비스를 오는 27일부터 시작한다고 26일 밝혔다.<br><br>V컬러링은 SK텔레콤이 지난해 9월&nbsp;자사 고객들을 대상으로 처음 선보였다. 이후 올 1월부터 KT가 SK텔레콤과 공동 서비스에 들어갔다.<br><br>LG유플러스는 27일부터 서비스에 들어간다. 현재 V컬러링 가입자는 150만명 수준이다. 콘텐츠 누적 뷰는 2억4000만건에 이른다.<br><br>V컬러링은 본인에게 전화를 건 상대방에게 통화가 연결될 때까지 미리 설정해둔 영상을 보여주는 서비스다.<br><br>전화 연결 시 특정 음악이나 소리를 제공하는 '통화연결음'에서 한 걸음 더 나아가 짧은 영상 콘텐츠를 보여주는 방식이다.&nbsp;<br><br>통신 3사 5G 및 LTE 이용자들은 원스토어, 구글 플레이스토어를 통해 V컬러링 앱을 설치해 서비스에 가입할 수 있다.<br><br>서비스 가입 후 통신 3사 이용자들은&nbsp;4000여종의 유·무료 영상을 함께 이용할 수 있다. 또 사용자가 직접 스마트폰을 통해 촬영하거나 다운로드 받은 콘텐츠를 활용할 수도 있다. 삼성전자 갤럭시노트20, 갤럭시S21, 갤럭시S20 사용자들은&nbsp;단말 업데이트를 통해 발신 시 V컬러링 영상을 볼 수 있다.<br><br>통신 3사는 하반기부터 서비스 대상 단말기를 더욱 확대할 예정이다.&nbsp;<br><br>이번 LG U+ 서비스 확대를 계기로 통신 3사는 각사가 보유한 인기 콘텐츠 공유 및 공동 마케팅을 추진할 계획이다. 이를 통해 통신사에 관계없이 V컬러링에서만 볼 수 있는 유명 연예인·셀럽의 콘텐츠 제작 및 독점 공급을 확대함으로써 양질의 서비스를 제공하기 위해 노력할 계획이다.<br><br>최소정 SK텔레콤 구독미디어담당은 "작년 9월부터 SK텔레콤이&nbsp;시작한 V 컬러링 서비스를 이제 통신&nbsp;3사 고객 누구나 누릴 수 있게 되었다"&nbsp;며 "앞으로도 데이터 분석을 통해 고객들이 선호하는 유형의 콘텐츠를 발굴하고, 3사 협력을 통해 더 많은 재미와 즐거움을 줄 수 있는 구독형 영상 서비스로 고객들에게 사랑 받을 수 있도록 하겠다"고 밝혔다.<br><br>최형균 (chg@bizwatch.co.kr) <br><br><a href="http://news.bizwatch.co.kr/theater?seminar-id=21" >▶워치플레이 바이오산업 전략</a> <a href="http://news.bizwatch.co.kr/zubzub" >▶동학개미 지식창고 '공시줍줍'</a><br><a href="https://media.naver.com/channel/promotion.nhn?oid=648">▶네이버에서 '비즈워치' 구독</a><br><br>ⓒ비즈니스워치의 소중한 저작물입니다. 무단전재와 재배포를 금합니다.<br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552268_001_20210526161101379.jpg?type=w647" alt="" /></span><br>아이큐비아(IQVIA)는 오늘 아이큐비아 바이오테크(IQVIA Biotech)의 일본 및 아태 지역(JAPAC) 진출을 발표했다. 이는 바이오테크와 신흥 바이오 제약 기업을 대상으로 통합 임상 및 상업 솔루션을 제공하기 위한 맞춤형 접근 방식의 일환이다. 아이큐비아 바이오테크는 아이큐비아의 기술력에 기반한 유연한 솔루션 제공을 위해 간소화된 운영 절차와 과학적 전문성을 활용하며, 이를 통해 혁신적 기업들이 의약품 개발과 상용화 단계에 도달하도록 지원한다.<br><br>아이큐비아 연구 개발(R&D) 솔루션의 리처드 스타우브(Richard Staub) 사장은 “바이오테크 기업들이 바이오로직스, 의약품 및 백신 개발에 더욱 박차를 가함에 따라 이들의 성공을 지원함으로써 우리 모두의 성공을 이룰 수 있다”며, “아이큐비아 바이오테크가 JAPAC 지역에 진출함으로써 소규모 기업에 특화된 기민한 솔루션과 자원으로 바이오테크 기업들의 목표를 도울 수 있게 되었다”고 덧붙였다.<br><br>아이큐비아 바이오테크는 2019년 초 북미 및 유럽 지역에서 출범했으며, 바이오테크 기업들의 투명하고 목적에 맞는 임상 절차와 치료 분야별 전담 전문가가 포진한 파트너에 대한 니즈에 맞춰 설계되었다. 론칭 후 아이큐비아 바이오테크는 바이오테크 회사들과 코로나19 임상 연구를 포함한 수백건의 신규 임상 시험을 착수했다.<br><br>종양학, 중추신경계질환, 피부과학, 심혈관 및 희귀질환 분야 전문성을 보유한 아이큐비아 바이오테크의 JAPAC 지역 총괄 본사는 싱가포르에 있으며, 지역 내 15개국에 사무소를 두고 있다. 아이큐비아 바이오테크 JAPAC 전담팀은 신약개발 과정 전반에 걸친 지능적인 연결고리를 구축하여 바이오테크 회사들의 특별한 니즈에 부합하는 역량을 갖추고 있다.<br><br>아이큐비아 바이오테크 JAPAC 총괄이자 APAC 의료 총책임자(CMO)인 센틸 소칼링암(Senthil Sockalingam) 박사는 “바이오테크 기업들의 글로벌 진출에 대한 포부가 점점 높아지고, 글로벌 신흥 회사의 아시아 태평양 지역 진출 수요도 늘어나고 있다”며, “고객들은 아이큐비아 바이오테크 전문팀이 제공하는 유연한 맞춤형 통합 솔루션과 완벽하게 연계된 매끄러운 서비스를 경험하게 될 것”이라고 덧붙였다.<br><br>아이큐비아 바이오테크 JAPAC에 관한 자세한 정보는 홈페이지에서 확인할 수 있다.<br><br>한경닷컴 뉴스룸 open@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552268_001_20210526161101379.jpg?type=w647" alt="" /></span><br>아이큐비아(IQVIA)는 오늘 아이큐비아 바이오테크(IQVIA Biotech)의 일본 및 아태 지역(JAPAC) 진출을 발표했다. 이는 바이오테크와 신흥 바이오 제약 기업을 대상으로 통합 임상 및 상업 솔루션을 제공하기 위한 맞춤형 접근 방식의 일환이다. 아이큐비아 바이오테크는 아이큐비아의 기술력에 기반한 유연한 솔루션 제공을 위해 간소화된 운영 절차와 과학적 전문성을 활용하며, 이를 통해 혁신적 기업들이 의약품 개발과 상용화 단계에 도달하도록 지원한다.<br><br>아이큐비아 연구 개발(R&D) 솔루션의 리처드 스타우브(Richard Staub) 사장은 “바이오테크 기업들이 바이오로직스, 의약품 및 백신 개발에 더욱 박차를 가함에 따라 이들의 성공을 지원함으로써 우리 모두의 성공을 이룰 수 있다”며, “아이큐비아 바이오테크가 JAPAC 지역에 진출함으로써 소규모 기업에 특화된 기민한 솔루션과 자원으로 바이오테크 기업들의 목표를 도울 수 있게 되었다”고 덧붙였다.<br><br>아이큐비아 바이오테크는 2019년 초 북미 및 유럽 지역에서 출범했으며, 바이오테크 기업들의 투명하고 목적에 맞는 임상 절차와 치료 분야별 전담 전문가가 포진한 파트너에 대한 니즈에 맞춰 설계되었다. 론칭 후 아이큐비아 바이오테크는 바이오테크 회사들과 코로나19 임상 연구를 포함한 수백건의 신규 임상 시험을 착수했다.<br><br>종양학, 중추신경계질환, 피부과학, 심혈관 및 희귀질환 분야 전문성을 보유한 아이큐비아 바이오테크의 JAPAC 지역 총괄 본사는 싱가포르에 있으며, 지역 내 15개국에 사무소를 두고 있다. 아이큐비아 바이오테크 JAPAC 전담팀은 신약개발 과정 전반에 걸친 지능적인 연결고리를 구축하여 바이오테크 회사들의 특별한 니즈에 부합하는 역량을 갖추고 있다.<br><br>아이큐비아 바이오테크 JAPAC 총괄이자 APAC 의료 총책임자(CMO)인 센틸 소칼링암(Senthil Sockalingam) 박사는 “바이오테크 기업들의 글로벌 진출에 대한 포부가 점점 높아지고, 글로벌 신흥 회사의 아시아 태평양 지역 진출 수요도 늘어나고 있다”며, “고객들은 아이큐비아 바이오테크 전문팀이 제공하는 유연한 맞춤형 통합 솔루션과 완벽하게 연계된 매끄러운 서비스를 경험하게 될 것”이라고 덧붙였다.<br><br>아이큐비아 바이오테크 JAPAC에 관한 자세한 정보는 홈페이지에서 확인할 수 있다.<br><br>한경닷컴 뉴스룸 open@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552268_001_20210526161101379.jpg?type=w647" alt="" /></span><br>아이큐비아(IQVIA)는 오늘 아이큐비아 바이오테크(IQVIA Biotech)의 일본 및 아태 지역(JAPAC) 진출을 발표했다. 이는 바이오테크와 신흥 바이오 제약 기업을 대상으로 통합 임상 및 상업 솔루션을 제공하기 위한 맞춤형 접근 방식의 일환이다. 아이큐비아 바이오테크는 아이큐비아의 기술력에 기반한 유연한 솔루션 제공을 위해 간소화된 운영 절차와 과학적 전문성을 활용하며, 이를 통해 혁신적 기업들이 의약품 개발과 상용화 단계에 도달하도록 지원한다.<br><br>아이큐비아 연구 개발(R&D) 솔루션의 리처드 스타우브(Richard Staub) 사장은 “바이오테크 기업들이 바이오로직스, 의약품 및 백신 개발에 더욱 박차를 가함에 따라 이들의 성공을 지원함으로써 우리 모두의 성공을 이룰 수 있다”며, “아이큐비아 바이오테크가 JAPAC 지역에 진출함으로써 소규모 기업에 특화된 기민한 솔루션과 자원으로 바이오테크 기업들의 목표를 도울 수 있게 되었다”고 덧붙였다.<br><br>아이큐비아 바이오테크는 2019년 초 북미 및 유럽 지역에서 출범했으며, 바이오테크 기업들의 투명하고 목적에 맞는 임상 절차와 치료 분야별 전담 전문가가 포진한 파트너에 대한 니즈에 맞춰 설계되었다. 론칭 후 아이큐비아 바이오테크는 바이오테크 회사들과 코로나19 임상 연구를 포함한 수백건의 신규 임상 시험을 착수했다.<br><br>종양학, 중추신경계질환, 피부과학, 심혈관 및 희귀질환 분야 전문성을 보유한 아이큐비아 바이오테크의 JAPAC 지역 총괄 본사는 싱가포르에 있으며, 지역 내 15개국에 사무소를 두고 있다. 아이큐비아 바이오테크 JAPAC 전담팀은 신약개발 과정 전반에 걸친 지능적인 연결고리를 구축하여 바이오테크 회사들의 특별한 니즈에 부합하는 역량을 갖추고 있다.<br><br>아이큐비아 바이오테크 JAPAC 총괄이자 APAC 의료 총책임자(CMO)인 센틸 소칼링암(Senthil Sockalingam) 박사는 “바이오테크 기업들의 글로벌 진출에 대한 포부가 점점 높아지고, 글로벌 신흥 회사의 아시아 태평양 지역 진출 수요도 늘어나고 있다”며, “고객들은 아이큐비아 바이오테크 전문팀이 제공하는 유연한 맞춤형 통합 솔루션과 완벽하게 연계된 매끄러운 서비스를 경험하게 될 것”이라고 덧붙였다.<br><br>아이큐비아 바이오테크 JAPAC에 관한 자세한 정보는 홈페이지에서 확인할 수 있다.<br><br>한경닷컴 뉴스룸 open@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552268_001_20210526161101379.jpg?type=w647" alt="" /></span><br>아이큐비아(IQVIA)는 오늘 아이큐비아 바이오테크(IQVIA Biotech)의 일본 및 아태 지역(JAPAC) 진출을 발표했다. 이는 바이오테크와 신흥 바이오 제약 기업을 대상으로 통합 임상 및 상업 솔루션을 제공하기 위한 맞춤형 접근 방식의 일환이다. 아이큐비아 바이오테크는 아이큐비아의 기술력에 기반한 유연한 솔루션 제공을 위해 간소화된 운영 절차와 과학적 전문성을 활용하며, 이를 통해 혁신적 기업들이 의약품 개발과 상용화 단계에 도달하도록 지원한다.<br><br>아이큐비아 연구 개발(R&D) 솔루션의 리처드 스타우브(Richard Staub) 사장은 “바이오테크 기업들이 바이오로직스, 의약품 및 백신 개발에 더욱 박차를 가함에 따라 이들의 성공을 지원함으로써 우리 모두의 성공을 이룰 수 있다”며, “아이큐비아 바이오테크가 JAPAC 지역에 진출함으로써 소규모 기업에 특화된 기민한 솔루션과 자원으로 바이오테크 기업들의 목표를 도울 수 있게 되었다”고 덧붙였다.<br><br>아이큐비아 바이오테크는 2019년 초 북미 및 유럽 지역에서 출범했으며, 바이오테크 기업들의 투명하고 목적에 맞는 임상 절차와 치료 분야별 전담 전문가가 포진한 파트너에 대한 니즈에 맞춰 설계되었다. 론칭 후 아이큐비아 바이오테크는 바이오테크 회사들과 코로나19 임상 연구를 포함한 수백건의 신규 임상 시험을 착수했다.<br><br>종양학, 중추신경계질환, 피부과학, 심혈관 및 희귀질환 분야 전문성을 보유한 아이큐비아 바이오테크의 JAPAC 지역 총괄 본사는 싱가포르에 있으며, 지역 내 15개국에 사무소를 두고 있다. 아이큐비아 바이오테크 JAPAC 전담팀은 신약개발 과정 전반에 걸친 지능적인 연결고리를 구축하여 바이오테크 회사들의 특별한 니즈에 부합하는 역량을 갖추고 있다.<br><br>아이큐비아 바이오테크 JAPAC 총괄이자 APAC 의료 총책임자(CMO)인 센틸 소칼링암(Senthil Sockalingam) 박사는 “바이오테크 기업들의 글로벌 진출에 대한 포부가 점점 높아지고, 글로벌 신흥 회사의 아시아 태평양 지역 진출 수요도 늘어나고 있다”며, “고객들은 아이큐비아 바이오테크 전문팀이 제공하는 유연한 맞춤형 통합 솔루션과 완벽하게 연계된 매끄러운 서비스를 경험하게 될 것”이라고 덧붙였다.<br><br>아이큐비아 바이오테크 JAPAC에 관한 자세한 정보는 홈페이지에서 확인할 수 있다.<br><br>한경닷컴 뉴스룸 open@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0017493891_web_20210526145344_20210526145512257.jpg?type=w647" alt="" /></span><br><br>[서울=뉴시스]전신 기자 = 26일 서울 강남구 삼성동 코엑스에서 열린 서울리빙디자인페어에서 관람객들이 전시 물품을 살펴보고 있다. 2021.05.26. photo1006@newsis.com<br><br><strong>[사진 영상 제보받습니다]</strong> 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스 가치나 화제성이 있다고 판단되는 사진 또는 영상을 뉴시스 사진영상부(n-photo@newsis.com)로 보내주시면 적극 반영하겠습니다.<br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005374028_001_20210526144709183.jpg?type=w647" alt="" /><em class="img_desc">멕시코 리오몬사에서 포장된 아스트라제네카 코로나19 백신 &#169; 로이터=뉴스1</em></span><br>(서울=뉴스1) 권영미 기자 = 멕시코가 이번주 내에 국내에서 처음으로 생산한 아스트라제네카(AZ) 코로나19 백신 160만회분을 받는다. 이 위탁 생산 물량의 절반은 생산 파트너인 아르헨티나에 보내진다. <br><br>25일 로이터통신에 따르면 마르셀로 에브라드 멕시코 외무장관은 "우리는 마침내 이 백신을 이용할 수 있게 되었다"면서 주말에 80만회분의 아스트라제네카 백신을 받고 멕시코와 협력해 AZ백신을 생산하는 이웃 나라 아르헨티나에 또 다른 80만회분을 보낼 것이라고 말했다.<br><br>AZ생산을 위해 자금 조달은 멕시코 슬림재단, 아르헨티나는 유효 성분 (active substance)생산, 멕시코 리오몬사는 생산 공정의 마무리를 맡았다. 하지만 멕시코는 당초 3월부터 백신을 생산하기로 되어 있었지만 공장 가동 중단으로 시한이 연기됐다. 멕시코는 자체 생산 전에는 병입 공정이 이뤄지는 미국을 거쳐 아르헨티나를 통해 AZ백신을 받아왔다. <br><br>멕시코와 아르헨티나는 지난해 8월, 자체적으로 1억회분을 계약한 브라질을 제외한 중남미에 보급할 초기 물량 1억5000만회, 최대 4억회분의 백신을 생산하도록 AZ와 합의했다.<br><br>ungaungae@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/277/2021/05/26/0004909235_001_20210526143803622.jpg?type=w647" alt="" /></span><br><br>[아시아경제 황윤주 기자] 포스코가 양극재에 사용되는 주원료인 수산화리튬 생산 설비를 본격화한다. <br><br>포스코는  26일 광양 율촌산업단지 내 연산 4만3000t 규모의 수산화리튬 공장을 착공했다고 밝혔다. 4만3000t의 수산화리튬은 전기차 100만대 생산이 가능한 규모다.  <br><br>착공식에는 포스코 최정우 회장, 김영록 전남도지사, 김경호 광양부시장, 김갑섭 광양만경제자유구역청장, LG에너지솔루션 김명환 사장, 포스코케미칼 민경준 사장 등 50여명이 참석했다. 이 날 착공은 지난 4월 포스코 이사회 승인에 따른 것이며, 이후 광석에서 수산화리튬을 추출해 생산하는 포스코리튬솔루션이 별도 법인으로 출범한 바 있다.<br><br>최정우 포스코 회장은 기념사에서 "전기차 시대에 대비해 이차전지소재사업을 그룹 차원의 새로운 성장동력으로 선정하고 선제적인 투자와 기술혁신으로 리튬을 양산하게 됐다"며 "리튬 국산화는 포스코그룹이 100년 기업으로 성장하기 위한 중요한 토대이자, 글로벌 시장에서 치열하게 경쟁하고 있는 국내 이차전지산업의 경쟁력 확보에도 크게 기여할 것으로 기대된다"고 말했다.<br><br>포스코리튬솔루션이 착공한 공장은 광양 율촌산업단지 내 19만6000㎡ 부지에 7600억원을 투자해 건립되며, 2023년 준공을 목표로 하고 있다. 리튬 광석은 호주 필바라사 등으로부터 공급 받을 예정이다.<br><br>양극재의 원료로 사용되는 리튬은 탄산리튬과 수산화리튬으로 나뉘는데 그동안 이차전지업계에서는 탄산리튬을 주원료로 하는 양극재를 주로 생산해왔으나, 전기자동차의 주행거리를 늘리기 위한 이차전지 기술이 발전하면서 니켈 함유량 80% 이상의 양극재가 개발되고 이에 쓰이는 수산화리튬의 수요가 점차 늘어나고 있는 추세다.<br><br>향후 포스코리튬솔루션의 안정적인 리튬 소재 공급으로 리튬을 중국 등에서 100% 수입해 양극재를 생산하던 국내 이차전지 산업의 경쟁력도 강화될 것으로 기대된다.<br><br>한편 포스코는 최근 아르헨티나에서 리튬 매장량이 확인된 염호에서도 연산 2만5000t 규모의 공장을 현지에 연내 착공할 예정이며, 향후 광석 및 염수 리튬 추출 사업에 중장기적인 투자를 통해 2023년까지 연 7만t, 2026년까지 연 13만t, 2030년까지 연 22만t의 리튬 생산체제를 구축한다는 방침이다.<br><br>황윤주 기자 hyj@asiae.co.kr<br><br><a href="https://www.asiae.co.kr/fortune/index.htm?utm_source=navernews&utm_medium=naver_view&utm_campaign=fortune">▶ 속 시원한 풀이! 2021년 정통사주·운세·토정비결</a><br><a href="https://www.asiae.co.kr/event/2021/jobgo/">▶ 직장인을 위한 '빅데이터 분석' 국비 특화과정 모집</a><br><a href="https://core.asiae.co.kr/?utm_source=naver_article&utm_medium=pc_mobile&utm_campaign=core">▶ 투자 성공의 핵심은 기업분석! 'CORE' 바로가기</a><br><br>&lt;ⓒ경제를 보는 눈, 세계를 보는 창 아시아경제 무단전재 배포금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

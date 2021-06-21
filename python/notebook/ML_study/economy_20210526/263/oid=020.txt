@@ -1,0 +1,384 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/082/2021/05/26/0001093865_001_20210526202302535.jpg?type=w647" alt="" /></span><div style="font-size:12px;">이상인 고용노동부 근로감독관이 뿌리·조선산업 주52시간제 도입 설명회에서 발언하고 있다. 중소기업중앙회 제공</div><br><br>뿌리·조선업계가 주 52시간제 도입을 앞두고 인력 구하기가 힘들어 사실상 인위적인 근로시간 조정이 어렵다고 밝혔다.<br><br>중소기업중앙회는 26일 오후 고용노동부·산업통상자원부와 공동으로 뿌리·조선산업 주52시간제 도입지원 설명회를 열었다.<br><br>이번 설명회에서는 고용노동부에 재직 중인 근로감독관이 직접 뿌리·조선업종에 맞는 교대제 개편방안, 유연근로제 활용방안 등을 실제 사례를 들어가며 상세히 안내했다.<br><br>이어 박종필 고용부 근로감독정책단장이 현장에 참석한 뿌리·조선업계 종사자들의 질의에 답변하고 애로를 청취하는 시간도 가졌다.<br><br>이종길 한국금속열처리공업협동조합 전무는 “뿌리산업은 24시간 내내 기계를 돌려야 해 주52시간제 준수를 위해서는 인력 충원을 통한 교대제 개편이 불가피하지만 국내 청장년층은 취업을 기피하고 외국인 근로자마저 입국이 중단되어 뾰족한 대응책이 없다”라고 어려움을 호소했다.<br><br>또 조선업계 참석자들은 공통적으로 “조선업은 기후에 영향을 받는 야외작업이 빈번해 유연근로제 도입을 위한 인위적인 근로시간 조정이 매우 어려우며 인력충원을 통해 대응하려 해도 추가 숙련인력을 구할 수가 없다”고 말했다.<br><br>또 조선업계측은 “4월 15일 확대경제장관회의에서 대통령께서 급증하는 수주 물량이 차질없이 소화될 수 있도록 조선산업 지원을 당부했는데 이를 위해서는 인력 수급이 어려운 도장·사상·족장 등 직종에 한해서라도 특별연장근로 인가기간 확대 등의 대응책을 마련해 주어야 한다”고 말했다.<br><br>도장은 선박 표면을 페인트칠을 하는 작업이며 사상은 선박 표면의 녹슨 부분을 기계로 제거하는 작업을 말한다. 또 족장은 선박 제작시 높은 곳에서 작업할 때 이를 위한 발판을 제작하는 작업이다.<br><br>이에 대해 이태희 중소기업중앙회 스마트일자리본부장은 “만성적인 인력난 등으로 주52시간제 준수가 버거운 뿌리와 조선 산업의 현실에 충분히 공감한다”며 “주52시간제가 부작용없이 현장에 안착될 수 있도록 애로사항을 토대로 개선 및 추가 지원방안에 대해서 고용노동부와 적극 협의해나가겠다”고 답했다.<br><br>이날 설명회는 온라인으로 실시간 생중계 했으며 영상은 중소기업중앙회 유투브 채널에서 다시 시청이 가능하다.<br><br>김덕준 기자 casiopea@busan.com<br><br><br><br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=082'>▶ 네이버에서 부산일보 구독하기 클릭!</a><br><a href='https://here.busan.com/bbs/login.php?urlencode=www.busan.com'>▶ 부산닷컴 회원가입. 회원 전환하면 부산일보 지면보기 무료이벤트</a><br><a href='http://www.busan.com'>▶ 부산일보 홈 바로가기</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/029/2021/05/26/0002676290_001_20210526192104027.jpg?type=w647" alt="" /><em class="img_desc">홍남기(왼쪽 네번째) 부총리가 26일 서울 혜화동 서울대병원 의학연구혁신센터에서 열린 '제10차 혁신성장 BIG3 추진회의'에 참석해 회의 시작에 앞서 참석자들과 함께 김효수 의생명연구원장으로부터 신약.의료기기 개발현황 설명을 듣고 있다. &lt;기획제정부 제공&gt;    </em></span>정부가 2023년부터 6년간 약 1조원을 투입해 '바이오 빅데이터 댐'을 구축한다.<br><br>26일 서울대학교병원에서 열린 '제10차 혁신성장 BIG3 추진 회의'에서 홍남기 부총리는 "바이오산업은 지속가능한 성장을 위한 신성장동력"이라며 "바이오 빅데이터 수집을 하는 '국가통합 바이오 댐'을 구축하겠다"며 이같이 밝혔다. <br><br>홍 부총리는 "데이터 기반 정밀의료가 바이오헬스 미래를 주도할 것으로 전망되면서 미국과 영국, 중국은 바이오 빅데이터 구축 활용을 위한 대규모 투자를 추진 중"이라며 "먼저 질환별 환자 40만명, 자발적 참여자 60만명 등 100만명 바이오 빅데이터를 수집하는 소위 '국가통합 바이오 댐'을 2028년까지 100% 구축할 것"이라고 말했다.<br><br>이어 "민감정보인 바이오 빅데이터의 원활하고 안전한 활용 등을 위해 빅데이터 표준화 및 품질관리를 위한 표준작업절차(SOP) 수립, 플랫폼 구축, 슈퍼컴퓨팅 기반 보안 분석환경 구축 등도 추진할 것"이라고 설명했다.<br><br>이날 회의에선 의료기기산업 육성전략이 논의됐다. 고령화 등에 따라 국내 의료기기산업은 빠르게 성장하고 있지만, 사용경험과 인지도 부족으로 시장진출에 한계가 있는 상항이다. 이에 정부는 2025년까지 세계시장 점유율 7위를 달성하기 위해 국내 의료기기 전략 분야 집중육성, 산업생태계 조성 등을 추진할 계획이다. <br><br>홍 부총리는 "국내 의료기기 활성화를 위해 병원부설 교육훈련센터 2개에 이어 광역형 센터 2개(수도권 1개, 비수도권 1개)를 추가로 구축하고 디지털 헬스 테스트베드 운영과 함께 혁신 의료기기 사용 의료기술은 건보 체계에 신속하게 포함할 것"이라며 "체외진단, 치과·영상진단 등 주력분야에 대해 범부처 전주기 연구개발(R&D)을 추진하고, 해외진출 지원을 위해 의료기기 국제인증지원센터를 구축할 것"이라고 설명했다. <br><br>이어 "신의료기술 평가 맞춤형 컨설팅을 시행하고, 신속 시장출시를 위한 허가·심사 특례개선, 의료기기산업 종합지원센터를 애로 해소의 허브로 활용할 계획이다"고 말했다. 또 "글로벌 백신허브 도약기반 구축을 위한 방안도 마련 중에 있고 조만간 발표할 것"이라고 덧붙였다.박재찬기자 jcpark@dt.co.kr <br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=029' target='_blank' >▶[ 네이버 메인에서 디지털타임스 구독 ]</a> / <a href='https://newsstand.naver.com/029' target='_blank' >▶[ 뉴스스탠드 구독 ]</a><br><a href='http://www.dt.co.kr/' target='_blank' >▶디지털타임스 홈페이지 바로가기</a><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552420_001_20210526190501379.jpg?type=w647" alt="" /></span>&#39;카카오톡 선물하기&#39; 등 모바일 상품권 서비스를 운영하는 1위 업체  쿠프마케팅이 매물로 나왔다.<br><br>26일 투자은행((IB) 업계에 따르면 쿠프마케팅의 최대 주주인 NH투자증권-IBK, 국내 사모펀드(PEF) 스틱인베스트먼트는 이 회사의 경영권을 포함한 지분을 매각하기로 하고, 마케팅 작업을 벌이고 있다. 매각주관사는 씨티글로벌마켓증권이다.<br><br>2005년 설립된 쿠프마케팅은 &#39;카카오톡 선물하기&#39; 서비스 등을 운영하는 것으로 유명한 모바일 상품권 플랫폼 업체다. 외식, 공연, 도서, 화장품 등 다양한 브랜드와 제휴해 실물 상품과 교환할 수 있는 모바일 상품권 시스템을 갖추고 있다. 2019년 기준 250개 브랜드와 제휴를 맺고 9200개의 상품을 판매하고 있다. 스타벅스, 투썸플레이스, 파리바게뜨, 맥도날드, 배스킨라빈스, 이마트 등 국내 중소 중견기업부터 대기업까지 제휴를 맺고 있다. <br><br>실물 상품을 넘어 보험 판매까지 영역을 확대했다. 2018년 인슈어테크 전문기업인 쿠프파이맵스를 설립해 지난해 말 부터 새롭게 보험 모바일 쿠폰 선물하기 서비스를 선보였다. 보험업은 전문성 확보가 중요한 영역이지만, 그간 쿠폰 선물하기 서비스를 통해 쌓은 노하우를 바탕으로 정식으로 서비스를 런칭하게 됐다. 쿠프마케팅은 보험을 시작으로 금융 영역까지 넘본다는 계획이다. 지난해 매출은 약 660억원,  영업손실 53억원을 기록했다.<br> <br>쿠프마케팅은 올해 들어 동남아 시장 공략에도 나선다. 이를 위해 최근 인도네시아 모바일 쿠폰업체 알드믹 테크놀로지 인도네시아의 경영권을 인수했다. 인도네시아는 인구 약 2억7000만명에 달하는 세계 4위의 인구 대국인데다, 젊은 인구가 많아 최근 모바일 쿠폰을 마케팅에 활용하는 기업이 증가해 관련 사업에 대한 수요도 커지고 있다.  알드믹 테크놀로지는 주로 기업 대상 모바일 쿠폰 유통과 솔루션을 개발·운영하는 대표적 업체다.  인도네시아 최대 담배 회사인 삼포르나(Sampoerna), 존슨앤존슨, 유니레버 등이 주요 거래처다.<br><br>스틱과 NH는 인수한 지 4년 만에 매각에 나선다. 스틱은 NH투자증권 PE본부와 공동으로 쿠프마케팅 지분 70%를 455억원에 최근 인수했다. <br><br>김채연 기자 why29@hankyung.com <br><br><strong style="color:inherit"><span style="color:#000080;">≪이 기사는 05월26일(18:01) 자본시장의 혜안 ‘</span><span style="color:#ff0000;">마켓인사이트</span><span style="color:#000080;">’에 게재된 기사입니다≫</span></strong><br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+	<div class="vod_area">
+		<h4 class="blind">동영상 뉴스</h4>
+		<iframe _src="/main/readVod.nhn?oid=422&aid=0000486916" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe>
+	</div>
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23<br><br><a href="http://media.naver.com/channel/promotion.nhn?oid=422"> ▶ 네이버에서 연합뉴스TV를 구독하세요</a><br><a href="https://www.yonhapnewstv.co.kr/live" target="_blank"> ▶ 연합뉴스TV 생방송 만나보기 </a><br><a href="http://www.yonhapnewstv.co.kr/add/mobileApp" target="_blank"> ▶ 균형있는 뉴스, 연합뉴스TV 앱 다운받기</a><br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">지난해 시범수출 이후 대표 수출 농산물로 육성<br>올해 1000t, 7억 원 규모 수출 목표…농가 소득창출 기여</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000754300_web_20210526172553_20210526173407803.jpg?type=w647" alt="" /><em class="img_desc">[포항=뉴시스] 강진구 기자 = 경북 포항시는 오는 6월 3일 청정 죽장지역에서 생산된 ‘봄 배추’를 대만으로 1차분 16t을 수출한다고 26일 밝혔다.사진은 이날 오전 봄 배추 출하 전경.(사진=포항시 제공) 2021.05.26.photo@newsis.com *재판매 및 DB 금지</em></span>[포항=뉴시스] 강진구 기자 = 경북 포항시는 오는 6월 3일 청정 죽장지역에서 생산된 ‘봄 배추’를 대만으로 1차분 16t을 수출한다고 26일 밝혔다.<br><br>시는 지난해 11월 캐나다와 홍콩으로 가을 배추 38t을 시범 수출한 이래 올해는 계약재배 물량 1000t(7억 원)을 대만·미국·캐나다·홍콩 등지로 수출할 예정이다.<br><br>우선 오는 6월 3일 1차분 16t의 배추를 대만으로 수출한다. 오는 2022년부터는 매년 1200t 이상을 수출할 계획이다.<br><br>이에 시는 계약재배를 통한 안정적인 공급이 이뤄져 농가소득 창출에 이바지 할 것으로 기대하고 있다.<br><br>죽장지역에서 재배되는 배추는 밤낮의 기온차가 커 육질이 단단하고 식감이 좋으며 상품이 균일해 수출경쟁력이 높은 것으로 조사됐다.  <br><br>죽장면 상옥리 일원에서 5월 출하되는 ‘봄 배추’는 시설 토마토 전작이고,  노지에서 재배와 생산되는 양배추는 오는 11월에 출하되는 ‘가을배추’의 전작 농산물이다.<br><br>배성규 시 농식품유통과장은 “죽장지역 대표작물인 배추, 양배추, 토마토를 지역특화 작물로 육성하며 수출 확대를 위해 노력하고 있다”며 “올해 대규모 수출이 예상되는 ‘죽장 배추’는 경쟁력이 높은 만큼 수출이 대폭 확대될 수 있도록 역량을 집중해 수출전문단지로 육성해 나가겠다”고 말했다.<br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> dr.kang@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/021/2021/05/26/0002472412_001_20210526170103967.jpg?type=w647" alt="" /></span><br><br> LG이노텍(대표 정철동·사진)은 글로벌 자동차 업체인 재규어랜드로버로부터 ‘품질 인증(Jaguar Land Rover Quality Certificate)’을 획득했다고 26일 밝혔다. 프리미엄 브랜드를 지향하는 재규어랜드로버의 품질 인증은 부품 업계 사이에서 까다롭기로 정평이 나 있다. LG이노텍은 2017년부터 재규어랜드로버에 ‘DC-DC(직류-직류) 컨버터’를 공급해 왔는데 품질 인증을 받은 것은 이번이 처음이다. DC-DC 컨버터는 배터리에서 나오는 고압의 직류 전력을 차량 내부 장치에 적합한 저압 직류로 바꿔주는 부품이다.LG이노텍 관계자는 “품질 인증 획득을 계기로 전장부품의 글로벌 품질 경쟁력을 세계 시장에 다시 한번 확고히 입증했다”고 말했다. <br><br>장병철 기자 jjangbeng@munhwa.com<br><br><b>[ <a href="http://www.munhwa.com" target="_blank">문화닷컴</a> | <a href="http://media.naver.com/channel/promotion.nhn?oid=021" target="_blank">네이버 뉴스 채널 구독</a> | <a href="http://m.munhwa.com" target="_blank">모바일 웹</a> | <a href="https://m.post.naver.com/lustforlife1073" target="_blank">슬기로운 문화생활</a> ]</b><br><br><br>[Copyrightⓒmunhwa.com '대한민국 오후를 여는 유일석간 문화일보' 무단 전재 및 재배포 금지(<a href="http://www.munhwa.com/service/gudok_request.html" target="_blank">구독신청:02)3701-5555</a>)]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/021/2021/05/26/0002472412_001_20210526170103967.jpg?type=w647" alt="" /></span><br><br> LG이노텍(대표 정철동·사진)은 글로벌 자동차 업체인 재규어랜드로버로부터 ‘품질 인증(Jaguar Land Rover Quality Certificate)’을 획득했다고 26일 밝혔다. 프리미엄 브랜드를 지향하는 재규어랜드로버의 품질 인증은 부품 업계 사이에서 까다롭기로 정평이 나 있다. LG이노텍은 2017년부터 재규어랜드로버에 ‘DC-DC(직류-직류) 컨버터’를 공급해 왔는데 품질 인증을 받은 것은 이번이 처음이다. DC-DC 컨버터는 배터리에서 나오는 고압의 직류 전력을 차량 내부 장치에 적합한 저압 직류로 바꿔주는 부품이다.LG이노텍 관계자는 “품질 인증 획득을 계기로 전장부품의 글로벌 품질 경쟁력을 세계 시장에 다시 한번 확고히 입증했다”고 말했다. <br><br>장병철 기자 jjangbeng@munhwa.com<br><br><b>[ <a href="http://www.munhwa.com" target="_blank">문화닷컴</a> | <a href="http://media.naver.com/channel/promotion.nhn?oid=021" target="_blank">네이버 뉴스 채널 구독</a> | <a href="http://m.munhwa.com" target="_blank">모바일 웹</a> | <a href="https://m.post.naver.com/lustforlife1073" target="_blank">슬기로운 문화생활</a> ]</b><br><br><br>[Copyrightⓒmunhwa.com '대한민국 오후를 여는 유일석간 문화일보' 무단 전재 및 재배포 금지(<a href="http://www.munhwa.com/service/gudok_request.html" target="_blank">구독신청:02)3701-5555</a>)]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/021/2021/05/26/0002472412_001_20210526170103967.jpg?type=w647" alt="" /></span><br><br> LG이노텍(대표 정철동·사진)은 글로벌 자동차 업체인 재규어랜드로버로부터 ‘품질 인증(Jaguar Land Rover Quality Certificate)’을 획득했다고 26일 밝혔다. 프리미엄 브랜드를 지향하는 재규어랜드로버의 품질 인증은 부품 업계 사이에서 까다롭기로 정평이 나 있다. LG이노텍은 2017년부터 재규어랜드로버에 ‘DC-DC(직류-직류) 컨버터’를 공급해 왔는데 품질 인증을 받은 것은 이번이 처음이다. DC-DC 컨버터는 배터리에서 나오는 고압의 직류 전력을 차량 내부 장치에 적합한 저압 직류로 바꿔주는 부품이다.LG이노텍 관계자는 “품질 인증 획득을 계기로 전장부품의 글로벌 품질 경쟁력을 세계 시장에 다시 한번 확고히 입증했다”고 말했다. <br><br>장병철 기자 jjangbeng@munhwa.com<br><br><b>[ <a href="http://www.munhwa.com" target="_blank">문화닷컴</a> | <a href="http://media.naver.com/channel/promotion.nhn?oid=021" target="_blank">네이버 뉴스 채널 구독</a> | <a href="http://m.munhwa.com" target="_blank">모바일 웹</a> | <a href="https://m.post.naver.com/lustforlife1073" target="_blank">슬기로운 문화생활</a> ]</b><br><br><br>[Copyrightⓒmunhwa.com '대한민국 오후를 여는 유일석간 문화일보' 무단 전재 및 재배포 금지(<a href="http://www.munhwa.com/service/gudok_request.html" target="_blank">구독신청:02)3701-5555</a>)]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong style="display:block;overflow:hidden;position:relative;margin:33px 20px 10px 3px;padding-left:11px;font-weight:bold;border-left: 2px solid #141414;">2021년 중장기 조세정책운용계획 수립 착수</strong><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021050401350001300_P4_20210526163212381.jpg?type=w647" alt="" /><em class="img_desc">이억원 기획재정부 제1차관<br>[기획재정부 제공. 재판매 및 DB 금지] </em></span><br><br>    (세종=연합뉴스) 곽민서 기자 = 이억원 기획재정부 제1차관은 26일 "디지털 경제 확산에 대응해 국제거래를 통한 세 부담 회피 방지 노력을 강화하겠다"고 말했다.<br><br>    이 차관은 이날 대한상공회의소에서 열린 중장기 조세정책심의위원회 1차 회의에서 중장기 조세정책운용계획 수립 방향을 논의하며 이같이 밝혔다.<br><br>    이 차관은 또 "과세 기반을 정비하기 위해 앞으로도 불요불급한 비과세·감면제도를 계속해서 정비해 나가는 한편, 변칙적 탈세행위와 고액 체납자의 악의적 재산은닉에 대해서는 엄정히 대응하겠다"고 말했다.<br><br>    이외 정부는 중장기 계획 수립을 통해 반도체 등 핵심산업의 성장을 지원하고, 소상공인 등 코로나19 피해가 집중된 계층을 지원하는 데 정책 역량을 집중할 계획이다.<br><br>    기재부는 효율적인 조세정책을 위해 매년 향후 5년간의 조세정책 기본방향 등을 담은 중장기 조세정책 운용계획을 수립하고 있다.<br><br>    확정된 계획은 오는 9월 초 국가재정운용계획과 함께 국회에 제출된다.<br><br>    mskwak@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">미국·유럽·아시아서 독자·합작 공장 투자 쏟아져<br>한국·중국 양강으로 재편 중…소재 확보·가격 경쟁력 등 과제</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/088/2021/05/26/0000704691_001_20210526160302747.jpg?type=w647" alt="" /><em class="img_desc">한미정상회담차 미국을 방문한 문재인 대통령이 22일 오후(현지시간) 애틀랜타 SK이노베이션 전기차 배터리 공장을 찾았다. 연합뉴스</em></span><br><br>LG에너지솔루션, 삼성SDI, SK이노베이션 등 전기차 배터리 시장에서 영향력을 키우고 있는 한국 배터리 3사가 가파른 시장 성장세에 대응해 미국, 유럽, 중국 등지에 걸쳐 천문학적 글로벌 투자를 본격화하고 있다.<br><br>26일 시장조사업체 SNE리서치에 따르면 세계 전기차 수요는 지난해 310만대에서 2030년 5천180만대로 17배, 이에 따른 전기차 배터리 수요도 139GWh에서 3천254GWh로 23배 급증할 전망이다.<br><br>전기차 시장 팽창에 맞춰 완성차 업체와 배터리 업체 모두 물량 확보를 위한 대규모 투자를 쏟아내고 있다. 배터리 업체들의 자체 생산 능력 확대는 물론 완성차 업체와 협업하는 '합작 열풍'이 거세다.<br><br>LG에너지솔루션은 미국 내 대규모 투자 계획을 연이어 내놨다. 미국 1위 완성차 업체인 GM과 오하이오주에 건설 중인 합작 제1공장에 이어, 테네시주에 제2공장을 설립한다고 발표했다. 오하이오주 1공장은 내년, 테네시주 2공장은 2023년 가동을 목표로 2조원을 출자한다.<br><br>유럽 폴란드와 중국 공장에는 2025년까지 증설 투자를 진행하고 있다. 폴란드 증설 총 투자 금액은 약 6조7천억원, 중국 증설 투자 금액은 약 2조3천억원이다.<br><br>삼성SDI는 2019년 5천600억원을 투자해 유럽 헝가리 공장을 증설했고, 올해 추가 증설에 9천400억원의 투자를 결정했다. 미국 배터리 조립 공장 증설에 2018년 6천만 달러를 투자한 바 있다.<br><br>삼성SDI가 미국 정부의 친환경 정책 및 관세 혜택 등과 맞물려 미국에 투자 계획을 머지않아 내놓을 것이라는 전망도 나온다.<br><br>최근 '제2의 테슬라'라고 불리는 미국 전기차 스타트업 리비안과 공급 계약을 맺었으며, 테슬라에 전기차 배터리 공급 가능성이 높다는 게 업계 전망이다.<br><br>배터리 사업 후발 주자인 SK이노베이션도 공격적인 글로벌 투자 행보를 보이고 있다.<br><br>SK이노베이션은 현재 미국 조지아주에 22GWh 규모의 전기차 배터리 1·2공장을 건설 중이다. 조지아주 1·2공장 총 투자 금액은 약 3조원이다. SK이노베이션 조지아주 공장은 최근 한미정상회담 차 미국을 방문한 문재인 대통령이 찾은 곳이다.<br><br>SK이노베이션은 또한 최근 미국 완성차 2위사인 포드와 합작 공장(60GWh)을 설립한다고 발표했다. SK가 총 투자금액의 절반인 3조원을 투자한다.<br><br>배터리 시장을 주도하는 한국 3사의 글로벌 투자 확대 추세에 따라 향후 시장 판도가 크게 바뀔 것이라는 예상이 나온다.<br><br>전기차 배터리 시장이 한국과 중국 업체 중심으로 재편되고, 파나소닉 등 전통 강자였던 일본 업체들의 점유율은 감소할 것으로 보인다.<br><br>채원영 기자 chae10@imaeil.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=088' title='네이버에서 매일신문 구독하기'>▶ 네이버에서 매일신문 구독하기</a><br><a href='https://tv.naver.com/maeilshinmun' title='매일신문 네이버TV 바로가기'>▶ 매일신문 네이버TV 바로가기</a><br><a href='https://m.news.naver.com/hotissue/main.nhn?sid1=163&cid=1087577'>▶ 나눔의 기적, 매일신문 이웃사랑</a><br><br><br>ⓒ매일신문 - www.imaeil.com<br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong style="display:block;overflow:hidden;position:relative;margin:33px 20px 10px 3px;padding-left:11px;font-weight:bold;border-left: 2px solid #141414;">일부 학부모들 "온라인 홍보·설문조사 탓에 투표율 낮아"<br>교육청 "코로나로 가정통신문 활용 못 해 온라인 방식…재투표 불가"</strong><br><br>(화성=연합뉴스) 최해민 기자 = 교육 당국의 경기 화성 병점지역 학생 재배치 계획이 학부모 찬성 미달로 무산된 가운데, 일부지역 학부모들이 온라인 설문조사 방식을 문제 삼으며 재투표를 요구하고 나섰다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/AKR20210526115900061_01_i_P4_20210526151510582.jpg?type=w647" alt="" /><em class="img_desc">병점지역 학생지배치에 따른 학교 이전 계획 무산<br>[화성오산교육지원청 제공. 재판매 및 DB금지]</em></span><br><br>    화성오산교육지원청은 화성벌말초를 2025년까지 능동지구 내 '능동1초' 신설 부지로 옮기고, 기존 화성벌말초 자리에 진안중을 이전하는 내용의 학교 이전 계획을 세웠다.<br><br>    이는 화성벌말초가 송화초와 도로 하나를 사이에 두고 50m밖에 떨어지지 않은 데다 병점지역 내 중학교 3곳이 모두 북쪽에 몰려 있고, 최근 병점 남쪽으로 병점지구·능동지구 등 개발이 진행되면서 가장 북쪽에 있는 진안중의 선호도가 떨어진다는 등의 이유에서다.<br><br>    이에 따라 교육청은 지난 17일부터 21일까지 5일간 화성벌말초와 진안중 학부모를 상대로 이전 찬성 여부를 묻는 설문조사를 진행했으나 화성벌말초 찬성이 기준치(60%)에 미달하는 53.7%로 나와 이전 계획은 전면 취소됐다.<br><br>    하지만 화성벌말초가 이전할 예정이었던 '능동1초' 부지 인근 아파트 주민들은 이번 설문조사는 온라인으로 진행한 탓에 참여율이 저조했다며 재투표를 요구하는 집단 민원을 제기하고 있다.<br><br>    능동1초 부지 인근 아파트에 거주하는 한 학부모는 "학교 이전은 매우 중요한 사안인데도 교육청과 해당 학교들은 문서가 아닌 학교 정보 알림 시스템인 'e알리미'를 통한 홍보와 조사를 진행했다"며 "이로 인해 2년 전 1차 투표 때보다 '무응답·기권' 비율이 높아 전체 학부모의 의견이 반영됐다고 받아들이기가 어려운 만큼 재투표를 요구한다"고 말했다.<br><br>    실제로 이번 조사에서 화성벌말초는 학부모 588명 중 465명(79.1%)이 응답해 316명(53.7%)이 찬성했고, 진안중은 650명 중 593명(91.2%)이 응답해 398명(61.2%)이 찬성했다.<br><br>    이는 2년 전인 2019년 같은 사안에 대한 두 학교 설문조사 결과, 응답률이 각각 93.6%, 98.7%였던 것과 비교할 때 다소 낮은 수치다.<br><br>    이에 대해 학교 이전을 찬성하는 학부모와 '능동1초' 부지 인근 학부모들은 교육 당국이 1차 때는 문서로 된 가정통신문을 배포한 뒤 수거하는 방식으로 조사했으나, 이번에는 e알리미를 통한 온라인 조사를 벌여 참여율이 낮았다고 주장한다.<br><br>    또 학교 이전에 대한 설명도 서면 가정통신문이 아닌 e알리미로만 홍보하다 보니 사안 자체를 알지 못해 투표에 참여하지 못한 학부모도 있다고 지적했다.<br><br>    투표가 끝난 후 26일 오후 현재까지 화성오산교육청에는 100건이 넘는 재투표 민원이 접수된 상태다.<br><br>    화성오산교육청 관계자는 "코로나라는 특수한 상황 때문에 등교 수업이 이뤄지지 않아 부득이 e알리미로 홍보하고, 온라인으로 설문조사를 진행한 것"이라며 "이달 3일부터 7일까지 사전 안내, 10일부터 14일까지 학부모 설명회 영상자료 유튜브 게재, 17일부터 21일까지 조사 기간 매일 e알리미 홍보, 마지막 날에는 문자메시지로 투표 참여 독려 등 할 수 있는 한 최대한 알렸다"고 말했다.<br><br>    이어 "규정상 재투표는 어렵다"며 "특히 학교 이전을 반대하는 학부모들의 반대 민원도 만만치 않은 상황이라 공정성 차원에서도 객관적으로 진행한 설문조사를 다시 할 수는 없다"고 덧붙였다.<br><br>    goals@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915010_001_20210526151603430.jpg?type=w647" alt="" /></span><br>[서울경제] <br><br>경기 화성 동탄2신도시에 분양된 ‘로또 단지’ ‘동탄역 금강펜테리움 더 시글로’가 세 자릿수의 높은 경쟁률로 1순위 청약을 마감했다.<br><br>26일 청약홈에 따르면 해당 단지는 지난 25일 진행된 1순위 청약에서 170가구 모집에 2만2,936명이 몰리며 평균 134.9대 1의 평균 청약 경쟁률을 기록했다. 최고 경쟁률은 전용면적 58㎡A 기타경기(966대 1)에서 나왔다. 해당 단지는 분양가는 상한제를 적용받아 전용 52㎡ 기준 3억3,900만∼3억4,700만원, 전용 58㎡ 기준 3억9,800만∼4억800만원으로 분양가가 책정됐다. 단지는 지하 3층·지상 38층, 3개 동, 전용면적 52~ 58㎡, 380가구 규모의 주상복합아파트이며, 지상 1층과 2층에는 근린생활시설이 들어선다. 주택형별 가구 수는 △52㎡A 108가구 △52㎡B 82가구 △58㎡A 108가구 △58㎡B 82가구 등이다.<br><br>분양가 상한제가 적용되는 동탄2신도시는 시세 대비 저렴한 가격에 분양 물량이 쏟아지면서 청약자들의 관심을 모으고 있다. 앞서 화성시 동탄2신도시에서 분양한 ‘동탄역 디에트르 퍼스티지’는 지난 11일 1순위 청약에서 302가구 모집에 24만4,343명이 접수해 평균 809.1대 1의 경쟁률을 기록하기도 했다.<br><br>/권혁준 기자 awlkwon@sedaily.com<br><br><ul><li><a href="https://bit.ly/3bhqTuL" target="_blank" style="color:#000000">▶ [지구용] 투명해진 맥주병, 그런데 말입니다...</a></li><li><a href="https://thepolitics.sedaily.com" target="_blank" style="color:#000000">▶ 서울경제 더 폴리틱스 뉴스를 만나보세요!</a></li><li><a href="https://www.sedaily.com/v/Zipchelin" target="_blank" style="color:#000000">▶ 미슐랭 가이드처럼 알찬 부동산 뉴스 '집슐랭'</a></li></ul><br><br>저작권자 ⓒ 서울경제, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021031916620005700_P4_20210526141811458.jpg?type=w647" alt="" /><em class="img_desc">오토바이 경적 시위하는 현대중공업 조합원들<br>현대중공업 노조가 2년 치 임단협 교섭 난항을 이유로 지난 3월 19일 부분 파업할 때 모습 [현대중공업 노조 제공. 재판매 및 DB 금지]</em></span><br><br>    (울산=연합뉴스) 김근주 기자 = 현대중공업 노동조합은 2019·2020년 임금 및 단체협약 교섭 난항으로 26일 부분 파업에 들어갔다.<br><br>    노조는 이날 오후 1시부터 울산 본사에서 전 조합원 대상 4시간 부분 파업에 돌입했다.<br><br>    파업 참여 조합원은 회사 정문 앞에서 열린 금속노조 영남권 결의대회에 참석해 주변을 행진했다.<br><br>    노조는 2019년과 2020년 통합 임금 및 단체협약 잠정합의안이 두 차례 부결된 이후 사측이 재교섭에 나서지 않는 것을 항의하는 의미로 파업했다고 설명했다.<br><br>    노조는 "재교섭 요구 후 두 달이 다 돼가는데도 사측은 반응이 없다"고 지적했다.<br><br>    사측은 현재까지 이날 파업으로 큰 생산 차질은 없는 것으로 파악했다.<br><br>    canto@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052612940001300_P4_20210526134713120.jpg?type=w647" alt="" /></span><br><br>    (서울=연합뉴스) 김인철 기자 = 26일 서울 강남구 삼성동 코엑스에서 열린 서울리빙디자인페어에서 방문객들이 '풍화, 아세안의 빛' 전시를 관람하고 있다. 2021.5.26<br><br>    yatoya@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

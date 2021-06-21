@@ -1,0 +1,27 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005372849_001_20210526100105194.jpg?type=w647" alt="" /></span><br>(서울=뉴스1) 이훈철 기자 = 서울시 재개발 활성화를 위한 6대 규제완화 방안.<br><br>boazhoon@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

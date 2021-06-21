@@ -1,0 +1,53 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span style="border-left:4px solid #959595; padding-left: 20px; display: inline-block"><strong>1만1500가구 공급 계획</strong></span><br><br>◆ 서울시 재개발 규제 완화 ◆<br><br>정부가 도심공공주택 복합사업 4차 후보지를 발표했다. 정부는 역세권과 저층주거지를 고밀 개발하는 이 사업을 통해 서울과 인천 8곳에서 총 1만1543가구를 공급하겠다는 계획이다. 26일 국토교통부는  도심공공주택 복합사업의 4차 선도사업 후보지로 서울 중랑구 5곳, 인천 3곳 등 총 8곳을 선정했다고 밝혔다. 이날 선정된 후보지는 서울 중랑역 인근(1161가구), 사가정역 인근(922가구), 용마산역 인근(507가구), 용마터널 인근(455가구), 상봉터미널 인근(1132가구) 등 4177가구와 인천 제물포 인근(3104가구), 동암역 남측(1731가구), 굴포천역 인근(2531가구) 등 7366가구다.<br><br>같은 날 서울시가 민간재개발 규제 완화 방안을 발표하면서 노후화된 주거지 개발을 두고 민간과 공공이 주택 공급을 두고 주도권 경쟁에 나선 모양새다. 정부는 공공재개발과 공공재건축, 공공직접시행 정비사업 등으로 13만6000가구를 공급할 예정인데, 이 중 서울 물량만 9만3000가구에 달한다.<br><br>[유준호 기자]<br><br><!-- r_start //--><!-- r_end //--><a href="https://media.naver.com/channel/promotion.nhn?oid=009" target="_blank">▶ '경제 1위' 매일경제, 네이버에서 구독하세요</a><br><a href="https://www.mk.co.kr/premium/series/20121/?utm_source=naver&utm_medium=promotion&utm_campaign=make" target="_blank">▶ 이 제품은 '이렇게 만들죠' 영상으로 만나요</a><br><a href="https://tv.naver.com/mkestatetv" target="_blank">▶ 부동산의 모든것 '매부리TV'가 펼칩니다</a><br><br>[ⓒ 매일경제 & mk.co.kr, 무단전재 및 재배포 금지]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	 <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/014/2021/05/26/0004645451_001_20210526110107258.jpg?type=w647" alt="" /></span>  <br><br>[파이낸셜뉴스] 2&middot;4 주택공급 대책의 핵심인 도심 공공주택 복합사업 1~3차 후보지 중 약 40%가 예정지구지정요건인 10% 주민 동의를 확보한 것으로 나타났다. 다만, 1차 후보지가 대부분을 차지했다.  <br>  <br>국토교통부는 1~3차 후보지 38곳 중 39.5%인 12곳이 10%의 주민 동의를 얻었다고 26일 밝혔다. 이는 1~3차 후보지를 통한 주택 공급 물량 4만8500호 중 1만9200호 규모다.  <br>  <br>이중 1차 발표 후보지가 10곳(전체 21곳)으로 가장 많다. 특히 은평구 증산 4구역과 수색14구역 등 2곳은 본지구 지정 요건인 3분의2 동의를 얻었다.  <br>  <br>앞서 국토부는 지난 3월 31일 도심 공공주택 복합개발사업의 첫 선도사업 후보지로 서울 금천&middot;도봉구 등 21곳을 발표한데 이어 2차 사업지로 서울 강북&middot;동대문구 등 13곳, 3차 후보지로 대구&middot;부산 등 4곳을 선정한 바 있다.  <br>  <br>국토부는 &quot;사업 여건이 매우 열악한 저밀이용지역 및 정비사업 해제 이후 수십 년간 방치된 지역에 공공이 사업성을 높여준 것이 주효했다&quot;며 &quot;주민 선호 민간 브랜드 건설도 가능한 구조적 장점 등도 주민들의 높은 호응에 기여한 것&quot;으로 분석했다.  <br>  <br>국토부는 1~3차 도심 공공주택 복합사업 후보지에 대한 주민설명회 및 동의서 확보 절차 등 후속 조치를 추진하고 있다.  <br>  <br>1&middot;2차 발표 후보지에 대해서는 지난달 1단계 주민설명회(제도개요)를 완료해 사업계획안을 마련 중이다. 동의율이 높은 지역은 지자체 협의를 거쳐 2단계 주민설명회(사업계획)를 계획 중이다.  <br>  <br>3차 발표 후보지도 1단계 주민설명회를 완료하는 즉시 사업계획안 마련에 착수할 예정이다.  <br>  <br>김수상 국토부 주택토지실장은 &quot;2&middot;4 대책과 관련해 예상보다 많은 물량의 사업 후보지가 빠른 속도로 발굴되고 있다&quot;며 &quot;신속한 사업 추진을 통해 조속한 주택공급과 주거안정으로 이어질 수 있도록 후속 조치에 만전을 기할 계획&quot;이라고 말했다.  <br>  <br>  <span id="customByline">ssuccu@fnnews.com 김서연 기자</span>  <br>  <br> <strong><a target="_blank" href="https://www.fnnews.com/pineapple.html?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=pineapple"><u>▶ 날로먹고 구워먹는 금융이슈 [파인애플]</u></a><br><a target="_blank" href="https://www.fnnews.com/moasis?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=moasis"><u>▶ 모(毛)아 모아 [모아시스]</u></a><br><a target="_blank" href="https://hugs.fnnews.com/home?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=hugslink"><u>▶ 헉! 소리나는 스!토리 뉴스 [헉스]</u></a></strong> <br> <br>※ 저작권자 ⓒ 파이낸셜뉴스. 무단 전재-재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

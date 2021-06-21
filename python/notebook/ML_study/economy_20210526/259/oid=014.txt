@@ -1,0 +1,995 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">에어부산과 아시아나IDT도 거래 정지</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210512_0017442503_web_20210512104226_20210527071404626.jpg?type=w647" alt="" /><em class="img_desc">[서울=뉴시스]고승민 기자 = '계열사 부당지원' 의혹을 받고 있는 박삼구 전 금호아시아나 회장이 12일 오전 서울 서초구 서울중앙지법에 구속 전 피의자 심문(영장실질심사)을 받기 위해 들어서고 있다. 2021.05.12. kkssmm99@newsis.com</em></span><br><br>[서울=뉴시스] 이정필 기자 = 박삼구 전 금호아시아나그룹 회장이 26일 검찰에 구속 기소되면서 아시아나항공과 금호건설 등 그룹 계열사들의 주식 매매 거래가 정지됐다. 검찰은 이날 독점규제 및 공정거래에 관한 법률 위반과 특정경제범죄가중처벌법상 횡령·배임 혐의로 박 전 회장을 구속 기소했다.<br><br>한국거래소 유가증권시장본부는 전 경영진의 횡령 및 배임 혐의에 따른 기소설에 대한 조회공시를 요구하며 아시아나항공과 금호건설의 매매 거래를 정지했다고 공시했다. 이에 따라 이날 오후 3시29분부터 아시아나항공과 금호건설의 주식 거래가 정지됐다.<br><br>같은 이유로 에어부산과 아시아나IDT도 조회공시를 요구받으며 이날 오후 5시47분부터 주식 거래가 정지됐다. 조회공시 답변 시한은 27일 오후 6시까지다.<br><br>금호건설은 이후 "독점규제 및 공정거래에 관한 법률 위반 혐의로 26일 기소됐음을 확인했고, 그 외 특정경제범죄가중처벌등에관한법률위반(횡령 및 배임) 혐의에 대해서는 해당사항이 없음을 확인했다"고 답변 공시했다.<br><br>이에 따라 금호건설의 주식 거래 매매는 27일 오전 9시 재개된다. 유가증권시장 업무규정시행세칙 제54조의 규정에 따라 매매거래정지 해제일의 장 개시 전 시간외시장 매매거래는 성립되지 않는다.<br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> roman@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">에어부산과 아시아나IDT도 거래 정지</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210512_0017442503_web_20210512104226_20210527071404626.jpg?type=w647" alt="" /><em class="img_desc">[서울=뉴시스]고승민 기자 = '계열사 부당지원' 의혹을 받고 있는 박삼구 전 금호아시아나 회장이 12일 오전 서울 서초구 서울중앙지법에 구속 전 피의자 심문(영장실질심사)을 받기 위해 들어서고 있다. 2021.05.12. kkssmm99@newsis.com</em></span><br><br>[서울=뉴시스] 이정필 기자 = 박삼구 전 금호아시아나그룹 회장이 26일 검찰에 구속 기소되면서 아시아나항공과 금호건설 등 그룹 계열사들의 주식 매매 거래가 정지됐다. 검찰은 이날 독점규제 및 공정거래에 관한 법률 위반과 특정경제범죄가중처벌법상 횡령·배임 혐의로 박 전 회장을 구속 기소했다.<br><br>한국거래소 유가증권시장본부는 전 경영진의 횡령 및 배임 혐의에 따른 기소설에 대한 조회공시를 요구하며 아시아나항공과 금호건설의 매매 거래를 정지했다고 공시했다. 이에 따라 이날 오후 3시29분부터 아시아나항공과 금호건설의 주식 거래가 정지됐다.<br><br>같은 이유로 에어부산과 아시아나IDT도 조회공시를 요구받으며 이날 오후 5시47분부터 주식 거래가 정지됐다. 조회공시 답변 시한은 27일 오후 6시까지다.<br><br>금호건설은 이후 "독점규제 및 공정거래에 관한 법률 위반 혐의로 26일 기소됐음을 확인했고, 그 외 특정경제범죄가중처벌등에관한법률위반(횡령 및 배임) 혐의에 대해서는 해당사항이 없음을 확인했다"고 답변 공시했다.<br><br>이에 따라 금호건설의 주식 거래 매매는 27일 오전 9시 재개된다. 유가증권시장 업무규정시행세칙 제54조의 규정에 따라 매매거래정지 해제일의 장 개시 전 시간외시장 매매거래는 성립되지 않는다.<br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> roman@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">게임사 등 Z세대 겨냥한 업무협약 활발<br>카카오뱅크 미니, 출시 7개월 만에 청소년 70만 고객 확보</strong>   <br>    <br> <div class="ab_photo photo_center ">  <div class="image">   <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/243/2021/05/26/0000013200_001_20210526182203530.jpg?type=w647" alt="" /><em class="img_desc">은행들이 1020세대인 Z세대 확보를 위해 앱 개편, 업무협약, 신상품 개발 등에 나선 모습이다. 중앙포토</em></span>   <span class="mask"></span>  </div>  </div>    <br> 디지털과 모바일에 익숙한 Z세대(1990년대 중반~2000년대 초반 출생) 잡기에 은행들이 팔을 걷어붙였다. 은행마다 디지털금융을 확장하는 입장에서 이 세대에 해당하는 고객을 선점해야 차후 경쟁력을 가질 수 있기 때문이다.    <br>    <br> <div class="ab_sub_heading" style="position:relative;margin-top:17px;margin-bottom:16px;padding-top:15px;padding-bottom:14px;border-top:1px solid #444446;border-bottom:1px solid #ebebeb;color:#3e3e40;font-size:20px;line-height:1.5;"> <div class="dim" style="display: none;">     <br>    </div> <div class="dim" style="display: none;">  ━     <br>    </div> <div class="ab_sub_headingline" style="font-weight:bold;">   Z세대 위한 ‘편의점 연계 점포’ 개설 및 게임 스폰서로 변신  </div> <div class="dim" style="display: none;">     <br>    </div></div>    <br> 26일 은행권에 따르면 은행마다 다양한 업권의 기업들과 업무협약을 맺고 Z세대 고객 확보에 나섰다. 하나은행은 게임사 넷마블과 손을 잡았다. 하나은행은 게임의 주 이용자인 Z세대를 대상으로 올 하반기 신규 자산관리 서비스를 제공할 예정이다. 넷마블은 하나은행 신규 자산 서비스를 접목한 게임을 개발해 웹 프로모션을 전개하고, 6월 출시할 감성 모험 RPG 제2의 나라: Cross Worlds의 게임대회를 하나은행배로 연내 개최할 예정이다.    <br>    <br> 신한은행은 지난해 12월 넥슨과 손잡고 금융과 게임을 융합한 새로운 사업을 벌이고 있다. 신한은행은 이달 15일 10대를 주 이용층으로 보유한 넥슨의 ‘카트라이더 리그’에 금융권 최초로 스폰서로 참여했다. 신한은행은 자사의 모바일 앱과 카트라이더의 모바일 버전 ‘카트라이더 러쉬플러스’를 연계해 게임 아이템이 담긴 쿠폰을 제공하는 마케팅도 펼쳤다.  <br>    <br> 최근 신한은행은 GS리테일과 손잡고 MZ(밀레니엄Z)세대를 겨냥한 영업점을 만들 예정이다.    <br>    <br> 양사는 은행과 GS25의 상품 및 서비스를 연계한 MZ세대 대상 특화 상품을 개발하고 이를 혁신 점포를 통해 판매한다고 밝혔다. 신한은행 관계자는 “GS리테일과 업무협약을 통해 채널의 단순 공유를 넘어 데이터와 프로세스의 밀접한 결합을 추진할 것”이라며 “새로운 고객 경험을 제공할 수 있는 혁신적 금융·유통 서비스 모델을 구축해 나가겠다”고 말했다.  <br><br><div class="ab_photo photo_center ">  <div class="image">   <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/243/2021/05/26/0000013200_002_20210526182203567.jpg?type=w647" alt="" /><em class="img_desc">카카오뱅크 미니 상품 모습 / 사진 카카오뱅크</em></span>   <span class="mask"></span>  </div>  </div>    <br> <div class="ab_sub_heading" style="position:relative;margin-top:17px;margin-bottom:16px;padding-top:15px;padding-bottom:14px;border-top:1px solid #444446;border-bottom:1px solid #ebebeb;color:#3e3e40;font-size:20px;line-height:1.5;"> <div class="dim" style="display: none;">     <br>    </div> <div class="dim" style="display: none;">  ━     <br>    </div> <div class="ab_sub_headingline" style="font-weight:bold;">   카카오뱅크 미니, 청소년 3명 중 1명 고객 확보  </div> <div class="dim" style="display: none;">     <br>    </div></div>    <br> Z세대 전용 상품을 내놓는 은행도 있다. 업계에선 카카오뱅크가 이 부분을 선도하고 있다고 평가한다. 카카오뱅크의 10대 전용 금융서비스 ‘카카오뱅크 미니’는 출시 7개월 만에 고객 80만을 모았다. 청소년 인구(230만명) 3명 중 1명이 카카오뱅크 미니에 가입한 것이다.    <br>    <br> 카카오미니는 만 14~18세 이하 청소년이 개설할 수 있는 선불 전자 지급 수단이다. 은행 계좌 개설이나 계좌 연결을 하지 않고도 입금과 이체 서비스를 이용할 수 있고 미니 카드를 통해서도 온·오프라인 결제를 할 수 있다. 전국 현금자동입출금기(ATM)에서 수수료 없이 입·출금도 가능하다.  <br>    <br> 업계는 카카오뱅크의 미니 서비스를 이용하는 청소년 고객들이 성인이 된 후 자연스럽게 카카오뱅크를 첫 은행으로 선택하는 효과가 나타날 것으로 보고 있다. 일반 시중은행의 앱 가입보다 친숙도가 높은 카카오뱅크 전용 앱을 통해 금융거래를 시작할 것이란 분석이다.    <br>    <br> 국민은행도 Z세대를 위한 특화 앱 개편 작업에 나섰다. 하반기 중에 출시될 것으로 보이는 ‘뉴(New) 스타뱅킹’이 국민은행의 다양한 앱을 통합한 형태가 된다면 ‘리브(Liiv)’는 앞으로 10~20대 초반의 Z세대를 위한 특화 플랫폼으로 차별화될 예정이다.    <br>    <br> 이 외에도 은행들은 생활 밀착형 앱 개발을 통해 젊은 세대를 공략하고 있다. 신한은행은 모바일 뱅킹 앱 쏠(Sol)에 음식 주문 중개 서비스를 추가할 예정이다. 신한은행은 쏠 가입자가 1300만명을 넘어선 만큼 은행 앱을 통해 음식을 주문하고 결제하는 서비스를 만들 경우 이에서 쌓이는 데이터를 통해 다양한 금융 서비스를 내놓을 수 있을 것으로 보고 있다.    <br>    <br> 한 시중은행 관계자는 “은행 업무가 지금까지 은행을 찾는 고객을 상대로 단순 여·수신 서비스에 그쳤다면 앞으로는 디지털에 익숙한 미래 고객층의 다양한 성향을 파악한 형태로 바뀔 것”이라며 “이를 위해 다양한 업권과 손을 잡는 모습”이라고 설명했다.   <br>    <br> 이용우 기자 lee.yongwoo1@joongang.co.kr  <br><br><br>ⓒ이코노미스트(https://economist.co.kr) '내일을 위한 경제뉴스 이코노미스트' 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">게임사 등 Z세대 겨냥한 업무협약 활발<br>카카오뱅크 미니, 출시 7개월 만에 청소년 70만 고객 확보</strong>   <br>    <br> <div class="ab_photo photo_center ">  <div class="image">   <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/243/2021/05/26/0000013200_001_20210526182203530.jpg?type=w647" alt="" /><em class="img_desc">은행들이 1020세대인 Z세대 확보를 위해 앱 개편, 업무협약, 신상품 개발 등에 나선 모습이다. 중앙포토</em></span>   <span class="mask"></span>  </div>  </div>    <br> 디지털과 모바일에 익숙한 Z세대(1990년대 중반~2000년대 초반 출생) 잡기에 은행들이 팔을 걷어붙였다. 은행마다 디지털금융을 확장하는 입장에서 이 세대에 해당하는 고객을 선점해야 차후 경쟁력을 가질 수 있기 때문이다.    <br>    <br> <div class="ab_sub_heading" style="position:relative;margin-top:17px;margin-bottom:16px;padding-top:15px;padding-bottom:14px;border-top:1px solid #444446;border-bottom:1px solid #ebebeb;color:#3e3e40;font-size:20px;line-height:1.5;"> <div class="dim" style="display: none;">     <br>    </div> <div class="dim" style="display: none;">  ━     <br>    </div> <div class="ab_sub_headingline" style="font-weight:bold;">   Z세대 위한 ‘편의점 연계 점포’ 개설 및 게임 스폰서로 변신  </div> <div class="dim" style="display: none;">     <br>    </div></div>    <br> 26일 은행권에 따르면 은행마다 다양한 업권의 기업들과 업무협약을 맺고 Z세대 고객 확보에 나섰다. 하나은행은 게임사 넷마블과 손을 잡았다. 하나은행은 게임의 주 이용자인 Z세대를 대상으로 올 하반기 신규 자산관리 서비스를 제공할 예정이다. 넷마블은 하나은행 신규 자산 서비스를 접목한 게임을 개발해 웹 프로모션을 전개하고, 6월 출시할 감성 모험 RPG 제2의 나라: Cross Worlds의 게임대회를 하나은행배로 연내 개최할 예정이다.    <br>    <br> 신한은행은 지난해 12월 넥슨과 손잡고 금융과 게임을 융합한 새로운 사업을 벌이고 있다. 신한은행은 이달 15일 10대를 주 이용층으로 보유한 넥슨의 ‘카트라이더 리그’에 금융권 최초로 스폰서로 참여했다. 신한은행은 자사의 모바일 앱과 카트라이더의 모바일 버전 ‘카트라이더 러쉬플러스’를 연계해 게임 아이템이 담긴 쿠폰을 제공하는 마케팅도 펼쳤다.  <br>    <br> 최근 신한은행은 GS리테일과 손잡고 MZ(밀레니엄Z)세대를 겨냥한 영업점을 만들 예정이다.    <br>    <br> 양사는 은행과 GS25의 상품 및 서비스를 연계한 MZ세대 대상 특화 상품을 개발하고 이를 혁신 점포를 통해 판매한다고 밝혔다. 신한은행 관계자는 “GS리테일과 업무협약을 통해 채널의 단순 공유를 넘어 데이터와 프로세스의 밀접한 결합을 추진할 것”이라며 “새로운 고객 경험을 제공할 수 있는 혁신적 금융·유통 서비스 모델을 구축해 나가겠다”고 말했다.  <br><br><div class="ab_photo photo_center ">  <div class="image">   <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/243/2021/05/26/0000013200_002_20210526182203567.jpg?type=w647" alt="" /><em class="img_desc">카카오뱅크 미니 상품 모습 / 사진 카카오뱅크</em></span>   <span class="mask"></span>  </div>  </div>    <br> <div class="ab_sub_heading" style="position:relative;margin-top:17px;margin-bottom:16px;padding-top:15px;padding-bottom:14px;border-top:1px solid #444446;border-bottom:1px solid #ebebeb;color:#3e3e40;font-size:20px;line-height:1.5;"> <div class="dim" style="display: none;">     <br>    </div> <div class="dim" style="display: none;">  ━     <br>    </div> <div class="ab_sub_headingline" style="font-weight:bold;">   카카오뱅크 미니, 청소년 3명 중 1명 고객 확보  </div> <div class="dim" style="display: none;">     <br>    </div></div>    <br> Z세대 전용 상품을 내놓는 은행도 있다. 업계에선 카카오뱅크가 이 부분을 선도하고 있다고 평가한다. 카카오뱅크의 10대 전용 금융서비스 ‘카카오뱅크 미니’는 출시 7개월 만에 고객 80만을 모았다. 청소년 인구(230만명) 3명 중 1명이 카카오뱅크 미니에 가입한 것이다.    <br>    <br> 카카오미니는 만 14~18세 이하 청소년이 개설할 수 있는 선불 전자 지급 수단이다. 은행 계좌 개설이나 계좌 연결을 하지 않고도 입금과 이체 서비스를 이용할 수 있고 미니 카드를 통해서도 온·오프라인 결제를 할 수 있다. 전국 현금자동입출금기(ATM)에서 수수료 없이 입·출금도 가능하다.  <br>    <br> 업계는 카카오뱅크의 미니 서비스를 이용하는 청소년 고객들이 성인이 된 후 자연스럽게 카카오뱅크를 첫 은행으로 선택하는 효과가 나타날 것으로 보고 있다. 일반 시중은행의 앱 가입보다 친숙도가 높은 카카오뱅크 전용 앱을 통해 금융거래를 시작할 것이란 분석이다.    <br>    <br> 국민은행도 Z세대를 위한 특화 앱 개편 작업에 나섰다. 하반기 중에 출시될 것으로 보이는 ‘뉴(New) 스타뱅킹’이 국민은행의 다양한 앱을 통합한 형태가 된다면 ‘리브(Liiv)’는 앞으로 10~20대 초반의 Z세대를 위한 특화 플랫폼으로 차별화될 예정이다.    <br>    <br> 이 외에도 은행들은 생활 밀착형 앱 개발을 통해 젊은 세대를 공략하고 있다. 신한은행은 모바일 뱅킹 앱 쏠(Sol)에 음식 주문 중개 서비스를 추가할 예정이다. 신한은행은 쏠 가입자가 1300만명을 넘어선 만큼 은행 앱을 통해 음식을 주문하고 결제하는 서비스를 만들 경우 이에서 쌓이는 데이터를 통해 다양한 금융 서비스를 내놓을 수 있을 것으로 보고 있다.    <br>    <br> 한 시중은행 관계자는 “은행 업무가 지금까지 은행을 찾는 고객을 상대로 단순 여·수신 서비스에 그쳤다면 앞으로는 디지털에 익숙한 미래 고객층의 다양한 성향을 파악한 형태로 바뀔 것”이라며 “이를 위해 다양한 업권과 손을 잡는 모습”이라고 설명했다.   <br>    <br> 이용우 기자 lee.yongwoo1@joongang.co.kr  <br><br><br>ⓒ이코노미스트(https://economist.co.kr) '내일을 위한 경제뉴스 이코노미스트' 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552380_001_20210526173404107.jpg?type=w647" alt="" /></span>신창재 교보생명 회장과 어피너티컨소시엄 사이의 ‘주식 풋옵션 분쟁’이 새로운 국면을 맞고 있다. 양측이 다투는 핵심 쟁점인 풋옵션 행사가격을 산출한 회계법인에 대해 검찰이 잇따라 공인회계사법 위반으로 기소하고 있기 때문이다.<br><br> 신 회장은 풋옵션을 행사한 어피너티의 교보생명 주식(지분율 24%)을 되사줘야 하는데, 이들 회계법인의 평가를 토대로 제시한 주가(주당 40만9000원)가 부당하다고 주장해 왔다.<br><br> 26일 법조계에 따르면 서울중앙지방검찰청은 지난 25일 교보생명 재무적투자자인 어펄마캐피털(옛 스탠다드차타드PE)의 의뢰를 받아 풋옵션 행사가격을 산출한 삼덕회계법인 소속 파트너 회계사 A씨를 공인회계사법 위반 혐의로 기소했다. <br><br> 서울중앙지검은 앞서 지난 1월 딜로이트안진회계법인 회계사 3명과 이들에게 교보생명 주가 산출을 맡긴 어피너티, IMM 등 재무적투자자 관계자 2명도 공인회계사법 위반 혐의로 재판에 넘겼다. <br><br> 이에 따라 풋옵션 행사가격 평가를 담당한 두 회계법인이 모두 위법 행위로 재판을 받는 처지가 됐다. 이처럼 담당 회계사들이 모두 기소되면서 해당 보고서의 신뢰성과 적정성도 크게 훼손됐다는 지적이다. <br><br> 검찰은 A씨가 교보생명 기업가치평가 업무를 직접 수행하지 않았음에도 불구하고, 직접 수행한 것처럼 의뢰인인 어펄마캐피털에 거짓 보고한 것으로 보고 있다. <br><br> 실제 A씨는 비슷한 시기 가치평가보고서를 작성한 딜로이트안진 측 평가방법과 평가금액 등을 그대로 인용하면서 자신이 직접 가치평가 업무를 수행한 것처럼 꾸민 정황이 포착된 것으로 알려졌다.<br><br> 검찰은 어피니티의 주요 임직원과 딜로이트안진 소속 회계사들에 대해서도 부정한 청탁을 받고 금품을 수수하거나 법률 비용에 해당하는 이익을 약속받는 등 위법 행위가 있었던 것으로 판단했다. <br><br> 한편 어펄마캐피털은 어피너티가 풋옵션을 행사한 직후인 2018년 11월 신 회장을 상대로 풋옵션을 행사하면서 삼덕회계법인에 가치평가를 의뢰했다. <br><br>이호기 기자 hglee@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552380_001_20210526173404107.jpg?type=w647" alt="" /></span>신창재 교보생명 회장과 어피너티컨소시엄 사이의 ‘주식 풋옵션 분쟁’이 새로운 국면을 맞고 있다. 양측이 다투는 핵심 쟁점인 풋옵션 행사가격을 산출한 회계법인에 대해 검찰이 잇따라 공인회계사법 위반으로 기소하고 있기 때문이다.<br><br> 신 회장은 풋옵션을 행사한 어피너티의 교보생명 주식(지분율 24%)을 되사줘야 하는데, 이들 회계법인의 평가를 토대로 제시한 주가(주당 40만9000원)가 부당하다고 주장해 왔다.<br><br> 26일 법조계에 따르면 서울중앙지방검찰청은 지난 25일 교보생명 재무적투자자인 어펄마캐피털(옛 스탠다드차타드PE)의 의뢰를 받아 풋옵션 행사가격을 산출한 삼덕회계법인 소속 파트너 회계사 A씨를 공인회계사법 위반 혐의로 기소했다. <br><br> 서울중앙지검은 앞서 지난 1월 딜로이트안진회계법인 회계사 3명과 이들에게 교보생명 주가 산출을 맡긴 어피너티, IMM 등 재무적투자자 관계자 2명도 공인회계사법 위반 혐의로 재판에 넘겼다. <br><br> 이에 따라 풋옵션 행사가격 평가를 담당한 두 회계법인이 모두 위법 행위로 재판을 받는 처지가 됐다. 이처럼 담당 회계사들이 모두 기소되면서 해당 보고서의 신뢰성과 적정성도 크게 훼손됐다는 지적이다. <br><br> 검찰은 A씨가 교보생명 기업가치평가 업무를 직접 수행하지 않았음에도 불구하고, 직접 수행한 것처럼 의뢰인인 어펄마캐피털에 거짓 보고한 것으로 보고 있다. <br><br> 실제 A씨는 비슷한 시기 가치평가보고서를 작성한 딜로이트안진 측 평가방법과 평가금액 등을 그대로 인용하면서 자신이 직접 가치평가 업무를 수행한 것처럼 꾸민 정황이 포착된 것으로 알려졌다.<br><br> 검찰은 어피니티의 주요 임직원과 딜로이트안진 소속 회계사들에 대해서도 부정한 청탁을 받고 금품을 수수하거나 법률 비용에 해당하는 이익을 약속받는 등 위법 행위가 있었던 것으로 판단했다. <br><br> 한편 어펄마캐피털은 어피너티가 풋옵션을 행사한 직후인 2018년 11월 신 회장을 상대로 풋옵션을 행사하면서 삼덕회계법인에 가치평가를 의뢰했다. <br><br>이호기 기자 hglee@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552380_001_20210526173404107.jpg?type=w647" alt="" /></span>신창재 교보생명 회장과 어피너티컨소시엄 사이의 ‘주식 풋옵션 분쟁’이 새로운 국면을 맞고 있다. 양측이 다투는 핵심 쟁점인 풋옵션 행사가격을 산출한 회계법인에 대해 검찰이 잇따라 공인회계사법 위반으로 기소하고 있기 때문이다.<br><br> 신 회장은 풋옵션을 행사한 어피너티의 교보생명 주식(지분율 24%)을 되사줘야 하는데, 이들 회계법인의 평가를 토대로 제시한 주가(주당 40만9000원)가 부당하다고 주장해 왔다.<br><br> 26일 법조계에 따르면 서울중앙지방검찰청은 지난 25일 교보생명 재무적투자자인 어펄마캐피털(옛 스탠다드차타드PE)의 의뢰를 받아 풋옵션 행사가격을 산출한 삼덕회계법인 소속 파트너 회계사 A씨를 공인회계사법 위반 혐의로 기소했다. <br><br> 서울중앙지검은 앞서 지난 1월 딜로이트안진회계법인 회계사 3명과 이들에게 교보생명 주가 산출을 맡긴 어피너티, IMM 등 재무적투자자 관계자 2명도 공인회계사법 위반 혐의로 재판에 넘겼다. <br><br> 이에 따라 풋옵션 행사가격 평가를 담당한 두 회계법인이 모두 위법 행위로 재판을 받는 처지가 됐다. 이처럼 담당 회계사들이 모두 기소되면서 해당 보고서의 신뢰성과 적정성도 크게 훼손됐다는 지적이다. <br><br> 검찰은 A씨가 교보생명 기업가치평가 업무를 직접 수행하지 않았음에도 불구하고, 직접 수행한 것처럼 의뢰인인 어펄마캐피털에 거짓 보고한 것으로 보고 있다. <br><br> 실제 A씨는 비슷한 시기 가치평가보고서를 작성한 딜로이트안진 측 평가방법과 평가금액 등을 그대로 인용하면서 자신이 직접 가치평가 업무를 수행한 것처럼 꾸민 정황이 포착된 것으로 알려졌다.<br><br> 검찰은 어피니티의 주요 임직원과 딜로이트안진 소속 회계사들에 대해서도 부정한 청탁을 받고 금품을 수수하거나 법률 비용에 해당하는 이익을 약속받는 등 위법 행위가 있었던 것으로 판단했다. <br><br> 한편 어펄마캐피털은 어피너티가 풋옵션을 행사한 직후인 2018년 11월 신 회장을 상대로 풋옵션을 행사하면서 삼덕회계법인에 가치평가를 의뢰했다. <br><br>이호기 기자 hglee@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552380_001_20210526173404107.jpg?type=w647" alt="" /></span>신창재 교보생명 회장과 어피너티컨소시엄 사이의 ‘주식 풋옵션 분쟁’이 새로운 국면을 맞고 있다. 양측이 다투는 핵심 쟁점인 풋옵션 행사가격을 산출한 회계법인에 대해 검찰이 잇따라 공인회계사법 위반으로 기소하고 있기 때문이다.<br><br> 신 회장은 풋옵션을 행사한 어피너티의 교보생명 주식(지분율 24%)을 되사줘야 하는데, 이들 회계법인의 평가를 토대로 제시한 주가(주당 40만9000원)가 부당하다고 주장해 왔다.<br><br> 26일 법조계에 따르면 서울중앙지방검찰청은 지난 25일 교보생명 재무적투자자인 어펄마캐피털(옛 스탠다드차타드PE)의 의뢰를 받아 풋옵션 행사가격을 산출한 삼덕회계법인 소속 파트너 회계사 A씨를 공인회계사법 위반 혐의로 기소했다. <br><br> 서울중앙지검은 앞서 지난 1월 딜로이트안진회계법인 회계사 3명과 이들에게 교보생명 주가 산출을 맡긴 어피너티, IMM 등 재무적투자자 관계자 2명도 공인회계사법 위반 혐의로 재판에 넘겼다. <br><br> 이에 따라 풋옵션 행사가격 평가를 담당한 두 회계법인이 모두 위법 행위로 재판을 받는 처지가 됐다. 이처럼 담당 회계사들이 모두 기소되면서 해당 보고서의 신뢰성과 적정성도 크게 훼손됐다는 지적이다. <br><br> 검찰은 A씨가 교보생명 기업가치평가 업무를 직접 수행하지 않았음에도 불구하고, 직접 수행한 것처럼 의뢰인인 어펄마캐피털에 거짓 보고한 것으로 보고 있다. <br><br> 실제 A씨는 비슷한 시기 가치평가보고서를 작성한 딜로이트안진 측 평가방법과 평가금액 등을 그대로 인용하면서 자신이 직접 가치평가 업무를 수행한 것처럼 꾸민 정황이 포착된 것으로 알려졌다.<br><br> 검찰은 어피니티의 주요 임직원과 딜로이트안진 소속 회계사들에 대해서도 부정한 청탁을 받고 금품을 수수하거나 법률 비용에 해당하는 이익을 약속받는 등 위법 행위가 있었던 것으로 판단했다. <br><br> 한편 어펄마캐피털은 어피너티가 풋옵션을 행사한 직후인 2018년 11월 신 회장을 상대로 풋옵션을 행사하면서 삼덕회계법인에 가치평가를 의뢰했다. <br><br>이호기 기자 hglee@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">신설·강화된 규제 관련 위반행위해도 제재 조치 안하지만 고의·중과실 있는 경우는 예외</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/031/2021/05/26/0000600723_001_20210526161804254.jpg?type=w647" alt="" /><em class="img_desc">금융위원회 내부 전경 [사진=아이뉴스24 DB]</em></span><br><br>[아이뉴스24 이효정 기자] 금융당국이 금융소비자보호법의 안착을 위해 법 위반행위에 대해 제재보다는 계도(啓導) 중심으로 감독해나가겠다는 방침이다.<br><br>금융위원회는 26일 정례회의를 개최해 금소법 제정으로 신설·강화된 규제와 관련한 비조치의견서를 의결했다.<br><br>지난 3월 25일 금융소비자보호법 시행 이후 오는 9월24일까지 6개월간 금소법으로 새로 도입되거나 강화된 규제 위반행위에 예외를 두고 제재 등 조치를 취하지 않겠다는 것이다.  규제의 신설·강화 여부는 금융소비자보호법상 금융상품판매업자&#8228;금융상품자문업자 별로 판단하기로 했다.<br><br>다만 이렇게 비조치의 적용범위를 벗어나는 예외 행위도 있다. 금소법 위반행위시 고의 또는 중과실이 있는 경우에는 제재를 가한다.<br><br>또 위반행위로 인해 금융소비자에 중대한 재산상 손실이 발생하거나 시장질서를 크게 저해한 경우에도 조치를 취하겠다는 방침이다. 대신 위반행위의 동기, 경위 등에 특히 참작할 사유가 있는 경우는 해당되지 않는다.<br><br>금소법 위반에 대해 감독기관이 시정을 요구했음에도 불구하고 시정하지 않은 경우에도 비조치의 예외로 뒀다.<br><br><address>/이효정 기자(<a href=mailto:hyoj@inews24.com>hyoj@inews24.com)</a></address><br><br><a target='new' href='https://media.naver.com/channel/promotion.nhn?oid=031' >▶네이버 채널에서 '아이뉴스24'를 구독해주세요.</a><br><br><a target='new' href='https://tv.naver.com/inewstv'>▶재밌는 아이뉴스TV 영상보기</a> <a target='new' href='http://www.inews24.com'>▶아이뉴스24 바로가기</a><br><br>[ⓒ 아이뉴스24 무단전재 및 재배포 금지]<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">신설·강화된 규제 관련 위반행위해도 제재 조치 안하지만 고의·중과실 있는 경우는 예외</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/031/2021/05/26/0000600723_001_20210526161804254.jpg?type=w647" alt="" /><em class="img_desc">금융위원회 내부 전경 [사진=아이뉴스24 DB]</em></span><br><br>[아이뉴스24 이효정 기자] 금융당국이 금융소비자보호법의 안착을 위해 법 위반행위에 대해 제재보다는 계도(啓導) 중심으로 감독해나가겠다는 방침이다.<br><br>금융위원회는 26일 정례회의를 개최해 금소법 제정으로 신설·강화된 규제와 관련한 비조치의견서를 의결했다.<br><br>지난 3월 25일 금융소비자보호법 시행 이후 오는 9월24일까지 6개월간 금소법으로 새로 도입되거나 강화된 규제 위반행위에 예외를 두고 제재 등 조치를 취하지 않겠다는 것이다.  규제의 신설·강화 여부는 금융소비자보호법상 금융상품판매업자&#8228;금융상품자문업자 별로 판단하기로 했다.<br><br>다만 이렇게 비조치의 적용범위를 벗어나는 예외 행위도 있다. 금소법 위반행위시 고의 또는 중과실이 있는 경우에는 제재를 가한다.<br><br>또 위반행위로 인해 금융소비자에 중대한 재산상 손실이 발생하거나 시장질서를 크게 저해한 경우에도 조치를 취하겠다는 방침이다. 대신 위반행위의 동기, 경위 등에 특히 참작할 사유가 있는 경우는 해당되지 않는다.<br><br>금소법 위반에 대해 감독기관이 시정을 요구했음에도 불구하고 시정하지 않은 경우에도 비조치의 예외로 뒀다.<br><br><address>/이효정 기자(<a href=mailto:hyoj@inews24.com>hyoj@inews24.com)</a></address><br><br><a target='new' href='https://media.naver.com/channel/promotion.nhn?oid=031' >▶네이버 채널에서 '아이뉴스24'를 구독해주세요.</a><br><br><a target='new' href='https://tv.naver.com/inewstv'>▶재밌는 아이뉴스TV 영상보기</a> <a target='new' href='http://www.inews24.com'>▶아이뉴스24 바로가기</a><br><br>[ⓒ 아이뉴스24 무단전재 및 재배포 금지]<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">신설·강화된 규제 관련 위반행위해도 제재 조치 안하지만 고의·중과실 있는 경우는 예외</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/031/2021/05/26/0000600723_001_20210526161804254.jpg?type=w647" alt="" /><em class="img_desc">금융위원회 내부 전경 [사진=아이뉴스24 DB]</em></span><br><br>[아이뉴스24 이효정 기자] 금융당국이 금융소비자보호법의 안착을 위해 법 위반행위에 대해 제재보다는 계도(啓導) 중심으로 감독해나가겠다는 방침이다.<br><br>금융위원회는 26일 정례회의를 개최해 금소법 제정으로 신설·강화된 규제와 관련한 비조치의견서를 의결했다.<br><br>지난 3월 25일 금융소비자보호법 시행 이후 오는 9월24일까지 6개월간 금소법으로 새로 도입되거나 강화된 규제 위반행위에 예외를 두고 제재 등 조치를 취하지 않겠다는 것이다.  규제의 신설·강화 여부는 금융소비자보호법상 금융상품판매업자&#8228;금융상품자문업자 별로 판단하기로 했다.<br><br>다만 이렇게 비조치의 적용범위를 벗어나는 예외 행위도 있다. 금소법 위반행위시 고의 또는 중과실이 있는 경우에는 제재를 가한다.<br><br>또 위반행위로 인해 금융소비자에 중대한 재산상 손실이 발생하거나 시장질서를 크게 저해한 경우에도 조치를 취하겠다는 방침이다. 대신 위반행위의 동기, 경위 등에 특히 참작할 사유가 있는 경우는 해당되지 않는다.<br><br>금소법 위반에 대해 감독기관이 시정을 요구했음에도 불구하고 시정하지 않은 경우에도 비조치의 예외로 뒀다.<br><br><address>/이효정 기자(<a href=mailto:hyoj@inews24.com>hyoj@inews24.com)</a></address><br><br><a target='new' href='https://media.naver.com/channel/promotion.nhn?oid=031' >▶네이버 채널에서 '아이뉴스24'를 구독해주세요.</a><br><br><a target='new' href='https://tv.naver.com/inewstv'>▶재밌는 아이뉴스TV 영상보기</a> <a target='new' href='http://www.inews24.com'>▶아이뉴스24 바로가기</a><br><br>[ⓒ 아이뉴스24 무단전재 및 재배포 금지]<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">신설·강화된 규제 관련 위반행위해도 제재 조치 안하지만 고의·중과실 있는 경우는 예외</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/031/2021/05/26/0000600723_001_20210526161804254.jpg?type=w647" alt="" /><em class="img_desc">금융위원회 내부 전경 [사진=아이뉴스24 DB]</em></span><br><br>[아이뉴스24 이효정 기자] 금융당국이 금융소비자보호법의 안착을 위해 법 위반행위에 대해 제재보다는 계도(啓導) 중심으로 감독해나가겠다는 방침이다.<br><br>금융위원회는 26일 정례회의를 개최해 금소법 제정으로 신설·강화된 규제와 관련한 비조치의견서를 의결했다.<br><br>지난 3월 25일 금융소비자보호법 시행 이후 오는 9월24일까지 6개월간 금소법으로 새로 도입되거나 강화된 규제 위반행위에 예외를 두고 제재 등 조치를 취하지 않겠다는 것이다.  규제의 신설·강화 여부는 금융소비자보호법상 금융상품판매업자&#8228;금융상품자문업자 별로 판단하기로 했다.<br><br>다만 이렇게 비조치의 적용범위를 벗어나는 예외 행위도 있다. 금소법 위반행위시 고의 또는 중과실이 있는 경우에는 제재를 가한다.<br><br>또 위반행위로 인해 금융소비자에 중대한 재산상 손실이 발생하거나 시장질서를 크게 저해한 경우에도 조치를 취하겠다는 방침이다. 대신 위반행위의 동기, 경위 등에 특히 참작할 사유가 있는 경우는 해당되지 않는다.<br><br>금소법 위반에 대해 감독기관이 시정을 요구했음에도 불구하고 시정하지 않은 경우에도 비조치의 예외로 뒀다.<br><br><address>/이효정 기자(<a href=mailto:hyoj@inews24.com>hyoj@inews24.com)</a></address><br><br><a target='new' href='https://media.naver.com/channel/promotion.nhn?oid=031' >▶네이버 채널에서 '아이뉴스24'를 구독해주세요.</a><br><br><a target='new' href='https://tv.naver.com/inewstv'>▶재밌는 아이뉴스TV 영상보기</a> <a target='new' href='http://www.inews24.com'>▶아이뉴스24 바로가기</a><br><br>[ⓒ 아이뉴스24 무단전재 및 재배포 금지]<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">금융위, 혁신금융서비스 3건 신규 지정</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915050_001_20210526222912974.jpg?type=w647" alt="" /></span><br>[서울경제] <br><br>네이버에 이어 카카오도 소액후불결제 서비스 시장에 진출한다. 충전 없이도 월 15만 원까지 휴대폰으로 결제가 가능한 이른바 ‘카카오 교통카드’가 올해 4분기 출시될 예정이다.<br><br>금융위원회는 26일 정례회의를 열고 카카오페이의 모바일 후불형 교통카드 서비스를 포함한 3건을 금융규제 샌드박스를 적용하는 혁신금융서비스로 신규 지정했다고 밝혔다.<br><br>카카오페이는 지난 1월 금융위에 후불형 교통카드 서비스를 혁신금융서비스로 지정받기 위한 신청서를 제출한 바 있다. 혁신금융서비스에 선정되면 최대 4년간 금융 관련 규제를 유예·면제 받을 수 있다. 네이버파이낸셜의 후불결제 서비스를 포함해 총 145건이 지정돼 있다.<br><br>현재 카카오페이 이용자는 미리 충전한 금액 안에서 교통카드 서비스를 이용할 수 있다. 이번 혁신금융서비스 지정으로 최대 15만원 내에서 후불형 교통카드를 사용할 수 있게 된다. 당초 카카오는 전자금융거래법 개정에 맞춰서 서비스를 개시할 계획이었다. 문제는 해당 법안이 국회 문턱을 넘지 못하고 있다는 점이다. 이 때문에 금융규제 샌드박스를 활용한 것으로 풀이된다. 올해 4분기 중 서비스가 출시될 계획이다.<br><br>이 밖에도 블록체인(분산원장) 기술 기반의 부동산 수익증권 거래 플랫폼인 펀드블록글로벌 및 4개 신탁회사, 금융분야 마이데이터 통합인증서비스 관련 28개사를 혁심금융서비스 대상자로 선정했다.<br><br>금융위는 또 신한카드 안면인식결제 서비스의 혁신금융서비스 지정내용과 부가조건을 변경하기로 했다. 원활한 테스트를 위해 대형 신용카드 가맹점에 안면인식결제 단말기를 무상으로 제공·설치 할 수 있도록 하는 내용이 담겼다. DGB대구은행의 안면인식기술 활용 비대면 실명확인 서비스도 지정내용이 일부 변경됐다.<br><br>/김상훈 기자 ksh25th@sedaily.com<br><br><ul><li><a href="https://bit.ly/3bhqTuL" target="_blank" style="color:#000000">▶ [지구용] 투명해진 맥주병, 그런데 말입니다...</a></li><li><a href="https://thepolitics.sedaily.com" target="_blank" style="color:#000000">▶ 서울경제 더 폴리틱스 뉴스를 만나보세요!</a></li><li><a href="https://www.sedaily.com/v/Zipchelin" target="_blank" style="color:#000000">▶ 미슐랭 가이드처럼 알찬 부동산 뉴스 '집슐랭'</a></li></ul><br><br>저작권자 ⓒ 서울경제, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/277/2021/05/26/0004909302_001_20210526153903575.jpg?type=w647" alt="" /></span><br><br>[아시아경제 기하영 기자]한화생명은 업계 최초로 진단부터 입원·간병·장애·재활까지 간병의 모든 과정을 종합적으로 보장하는 '한화생명 늘곁에 간병보험'을 출시했다고 26일 밝혔다. <br><br>이 상품은 주계약 1종해지환급금 일부지급형(납입기간중 50%, 납입기간후 100%)과 2종 표준형으로 구성돼 있다.<br><br>주계약으로 피보험자의 장기요양상태를 경도, 중등도, 중증으로 구분해 최대 4500만원(가입금액 1500만원 기준)까지 장기요양진단자금을 보장한다. 각 단계는 노인장기요양제도 등급에 따라 구분돼 치매에 행동장애 보장까지 더했다.<br><br>특히 '간병인지원금보장특약(갱)'을 통해 요양병원 구분 없이 간병인 지원금을 30일 이상 입원 시 최대 하루 15만원까지 현금으로 보장한다. 특정중증장애(지적·정신 제외)를 비롯해 장기요양, 3대질병 등 만성 질환 진단 후 생존 시에도 간병자금을 지급해 가족의 부담을 덜어준다.<br><br>또 업계 최초로 재택간병(가정간호)까지 특약을 통해 보장하고, 특정 질병이나 재해가 아닌 모든 질병 또는 재해를 대상으로 재활치료를 보장한다.<br><br>기하영 기자 hykii@asiae.co.kr<br><br><a href="https://www.asiae.co.kr/fortune/index.htm?utm_source=navernews&utm_medium=naver_view&utm_campaign=fortune">▶ 속 시원한 풀이! 2021년 정통사주·운세·토정비결</a><br><a href="https://www.asiae.co.kr/event/2021/jobgo/">▶ 직장인을 위한 '빅데이터 분석' 국비 특화과정 모집</a><br><a href="https://core.asiae.co.kr/?utm_source=naver_article&utm_medium=pc_mobile&utm_campaign=core">▶ 투자 성공의 핵심은 기업분석! 'CORE' 바로가기</a><br><br>&lt;ⓒ경제를 보는 눈, 세계를 보는 창 아시아경제 무단전재 배포금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552203_001_20210526151401407.jpg?type=w647" alt="" /><em class="img_desc">/연합뉴스</em></span><br>우리나라 성인 10가구 중 6가구는 실거주를 위한 집 한 채는 반드시 필요하다고 생각하는 것으로 조사됐다. 아무리 좋은 주거 환경이어도 전·월세로 사는 것보다 &#39;내 집&#39;에 대한 선호가 강하다는 뜻이다. 공공임대주택을 늘려 "굳이 자기 집을 소유하지 않아도 되도록 &#39;주거 사다리&#39;를 만들어야 한다(문재인 대통령)"는 정부의 부동산 정책 방향과는 괴리가 있다. 30대 이하 가구와 무주택 가구의 절반은 향후 주택을 구입하고 싶다고 밝혔다. <br><br> 26일 한국주택금융공사는 &#39;2020년 주택금융 및 보금자리론 실태조사&#39; 결과를 발표했다. 이 설문은 전국 만 20세 이상 가구주 또는 배우자 5000가구를 대상으로 지난해 9월 25일부터 올해 1월 15일까지 진행됐다. 설문 대상 가구 중 기혼 비율은 74%, 기혼 가구 중 맞벌이 비율은 53.6%였다. 평균 총 자산은 3억 5414만원, 월평균 가구 총소득은 361만원으로 조사됐다. <div style="margin:20px 0; padding:13px 0 14px; border-top:2px solid #c3c3c3; border-bottom:1px solid #e5e5e5; font-weight:bold; font-size:1.1em"><span style="color:#5c7bc2"> 61% "1가구 1주택은 꼭 필요"</span></div> 설문에 따르면 이들 가구의 61.4%는 &#39;실거주 목적의 1가구 1주택은 꼭 필요하다&#39;고 답했다. 반면 &#39;주거 환경이 안정적이라면 전·월세 등 임차 형태로 주택을 사용하겠다&#39;고 답한 비율은 18.5%에 그쳤다. <br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552203_002_20210526151401445.jpg?type=w647" alt="" /></span><br> 이는 공공 임대주택 비중이 높은 정부의 부동산 정책이 국민의 수요와 일부 괴리가 있음을 보여준다. 앞서 지난해 12월 문재인 대통령은 LH가 공공임대주택 100만호 준공을 기념해 건설한 경기도 화성동탄 행복주택단지를 방문해 "공공임대주택의 다양한 공급 확대로 누구나 집을 소유하지 않고도 충분한 주거를 누릴 수 있도로 하겠다"고 했다. 청와대 측도 "공공임대주택을 &#39;누구나 살고 싶은 공공임대주택&#39;으로 발전시키기 위한 정책 의지와 방향을 담은 현장 행보"라고 일정의 취지를 설명했다.<br><br> 임대주택 중심의 부동산 정책은 여당 안에서도 논쟁거리가 됐다. 송영길 더불어민주당 대표는 25일 "공공임대주택은 일시적으로는 돈이 없을 때는 살 수 있지만 평생 여기서 살라고 하면 누가 살겠냐"며 "주택 문제의 대안이 될 수 없다"고 말했다. 반면 이재명 경기도지사는 최근 자신의 SNS에 "중산층 무주택자에게도 좋은 위치의 고품질 공공임대주택을 저렴하게 대량 공급하면 주거불안은 상당 정도 제거될 것"이라고 적었다.<br> <div style="margin:20px 0; padding:13px 0 14px; border-top:2px solid #c3c3c3; border-bottom:1px solid #e5e5e5; font-weight:bold; font-size:1.1em"><span style="color:#5c7bc2"> 30대, 무주택 가구 절반은 "향후 집 사고싶다"</span></div> 향후 주택을 구입할 의향이 있다고 응답한 가구는 전체의 30.1%로 조사됐다. 1년 전보다는 2.2%포인트 하락한 수치다. 연령대별로는 30대 이하 가구가 56.5%로 가장 높은 구입 의향을 보였고 40대 40.4%, 50대 23.8%, 60대 이상 8.2%로 연령층이 높아질 수록 구입 의사는 떨어졌다. 무주택자 가구 역시 절반(52.9%)이 향후 주택을 구입하고 싶다고 했다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552203_003_20210526151401476.jpg?type=w647" alt="" /></span><br> 청년층의 주거 안정을 위해서는 청년전세자금보증이 월세자금보증보다 더 유용하다는 응답이 73.2%에 달했다. 월세보다 전세가 자산 형성, 비용 절감 등에 유리하고(42.7%) 전세대출 이자가 더 저렴하기 때문(24.3%)이다.<br><br> 현재 주택담보대출, 전세자금대출, 중도금대출 등 주택금융상품을 이용 중인 가구는 전체의 38.7%였다. 주담대를 선택할 때 가장 중요하게 보는 요소는 역시 금리(59.6%)였다. 이어 대출한도(35%), 대출기간(26.1%), 금리 유형(23%) 순으로 응답률이 높았다. <br><br> 주금공의 대표 정책금융 주담대인 &#39;보금자리론&#39;에 대한 이용자의 만족도는 80.7%로 높은 수준을 기록했다. 최근 1년 안에 보금자리론과 디딤돌대출을 이용한 2000가구를 조사한 결과다. 1년 전보다 3.3%포인트 올랐다. &#39;공공기관 상품이라서 신뢰가 간다(80.9%)&#39;는 응답이 가장 많았고 &#39;최장 30년까지 대출 이용이 가능(73.3%)&#39; &#39;시중금리가 올라도 이자부담이 늘지 않는다(73.1%)&#39;는 답이 뒤를 이었다. <br><br>빈난새 기자 binthere@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552203_001_20210526151401407.jpg?type=w647" alt="" /><em class="img_desc">/연합뉴스</em></span><br>우리나라 성인 10가구 중 6가구는 실거주를 위한 집 한 채는 반드시 필요하다고 생각하는 것으로 조사됐다. 아무리 좋은 주거 환경이어도 전·월세로 사는 것보다 &#39;내 집&#39;에 대한 선호가 강하다는 뜻이다. 공공임대주택을 늘려 "굳이 자기 집을 소유하지 않아도 되도록 &#39;주거 사다리&#39;를 만들어야 한다(문재인 대통령)"는 정부의 부동산 정책 방향과는 괴리가 있다. 30대 이하 가구와 무주택 가구의 절반은 향후 주택을 구입하고 싶다고 밝혔다. <br><br> 26일 한국주택금융공사는 &#39;2020년 주택금융 및 보금자리론 실태조사&#39; 결과를 발표했다. 이 설문은 전국 만 20세 이상 가구주 또는 배우자 5000가구를 대상으로 지난해 9월 25일부터 올해 1월 15일까지 진행됐다. 설문 대상 가구 중 기혼 비율은 74%, 기혼 가구 중 맞벌이 비율은 53.6%였다. 평균 총 자산은 3억 5414만원, 월평균 가구 총소득은 361만원으로 조사됐다. <div style="margin:20px 0; padding:13px 0 14px; border-top:2px solid #c3c3c3; border-bottom:1px solid #e5e5e5; font-weight:bold; font-size:1.1em"><span style="color:#5c7bc2"> 61% "1가구 1주택은 꼭 필요"</span></div> 설문에 따르면 이들 가구의 61.4%는 &#39;실거주 목적의 1가구 1주택은 꼭 필요하다&#39;고 답했다. 반면 &#39;주거 환경이 안정적이라면 전·월세 등 임차 형태로 주택을 사용하겠다&#39;고 답한 비율은 18.5%에 그쳤다. <br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552203_002_20210526151401445.jpg?type=w647" alt="" /></span><br> 이는 공공 임대주택 비중이 높은 정부의 부동산 정책이 국민의 수요와 일부 괴리가 있음을 보여준다. 앞서 지난해 12월 문재인 대통령은 LH가 공공임대주택 100만호 준공을 기념해 건설한 경기도 화성동탄 행복주택단지를 방문해 "공공임대주택의 다양한 공급 확대로 누구나 집을 소유하지 않고도 충분한 주거를 누릴 수 있도로 하겠다"고 했다. 청와대 측도 "공공임대주택을 &#39;누구나 살고 싶은 공공임대주택&#39;으로 발전시키기 위한 정책 의지와 방향을 담은 현장 행보"라고 일정의 취지를 설명했다.<br><br> 임대주택 중심의 부동산 정책은 여당 안에서도 논쟁거리가 됐다. 송영길 더불어민주당 대표는 25일 "공공임대주택은 일시적으로는 돈이 없을 때는 살 수 있지만 평생 여기서 살라고 하면 누가 살겠냐"며 "주택 문제의 대안이 될 수 없다"고 말했다. 반면 이재명 경기도지사는 최근 자신의 SNS에 "중산층 무주택자에게도 좋은 위치의 고품질 공공임대주택을 저렴하게 대량 공급하면 주거불안은 상당 정도 제거될 것"이라고 적었다.<br> <div style="margin:20px 0; padding:13px 0 14px; border-top:2px solid #c3c3c3; border-bottom:1px solid #e5e5e5; font-weight:bold; font-size:1.1em"><span style="color:#5c7bc2"> 30대, 무주택 가구 절반은 "향후 집 사고싶다"</span></div> 향후 주택을 구입할 의향이 있다고 응답한 가구는 전체의 30.1%로 조사됐다. 1년 전보다는 2.2%포인트 하락한 수치다. 연령대별로는 30대 이하 가구가 56.5%로 가장 높은 구입 의향을 보였고 40대 40.4%, 50대 23.8%, 60대 이상 8.2%로 연령층이 높아질 수록 구입 의사는 떨어졌다. 무주택자 가구 역시 절반(52.9%)이 향후 주택을 구입하고 싶다고 했다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552203_003_20210526151401476.jpg?type=w647" alt="" /></span><br> 청년층의 주거 안정을 위해서는 청년전세자금보증이 월세자금보증보다 더 유용하다는 응답이 73.2%에 달했다. 월세보다 전세가 자산 형성, 비용 절감 등에 유리하고(42.7%) 전세대출 이자가 더 저렴하기 때문(24.3%)이다.<br><br> 현재 주택담보대출, 전세자금대출, 중도금대출 등 주택금융상품을 이용 중인 가구는 전체의 38.7%였다. 주담대를 선택할 때 가장 중요하게 보는 요소는 역시 금리(59.6%)였다. 이어 대출한도(35%), 대출기간(26.1%), 금리 유형(23%) 순으로 응답률이 높았다. <br><br> 주금공의 대표 정책금융 주담대인 &#39;보금자리론&#39;에 대한 이용자의 만족도는 80.7%로 높은 수준을 기록했다. 최근 1년 안에 보금자리론과 디딤돌대출을 이용한 2000가구를 조사한 결과다. 1년 전보다 3.3%포인트 올랐다. &#39;공공기관 상품이라서 신뢰가 간다(80.9%)&#39;는 응답이 가장 많았고 &#39;최장 30년까지 대출 이용이 가능(73.3%)&#39; &#39;시중금리가 올라도 이자부담이 늘지 않는다(73.1%)&#39;는 답이 뒤를 이었다. <br><br>빈난새 기자 binthere@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003914983_001_20210526143004168.jpg?type=w647" alt="" /><em class="img_desc">김경호(가운데) 하나은행 미래금융본부장과 장영수(왼쪽) ㈜카옥션 대표, 이강응 ㈜카동 대표가 지난 18일 서울 중구 하나금융 명동사옥에서 개인 간 중고차 직거래 플랫폼 비즈니스 활성화를 위한 업무협약을 체결한 뒤 협약서를 들어보이고 있다./사진 제공=하나은행</em></span><br>[서울경제] <br><br>하나은행이 모바일 애플리케이션 ‘하나원큐’에서 개인 간 중고차 직거래를 지원하는 ‘원더카 직거래’ 서비스를 출시한다고 26일 밝혔다. 이 서비스는 동호회 등 중고차 직거래 장터에서 이뤄지는 개인 간 중고차 직거래에 대해 신뢰성과 편의성을 더해주는 플랫폼 서비스다. <br><br>언제 어디서든 간편한 모바일 기반 차량 명의이전 시스템을 적용해 기존 오프라인 서류제출 및 차량등록사업소 방문 등 불편함을 해소했다. 직거래 차량에 대한 무료 체크(보험사고 이력, 침수·압류 여부 등), 차량 동행 점검부터 차량 정비 서비스, 원거리 탁송까지 원클릭으로 모든 서비스를 받을 수 있게 된다.<br><br>하나은행은 이번 서비스 출시를 시작으로 자동차 경매 전문기업 ㈜카옥션과 자동차 다이렉트 금융 전문기업 ㈜카동과 함께 개인 간 중고차 직거래 플랫폼 비즈니스 활성화를 위해 혁신적이고 창의적인 방안을 지속적으로 협력·개발할 예정이다.<br><br>서비스 출시를 기념해 6월 2일부터 7월 말까지 하나원큐 앱에서 퀴즈에 참여하는 1,000명에게 2,000 하나머니를, 원더카 직거래서비스를 통해 중고차 명의이전 하는 손님 100명에게는 명의이전 수수료 반액에 해당하는 2만5,000 하나머니를 적립해 주는 ‘원더카 직거래 Pay Back 이벤트’를 진행한다. <br><br>하나은행 관계자는 “이번 서비스 출시를 계기로 불안하고 불편했던 개인 간 중고차 직거래가 편리하고 안전한 직거래로 새로이 경험될 수 있기를 기대한다”며 “앞으로도 하나은행 손님들이 중고차 직거래 시 보다 실질적인 혜택을 누릴 수 있도록 다양한 파트너들과 업무제휴를 강화해 나갈 것”이라고 말했다.<br><br>/김지영 기자 jikim@sedaily.com<br><br><ul><li><a href="https://bit.ly/3bhqTuL" target="_blank" style="color:#000000">▶ [지구용] 투명해진 맥주병, 그런데 말입니다...</a></li><li><a href="https://thepolitics.sedaily.com" target="_blank" style="color:#000000">▶ 서울경제 더 폴리틱스 뉴스를 만나보세요!</a></li><li><a href="https://www.sedaily.com/v/Zipchelin" target="_blank" style="color:#000000">▶ 미슐랭 가이드처럼 알찬 부동산 뉴스 '집슐랭'</a></li></ul><br><br>저작권자 ⓒ 서울경제, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/366/2021/05/26/0000722794_001_20210526135907528.jpg?type=w647" alt="" /><em class="img_desc">우리은행은 26일 서울 중구 우리은행 본점에서 대한변리사회와 ‘지적재산권(IP) 활성화를 위한 업무협약’을 맺었다. 권광석(오른쪽) 우리은행장과 홍장원(왼쪽) 대한변리사회 회장이 기념촬영을 하고 있다./우리은행제공</em></span><br>        우리은행은 은행권 최초로 대한변리사회와 지식재산권 보유 혁신성장기업 발굴 및 육성을 위한 업무협약을 체결했다고 26일 밝혔다.<br><br>이날 협약식에는 권광석 우리은행장과 홍장원 대한변리사회 회장 등 양사의 주요 관계자들이 참석한 가운데, 특허권·실용신안권·디자인권 등 우수 지식재산권을 보유한 혁신성장 기업의 신규 발굴 및 육성을 위해 협력해 나가기로 했다.<br><br>우리은행은 대한변리사회가 추천하는 지식재산권 보유기업을 대상으로 기술보증기금과 협력해, 우수한 지식재산권을 보유했음에도 불구하고 운영자금 확보에 어려움을 겪는 기업에 금융지원할 계획이다.<br><br>또 우수 지식재산권 보유기업에 대한 직접투자는 물론, 양사는 향후 해외 지식재산권 출원기업을 대상으로도 금융지원을 할 수 있도록 협력할 예정이다.<br><br>권광석 우리은행장은 ”이번 협약을 통해 우수 지식재산권 보유기업의 발굴, 육성 및 투자는 물론, 해외 지식재산권을 보유한 우량기업의 금융지원까지 양사의 융합 시너지를 창출해 경쟁력 있는 금융서비스를 제공해 나갈 것”이라고 말했다.<br><br>[이경탁 기자 kt87@chosunbiz.com]<br><br><br><br><br>		<a href="https://media.naver.com/channel/promotion.nhn?oid=366" target="_blank">▶네이버에서 '명품 경제뉴스' 조선비즈를 구독하세요</a><br><a href=https://biz.chosun.com/industry/car/2021/05/26/XBQC47FUSRDPNFOM3VJR6KKNYI/" target="_blank">▶제네시스 '억대 전기차'의 탄생, 공개된 모습은</a><br><a href="https://biz.chosun.com/it-science/ict/2021/05/26/TF3KQLR5KZH6VHCUOX4ODTAS4I/" target="_blank">▶'초거대 AI' 전쟁?… 너도나도 뛰어드는 IT업계들</a><br><br>	저작권자 ⓒ 조선비즈, 무단 전재 및 재배포 금지<br>	
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/629/2021/05/26/2021321621997572_20210526133607184.jpg?type=w647" alt="" /><em class="img_desc">26일 금융업계에 따르면 최근 현대카드는 IB인수자문사와 함께 한국씨티은행의 카드사업부 인수를 추진하고 있는 것으로 알려졌다. /더팩트 DB</em></span><br><br><strong>현대카드, 지난해 4분기 점유율 17.66%…업계 4위 수준</strong><br><br>[더팩트│황원영 기자] PLCC와 코스트코 독점계약 등 공격적인 마케팅으로 점유율 확대에 나서고 있는 현대카드가 한국씨티은행 신용카드사업부(씨티카드) 인수를 추진한다. 인수 결과에 따라 시장 판세가 단숨에 뒤바뀔 수 있는 만큼 업계의 관심이 뜨겁다. 최근 KB국민카드를 제치고 업계 3위(개인 신용판매액 기준)까지 오르며 가파른 성장세를 보인 현대카드는 씨티카드 인수로 카드업계에 지각변동을 일으킨다는 계획이다.<br><br>26일 금융업계에 따르면 최근 현대카드는 IB인수자문사와 함께 씨티은행의 카드사업부 인수를 추진하고 있는 것으로 알려졌다.<br><br>앞서 한국씨티은행 본사인 씨티그룹은 지난 15일 한국 등 13개국에서 소비자금융(소매금융) 사업을 철수한다고 밝혔다. 투자은행(IB)은 그대로 남지만 신용카드, 주택담보대출, 신용대출, 예·적금 등 개인금융 서비스는 제공하지 않는다는 게 핵심이다.<br><br>업계는 씨티은행이 소매금융 부문을 통매각하거나 여·수신, 카드 등 개별 부문으로 분리 매각할 가능성을 내놨다. 특히, 카드사업부의 앞길에 주목했다. 낮은 점유율에도 수익률이 높아 우량 자산으로 꼽히기 때문이다.<br><br>여신금융업계에 따르면 지난해 씨티카드 신용카드 구매실적은 6조8274억 원으로 국내 전체 신용카드 구매실적(705조3000억 원)의 1% 정도를 차지하고 있다. 개인과 법인 회원수는 지난해 말 기준 각각 104만8000좌(계좌), 4만8000좌다.<br><br>카드업계 내 비중은 작지만 점유율 대비 순익이 높다. 같은 기간 시티은행 신용카드 부문 매출은 11조5329억 원, 수료 수입액(현금서비스·신용판매 대금 수수료)은 2614억 원을 기록했다. 당기순이익은 237억 원으로 1년 만에 13% 늘었다.<br><br>연체율이나 평균 소득을 포함한 금융 소비자의 질적인 측면에서는 점유율이 높은 타 카드사보다 우수하다는 평가를 받는다. 미국 영업방식을 접목한 덕에 리볼빙 분야에도 강점이 있다. 리볼빙은 금융 소비자가 정한 결제일에 결제액 전부가 아닌 최소 10% 정도만 결제하고, 나머지 금액은 카드사 대출로 전환하는 제도다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/629/2021/05/26/202173141621997905_20210526133607204.jpg?type=w647" alt="" /><em class="img_desc">지난해 시티은행 신용카드 부문은 매출 11조5329억 원, 당기순이익 237억 원을 각각 기록했다. /이새롬 기자</em></span><br><br>업계는 포화 시장인 국내 카드 시장에서 고수익 신규 회원을 확보할 수 있다는 점에서 인수 희망사가 많을 것으로 예상했다. 다만, 카드사업권까지 매각하려면 씨티은행이 카드 사업을 분사해야 하는 등 절차가 복잡하기 때문에 카드 라이선스가 있는 금융기관이 사업 양수도를 추진할 것으로 내다봤다.<br><br>현대카드가 씨티카드를 인수할 경우 단번에 시장점유율 1%를 확보할 수 있다. 금융감독원 금융통계정보시스템에 따르면 지난해 4분기 전체 신용판매액(기업구매 제외한 개인·법인) 기준 점유율에서 현대카드는 17.33%를 차지했다. 이는 신한카드(21.46%), 삼성카드(17.93%), KB국민카드(17.66%)에 이어 네 번째로 높은 수치다.<br><br>현대카드는 전분기보다 점유율이 1.02%포인트 확대되며 3위인 KB국민카드와의 격차를 0.33%포인트까지 좁혔다. 직전 분기 점유율 차이는 1.33%포인트였다. 법인카드 실적을 제외한 개인 신용판매액 기준 점유율에서는 17.69%로 KB국민카드를 제치고 3위에 올라섰다. 전 분기(17.09%) 대비 0.6%포인트 오른 수치다. 삼성·KB국민·현대 등 2위권 카드사들의 점유율 차이는 0.6%포인트 내외로 언제든 뒤바뀔 수 있는 상황이다.<br><br>현대카드와 씨티카드의 점유율을 단순 합산하면 18%대까지 오른다. 단숨에 단독 2위 자리를 꿰차는 셈이다.<br><br>현대카드는 코스트코와 독점계약 체결, 대한항공·스타벅스·배달의민족 등 각 업계 리딩 기업과 PLCC(상업자 표시 신용카드) 계약을 체결하며 회원을 확대하고 있다. 아울러 자동차금융에 주력하며 새로운 수익원 창출에 나섰다. 실제 지난해 자동차 판매가 늘면서 차량구매 결제 비율이 높은 현대카드가 점유율을 확대한 것으로 분석됐다. 이 기세를 몰아 시티카드 인수 등으로 가파른 성장세를 이어간다는 계획이다.<br><br>다만, 가맹점 수수료 인하·핀테크 후불 결제 확대 등의 카드업황 악화는 변수다. 또, 씨티카드의 휴면카드(1년 이상 이용 실적이 없는 카드)가 늘고 있다는 점도 고려 대상이다. 지난해 4분기 기준 씨티카드 휴면카드 규모는 19만장으로 전체 발급카드의 약 15%를 차지하고 있다.<br><br>이에 대해 현대카드 관계자는 "씨티은행 카드사업부 인수와 관련해서 확인된 바 없다"고 말했다.<br><br>wony@tf.co.kr<br><br><br><br><a href="http://fannstar.tf.co.kr/event/view/fanbership20092109" target="_blank"> - BTS 공연 비하인드 사진 얻는 방법? [팬버십 가입하기▶]  </a><br><a href="http://fannstar.tf.co.kr/" target="_blank"> - 내 아이돌 순위는 내가 정한다! [팬앤스타 투표하기] </a><br><br>저작권자 ⓒ 특종에 강한 더팩트 & tf.co.kr 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">오는 9월 24일까지 가상자산사업자 신고하면 고객 자금 보호…청년 LTV 규제 완화 조정 막바지</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/031/2021/05/26/0000600643_001_20210526140901926.jpg?type=w647" alt="" /><em class="img_desc">은성수 금융위원장(오른쪽)이 26일 오전 서울 콘래드호텔에서 열린 '코리아 핀테크 위크 2021' 전시장을 체험해보고 있다.  [사진=금융위원회]</em></span><br><br>[아이뉴스24 이효정 기자] 은성수 금융위원장이 비트코인 등 가상자산의 가격 등락은 보호 대상이 아니지만, 특정금융거래정보법(특금법)이 정착하면 향후 투자자들의 자금은 안전하게 보호될 것이라고 밝혔다.<br><br>그는 26일 서울 여의도 콘래드호텔에서 열린 '코리아 핀테크 위크' 개막행사 이후 기자들과 만난 자리에서 "(금융위의) 기존 입장에 대해 하나 분명한 것은 가상자산의 가격 변동은 우리가 보호할 수 있는 대상이 아니라고 저도, 투자자들도 얘기를 했다"라고 밝혔다.<br><br>비트코인, 이더리움, 도지코인 등 가상자산의 가격 등락폭은 규제 대상이 아니라는 얘기다.<br><br>다만 자금의 보호에 대해서는 이미 특금법이 시행되고 있어 보호되고 있다는 설명이다.<br><br>지난해 3월 개정된 특금법 개정안이 지난 3월부터 시행됨에 따라 오는 9월24일까지 암호화폐거래소는 금융당국에 가상자산사업자 신고를 해야한다. 이렇게 되면 실명 계좌 등을 갖춰야 하기 때문에 고객의 돈을 거래소가 빼갈 수 없어 자금이 보호된다.<br><br>은 위원장은 "9월까지 각자 개인이 거래하는 취급 거래소가 어떤 상태인지 알고 좀 더 안전한 곳으로 (자금을) 옮겨주십사 한 것이 지난번에 국회에서 말씀 드린 것"이라고 밝혔다.<br><br>그러면서 "(9월까지) 4개월 남은 기간에 잘 안내해서 거래소들이 신고하도록 하겠다"며 "9월 이후에 정착이 되면 (거래소) 안에 있는 투자자금은 안전하게 보호될 것"이라고 밝혔다.<br><br>코인을 활용한 사기 등 형사적 문제에 대해서는 정부가 적극 대응하고 있다는 설명이다.<br><br>그는 "(코인) 사기 등은 금융위가 할 수 있는 일은 아니고 경찰이 해야할 일"이라며 "듣기로는 3년 동안 200건 넘게 기소를 해왔다. 지금까지 정부가 (대응을) 해왔고, 앞으로도 할 것이니까 정부가 손놓고 있다는 얘기는 떨어져 있는 얘기"라고 말했다.<br><br>아울러 최근 공석으로 남아있는 금융감독원장 선임에 대해서는 말을 아꼈다.<br><br>은 위원장은 "금감원장 선임은 좋은 분을 모시려면 여러 절차가 있기 때문에 조금 기다려주면 좋은 분을 모시지 않을까 기대한다"며 "인사 문제는 언제라고 (시기를) 말하기 어려운 부분이 있기 때문에 이해해주면 좋겠다"고 말했다.<br><br>청년과 신혼부부의 주택담보인정비율(LTV) 완화 문제는 협의중이나 규제 완화의 수준은 여당 등 정치권과 입장차를 좁혀진 것으로 보인다.<br><br>그는 "금융위나 정부 내에서 협의를 했고 내용에서는 여당하고도 큰 차이가 없다고 생각한다"며 "LTV에 대해서는 큰 이견이 없지만 합의가 되면 발표를 같이 할 것"이라고 밝혔다.<br><br>앞서 여당은 청년층·신혼부부에 주는 주택담보인정비율(LTV)를 90%까지 완화해 줄 것을 논의했지만 이 방안은 폐기될 가능성이 큰 것으로 전해진다. 현재로서는 LTV 최대치를 70% 안팎선에서 정할 것으로 보여 빠르면 이달 안에 관련 대책이 나올 것으로 기대된다.<br><br>한편 이날 열린 '코리아 핀테크 위크 2021'는 핀테크 산업의 축제로 이날부터 27일까지 양일간 온·오프라인을 통해 개최된다. 금융당국의 핀테크 정책에 대한 발표·질의를 비롯해 핀테크 기업의 투자유치, 채용, 홍보 등의 다양한 프로그램으로 채워진다.<br><br>이날 개막식 행사에서 은 위원장은 환영사를 통해 "핀테크 발전이 글로벌 금융산업의 지형을 바꾸는 주요 요인으로 작용하고 있다"며 "이번 행사가 우리나라를 포함해 각국의 혁신경험과 지혜를 공유하고 금융혁신 지속 방안을 모색하는 기회가 되기를 기대한다"고 말했다.<br><br>이어 "향후 핀테크육성지원법 제정, D-테스트베드 운영 등을 통해 금융권 핀테크 인프라를 고도화하고, 핀테크 유니콘 등장을 촉진해 핀테크 성장과 디지털 금융혁신을 가속화하고, 금융의 디지털화에 따른 부작용을 최소화해 금융안정에도 힘쓰겠다"고 강조했다.<br><br><address>/이효정 기자(<a href=mailto:hyoj@inews24.com>hyoj@inews24.com)</a></address><br><br><a target='new' href='https://media.naver.com/channel/promotion.nhn?oid=031' >▶네이버 채널에서 '아이뉴스24'를 구독해주세요.</a><br><br><a target='new' href='https://tv.naver.com/inewstv'>▶재밌는 아이뉴스TV 영상보기</a> <a target='new' href='http://www.inews24.com'>▶아이뉴스24 바로가기</a><br><br>[ⓒ 아이뉴스24 무단전재 및 재배포 금지]<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">오는 9월 24일까지 가상자산사업자 신고하면 고객 자금 보호…청년 LTV 규제 완화 조정 막바지</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/031/2021/05/26/0000600643_001_20210526140901926.jpg?type=w647" alt="" /><em class="img_desc">은성수 금융위원장(오른쪽)이 26일 오전 서울 콘래드호텔에서 열린 '코리아 핀테크 위크 2021' 전시장을 체험해보고 있다.  [사진=금융위원회]</em></span><br><br>[아이뉴스24 이효정 기자] 은성수 금융위원장이 비트코인 등 가상자산의 가격 등락은 보호 대상이 아니지만, 특정금융거래정보법(특금법)이 정착하면 향후 투자자들의 자금은 안전하게 보호될 것이라고 밝혔다.<br><br>그는 26일 서울 여의도 콘래드호텔에서 열린 '코리아 핀테크 위크' 개막행사 이후 기자들과 만난 자리에서 "(금융위의) 기존 입장에 대해 하나 분명한 것은 가상자산의 가격 변동은 우리가 보호할 수 있는 대상이 아니라고 저도, 투자자들도 얘기를 했다"라고 밝혔다.<br><br>비트코인, 이더리움, 도지코인 등 가상자산의 가격 등락폭은 규제 대상이 아니라는 얘기다.<br><br>다만 자금의 보호에 대해서는 이미 특금법이 시행되고 있어 보호되고 있다는 설명이다.<br><br>지난해 3월 개정된 특금법 개정안이 지난 3월부터 시행됨에 따라 오는 9월24일까지 암호화폐거래소는 금융당국에 가상자산사업자 신고를 해야한다. 이렇게 되면 실명 계좌 등을 갖춰야 하기 때문에 고객의 돈을 거래소가 빼갈 수 없어 자금이 보호된다.<br><br>은 위원장은 "9월까지 각자 개인이 거래하는 취급 거래소가 어떤 상태인지 알고 좀 더 안전한 곳으로 (자금을) 옮겨주십사 한 것이 지난번에 국회에서 말씀 드린 것"이라고 밝혔다.<br><br>그러면서 "(9월까지) 4개월 남은 기간에 잘 안내해서 거래소들이 신고하도록 하겠다"며 "9월 이후에 정착이 되면 (거래소) 안에 있는 투자자금은 안전하게 보호될 것"이라고 밝혔다.<br><br>코인을 활용한 사기 등 형사적 문제에 대해서는 정부가 적극 대응하고 있다는 설명이다.<br><br>그는 "(코인) 사기 등은 금융위가 할 수 있는 일은 아니고 경찰이 해야할 일"이라며 "듣기로는 3년 동안 200건 넘게 기소를 해왔다. 지금까지 정부가 (대응을) 해왔고, 앞으로도 할 것이니까 정부가 손놓고 있다는 얘기는 떨어져 있는 얘기"라고 말했다.<br><br>아울러 최근 공석으로 남아있는 금융감독원장 선임에 대해서는 말을 아꼈다.<br><br>은 위원장은 "금감원장 선임은 좋은 분을 모시려면 여러 절차가 있기 때문에 조금 기다려주면 좋은 분을 모시지 않을까 기대한다"며 "인사 문제는 언제라고 (시기를) 말하기 어려운 부분이 있기 때문에 이해해주면 좋겠다"고 말했다.<br><br>청년과 신혼부부의 주택담보인정비율(LTV) 완화 문제는 협의중이나 규제 완화의 수준은 여당 등 정치권과 입장차를 좁혀진 것으로 보인다.<br><br>그는 "금융위나 정부 내에서 협의를 했고 내용에서는 여당하고도 큰 차이가 없다고 생각한다"며 "LTV에 대해서는 큰 이견이 없지만 합의가 되면 발표를 같이 할 것"이라고 밝혔다.<br><br>앞서 여당은 청년층·신혼부부에 주는 주택담보인정비율(LTV)를 90%까지 완화해 줄 것을 논의했지만 이 방안은 폐기될 가능성이 큰 것으로 전해진다. 현재로서는 LTV 최대치를 70% 안팎선에서 정할 것으로 보여 빠르면 이달 안에 관련 대책이 나올 것으로 기대된다.<br><br>한편 이날 열린 '코리아 핀테크 위크 2021'는 핀테크 산업의 축제로 이날부터 27일까지 양일간 온·오프라인을 통해 개최된다. 금융당국의 핀테크 정책에 대한 발표·질의를 비롯해 핀테크 기업의 투자유치, 채용, 홍보 등의 다양한 프로그램으로 채워진다.<br><br>이날 개막식 행사에서 은 위원장은 환영사를 통해 "핀테크 발전이 글로벌 금융산업의 지형을 바꾸는 주요 요인으로 작용하고 있다"며 "이번 행사가 우리나라를 포함해 각국의 혁신경험과 지혜를 공유하고 금융혁신 지속 방안을 모색하는 기회가 되기를 기대한다"고 말했다.<br><br>이어 "향후 핀테크육성지원법 제정, D-테스트베드 운영 등을 통해 금융권 핀테크 인프라를 고도화하고, 핀테크 유니콘 등장을 촉진해 핀테크 성장과 디지털 금융혁신을 가속화하고, 금융의 디지털화에 따른 부작용을 최소화해 금융안정에도 힘쓰겠다"고 강조했다.<br><br><address>/이효정 기자(<a href=mailto:hyoj@inews24.com>hyoj@inews24.com)</a></address><br><br><a target='new' href='https://media.naver.com/channel/promotion.nhn?oid=031' >▶네이버 채널에서 '아이뉴스24'를 구독해주세요.</a><br><br><a target='new' href='https://tv.naver.com/inewstv'>▶재밌는 아이뉴스TV 영상보기</a> <a target='new' href='http://www.inews24.com'>▶아이뉴스24 바로가기</a><br><br>[ⓒ 아이뉴스24 무단전재 및 재배포 금지]<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">보험硏 '보험산업의 AI 적용 현황과 과제' 온라인 세미나</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000753898_web_20210526113737_20210526115904296.jpg?type=w647" alt="" /><em class="img_desc">[서울=뉴시스] 보험연구원이 '코리아 핀테크 위크 2021'를 맞아 연 온라인 세미나를 개최했다. (사진='코리아 핀테크 위크 2021' 생중계 화면 캡처) 2021.05.26. photo@newsis.com *재판매 및 DB 금지</em></span><br><br>[서울=뉴시스] 신효령 기자 = 보험은 소비자 이해관계가 첨예한 분야로, AI(인공지능) 윤리문제 발생시 더 큰 영향을 받을 수 있다는 진단이 나왔다. 보험산업 AI 윤리기준이 엄격한 데이터 관리에서 시작되고, 인간 보편적인 윤리기준에 부합하도록 제정돼야 한다는 분석이다.<br><br>김규동 보험연구원 연구위원은 26일 보험연구원이 '코리아 핀테크 위크 2021'를 맞아 연 온라인 세미나에서 "보험산업은 다양한 AI 윤리문제에 직면할 수 있으며, 이를 체계적으로 관리할 필요가 있다"며 이같이 밝혔다. <br><br>보험연구원이 개최한 세미나의 주제는 '보험산업의 AI 적용 현황과 과제'다. 김 연구위원은 '보험산업의 AI 윤리문제와 윤리기준 제정 방안'이라는 주제로 보험산업에서 AI 적용시 발생할 수 있는 윤리문제를 설명하고, 윤리기준 제정을 위한 방안을 제시했다. <br><br>그는 "보험산업에서 AI와 데이터 고급분석에 대한 투자가 가장 활발히 진행 중"이라며 "국내 보험회사 CEO들은 가장 시급하게 추진해야 할 경영과제로 빅데이터 및 AI 관련 기술활용 제고를 꼽고 있다"고 설명했다. 그러면서 "AI 윤리문제는 공정성·투명성·개인정보 보호·사생활 보호 등에서 발생할 수 있다"며 "편향된 데이터를 사용하거나 최적화 대상이 잘못될 경우 발생할 수 있다"고 부연했다.<br><br>김 연구위원은 "대표적인 AI 관리체계로 AI 윤리기준을 들 수 있다"며 "미국과 EU(유럽연합) 등 주요국과 OECD(경제협력개발기구)는 AI 윤리기준을 제정했고, 해외 보험감독기구인 유럽보험연금감독청(EIOPA)과 미국 보험감독관협의회(NAIC)는 윤리기준을 준비 중이거나 발표했다. AI 윤리기준 제정은 체계적인 거버넌스 수립, 엄격한 데이터 관리와 보험가치사슬 각 단계에서 구체적이고 명확한 AI의 목적 수립이 전제돼야 한다"고 말했다.<br><br>'AI와 보험 비즈니스 전망'이라는 주제로 발표를 맡은 이준섭 한화생명 상무는 "보험산업은 AI를 통해 고객경험과 서비스 중심으로 사업 모델이 변화할 것"이라며 "보험회사는 금융서비스 플랫폼 기능을 강화할 필요가 있다"고 강조했다. 이어 "보험상품을 제공하는 보험회사와 금융서비스를 제공하는 플랫폼으로 시장이 양분될 것이며, 전통적인 보험회사는 향후 사업모델에 대한 판단이 필요하다"며 "AI 활용은 데이터 확보가 필수적이며, 이는 많은 고객 확보와 고객만족을 통해 가능하다"고 설명했다.<br><br>홍성호 보험개발원 팀장은 '해외 보험산업 AI 적용 현황 및 주요 이슈'라는 주제로 보험산업의 AI 적용 사례를 소개하고 AI 적용·개발 측면에서 다양한 이슈들을 논의했다. 홍 팀장은 "규제 산업으로서 감독기준을 충족해야 하는 등 AI의 보험산업 적용과 관련되는 특성을 이해할 필요가 있다"며 "AI 적용의 신뢰도가 아직 높지 않은 단계다. AI 개발 측면에서 고품질의 데이터 확보, IT 인프라·자원 활용 계획 수립, 프라이버시·적법성 등을 충족해야 한다"고 했다.<br><br>주제발표 이후 이어진 토론에서는 보험산업의 AI 이슈와 관련해 다양한 이야기가 나왔다. 김민기 카이스트 테크노경영대학원 교수는 보험계약·유지, 보험금 청구·심사, 고객 서비스 단계에서 소비자 개인정보·설명 가능성·AI와 인간의 관계에서 마찰 가능성 등과 같은 이슈들에 대해 추가적인 연구 필요성을 제기했다. <br><br>김 교수는 "본인의 개인정보 전달방식에 따라 개인정보 활용에 대한 수용 정도가 달라지는데(맥락적 진실성), 이러한 측면에서 개인정보 사용에 대한 소비자 민감성을 완화할 수 있는 방법이 연구되고 있다"며 "소비자들은 본인의 정보를 제공하기를 싫어하면서, 맞춤형 서비스를 원하는 프라이버시 역설(paradox of privacy) 행태를 보이기도 한다"고 했다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000753895_web_20210526113651_20210526115904314.jpg?type=w647" alt="" /><em class="img_desc">[서울=뉴시스] 보험연구원이 '코리아 핀테크 위크 2021'를 맞아 연 온라인 세미나를 개최했다. (사진='코리아 핀테크 위크 2021' 생중계 화면 캡처) 2021.05.26. photo@newsis.com *재판매 및 DB 금지</em></span><br><br>강용성 와이즈넛 대표는 "AI 적용은 보험업의 정의부터 조직 구성, 보험회사의 모습까지 보험산업의 전반적인 모습을 크게 변화시킬 것"이라며 "데이터 사용의 중립성 확보와 소비자 정보의 가명·익명화 방안의 방향 설정이 중요하며, 정부 정책 및 규제 수립이 중요하다"고 말했다. <br><br>정규완 현대해상 상무는 AI는 보험산업이 사회안전망으로서 본연의 역할을 수행하는데 도움이 되고, 보험사기 적발을 위해서는 적절한 데이터 활용이 중요하다고 설명했다. 정 상무는 "보험 본연의 역할이란 위험이 있는 곳에 보험 상품을 제공할 수 있어야 한다는 것이며, AI가 큰 역할을 할 수 있을 것"이라며 "AI는 다량의 데이터 분석을 통해 보험사기를 적발할 수 있는데, 업계의 공조가 중요하다"고 강조했다.<br><br>안수현 한국외대 법학전문대학원 교수는 "보험회사는 방대한 개인정보를 취급할 때 주의가 필요할 것이고, AI 기술 적용에 따른 고객 차별 이슈가 발생할 것"이라며 "판매채널과 관련해 대면채널에 큰 변화가 있을 것이다. 보험회사는 시간과 비용 절약을 위해 중개채널을 사용하지 않을 가능성이 크다"고 했다. <br><br>이동엽 금융위원회 보험과장은 AI와 관련한 정부 정책방향 및 AI 활성화 종합방안에 대해 설명했다. 이 과장은 "정부는 2020년부터 한국판 뉴딜 중 하나인 디지털 뉴딜의 일환으로 AI 활성화를 적극 추진하면서 AI 확산을 하나의 목표로 정하고 있다"며 "금융위도 작년 7월경 금융 분야 인공지능 워킹그룹을 구성해서 운영 중"이라고 말했다. <br><br>한편 금융위가 주최하는 코리아 핀테크위크는 지난 2019년 처음 열렸다. 올해는 '핀테크와 지속가능한 금융혁신'을 주제로 26일부터 3일간 온·오프라인 동시 진행된다.<br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> snow@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">보험硏 '보험산업의 AI 적용 현황과 과제' 온라인 세미나</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000753898_web_20210526113737_20210526115904296.jpg?type=w647" alt="" /><em class="img_desc">[서울=뉴시스] 보험연구원이 '코리아 핀테크 위크 2021'를 맞아 연 온라인 세미나를 개최했다. (사진='코리아 핀테크 위크 2021' 생중계 화면 캡처) 2021.05.26. photo@newsis.com *재판매 및 DB 금지</em></span><br><br>[서울=뉴시스] 신효령 기자 = 보험은 소비자 이해관계가 첨예한 분야로, AI(인공지능) 윤리문제 발생시 더 큰 영향을 받을 수 있다는 진단이 나왔다. 보험산업 AI 윤리기준이 엄격한 데이터 관리에서 시작되고, 인간 보편적인 윤리기준에 부합하도록 제정돼야 한다는 분석이다.<br><br>김규동 보험연구원 연구위원은 26일 보험연구원이 '코리아 핀테크 위크 2021'를 맞아 연 온라인 세미나에서 "보험산업은 다양한 AI 윤리문제에 직면할 수 있으며, 이를 체계적으로 관리할 필요가 있다"며 이같이 밝혔다. <br><br>보험연구원이 개최한 세미나의 주제는 '보험산업의 AI 적용 현황과 과제'다. 김 연구위원은 '보험산업의 AI 윤리문제와 윤리기준 제정 방안'이라는 주제로 보험산업에서 AI 적용시 발생할 수 있는 윤리문제를 설명하고, 윤리기준 제정을 위한 방안을 제시했다. <br><br>그는 "보험산업에서 AI와 데이터 고급분석에 대한 투자가 가장 활발히 진행 중"이라며 "국내 보험회사 CEO들은 가장 시급하게 추진해야 할 경영과제로 빅데이터 및 AI 관련 기술활용 제고를 꼽고 있다"고 설명했다. 그러면서 "AI 윤리문제는 공정성·투명성·개인정보 보호·사생활 보호 등에서 발생할 수 있다"며 "편향된 데이터를 사용하거나 최적화 대상이 잘못될 경우 발생할 수 있다"고 부연했다.<br><br>김 연구위원은 "대표적인 AI 관리체계로 AI 윤리기준을 들 수 있다"며 "미국과 EU(유럽연합) 등 주요국과 OECD(경제협력개발기구)는 AI 윤리기준을 제정했고, 해외 보험감독기구인 유럽보험연금감독청(EIOPA)과 미국 보험감독관협의회(NAIC)는 윤리기준을 준비 중이거나 발표했다. AI 윤리기준 제정은 체계적인 거버넌스 수립, 엄격한 데이터 관리와 보험가치사슬 각 단계에서 구체적이고 명확한 AI의 목적 수립이 전제돼야 한다"고 말했다.<br><br>'AI와 보험 비즈니스 전망'이라는 주제로 발표를 맡은 이준섭 한화생명 상무는 "보험산업은 AI를 통해 고객경험과 서비스 중심으로 사업 모델이 변화할 것"이라며 "보험회사는 금융서비스 플랫폼 기능을 강화할 필요가 있다"고 강조했다. 이어 "보험상품을 제공하는 보험회사와 금융서비스를 제공하는 플랫폼으로 시장이 양분될 것이며, 전통적인 보험회사는 향후 사업모델에 대한 판단이 필요하다"며 "AI 활용은 데이터 확보가 필수적이며, 이는 많은 고객 확보와 고객만족을 통해 가능하다"고 설명했다.<br><br>홍성호 보험개발원 팀장은 '해외 보험산업 AI 적용 현황 및 주요 이슈'라는 주제로 보험산업의 AI 적용 사례를 소개하고 AI 적용·개발 측면에서 다양한 이슈들을 논의했다. 홍 팀장은 "규제 산업으로서 감독기준을 충족해야 하는 등 AI의 보험산업 적용과 관련되는 특성을 이해할 필요가 있다"며 "AI 적용의 신뢰도가 아직 높지 않은 단계다. AI 개발 측면에서 고품질의 데이터 확보, IT 인프라·자원 활용 계획 수립, 프라이버시·적법성 등을 충족해야 한다"고 했다.<br><br>주제발표 이후 이어진 토론에서는 보험산업의 AI 이슈와 관련해 다양한 이야기가 나왔다. 김민기 카이스트 테크노경영대학원 교수는 보험계약·유지, 보험금 청구·심사, 고객 서비스 단계에서 소비자 개인정보·설명 가능성·AI와 인간의 관계에서 마찰 가능성 등과 같은 이슈들에 대해 추가적인 연구 필요성을 제기했다. <br><br>김 교수는 "본인의 개인정보 전달방식에 따라 개인정보 활용에 대한 수용 정도가 달라지는데(맥락적 진실성), 이러한 측면에서 개인정보 사용에 대한 소비자 민감성을 완화할 수 있는 방법이 연구되고 있다"며 "소비자들은 본인의 정보를 제공하기를 싫어하면서, 맞춤형 서비스를 원하는 프라이버시 역설(paradox of privacy) 행태를 보이기도 한다"고 했다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000753895_web_20210526113651_20210526115904314.jpg?type=w647" alt="" /><em class="img_desc">[서울=뉴시스] 보험연구원이 '코리아 핀테크 위크 2021'를 맞아 연 온라인 세미나를 개최했다. (사진='코리아 핀테크 위크 2021' 생중계 화면 캡처) 2021.05.26. photo@newsis.com *재판매 및 DB 금지</em></span><br><br>강용성 와이즈넛 대표는 "AI 적용은 보험업의 정의부터 조직 구성, 보험회사의 모습까지 보험산업의 전반적인 모습을 크게 변화시킬 것"이라며 "데이터 사용의 중립성 확보와 소비자 정보의 가명·익명화 방안의 방향 설정이 중요하며, 정부 정책 및 규제 수립이 중요하다"고 말했다. <br><br>정규완 현대해상 상무는 AI는 보험산업이 사회안전망으로서 본연의 역할을 수행하는데 도움이 되고, 보험사기 적발을 위해서는 적절한 데이터 활용이 중요하다고 설명했다. 정 상무는 "보험 본연의 역할이란 위험이 있는 곳에 보험 상품을 제공할 수 있어야 한다는 것이며, AI가 큰 역할을 할 수 있을 것"이라며 "AI는 다량의 데이터 분석을 통해 보험사기를 적발할 수 있는데, 업계의 공조가 중요하다"고 강조했다.<br><br>안수현 한국외대 법학전문대학원 교수는 "보험회사는 방대한 개인정보를 취급할 때 주의가 필요할 것이고, AI 기술 적용에 따른 고객 차별 이슈가 발생할 것"이라며 "판매채널과 관련해 대면채널에 큰 변화가 있을 것이다. 보험회사는 시간과 비용 절약을 위해 중개채널을 사용하지 않을 가능성이 크다"고 했다. <br><br>이동엽 금융위원회 보험과장은 AI와 관련한 정부 정책방향 및 AI 활성화 종합방안에 대해 설명했다. 이 과장은 "정부는 2020년부터 한국판 뉴딜 중 하나인 디지털 뉴딜의 일환으로 AI 활성화를 적극 추진하면서 AI 확산을 하나의 목표로 정하고 있다"며 "금융위도 작년 7월경 금융 분야 인공지능 워킹그룹을 구성해서 운영 중"이라고 말했다. <br><br>한편 금융위가 주최하는 코리아 핀테크위크는 지난 2019년 처음 열렸다. 올해는 '핀테크와 지속가능한 금융혁신'을 주제로 26일부터 3일간 온·오프라인 동시 진행된다.<br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> snow@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">보험硏 '보험산업의 AI 적용 현황과 과제' 온라인 세미나</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000753898_web_20210526113737_20210526115904296.jpg?type=w647" alt="" /><em class="img_desc">[서울=뉴시스] 보험연구원이 '코리아 핀테크 위크 2021'를 맞아 연 온라인 세미나를 개최했다. (사진='코리아 핀테크 위크 2021' 생중계 화면 캡처) 2021.05.26. photo@newsis.com *재판매 및 DB 금지</em></span><br><br>[서울=뉴시스] 신효령 기자 = 보험은 소비자 이해관계가 첨예한 분야로, AI(인공지능) 윤리문제 발생시 더 큰 영향을 받을 수 있다는 진단이 나왔다. 보험산업 AI 윤리기준이 엄격한 데이터 관리에서 시작되고, 인간 보편적인 윤리기준에 부합하도록 제정돼야 한다는 분석이다.<br><br>김규동 보험연구원 연구위원은 26일 보험연구원이 '코리아 핀테크 위크 2021'를 맞아 연 온라인 세미나에서 "보험산업은 다양한 AI 윤리문제에 직면할 수 있으며, 이를 체계적으로 관리할 필요가 있다"며 이같이 밝혔다. <br><br>보험연구원이 개최한 세미나의 주제는 '보험산업의 AI 적용 현황과 과제'다. 김 연구위원은 '보험산업의 AI 윤리문제와 윤리기준 제정 방안'이라는 주제로 보험산업에서 AI 적용시 발생할 수 있는 윤리문제를 설명하고, 윤리기준 제정을 위한 방안을 제시했다. <br><br>그는 "보험산업에서 AI와 데이터 고급분석에 대한 투자가 가장 활발히 진행 중"이라며 "국내 보험회사 CEO들은 가장 시급하게 추진해야 할 경영과제로 빅데이터 및 AI 관련 기술활용 제고를 꼽고 있다"고 설명했다. 그러면서 "AI 윤리문제는 공정성·투명성·개인정보 보호·사생활 보호 등에서 발생할 수 있다"며 "편향된 데이터를 사용하거나 최적화 대상이 잘못될 경우 발생할 수 있다"고 부연했다.<br><br>김 연구위원은 "대표적인 AI 관리체계로 AI 윤리기준을 들 수 있다"며 "미국과 EU(유럽연합) 등 주요국과 OECD(경제협력개발기구)는 AI 윤리기준을 제정했고, 해외 보험감독기구인 유럽보험연금감독청(EIOPA)과 미국 보험감독관협의회(NAIC)는 윤리기준을 준비 중이거나 발표했다. AI 윤리기준 제정은 체계적인 거버넌스 수립, 엄격한 데이터 관리와 보험가치사슬 각 단계에서 구체적이고 명확한 AI의 목적 수립이 전제돼야 한다"고 말했다.<br><br>'AI와 보험 비즈니스 전망'이라는 주제로 발표를 맡은 이준섭 한화생명 상무는 "보험산업은 AI를 통해 고객경험과 서비스 중심으로 사업 모델이 변화할 것"이라며 "보험회사는 금융서비스 플랫폼 기능을 강화할 필요가 있다"고 강조했다. 이어 "보험상품을 제공하는 보험회사와 금융서비스를 제공하는 플랫폼으로 시장이 양분될 것이며, 전통적인 보험회사는 향후 사업모델에 대한 판단이 필요하다"며 "AI 활용은 데이터 확보가 필수적이며, 이는 많은 고객 확보와 고객만족을 통해 가능하다"고 설명했다.<br><br>홍성호 보험개발원 팀장은 '해외 보험산업 AI 적용 현황 및 주요 이슈'라는 주제로 보험산업의 AI 적용 사례를 소개하고 AI 적용·개발 측면에서 다양한 이슈들을 논의했다. 홍 팀장은 "규제 산업으로서 감독기준을 충족해야 하는 등 AI의 보험산업 적용과 관련되는 특성을 이해할 필요가 있다"며 "AI 적용의 신뢰도가 아직 높지 않은 단계다. AI 개발 측면에서 고품질의 데이터 확보, IT 인프라·자원 활용 계획 수립, 프라이버시·적법성 등을 충족해야 한다"고 했다.<br><br>주제발표 이후 이어진 토론에서는 보험산업의 AI 이슈와 관련해 다양한 이야기가 나왔다. 김민기 카이스트 테크노경영대학원 교수는 보험계약·유지, 보험금 청구·심사, 고객 서비스 단계에서 소비자 개인정보·설명 가능성·AI와 인간의 관계에서 마찰 가능성 등과 같은 이슈들에 대해 추가적인 연구 필요성을 제기했다. <br><br>김 교수는 "본인의 개인정보 전달방식에 따라 개인정보 활용에 대한 수용 정도가 달라지는데(맥락적 진실성), 이러한 측면에서 개인정보 사용에 대한 소비자 민감성을 완화할 수 있는 방법이 연구되고 있다"며 "소비자들은 본인의 정보를 제공하기를 싫어하면서, 맞춤형 서비스를 원하는 프라이버시 역설(paradox of privacy) 행태를 보이기도 한다"고 했다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000753895_web_20210526113651_20210526115904314.jpg?type=w647" alt="" /><em class="img_desc">[서울=뉴시스] 보험연구원이 '코리아 핀테크 위크 2021'를 맞아 연 온라인 세미나를 개최했다. (사진='코리아 핀테크 위크 2021' 생중계 화면 캡처) 2021.05.26. photo@newsis.com *재판매 및 DB 금지</em></span><br><br>강용성 와이즈넛 대표는 "AI 적용은 보험업의 정의부터 조직 구성, 보험회사의 모습까지 보험산업의 전반적인 모습을 크게 변화시킬 것"이라며 "데이터 사용의 중립성 확보와 소비자 정보의 가명·익명화 방안의 방향 설정이 중요하며, 정부 정책 및 규제 수립이 중요하다"고 말했다. <br><br>정규완 현대해상 상무는 AI는 보험산업이 사회안전망으로서 본연의 역할을 수행하는데 도움이 되고, 보험사기 적발을 위해서는 적절한 데이터 활용이 중요하다고 설명했다. 정 상무는 "보험 본연의 역할이란 위험이 있는 곳에 보험 상품을 제공할 수 있어야 한다는 것이며, AI가 큰 역할을 할 수 있을 것"이라며 "AI는 다량의 데이터 분석을 통해 보험사기를 적발할 수 있는데, 업계의 공조가 중요하다"고 강조했다.<br><br>안수현 한국외대 법학전문대학원 교수는 "보험회사는 방대한 개인정보를 취급할 때 주의가 필요할 것이고, AI 기술 적용에 따른 고객 차별 이슈가 발생할 것"이라며 "판매채널과 관련해 대면채널에 큰 변화가 있을 것이다. 보험회사는 시간과 비용 절약을 위해 중개채널을 사용하지 않을 가능성이 크다"고 했다. <br><br>이동엽 금융위원회 보험과장은 AI와 관련한 정부 정책방향 및 AI 활성화 종합방안에 대해 설명했다. 이 과장은 "정부는 2020년부터 한국판 뉴딜 중 하나인 디지털 뉴딜의 일환으로 AI 활성화를 적극 추진하면서 AI 확산을 하나의 목표로 정하고 있다"며 "금융위도 작년 7월경 금융 분야 인공지능 워킹그룹을 구성해서 운영 중"이라고 말했다. <br><br>한편 금융위가 주최하는 코리아 핀테크위크는 지난 2019년 처음 열렸다. 올해는 '핀테크와 지속가능한 금융혁신'을 주제로 26일부터 3일간 온·오프라인 동시 진행된다.<br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> snow@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052607090001300_P4_20210526105726001.jpg?type=w647" alt="" /></span><br><br>    (서울=연합뉴스) 윤동진 기자 = 은성수 금융위원장이 26일 서울 여의도 콘래드호텔에서 열린 '코리아 핀테크 위크 2021'에서 환영사를 하고 있다. 2021.5.26<br><br>    mon@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크] 일 총리 방미때 백신 1억회분 확보? </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052607090001300_P4_20210526105726001.jpg?type=w647" alt="" /></span><br><br>    (서울=연합뉴스) 윤동진 기자 = 은성수 금융위원장이 26일 서울 여의도 콘래드호텔에서 열린 '코리아 핀테크 위크 2021'에서 환영사를 하고 있다. 2021.5.26<br><br>    mon@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크] 일 총리 방미때 백신 1억회분 확보? </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005372931_001_20210526102104607.jpg?type=w647" alt="" /></span><br>(서울=뉴스1) 안은나 기자 = 은성수 금융위원장이 26일 서울 여의도 콘래드서울 호텔에서 열린 '코리아 핀테크 위크 2021' 행사에 앞서 핀테크 전시부스를 찾아 카카오페이 결제 시연을 하고 있다. 2021.5.26/뉴스1<br><br>photo@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005372931_001_20210526102104607.jpg?type=w647" alt="" /></span><br>(서울=뉴스1) 안은나 기자 = 은성수 금융위원장이 26일 서울 여의도 콘래드서울 호텔에서 열린 '코리아 핀테크 위크 2021' 행사에 앞서 핀테크 전시부스를 찾아 카카오페이 결제 시연을 하고 있다. 2021.5.26/뉴스1<br><br>photo@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005372880_001_20210526101008045.jpg?type=w647" alt="" /><em class="img_desc">18일 서울 강남구 암호화폐 거래소 빗썸 고객센터 앞을 시민들이 지나가고 있다. 2021.5.18/뉴스1 &#169; News1 안은나 기자</em></span><br>(서울=뉴스1) 송화연 기자 = 국내 암호화폐 거래소 빗썸은 한국능률협회컨설팅(KMAC)이 실시한 '2021 한국 산업의 서비스 품질지수(KSQI) 콜센터부문' 조사에서 우수 콜센터에 선정됐다고 26일 밝혔다. 빗썸은 암호화폐 거래소가 평가대상으로 포함된 지난 2019년 이후 3년 연속 우수콜센터로 인정받았다.<br><br>올해로 18년째를 맞은 KSQI는 기업의 비대면 서비스품질에 대한 고객들의 체감 정도를 나타내는 지수로, 한국능률협회컨설팅은 2019년부터 국내 주요 암호화폐 거래소를 포함해 매년 조사결과를 발표하고 있다.<br><br>빗썸 콜센터는 &#916;수신여건 &#916;고객맞이 &#916;상담태도 &#916;업무처리 &#916;종료태도 등 5개 항목 모두 높은 평가를 받았다. 특히 맞이인사와 상담태도 항목은 거래소 평균보다 높은 평가를 받으며, 지난해보다 점수가 대폭 향상됐다.<br><br>빗썸은 업계 최초로 365일 24시간 상담시스템을 갖추는 등 고객 서비스에 만전을 기하고 있다. 온라인&middot;1대1 상담은 물론, 외국어 상담도 지원해 고객들의 편의를 강화했다. 또 모바일을 통한 비대면 본인인증 시스템을 도입해 고객들의 편의를 강화했다.<br><br>빗썸 관계자는 "빗썸이 지난 3년간 꾸준히 고객 서비스 품질에서 높은 평가를 받게 된 것은 큰 성과"라며 "앞으로 더욱 차별화된 상담 서비스로 고객 눈높이에 맞춘 최상의 서비스를 제공하기 위해 최선을 다하겠다"고 말했다.<br><br>빗썸은 지난해 한국표준협회(KSA)가 실시한 'KS-CQI 콜센터 품질지수' 조사에서도 1위에 오른 바 있다.<br><br>hwayeon@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/629/2021/05/26/202167271621990145_20210526095206618.jpg?type=w647" alt="" /><em class="img_desc">우리금융그룹이 전 그룹사 임직원을 대상으로 코로나19 백신 접종에 따른 유급휴가를 시행한다. /더팩트 DB</em></span><br><br><strong>지주사 및 우리은행 등 전 그룹사 대상 백신 접종 휴가 보장</strong><br><br>[더팩트ㅣ정소양 기자] 우리금융그룹은 지주사 및 우리은행 등 전 그룹사 임직원을 대상으로 신종 코로나바이러스 감염증(코로나19) 백신 접종에 따른 유급휴가를 시행한다고 26일 밝혔다.<br><br>이에 따라 임직원들은 각 회차별 백신 접종시 접종 당일은 물론, 이상 반응이 있을 경우 의사 소견서 등 별도의 서류제출 없이 유급휴가를 사용할 수 있다.<br><br>우리금융그룹 관계자는 "임직원의 건강과 생명을 지키고 백신 접종률 제고 정책에 적극 동참하기 위해 코로나19 백신 접종 휴가를 실시하기로 했다"며 "임직원들에게 충분한 휴식을 보장하는 등 안심하고 예방접종을 받을 수 있도록 적극 권장해 나갈 것"이라고 전했다.<br><br>한편, 우리금융그룹은 코로나19 감염에 취약한 아동 및 노인 복지시설에 감염예방 키트를 전달하는 등 코로나19 종식을 위한 다양한 사회공헌사업도 지속적으로 실시하고 있다.<br><br>jsy@tf.co.kr<br><br><br><br><a href="http://fannstar.tf.co.kr/event/view/fanbership20092109" target="_blank"> - BTS 공연 비하인드 사진 얻는 방법? [팬버십 가입하기▶]  </a><br><a href="http://fannstar.tf.co.kr/" target="_blank"> - 내 아이돌 순위는 내가 정한다! [팬앤스타 투표하기] </a><br><br>저작권자 ⓒ 특종에 강한 더팩트 & tf.co.kr 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/629/2021/05/26/202167271621990145_20210526095206618.jpg?type=w647" alt="" /><em class="img_desc">우리금융그룹이 전 그룹사 임직원을 대상으로 코로나19 백신 접종에 따른 유급휴가를 시행한다. /더팩트 DB</em></span><br><br><strong>지주사 및 우리은행 등 전 그룹사 대상 백신 접종 휴가 보장</strong><br><br>[더팩트ㅣ정소양 기자] 우리금융그룹은 지주사 및 우리은행 등 전 그룹사 임직원을 대상으로 신종 코로나바이러스 감염증(코로나19) 백신 접종에 따른 유급휴가를 시행한다고 26일 밝혔다.<br><br>이에 따라 임직원들은 각 회차별 백신 접종시 접종 당일은 물론, 이상 반응이 있을 경우 의사 소견서 등 별도의 서류제출 없이 유급휴가를 사용할 수 있다.<br><br>우리금융그룹 관계자는 "임직원의 건강과 생명을 지키고 백신 접종률 제고 정책에 적극 동참하기 위해 코로나19 백신 접종 휴가를 실시하기로 했다"며 "임직원들에게 충분한 휴식을 보장하는 등 안심하고 예방접종을 받을 수 있도록 적극 권장해 나갈 것"이라고 전했다.<br><br>한편, 우리금융그룹은 코로나19 감염에 취약한 아동 및 노인 복지시설에 감염예방 키트를 전달하는 등 코로나19 종식을 위한 다양한 사회공헌사업도 지속적으로 실시하고 있다.<br><br>jsy@tf.co.kr<br><br><br><br><a href="http://fannstar.tf.co.kr/event/view/fanbership20092109" target="_blank"> - BTS 공연 비하인드 사진 얻는 방법? [팬버십 가입하기▶]  </a><br><a href="http://fannstar.tf.co.kr/" target="_blank"> - 내 아이돌 순위는 내가 정한다! [팬앤스타 투표하기] </a><br><br>저작권자 ⓒ 특종에 강한 더팩트 & tf.co.kr 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/629/2021/05/26/202167271621990145_20210526095206618.jpg?type=w647" alt="" /><em class="img_desc">우리금융그룹이 전 그룹사 임직원을 대상으로 코로나19 백신 접종에 따른 유급휴가를 시행한다. /더팩트 DB</em></span><br><br><strong>지주사 및 우리은행 등 전 그룹사 대상 백신 접종 휴가 보장</strong><br><br>[더팩트ㅣ정소양 기자] 우리금융그룹은 지주사 및 우리은행 등 전 그룹사 임직원을 대상으로 신종 코로나바이러스 감염증(코로나19) 백신 접종에 따른 유급휴가를 시행한다고 26일 밝혔다.<br><br>이에 따라 임직원들은 각 회차별 백신 접종시 접종 당일은 물론, 이상 반응이 있을 경우 의사 소견서 등 별도의 서류제출 없이 유급휴가를 사용할 수 있다.<br><br>우리금융그룹 관계자는 "임직원의 건강과 생명을 지키고 백신 접종률 제고 정책에 적극 동참하기 위해 코로나19 백신 접종 휴가를 실시하기로 했다"며 "임직원들에게 충분한 휴식을 보장하는 등 안심하고 예방접종을 받을 수 있도록 적극 권장해 나갈 것"이라고 전했다.<br><br>한편, 우리금융그룹은 코로나19 감염에 취약한 아동 및 노인 복지시설에 감염예방 키트를 전달하는 등 코로나19 종식을 위한 다양한 사회공헌사업도 지속적으로 실시하고 있다.<br><br>jsy@tf.co.kr<br><br><br><br><a href="http://fannstar.tf.co.kr/event/view/fanbership20092109" target="_blank"> - BTS 공연 비하인드 사진 얻는 방법? [팬버십 가입하기▶]  </a><br><a href="http://fannstar.tf.co.kr/" target="_blank"> - 내 아이돌 순위는 내가 정한다! [팬앤스타 투표하기] </a><br><br>저작권자 ⓒ 특종에 강한 더팩트 & tf.co.kr 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div><table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697482_001_20210526093506270.jpg?type=w647" alt="" /><em class="img_desc">우리금융 본점 전경./사진=우리금융</em></span></td></tr></table></div>우리금융그룹은 지주사와 우리은행 등 전 그룹사 임직원을 대상으로 신종 코로나바이러스 감염증(코로나19) 백신 접종에 따른 유급휴가를 시행한다고 26일 밝혔다.<br><br>이에 따라 임직원은 각 회차별 백신 접종 시 접종 당일과 함께 이상 반응이 있을 경우 의사 소견서 등 별도의 서류제출 없이 유급휴가를 사용할 수 있다.<br><br>우리금융그룹 관계자는 "임직원의 건강과 생명을 지키고 백신 접종률 제고 정책에 적극 동참하기 위해 코로나19 백신 접종 휴가를 실시하기로 했다"며 "임직원에게 충분한 휴식을 보장하는 등 안심하고 예방접종을 받을 수 있도록 적극 권장해 나갈 것"이라고 말했다.<br><br>박슬기 기자 seul6@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div><table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697482_001_20210526093506270.jpg?type=w647" alt="" /><em class="img_desc">우리금융 본점 전경./사진=우리금융</em></span></td></tr></table></div>우리금융그룹은 지주사와 우리은행 등 전 그룹사 임직원을 대상으로 신종 코로나바이러스 감염증(코로나19) 백신 접종에 따른 유급휴가를 시행한다고 26일 밝혔다.<br><br>이에 따라 임직원은 각 회차별 백신 접종 시 접종 당일과 함께 이상 반응이 있을 경우 의사 소견서 등 별도의 서류제출 없이 유급휴가를 사용할 수 있다.<br><br>우리금융그룹 관계자는 "임직원의 건강과 생명을 지키고 백신 접종률 제고 정책에 적극 동참하기 위해 코로나19 백신 접종 휴가를 실시하기로 했다"며 "임직원에게 충분한 휴식을 보장하는 등 안심하고 예방접종을 받을 수 있도록 적극 권장해 나갈 것"이라고 말했다.<br><br>박슬기 기자 seul6@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div><table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697482_001_20210526093506270.jpg?type=w647" alt="" /><em class="img_desc">우리금융 본점 전경./사진=우리금융</em></span></td></tr></table></div>우리금융그룹은 지주사와 우리은행 등 전 그룹사 임직원을 대상으로 신종 코로나바이러스 감염증(코로나19) 백신 접종에 따른 유급휴가를 시행한다고 26일 밝혔다.<br><br>이에 따라 임직원은 각 회차별 백신 접종 시 접종 당일과 함께 이상 반응이 있을 경우 의사 소견서 등 별도의 서류제출 없이 유급휴가를 사용할 수 있다.<br><br>우리금융그룹 관계자는 "임직원의 건강과 생명을 지키고 백신 접종률 제고 정책에 적극 동참하기 위해 코로나19 백신 접종 휴가를 실시하기로 했다"며 "임직원에게 충분한 휴식을 보장하는 등 안심하고 예방접종을 받을 수 있도록 적극 권장해 나갈 것"이라고 말했다.<br><br>박슬기 기자 seul6@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div><table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697482_001_20210526093506270.jpg?type=w647" alt="" /><em class="img_desc">우리금융 본점 전경./사진=우리금융</em></span></td></tr></table></div>우리금융그룹은 지주사와 우리은행 등 전 그룹사 임직원을 대상으로 신종 코로나바이러스 감염증(코로나19) 백신 접종에 따른 유급휴가를 시행한다고 26일 밝혔다.<br><br>이에 따라 임직원은 각 회차별 백신 접종 시 접종 당일과 함께 이상 반응이 있을 경우 의사 소견서 등 별도의 서류제출 없이 유급휴가를 사용할 수 있다.<br><br>우리금융그룹 관계자는 "임직원의 건강과 생명을 지키고 백신 접종률 제고 정책에 적극 동참하기 위해 코로나19 백신 접종 휴가를 실시하기로 했다"며 "임직원에게 충분한 휴식을 보장하는 등 안심하고 예방접종을 받을 수 있도록 적극 권장해 나갈 것"이라고 말했다.<br><br>박슬기 기자 seul6@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div><table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697482_001_20210526093506270.jpg?type=w647" alt="" /><em class="img_desc">우리금융 본점 전경./사진=우리금융</em></span></td></tr></table></div>우리금융그룹은 지주사와 우리은행 등 전 그룹사 임직원을 대상으로 신종 코로나바이러스 감염증(코로나19) 백신 접종에 따른 유급휴가를 시행한다고 26일 밝혔다.<br><br>이에 따라 임직원은 각 회차별 백신 접종 시 접종 당일과 함께 이상 반응이 있을 경우 의사 소견서 등 별도의 서류제출 없이 유급휴가를 사용할 수 있다.<br><br>우리금융그룹 관계자는 "임직원의 건강과 생명을 지키고 백신 접종률 제고 정책에 적극 동참하기 위해 코로나19 백신 접종 휴가를 실시하기로 했다"며 "임직원에게 충분한 휴식을 보장하는 등 안심하고 예방접종을 받을 수 있도록 적극 권장해 나갈 것"이라고 말했다.<br><br>박슬기 기자 seul6@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/277/2021/05/26/0004908749_001_20210526071804098.jpg?type=w647" alt="" /><em class="img_desc">[이미지출처=연합뉴스]</em></span><br><br>[아시아경제 기하영 기자]신한카드가 체크카드의 해외 자동화기기(ATM) 인출 한도를 신설했다.<br><br>신한카드는 다음달부터 고객 1인당 해외ATM 인출 한도를 월간 5만달러로 제한한다고 최근 공지했다고 25일 밝혔다. 기존에는 카드 1장당 월간 1만∼2만달러 수준에서 관리했지만 최근 해외 ATM인출이 빠르게 늘면서 규정을 강화했다. 현재는 카드가 여러 장 있다면 억대 거액을 인출하는 것도 가능하다.<br><br>앞서 지난달 말 하나카드도 해외 ATM 인출 한도를 카드 1장당 월간 1만달러에서 고객 1인당 월간 1만달러로 강화했다. NH농협카드는 카드 1장당 월간 2만달러에서 1만달러로 해외 ATM 인출 한도를 축소했다.<br><br>해외 ATM을 이용한 외환 인출이 증가한 원인은 불분명하지만 국내외 가상자산 가격 격차를 노린 해외 거래가 일부 원인으로 꼽힌다. 이러한 '김치 프리미엄' 차익을 얻으려는 불법 외환거래, 속칭 환치기나 불법 외화 반출로 해외에서 가상자산을 매입하려는 움직임이 늘고 있는 것으로 알려졌다.<br><br>기하영 기자 hykii@asiae.co.kr<br><br><a href="https://www.asiae.co.kr/fortune/index.htm?utm_source=navernews&utm_medium=naver_view&utm_campaign=fortune">▶ 속 시원한 풀이! 2021년 정통사주·운세·토정비결</a><br><a href="https://www.asiae.co.kr/event/2021/jobgo/">▶ 직장인을 위한 '빅데이터 분석' 국비 특화과정 모집</a><br><a href="https://core.asiae.co.kr/?utm_source=naver_article&utm_medium=pc_mobile&utm_campaign=core">▶ 투자 성공의 핵심은 기업분석! 'CORE' 바로가기</a><br><br>&lt;ⓒ경제를 보는 눈, 세계를 보는 창 아시아경제 무단전재 배포금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

@@ -1,0 +1,599 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552380_001_20210526173404107.jpg?type=w647" alt="" /></span>신창재 교보생명 회장과 어피너티컨소시엄 사이의 ‘주식 풋옵션 분쟁’이 새로운 국면을 맞고 있다. 양측이 다투는 핵심 쟁점인 풋옵션 행사가격을 산출한 회계법인에 대해 검찰이 잇따라 공인회계사법 위반으로 기소하고 있기 때문이다.<br><br> 신 회장은 풋옵션을 행사한 어피너티의 교보생명 주식(지분율 24%)을 되사줘야 하는데, 이들 회계법인의 평가를 토대로 제시한 주가(주당 40만9000원)가 부당하다고 주장해 왔다.<br><br> 26일 법조계에 따르면 서울중앙지방검찰청은 지난 25일 교보생명 재무적투자자인 어펄마캐피털(옛 스탠다드차타드PE)의 의뢰를 받아 풋옵션 행사가격을 산출한 삼덕회계법인 소속 파트너 회계사 A씨를 공인회계사법 위반 혐의로 기소했다. <br><br> 서울중앙지검은 앞서 지난 1월 딜로이트안진회계법인 회계사 3명과 이들에게 교보생명 주가 산출을 맡긴 어피너티, IMM 등 재무적투자자 관계자 2명도 공인회계사법 위반 혐의로 재판에 넘겼다. <br><br> 이에 따라 풋옵션 행사가격 평가를 담당한 두 회계법인이 모두 위법 행위로 재판을 받는 처지가 됐다. 이처럼 담당 회계사들이 모두 기소되면서 해당 보고서의 신뢰성과 적정성도 크게 훼손됐다는 지적이다. <br><br> 검찰은 A씨가 교보생명 기업가치평가 업무를 직접 수행하지 않았음에도 불구하고, 직접 수행한 것처럼 의뢰인인 어펄마캐피털에 거짓 보고한 것으로 보고 있다. <br><br> 실제 A씨는 비슷한 시기 가치평가보고서를 작성한 딜로이트안진 측 평가방법과 평가금액 등을 그대로 인용하면서 자신이 직접 가치평가 업무를 수행한 것처럼 꾸민 정황이 포착된 것으로 알려졌다.<br><br> 검찰은 어피니티의 주요 임직원과 딜로이트안진 소속 회계사들에 대해서도 부정한 청탁을 받고 금품을 수수하거나 법률 비용에 해당하는 이익을 약속받는 등 위법 행위가 있었던 것으로 판단했다. <br><br> 한편 어펄마캐피털은 어피너티가 풋옵션을 행사한 직후인 2018년 11월 신 회장을 상대로 풋옵션을 행사하면서 삼덕회계법인에 가치평가를 의뢰했다. <br><br>이호기 기자 hglee@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/366/2021/05/26/0000722794_001_20210526135907528.jpg?type=w647" alt="" /><em class="img_desc">우리은행은 26일 서울 중구 우리은행 본점에서 대한변리사회와 ‘지적재산권(IP) 활성화를 위한 업무협약’을 맺었다. 권광석(오른쪽) 우리은행장과 홍장원(왼쪽) 대한변리사회 회장이 기념촬영을 하고 있다./우리은행제공</em></span><br>        우리은행은 은행권 최초로 대한변리사회와 지식재산권 보유 혁신성장기업 발굴 및 육성을 위한 업무협약을 체결했다고 26일 밝혔다.<br><br>이날 협약식에는 권광석 우리은행장과 홍장원 대한변리사회 회장 등 양사의 주요 관계자들이 참석한 가운데, 특허권·실용신안권·디자인권 등 우수 지식재산권을 보유한 혁신성장 기업의 신규 발굴 및 육성을 위해 협력해 나가기로 했다.<br><br>우리은행은 대한변리사회가 추천하는 지식재산권 보유기업을 대상으로 기술보증기금과 협력해, 우수한 지식재산권을 보유했음에도 불구하고 운영자금 확보에 어려움을 겪는 기업에 금융지원할 계획이다.<br><br>또 우수 지식재산권 보유기업에 대한 직접투자는 물론, 양사는 향후 해외 지식재산권 출원기업을 대상으로도 금융지원을 할 수 있도록 협력할 예정이다.<br><br>권광석 우리은행장은 ”이번 협약을 통해 우수 지식재산권 보유기업의 발굴, 육성 및 투자는 물론, 해외 지식재산권을 보유한 우량기업의 금융지원까지 양사의 융합 시너지를 창출해 경쟁력 있는 금융서비스를 제공해 나갈 것”이라고 말했다.<br><br>[이경탁 기자 kt87@chosunbiz.com]<br><br><br><br><br>		<a href="https://media.naver.com/channel/promotion.nhn?oid=366" target="_blank">▶네이버에서 '명품 경제뉴스' 조선비즈를 구독하세요</a><br><a href=https://biz.chosun.com/industry/car/2021/05/26/XBQC47FUSRDPNFOM3VJR6KKNYI/" target="_blank">▶제네시스 '억대 전기차'의 탄생, 공개된 모습은</a><br><a href="https://biz.chosun.com/it-science/ict/2021/05/26/TF3KQLR5KZH6VHCUOX4ODTAS4I/" target="_blank">▶'초거대 AI' 전쟁?… 너도나도 뛰어드는 IT업계들</a><br><br>	저작권자 ⓒ 조선비즈, 무단 전재 및 재배포 금지<br>	
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697376_001_20210526054105479.jpg?type=w647" alt="" /><em class="img_desc">코리아 핀테크 위크 리플렛/사진=코리아 핀테크 위크 </em></span></td></tr></table><div>핀테크 산업 동향을 한눈에 파악할 수 있는 '코리아 핀테크 위크 2021'의 막이 올랐다.&nbsp;</div><div><br></div><div>26일 금융위원회에 따르면 올해로 3회째를 맞은 코리아&nbsp;핀테크 위크가 오늘 개최된다. 이 행사는&nbsp;핀테크 산업 동향을 파악하고 투자·채용 기회를 접할 수 있는 박람회로 온·오프라인으로 동시 개최돼&nbsp;28일까지 진행된다.&nbsp;</div><div><br></div><div>이날 여의도 콘래드 호텔에서 열리는 오프라인 행사 개막식에는 은성수 금융위원장이 환영사를 하고 윤관석 국회 정무위원장, 주한 캐나다 대사 등 국내외 주요 인사의 축사, 기조연설이 이어진다.</div><div><br></div><div>오프라인 전시부스를 통해 핀테크 서비스를 직접 시연하는 자리도 마련됐다. 서비스를 시연하는 기업은 ▲비바리퍼블리카(토스) ▲카카오페이 ▲아톤 ▲파운트 ▲그레이드헬스체인 ▲스몰티켓 ▲학생독립만세 등 7곳이다.</div><div><br></div><div>핀테크 투자설명회(IR) 경진대회도 열린다. 핀테크 기업의 IR을 생중계해 투자자와 만날 수 있는 기회를 제공하고 우수 기업에는 핀테크혁신펀드 운용사와의 협의를 거쳐 실제 투자로 이어질 수 있도록 지원할 예정이다.</div><div><br></div><div>온라인에선 투자설명회, 채용이 진행된다. 핀테크 기업에 대한 실질적인 투자 유치로 이어질 수 있도록 투자자·금융회사와의 네트워킹을 지원하고 박람회 공식 홈페이지에 오프라인 전시장과 유사하게 구현된 ‘온라인 전시관(146개 부스)'을 선보여 핀테크 기업&#8231;금융회사의 서비스를 소개한다.</div><div></div><div><br></div><div>오는 28일에는 핀테크 기업, 금융회사, 취업전문기관 인사담당자가 채용정보, 인재상 등을 설명하고 질의응답을 하는 ‘핀테크 취업 토크’가 진행된다.&nbsp;</div><div><br></div><div>행사 공식 홈페이지 ‘채용관’에서는 핀테크 기업, 금융사, 유관기관 등 54개 기업의 채용정보 등을 설명하고, 36개 핀테크 기업은 실제 채용까지 진행할 예정이다. 채용 규모는 지난해 80명에서 올해 최대 140여명으로 늘었다.&nbsp;</div><br><br>강한빛 기자 onelight92@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

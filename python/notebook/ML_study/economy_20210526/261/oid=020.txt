@@ -1,0 +1,29 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	 <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/014/2021/05/26/0004645967_001_20210526192603127.jpg?type=w647" alt="" /></span>  <br>  <br>[파이낸셜뉴스] 파마리서치는 자동약물주입기 '리쥬메이트 인젝터'가 유럽 의료기기 품목 허가 CE-MDD를 획득했다고 26일 밝혔다.  <br>  <br>CE-MDD는 유럽연합 의료기기 지침에 따른 CE마크로 유럽시장 진출을 위해 필수적으로 취득해야 하는 인증이다. 품질, 성능, 안전성, 내구성 등 엄격한 기준을 통과한 제품에 한해 발급된다. 이번 인증을 통해 리쥬메이트 인젝터는 품질 및 안전성 부문에서 국제적 인정을 받고 유럽 시장까지 저변을 확대할 수 있는 기반을 마련했다.  <br>  <br>파마리서치 관계자는 &quot;이번 CE MDD 인증으로 리쥬메이트 인젝터가 세계 시장에 진출할 수 있는 기반이 마련됐다&quot;며 &quot;자사는 앞으로도 소비자 니즈에 부합하는 의료기기를 연구개발해 국내미용시장 발전에 기여하고 세계시장에서 영향력을 확대할 계획&quot;이라고 밝혔다.  <br>  <br>  <span id="customByline">hsk@fnnews.com 홍석근 기자</span>  <br>  <br> <strong><a target="_blank" href="https://www.fnnews.com/pineapple.html?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=pineapple"><u>▶ 날로먹고 구워먹는 금융이슈 [파인애플]</u></a><br><a target="_blank" href="https://www.fnnews.com/moasis?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=moasis"><u>▶ 모(毛)아 모아 [모아시스]</u></a><br><a target="_blank" href="https://hugs.fnnews.com/home?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=hugslink"><u>▶ 헉! 소리나는 스!토리 뉴스 [헉스]</u></a></strong> <br> <br>※ 저작권자 ⓒ 파이낸셜뉴스. 무단 전재-재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

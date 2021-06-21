@@ -1,0 +1,268 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="vod_area"><iframe _src="/main/readVod.nhn?oid=056&aid=0011051475&position=1&autoPlay=true&viewType=" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe></div><br><br>[앵커]<br><br>여러분, 안녕하십니까?<br><br>백신을 한 번만 맞아도 당장 다음 달부터 가족들과 더 여럿이 모일 수 있고, 7월부터는 야외에서 마스크를 벗어도 됩니다.<br><br>정부가 코로나19 백신 접종에 따른 혜택들을 발표했습니다.<br><br>첫 소식, 김도영 기자가 전해드립니다.<br><br> [리포트]<br><br> 현재 직계가족은  8인까지만 모임이 허용됩니다.<br><br> 하지만 다음 달부터 백신을 한 번이라도 맞은 사람은 인원에서 제외합니다.<br><br> 예를 들어 가족 중 할아버지 할머니  두 명이 접종했다면 이 두 사람에 인원제한 범위인 8명을 더해 모두 10명이 모일 수 있습니다.<br><br> [권덕철/중앙재난안전대책본부 1차장 : "고령층뿐 아니라 1차 접종자는 인원제한에서 제외되므로 가족 내 접종자가 많아질수록 모일 수 있는 인원은 늘어나게 됩니다."]<br><br> 노인복지시설에선  접종자들을 위한 프로그램도 열리고 경로당도 운영이 가능합니다.<br><br>  국립공원과 고궁 등의 공공시설 이용료 할인, 무료입장 혜택도 있습니다.<br><br> 정부 목표는  다음 달 말까지 전 국민의 25%인 1,300만 명이 1차 접종을 마치는 겁니다.<br><br> 이 목표가 달성되면 7월부터는 방역 조치가 더욱 완화됩니다.<br><br> 백신을 한 번만 맞았더라도  야외에서 마스크를 안 써도 됩니다.<br><br> [박혜경/중앙방역대책본부 방역지원단장 : "(1차 접종자는) 야외에서의 전파 가능성이 매우 낮은 것으로 보고 있고, 타인으로의 전파 가능성도 매우 낮아져 있는 상황이라고 판단하고."]<br><br> 예방접종을 완료하면 5인 이상 사적모임 금지 기준에서 제외됩니다.<br><br> 식당과 카페 등은 1차 접종자는 실외, 2차 접종자는 실내외 모두  인원 제한에 상관없이  이용할 수 있습니다.<br><br> 예배와 미사, 법회 등  대면 종교활동도  인원 기준에서 빠지게 됩니다.<br><br> 국민 70%가 1차 접종을 마치는 9월 말 이후엔  거리두기와 방역수칙이 대폭 완화될 것으로 보입니다.<br><br> [김부겸/중앙재난안전대책본부장 : "집단면역이 달성되는 시점에서는 실내에서의 마스크 착용 완화도 검토하게 될 것입니다."]<br><br> 정부는 이와 함께 접종률이 높은 지자체에 방역조치를 완화하는 권한도 확대하고 재난안전특별교부세를 지원하는 방안도 검토 중입니다.<br><br> KBS 뉴스 김도영입니다.<br><br> 영상편집:사명환/그래픽:김현갑<br><br><center><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/056/2021/05/26/0011051475_004_20210526222302707.png?type=w647" alt="" /></span></center><br><br>김도영 (peace1000@kbs.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=056" target="_blank">▶ 더 빠르고 정확한 소식을 원하시면 KBS뉴스 구독!</a><br><a href="http://news.kbs.co.kr/special/covid19/vaccine.html"_blank">▶ 코로나19 언제 어떤 백신을 누가 맞을까?</a><br><a href="https://pf.kakao.com/_REkxbE" target="_blank">▶ 뉴스 제보하기 [여기를 클릭!]</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="vod_area"><iframe _src="/main/readVod.nhn?oid=056&aid=0011051475&position=1&autoPlay=true&viewType=" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe></div><br><br>[앵커]<br><br>여러분, 안녕하십니까?<br><br>백신을 한 번만 맞아도 당장 다음 달부터 가족들과 더 여럿이 모일 수 있고, 7월부터는 야외에서 마스크를 벗어도 됩니다.<br><br>정부가 코로나19 백신 접종에 따른 혜택들을 발표했습니다.<br><br>첫 소식, 김도영 기자가 전해드립니다.<br><br> [리포트]<br><br> 현재 직계가족은  8인까지만 모임이 허용됩니다.<br><br> 하지만 다음 달부터 백신을 한 번이라도 맞은 사람은 인원에서 제외합니다.<br><br> 예를 들어 가족 중 할아버지 할머니  두 명이 접종했다면 이 두 사람에 인원제한 범위인 8명을 더해 모두 10명이 모일 수 있습니다.<br><br> [권덕철/중앙재난안전대책본부 1차장 : "고령층뿐 아니라 1차 접종자는 인원제한에서 제외되므로 가족 내 접종자가 많아질수록 모일 수 있는 인원은 늘어나게 됩니다."]<br><br> 노인복지시설에선  접종자들을 위한 프로그램도 열리고 경로당도 운영이 가능합니다.<br><br>  국립공원과 고궁 등의 공공시설 이용료 할인, 무료입장 혜택도 있습니다.<br><br> 정부 목표는  다음 달 말까지 전 국민의 25%인 1,300만 명이 1차 접종을 마치는 겁니다.<br><br> 이 목표가 달성되면 7월부터는 방역 조치가 더욱 완화됩니다.<br><br> 백신을 한 번만 맞았더라도  야외에서 마스크를 안 써도 됩니다.<br><br> [박혜경/중앙방역대책본부 방역지원단장 : "(1차 접종자는) 야외에서의 전파 가능성이 매우 낮은 것으로 보고 있고, 타인으로의 전파 가능성도 매우 낮아져 있는 상황이라고 판단하고."]<br><br> 예방접종을 완료하면 5인 이상 사적모임 금지 기준에서 제외됩니다.<br><br> 식당과 카페 등은 1차 접종자는 실외, 2차 접종자는 실내외 모두  인원 제한에 상관없이  이용할 수 있습니다.<br><br> 예배와 미사, 법회 등  대면 종교활동도  인원 기준에서 빠지게 됩니다.<br><br> 국민 70%가 1차 접종을 마치는 9월 말 이후엔  거리두기와 방역수칙이 대폭 완화될 것으로 보입니다.<br><br> [김부겸/중앙재난안전대책본부장 : "집단면역이 달성되는 시점에서는 실내에서의 마스크 착용 완화도 검토하게 될 것입니다."]<br><br> 정부는 이와 함께 접종률이 높은 지자체에 방역조치를 완화하는 권한도 확대하고 재난안전특별교부세를 지원하는 방안도 검토 중입니다.<br><br> KBS 뉴스 김도영입니다.<br><br> 영상편집:사명환/그래픽:김현갑<br><br><center><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/056/2021/05/26/0011051475_004_20210526222302707.png?type=w647" alt="" /></span></center><br><br>김도영 (peace1000@kbs.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=056" target="_blank">▶ 더 빠르고 정확한 소식을 원하시면 KBS뉴스 구독!</a><br><a href="http://news.kbs.co.kr/special/covid19/vaccine.html"_blank">▶ 코로나19 언제 어떤 백신을 누가 맞을까?</a><br><a href="https://pf.kakao.com/_REkxbE" target="_blank">▶ 뉴스 제보하기 [여기를 클릭!]</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span style="border-left:4px solid #959595; padding-left: 20px; display: inline-block"><strong>코인마켓캡 시세 비트코인 8.47% 뛴 4만257달러<br>가상화폐 대신 금·은 투자 인플레 헤지 수단 부각</strong></span><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/009/2021/05/26/0004799943_001_20210526214402810.jpg?type=w647" alt="" /><em class="img_desc">[사진 제공 = 연합뉴스]</em></span>국내서 비트코인 개당 가격이 오름세를 보이면서 4800만원대에 거래되고 있다.<br><br>26일 오후 9시 30분 국내 거래소 빗썸에서 가상화폐 대장격인 비트코인 개당 가격은 24시간 전보다 4.78% 오른 4828만4000원에 거래되고 있다. 이더리움은 8.18% 급등한 342만7000원이다.<br><br>같은 시간 업비트에서도 비트코인 개당 가격은 4800만원대로, 전일 대비 2.51% 상승한 4822만6000원에 시세가 형성돼 있다.<br><br>이더리움은 전일 대비 3.47% 오른 343만1000원, 도지코인은 0.47% 상승한 428원이다.<br><br>가상화폐는 주식시장과 달리 거래소 단위로 거래가 이뤄져 같은 종류라도 거래소별로 거래 가격이 조금씩 다르다.<br><br>글로벌 가상화폐 시황 중계사이트인 코인마켓캡에 따르면 같은 시간(한국시간 기준) 비트코인은 24시간 전보다 8.47% 뛴 4만257달러에 시세가 형성됐다. 이더리움은 16.72% 급등한 2865달러를, 도지코인은 7.06% 오른 35.71센트를 각각 기록했다.<br><br>앞서 비트코인 가격은 지난 19일 30% 가량 폭락하며 한때 3만달러에 바짝 근접했다. 이더리움은 지난 11일 개당 4300달러를 넘었다가 내림세가 이어져 현재 2800달러대를 오르내리고 있다.<br><br>가상화폐 시장에는 최근 악재가 이어졌다. 미국 정부는 지난 20일(현지시간) 1만달러 이상 가상화폐 거래에 대해 국세청(IRS)에 신고 의무를 부과하는 등 가상화폐 규제에 나선다고 밝혔다. 바로 전날에는 중국이 가상자산 발행과 거래금지를 넘어 채굴까지 금지하기로 했다. 일론 머스크가 트위터를 통해 돌발 메시지를 던지는 것도 가상화폐 시장에 불확실성을 높이고 있다.<br><br><hr style="border:0.5px solid#333333; display: block !important;"><B>비트코인 가격 아직 바닥 근접하지 않았다 주장도<hr style="border:0.5px solid#333333; display: block !important;"></b><br><br>최근 가상자산 시장에서 비트코인 등 가상화폐 가격이 급락하며 변동성이 커지는 가운데 일각에서는 아직 바닥에 근접하지 않았다는 전망과 함께 투자자들이 이제는 금과 은 등 원자재 시장에 주목할 것이라는 주장도 나온다.   <br><br>구겐하임파트너스의 스캇 미너드(Scott Minerd) 최고투자책임자(CIO)는 지난 25일(현지시간) CNBC에 출연해 "돈은 가상화폐를 떠나고 사람들은 여전히 인플레이션 헤지 수단을 찾고 있기 때문에 금과 은이 더 좋은 장소가 될 것"이라고 말했다. 지난달 비트코인 붕괴를 경고했던 미너드 CIO는 비트코인의 추가 하락을 예상했다. 그는 비트코인 가격이 5만5000달러 근처였던 지난달 21일 "매우 거품이 많아 보인다"며 "단기적으로 50% 급락해 2만~3만달러 사이가 될 수 있다"고 전망한 바 있다. 그는 이날 역시 가상화폐 시장이 안정되려면 시간이 걸릴 것이라고 예상했다.<br><br>미너드 CIO는 "경쟁 통화가 확산되면서 비트코인에 투자했던 사람들이 돈을 빼내 다른 코인에 배분하고 있다"며 "인터넷 버블처럼 생존자가 누구일지 물음 속에서 정리할 시간을 갖기 위해 가격 하락과 자금 유출을 겪어야만 하는데, 향후 몇 년 동안 겪어야 할 일도 바로 그것"이라고 말했다.<br><br>국내에서도 암호화폐 가격 급등락으로 불안감을 느낀 투자자들이 다시 금에 주목하고 있다는 분석도 나온다. 대표적인 안전자산인 금은 위험자산과 가격이 반대로 움직이는 경향을 보인다. 금이 인플레이션(추세적인 물가 상승) 헤지(hedge·위험 회피) 수단으로 부각하고 있는 것. 추세적으로 물가가 오를 경우 다른 자산에 비해 금이 가치 유지에 더 용이하기 때문이다.<br><br>황병진 NH투자증권 연구원은 "금과 같은 안전자산 선호 현상이 적어도 올해 2분기까지, 길게 보면 8월까지 이어질 전망"이라며 "앞으로의 (금값 흐름의) 관건은 금리를 자극할 미국 연방준비제도(연준)의 테이퍼링(자산매입 축소) 언급 여부가 제롬 파월 연준 의장의 입에서 직접 언급되는 것"이라고 말했다.<br><br>김소현 대신증권 연구원은 "전반적으로 금값이 오르고 있고 인플레이션 우려가 계속 나오고 있는 가운데 실제로도 이런 우려가 높아지는 상황"이라며 "인플레이션 헤지 수요로 금에 대한 투자 매력이 높아지고 있고 이런 추세가 올해 상반기, 길면 연말까지 이어질 것으로 예상한다"고 말했다.<br><br>[전종헌 매경닷컴 기자 cap@mk.co.kr]<br><br><!-- r_start //--><!-- r_end //--><a href="https://media.naver.com/channel/promotion.nhn?oid=009" target="_blank">▶ '경제 1위' 매일경제, 네이버에서 구독하세요</a><br><a href="https://www.mk.co.kr/premium/series/20121/?utm_source=naver&utm_medium=promotion&utm_campaign=make" target="_blank">▶ 이 제품은 '이렇게 만들죠' 영상으로 만나요</a><br><a href="https://tv.naver.com/mkestatetv" target="_blank">▶ 부동산의 모든것 '매부리TV'가 펼칩니다</a><br><br>[ⓒ 매일경제 & mk.co.kr, 무단전재 및 재배포 금지]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span style="border-left:4px solid #959595; padding-left: 20px; display: inline-block"><strong>코인마켓캡 시세 비트코인 8.47% 뛴 4만257달러<br>가상화폐 대신 금·은 투자 인플레 헤지 수단 부각</strong></span><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/009/2021/05/26/0004799943_001_20210526214402810.jpg?type=w647" alt="" /><em class="img_desc">[사진 제공 = 연합뉴스]</em></span>국내서 비트코인 개당 가격이 오름세를 보이면서 4800만원대에 거래되고 있다.<br><br>26일 오후 9시 30분 국내 거래소 빗썸에서 가상화폐 대장격인 비트코인 개당 가격은 24시간 전보다 4.78% 오른 4828만4000원에 거래되고 있다. 이더리움은 8.18% 급등한 342만7000원이다.<br><br>같은 시간 업비트에서도 비트코인 개당 가격은 4800만원대로, 전일 대비 2.51% 상승한 4822만6000원에 시세가 형성돼 있다.<br><br>이더리움은 전일 대비 3.47% 오른 343만1000원, 도지코인은 0.47% 상승한 428원이다.<br><br>가상화폐는 주식시장과 달리 거래소 단위로 거래가 이뤄져 같은 종류라도 거래소별로 거래 가격이 조금씩 다르다.<br><br>글로벌 가상화폐 시황 중계사이트인 코인마켓캡에 따르면 같은 시간(한국시간 기준) 비트코인은 24시간 전보다 8.47% 뛴 4만257달러에 시세가 형성됐다. 이더리움은 16.72% 급등한 2865달러를, 도지코인은 7.06% 오른 35.71센트를 각각 기록했다.<br><br>앞서 비트코인 가격은 지난 19일 30% 가량 폭락하며 한때 3만달러에 바짝 근접했다. 이더리움은 지난 11일 개당 4300달러를 넘었다가 내림세가 이어져 현재 2800달러대를 오르내리고 있다.<br><br>가상화폐 시장에는 최근 악재가 이어졌다. 미국 정부는 지난 20일(현지시간) 1만달러 이상 가상화폐 거래에 대해 국세청(IRS)에 신고 의무를 부과하는 등 가상화폐 규제에 나선다고 밝혔다. 바로 전날에는 중국이 가상자산 발행과 거래금지를 넘어 채굴까지 금지하기로 했다. 일론 머스크가 트위터를 통해 돌발 메시지를 던지는 것도 가상화폐 시장에 불확실성을 높이고 있다.<br><br><hr style="border:0.5px solid#333333; display: block !important;"><B>비트코인 가격 아직 바닥 근접하지 않았다 주장도<hr style="border:0.5px solid#333333; display: block !important;"></b><br><br>최근 가상자산 시장에서 비트코인 등 가상화폐 가격이 급락하며 변동성이 커지는 가운데 일각에서는 아직 바닥에 근접하지 않았다는 전망과 함께 투자자들이 이제는 금과 은 등 원자재 시장에 주목할 것이라는 주장도 나온다.   <br><br>구겐하임파트너스의 스캇 미너드(Scott Minerd) 최고투자책임자(CIO)는 지난 25일(현지시간) CNBC에 출연해 "돈은 가상화폐를 떠나고 사람들은 여전히 인플레이션 헤지 수단을 찾고 있기 때문에 금과 은이 더 좋은 장소가 될 것"이라고 말했다. 지난달 비트코인 붕괴를 경고했던 미너드 CIO는 비트코인의 추가 하락을 예상했다. 그는 비트코인 가격이 5만5000달러 근처였던 지난달 21일 "매우 거품이 많아 보인다"며 "단기적으로 50% 급락해 2만~3만달러 사이가 될 수 있다"고 전망한 바 있다. 그는 이날 역시 가상화폐 시장이 안정되려면 시간이 걸릴 것이라고 예상했다.<br><br>미너드 CIO는 "경쟁 통화가 확산되면서 비트코인에 투자했던 사람들이 돈을 빼내 다른 코인에 배분하고 있다"며 "인터넷 버블처럼 생존자가 누구일지 물음 속에서 정리할 시간을 갖기 위해 가격 하락과 자금 유출을 겪어야만 하는데, 향후 몇 년 동안 겪어야 할 일도 바로 그것"이라고 말했다.<br><br>국내에서도 암호화폐 가격 급등락으로 불안감을 느낀 투자자들이 다시 금에 주목하고 있다는 분석도 나온다. 대표적인 안전자산인 금은 위험자산과 가격이 반대로 움직이는 경향을 보인다. 금이 인플레이션(추세적인 물가 상승) 헤지(hedge·위험 회피) 수단으로 부각하고 있는 것. 추세적으로 물가가 오를 경우 다른 자산에 비해 금이 가치 유지에 더 용이하기 때문이다.<br><br>황병진 NH투자증권 연구원은 "금과 같은 안전자산 선호 현상이 적어도 올해 2분기까지, 길게 보면 8월까지 이어질 전망"이라며 "앞으로의 (금값 흐름의) 관건은 금리를 자극할 미국 연방준비제도(연준)의 테이퍼링(자산매입 축소) 언급 여부가 제롬 파월 연준 의장의 입에서 직접 언급되는 것"이라고 말했다.<br><br>김소현 대신증권 연구원은 "전반적으로 금값이 오르고 있고 인플레이션 우려가 계속 나오고 있는 가운데 실제로도 이런 우려가 높아지는 상황"이라며 "인플레이션 헤지 수요로 금에 대한 투자 매력이 높아지고 있고 이런 추세가 올해 상반기, 길면 연말까지 이어질 것으로 예상한다"고 말했다.<br><br>[전종헌 매경닷컴 기자 cap@mk.co.kr]<br><br><!-- r_start //--><!-- r_end //--><a href="https://media.naver.com/channel/promotion.nhn?oid=009" target="_blank">▶ '경제 1위' 매일경제, 네이버에서 구독하세요</a><br><a href="https://www.mk.co.kr/premium/series/20121/?utm_source=naver&utm_medium=promotion&utm_campaign=make" target="_blank">▶ 이 제품은 '이렇게 만들죠' 영상으로 만나요</a><br><a href="https://tv.naver.com/mkestatetv" target="_blank">▶ 부동산의 모든것 '매부리TV'가 펼칩니다</a><br><br>[ⓒ 매일경제 & mk.co.kr, 무단전재 및 재배포 금지]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span style="border-left:4px solid #959595; padding-left: 20px; display: inline-block"><strong>코인마켓캡 시세 비트코인 8.47% 뛴 4만257달러<br>가상화폐 대신 금·은 투자 인플레 헤지 수단 부각</strong></span><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/009/2021/05/26/0004799943_001_20210526214402810.jpg?type=w647" alt="" /><em class="img_desc">[사진 제공 = 연합뉴스]</em></span>국내서 비트코인 개당 가격이 오름세를 보이면서 4800만원대에 거래되고 있다.<br><br>26일 오후 9시 30분 국내 거래소 빗썸에서 가상화폐 대장격인 비트코인 개당 가격은 24시간 전보다 4.78% 오른 4828만4000원에 거래되고 있다. 이더리움은 8.18% 급등한 342만7000원이다.<br><br>같은 시간 업비트에서도 비트코인 개당 가격은 4800만원대로, 전일 대비 2.51% 상승한 4822만6000원에 시세가 형성돼 있다.<br><br>이더리움은 전일 대비 3.47% 오른 343만1000원, 도지코인은 0.47% 상승한 428원이다.<br><br>가상화폐는 주식시장과 달리 거래소 단위로 거래가 이뤄져 같은 종류라도 거래소별로 거래 가격이 조금씩 다르다.<br><br>글로벌 가상화폐 시황 중계사이트인 코인마켓캡에 따르면 같은 시간(한국시간 기준) 비트코인은 24시간 전보다 8.47% 뛴 4만257달러에 시세가 형성됐다. 이더리움은 16.72% 급등한 2865달러를, 도지코인은 7.06% 오른 35.71센트를 각각 기록했다.<br><br>앞서 비트코인 가격은 지난 19일 30% 가량 폭락하며 한때 3만달러에 바짝 근접했다. 이더리움은 지난 11일 개당 4300달러를 넘었다가 내림세가 이어져 현재 2800달러대를 오르내리고 있다.<br><br>가상화폐 시장에는 최근 악재가 이어졌다. 미국 정부는 지난 20일(현지시간) 1만달러 이상 가상화폐 거래에 대해 국세청(IRS)에 신고 의무를 부과하는 등 가상화폐 규제에 나선다고 밝혔다. 바로 전날에는 중국이 가상자산 발행과 거래금지를 넘어 채굴까지 금지하기로 했다. 일론 머스크가 트위터를 통해 돌발 메시지를 던지는 것도 가상화폐 시장에 불확실성을 높이고 있다.<br><br><hr style="border:0.5px solid#333333; display: block !important;"><B>비트코인 가격 아직 바닥 근접하지 않았다 주장도<hr style="border:0.5px solid#333333; display: block !important;"></b><br><br>최근 가상자산 시장에서 비트코인 등 가상화폐 가격이 급락하며 변동성이 커지는 가운데 일각에서는 아직 바닥에 근접하지 않았다는 전망과 함께 투자자들이 이제는 금과 은 등 원자재 시장에 주목할 것이라는 주장도 나온다.   <br><br>구겐하임파트너스의 스캇 미너드(Scott Minerd) 최고투자책임자(CIO)는 지난 25일(현지시간) CNBC에 출연해 "돈은 가상화폐를 떠나고 사람들은 여전히 인플레이션 헤지 수단을 찾고 있기 때문에 금과 은이 더 좋은 장소가 될 것"이라고 말했다. 지난달 비트코인 붕괴를 경고했던 미너드 CIO는 비트코인의 추가 하락을 예상했다. 그는 비트코인 가격이 5만5000달러 근처였던 지난달 21일 "매우 거품이 많아 보인다"며 "단기적으로 50% 급락해 2만~3만달러 사이가 될 수 있다"고 전망한 바 있다. 그는 이날 역시 가상화폐 시장이 안정되려면 시간이 걸릴 것이라고 예상했다.<br><br>미너드 CIO는 "경쟁 통화가 확산되면서 비트코인에 투자했던 사람들이 돈을 빼내 다른 코인에 배분하고 있다"며 "인터넷 버블처럼 생존자가 누구일지 물음 속에서 정리할 시간을 갖기 위해 가격 하락과 자금 유출을 겪어야만 하는데, 향후 몇 년 동안 겪어야 할 일도 바로 그것"이라고 말했다.<br><br>국내에서도 암호화폐 가격 급등락으로 불안감을 느낀 투자자들이 다시 금에 주목하고 있다는 분석도 나온다. 대표적인 안전자산인 금은 위험자산과 가격이 반대로 움직이는 경향을 보인다. 금이 인플레이션(추세적인 물가 상승) 헤지(hedge·위험 회피) 수단으로 부각하고 있는 것. 추세적으로 물가가 오를 경우 다른 자산에 비해 금이 가치 유지에 더 용이하기 때문이다.<br><br>황병진 NH투자증권 연구원은 "금과 같은 안전자산 선호 현상이 적어도 올해 2분기까지, 길게 보면 8월까지 이어질 전망"이라며 "앞으로의 (금값 흐름의) 관건은 금리를 자극할 미국 연방준비제도(연준)의 테이퍼링(자산매입 축소) 언급 여부가 제롬 파월 연준 의장의 입에서 직접 언급되는 것"이라고 말했다.<br><br>김소현 대신증권 연구원은 "전반적으로 금값이 오르고 있고 인플레이션 우려가 계속 나오고 있는 가운데 실제로도 이런 우려가 높아지는 상황"이라며 "인플레이션 헤지 수요로 금에 대한 투자 매력이 높아지고 있고 이런 추세가 올해 상반기, 길면 연말까지 이어질 것으로 예상한다"고 말했다.<br><br>[전종헌 매경닷컴 기자 cap@mk.co.kr]<br><br><!-- r_start //--><!-- r_end //--><a href="https://media.naver.com/channel/promotion.nhn?oid=009" target="_blank">▶ '경제 1위' 매일경제, 네이버에서 구독하세요</a><br><a href="https://www.mk.co.kr/premium/series/20121/?utm_source=naver&utm_medium=promotion&utm_campaign=make" target="_blank">▶ 이 제품은 '이렇게 만들죠' 영상으로 만나요</a><br><a href="https://tv.naver.com/mkestatetv" target="_blank">▶ 부동산의 모든것 '매부리TV'가 펼칩니다</a><br><br>[ⓒ 매일경제 & mk.co.kr, 무단전재 및 재배포 금지]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/029/2021/05/26/0002676290_001_20210526192104027.jpg?type=w647" alt="" /><em class="img_desc">홍남기(왼쪽 네번째) 부총리가 26일 서울 혜화동 서울대병원 의학연구혁신센터에서 열린 '제10차 혁신성장 BIG3 추진회의'에 참석해 회의 시작에 앞서 참석자들과 함께 김효수 의생명연구원장으로부터 신약.의료기기 개발현황 설명을 듣고 있다. &lt;기획제정부 제공&gt;    </em></span>정부가 2023년부터 6년간 약 1조원을 투입해 '바이오 빅데이터 댐'을 구축한다.<br><br>26일 서울대학교병원에서 열린 '제10차 혁신성장 BIG3 추진 회의'에서 홍남기 부총리는 "바이오산업은 지속가능한 성장을 위한 신성장동력"이라며 "바이오 빅데이터 수집을 하는 '국가통합 바이오 댐'을 구축하겠다"며 이같이 밝혔다. <br><br>홍 부총리는 "데이터 기반 정밀의료가 바이오헬스 미래를 주도할 것으로 전망되면서 미국과 영국, 중국은 바이오 빅데이터 구축 활용을 위한 대규모 투자를 추진 중"이라며 "먼저 질환별 환자 40만명, 자발적 참여자 60만명 등 100만명 바이오 빅데이터를 수집하는 소위 '국가통합 바이오 댐'을 2028년까지 100% 구축할 것"이라고 말했다.<br><br>이어 "민감정보인 바이오 빅데이터의 원활하고 안전한 활용 등을 위해 빅데이터 표준화 및 품질관리를 위한 표준작업절차(SOP) 수립, 플랫폼 구축, 슈퍼컴퓨팅 기반 보안 분석환경 구축 등도 추진할 것"이라고 설명했다.<br><br>이날 회의에선 의료기기산업 육성전략이 논의됐다. 고령화 등에 따라 국내 의료기기산업은 빠르게 성장하고 있지만, 사용경험과 인지도 부족으로 시장진출에 한계가 있는 상항이다. 이에 정부는 2025년까지 세계시장 점유율 7위를 달성하기 위해 국내 의료기기 전략 분야 집중육성, 산업생태계 조성 등을 추진할 계획이다. <br><br>홍 부총리는 "국내 의료기기 활성화를 위해 병원부설 교육훈련센터 2개에 이어 광역형 센터 2개(수도권 1개, 비수도권 1개)를 추가로 구축하고 디지털 헬스 테스트베드 운영과 함께 혁신 의료기기 사용 의료기술은 건보 체계에 신속하게 포함할 것"이라며 "체외진단, 치과·영상진단 등 주력분야에 대해 범부처 전주기 연구개발(R&D)을 추진하고, 해외진출 지원을 위해 의료기기 국제인증지원센터를 구축할 것"이라고 설명했다. <br><br>이어 "신의료기술 평가 맞춤형 컨설팅을 시행하고, 신속 시장출시를 위한 허가·심사 특례개선, 의료기기산업 종합지원센터를 애로 해소의 허브로 활용할 계획이다"고 말했다. 또 "글로벌 백신허브 도약기반 구축을 위한 방안도 마련 중에 있고 조만간 발표할 것"이라고 덧붙였다.박재찬기자 jcpark@dt.co.kr <br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=029' target='_blank' >▶[ 네이버 메인에서 디지털타임스 구독 ]</a> / <a href='https://newsstand.naver.com/029' target='_blank' >▶[ 뉴스스탠드 구독 ]</a><br><a href='http://www.dt.co.kr/' target='_blank' >▶디지털타임스 홈페이지 바로가기</a><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<iframe src="https://player.audiop.naver.com/player?cpId=audioclip&cpMetaId=CH_508_EP_1638" title="골라듣는 뉴스룸 플레이어" width="507px" height="160px" frameborder="0" scrolling="no" class="naveraudioplayer"></iframe><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/055/2021/05/26/0000896689_001_20210526185302199.jpg?type=w647" alt="" /></span><br><div style="text-align: center;"><br>&#x1f3a7; 아래 주소로 접속하시면 음성으로 기사를 들을 수 있습니다.<br>[ https://news.sbs.co.kr/n/?id=N1006330727 ]<br> </div><span style="font-size:16px"><strong>[골룸] 뭘스트리트 33 : 애증의 테슬라, 손절은 아직 이르다?</strong></span><br><br>장거리 전기차의 선두주자로 표준을 만들어온 혁신 기업 테슬라.<br><br>하지만 최근에는 CEO 일론 머스크가 비트코인 등에 관련된 여러 구설수로 시끄럽고, 엎친데 덮친격으로 수직으로 솟았던 주가가 조정을 받으며 고평가 논란까지 일고 있는데요.<br><br>국내 서학 개미들의 엄청난 사랑을 받아온 테슬라의 미래 가치는 무엇인지 치열해진 전기차 업계에서 '자율주행' 기술로 선두를 유지할 수 있을 지 종합적으로 따져봅니다.<br><br>00:00 전기차 테슬라의 미래가치는?<br>10:10 바람 잘 날 없는 머스크<br>13:20 코인에 관한 논란<br>17:25 매출과 영업 이익 사이?<br>20:08 자율주행의 절대 강자<br>27:35 스페이스X가 미칠 영향은<br>29:18 치열해진 전기차 업계<br>32:31 테슬라의 신차들<br><br>*본 콘텐츠에 포함되는 투자정보는 참고만을 위해서 전해드립니다.<br>&nbsp;투자의 판단과 책임은 전적으로 투자자에게 있습니다.<br><br><span style="font-size:16px"><span style="color:rgb(105, 105, 105)"><strong>▶ <span style="font-size:12px">&lt;골룸: 골라듣는 뉴스룸&gt; 팟캐스트는 '팟빵', '네이버 오디오클립', '애플 팟캐스트'에서도 들을 수 있습니다.</span></strong><br>- '팟빵' 접속하기<br><span>[ http://podbbang.com/ch/8888 ]</span><br>- '네이버 오디오클립' 접속하기<br><span>[ http://naver.me/FfpbjhZj ]</span><br>- '애플 팟캐스트'로 접속하기<br><span>[ https://podcasts.apple.com/kr/podcast/id964021756 ]</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div>&nbsp;</div><br><br>정호선 기자(hosun@sbs.co.kr)<br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000261&plink=FOOT&cooper=NAVER">▶ 더 깊은 인물 이야기 [그, 사람]</a><br><a href="https://news.sbs.co.kr/news/newsHotIssueList.do?tagId=10000050973&plink=FOOT&cooper=NAVER">▶ 코로나19 현황 속보</a><br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000260&plink=FOOT&cooper=NAVER">※ ⓒ SBS & SBS Digital News Lab. : 무단복제 및 재배포 금지</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<iframe src="https://player.audiop.naver.com/player?cpId=audioclip&cpMetaId=CH_508_EP_1638" title="골라듣는 뉴스룸 플레이어" width="507px" height="160px" frameborder="0" scrolling="no" class="naveraudioplayer"></iframe><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/055/2021/05/26/0000896689_001_20210526185302199.jpg?type=w647" alt="" /></span><br><div style="text-align: center;"><br>&#x1f3a7; 아래 주소로 접속하시면 음성으로 기사를 들을 수 있습니다.<br>[ https://news.sbs.co.kr/n/?id=N1006330727 ]<br> </div><span style="font-size:16px"><strong>[골룸] 뭘스트리트 33 : 애증의 테슬라, 손절은 아직 이르다?</strong></span><br><br>장거리 전기차의 선두주자로 표준을 만들어온 혁신 기업 테슬라.<br><br>하지만 최근에는 CEO 일론 머스크가 비트코인 등에 관련된 여러 구설수로 시끄럽고, 엎친데 덮친격으로 수직으로 솟았던 주가가 조정을 받으며 고평가 논란까지 일고 있는데요.<br><br>국내 서학 개미들의 엄청난 사랑을 받아온 테슬라의 미래 가치는 무엇인지 치열해진 전기차 업계에서 '자율주행' 기술로 선두를 유지할 수 있을 지 종합적으로 따져봅니다.<br><br>00:00 전기차 테슬라의 미래가치는?<br>10:10 바람 잘 날 없는 머스크<br>13:20 코인에 관한 논란<br>17:25 매출과 영업 이익 사이?<br>20:08 자율주행의 절대 강자<br>27:35 스페이스X가 미칠 영향은<br>29:18 치열해진 전기차 업계<br>32:31 테슬라의 신차들<br><br>*본 콘텐츠에 포함되는 투자정보는 참고만을 위해서 전해드립니다.<br>&nbsp;투자의 판단과 책임은 전적으로 투자자에게 있습니다.<br><br><span style="font-size:16px"><span style="color:rgb(105, 105, 105)"><strong>▶ <span style="font-size:12px">&lt;골룸: 골라듣는 뉴스룸&gt; 팟캐스트는 '팟빵', '네이버 오디오클립', '애플 팟캐스트'에서도 들을 수 있습니다.</span></strong><br>- '팟빵' 접속하기<br><span>[ http://podbbang.com/ch/8888 ]</span><br>- '네이버 오디오클립' 접속하기<br><span>[ http://naver.me/FfpbjhZj ]</span><br>- '애플 팟캐스트'로 접속하기<br><span>[ https://podcasts.apple.com/kr/podcast/id964021756 ]</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div>&nbsp;</div><br><br>정호선 기자(hosun@sbs.co.kr)<br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000261&plink=FOOT&cooper=NAVER">▶ 더 깊은 인물 이야기 [그, 사람]</a><br><a href="https://news.sbs.co.kr/news/newsHotIssueList.do?tagId=10000050973&plink=FOOT&cooper=NAVER">▶ 코로나19 현황 속보</a><br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000260&plink=FOOT&cooper=NAVER">※ ⓒ SBS & SBS Digital News Lab. : 무단복제 및 재배포 금지</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052620960006300_P4_20210526172616780.jpg?type=w647" alt="" /></span><br><br>    (천안=연합뉴스) 박상돈(오른쪽) 충남 천안시장이 26일 빵의 도시 활성화를 위해 제2산단에 있는 신세계푸드 천안공장을 둘러보고 있다. <br><br>    호두과자로 유명한 천안에는 '뚜쥬루', '몽상가인', '못난이푸드', '천안학화호두과자' 등 지역 유명 빵집이 있다. 2021. 5. 26 [천안시 제공. 재판매 및 DB 금지]<br><br>    jung@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+	<div class="vod_area">
+		<h4 class="blind">동영상 뉴스</h4>
+		<iframe _src="/main/readVod.nhn?oid=422&aid=0000486885" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe>
+	</div>
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[앵커] <br><br>코로나19 신규 확진자가 707명 발생했습니다. <br><br>사흘 연속 500명대를 보였던 일일 확진자 수가 600명대를 건너뛰고 곧바로 700명대로 올라선 건데요. <br><br>보도국 연결해 자세히 알아봅니다. 나경렬 기자.<br><br>[기자] <br><br>네, 어제(25일) 하루 발생한 코로나19 신규 확진자는 707명입니다.<br><br>최근 신규 확진자는 사흘 연속 500명대였고, 그 규모도 줄어드는 추세였는데요.<br><br>전국 확산세가 계속되면서 600명대를 건너뛰고 곧바로 700명대의 신규 확진자가 나왔습니다.<br><br>전체 신규 확진자 707명 중 국내 지역사회 감염자가 684명입니다.<br><br>지역별로는 서울 260명, 경기 184명, 인천 19명 등 수도권에서 463명의 확진자가 새로 나왔습니다.<br><br>이외에도 대구 30명, 강원 25명, 부산 21명, 광주 20명 등 전국 모든 시도에서 확진자가 발생했습니다.<br><br>이렇게 확진자가 줄지 않고 있는 건 일상 속 감염과 함께 집단감염이 끊이지 않고 있기 때문입니다.<br><br>대구의 한 유흥업소와 관련해선 종사자와 이용자 등 24명이 추가 감염돼 모두 203명의 확진자가 확인됐고, 대전 대덕구의 유흥시설에서도 17명의 추가 감염자가 확인됐습니다.<br><br>한편, 백신 1차 접종자는 7만7천여 명 늘어 394만 명을 넘어섰습니다.<br><br>또 2차 접종까지 완료한 사람도 하루 새 9만1천여 명 늘어 194만여 명에 달했습니다.<br><br>[앵커] <br><br>정부가 백신 접종을 마친 사람들에게 방역조치를 완화해주는 등 인센티브를 주고, 올해 12월 이후엔 마스크를 벗는 방안도 검토하기로 했다고요. <br><br>관련 내용도 전해주시죠.<br><br>[기자] <br><br>네, 정부가 백신 접종을 마친 사람들을 사적 모임 제한 인원에서 제외하는 등의 접종 인센티브 방안을 내놓았습니다.<br><br>우선 다음 달부터 백신 접종자에 대해 직계가족 모임 제한을 풀어주기로 했습니다.<br><br>현재 가족 모임이 가능한 인원은 8명이죠. <br><br>접종자는 이 8명에 해당되지 않습니다. <br><br>그러니까 미접종자 가족 8명에다 접종자는 제한 없이 더 모일 수 있게 되는 겁니다.<br><br>고령층의 접종이 끝난 올해 추석 땐, 걱정 없이 가족들을 만날 수 있어 과거 명절 풍경을 되찾을 수 있을 것으로 예상됩니다.<br><br>정부는 백신 접종의 주요 분기점으로 7월과 10월을 꼽고, 이 시기를 중심으로 방역 조치를 완화하기로 했는데요.<br><br>먼저 고령층 등 코로나19 고위험군의 1차 접종이 완료되는 7월부터는 접종자들이 야외에서 마스크를 쓰지 않아도 됩니다.<br><br>다만, 집단면역 형성 전까지는 실내에선 마스크를 계속 써야 합니다.<br><br>3,600만 명이 2차 접종을 마친 10월부터는 사회적 거리두기 체계 자체의 전반적인 완화도 가능할 것으로 예상되는데요.<br><br>정부는 전 국민의 70%가 접종을 마친 12월 이후에는 마스크를 벗는 방안을 검토할 수 있다고 전망했습니다.<br><br>지금까지 보도국에서 전해드렸습니다.<br><br>연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23<br><br><a href="http://media.naver.com/channel/promotion.nhn?oid=422"> ▶ 네이버에서 연합뉴스TV를 구독하세요</a><br><a href="https://www.yonhapnewstv.co.kr/live" target="_blank"> ▶ 연합뉴스TV 생방송 만나보기 </a><br><a href="http://www.yonhapnewstv.co.kr/add/mobileApp" target="_blank"> ▶ 균형있는 뉴스, 연합뉴스TV 앱 다운받기</a><br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

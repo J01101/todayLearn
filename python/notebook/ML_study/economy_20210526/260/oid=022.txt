@@ -1,0 +1,53 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+								서울 성북구 장위뉴타운은 전체 3만 가구 규모의 초대형 뉴타운으로 개발될 예정이었지만, 전체 부지의 약 절반 정도가 2012년 정비 구역에서 해제되면서 속절없이 방치되고 있다. 재개발을 다시 추진하려는 시도도 일부 있었지만, 우후죽순 들어선 신축 빌라 탓에 지구 지정의 필수 요건인 ‘노후도’를 충족하는 게 불가능해졌다. 한 주민은 “자동차도 제대로 못 다니는 낡은 동네에서 신축 건물 몇 개 있다고 ‘재개발은 안 된다’니 분통이 터진다”고 말했다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/023/2021/05/26/0003616384_001_20210527012801817.jpg?type=w647" alt="" /><em class="img_desc">오세훈 서울시장이 26일 서울시청에서 재개발 규제 완화 대책을 발표하고 있다. /연합뉴스</em></span><br>										서울시가 26일 재개발 활성화 대책을 발표하면서 ‘강북 뉴타운 2.0’ 시대가 열렸다는 평가가 나온다. 재개발이 무산됐거나 장기간 지지부진하던 지역에서 사업에 탄력이 붙을 전망이다. 이날 발표한 규제 완화 방안은 서울시가 정부에 따로 제도 개선을 요청할 필요 없이 도시기본계획 손질 등으로 바로 추진할 수 있는 것들이다. 고종완 한국자산관리연구원장은 “2015년 이후 신규 재개발이 사실상 중단되면서 꼬여버린 서울 아파트 공급 생태계가 복원되면 집값 안정에도 도움이 될 것”이라고 말했다.<br><br>◇강북 재개발 ‘봄날’ 오나<br><br>부동산 시장의 관심은 단연 주거정비지수제 폐지가 가져올 영향이다. 과거엔 재개발을 하려면 토지 면적(1만㎡ 이상), 노후 건축물 비율(전체의 3분의 2 이상) 등 필수 요건을 충족하고, 선택 요건 4가지(주택 밀집도, 면적 기준 노후도, 도로 접근성, 부지 협소 정도) 중 1개 이상 충족하면 됐다. 하지만 박원순 전 시장이 2015년 주거정비지수제를 도입하면서 필수 요건을 ‘건축 연면적 기준 노후도 60%’로 바꿨고 선택 요건 역시 항목 4개를 모두 평가해 총점 70점을 넘어야만 재개발이 가능해졌다. 이은형 대한건설정책연구원 책임연구원은 “서울, 특히 강북 재개발을 가로막던 주거정비지수제를 없앤 것만으로도 파격적 규제 완화로 평가할 만하다”고 말했다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/023/2021/05/26/0003616384_002_20210527012801863.jpg?type=w647" alt="" /><em class="img_desc">6대 재개발 규제 완화 주요 내용</em></span><br>										주거정비지수제가 폐지되면 서울에서 재개발 사업 신청이 가능한 지역이 지금보다 4배 정도 늘어날 것이라는 분석이 나온다. 김제경 투미부동산컨설팅 소장은 “한남1구역, 고덕2-1·2-2구역, 성북4구역 등 최근 정부 주도 공공 재개발에 관심을 보이다가 주민 반대로 무산된 곳이 이번 규제 완화를 가장 환영할 것”이라고 말했다. 이 밖에 도시 재생에 대한 주민 반발이 터져 나온 종로구 창신·숭인동과 미아뉴타운 중 일부 구역이 개발되지 않은 강북구 미아동 일대도 수혜지로 꼽힌다.<br><br>◇행정 절차 ‘5년→2년’ 단축<br><br>서울시는 재개발 행정 절차에 걸리는 시간을 단축하고자 ‘공공 기획’이란 제도도 도입하기로 했다. 정부가 추진 중인 공공 재개발과 비슷한 시스템이다. 사전 타당성 조사, 정비 계획 수립 등 전문성이 필요한 단계에 서울시가 참여해 가이드라인을 제시하고 공공성을 확보하는 방식이다. 서울시는 “정비 구역 지정까지 걸리는 시간이 5년에서 2년으로 줄어들 것”이라고 설명했다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/023/2021/05/26/0003616384_003_20210527012801903.jpg?type=w647" alt="" /><em class="img_desc">과거 뉴타운 사업을 추진하다 정비구역에서 해제된 서울 성북구 장위동에서 한 주민이 낡은 빌라가 밀집한 좁은 골목길을 걸어가고 있다. 26일 서울시가 재개발 규제 완화 대책을 발표하면서 강북 지역 노후 빌라촌에서 재개발 사업이 다시 활기를 띨 전망이다. /김지호 기자</em></span><br>										시는 또 빠른 사업 추진을 위해 주민 동의율 확인 절차를 3단계에서 2단계로 줄이되, 소수 의견이 무시되는 부작용을 막기 위해 사업 초기 단계 동의율 요건은 10%에서 30%로 높인다. 또 2종 일반주거지역에 적용하던 7층 층수 규제를 완화해 15층까지 지을 수 있도록 했다. 서울 전체 주거 지역 중 43%가 2종 일반주거지역인데, 그 중 7층 규제를 적용받는 지역은 61%에 달해 주택 공급 효과 확대를 기대할 만하다.<br><br>투기 방지 장치도 마련됐다. 재개발 후보지 공모에 참여한 지역에선 다가구 주택의 소유권을 나눠서 여러 분양권을 확보하는 ‘지분 쪼개기’가 금지된다. 또한 재개발 후보지로 새로 선정된 곳은 토지거래허가구역으로 지정돼 실거주자만 주택을 매수할 수 있다. 함영진 직방 빅데이터랩장은 “이번 규제 완화로 재개발 사업에 대한 기대감이 높아져 일부 지역에서 단독주택과 빌라 가격이 오를 가능성도 있다”고 말했다.<br><br>[정순우 기자 snoopy@chosun.com]<br><br><br><br>	 <br>		▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=023" target="_blank">조선일보가 뽑은 뉴스, 확인해보세요</a><br>		▶ <a href="https://www.chosun.com/newsletter?utm_source=naver&utm_medium=referral&utm_campaign=naver-link2/" target="_blank">최고 기자들의 뉴스레터 받아보세요</a>	<br>		▶ <a href="https://news.chosun.com/csapp.html?utm_source=naver&utm_medium=referral&utm_campaign=naver-link3/" target="_blank">1등 신문 조선일보, 앱으로 편하게 보세요</a>	<br><br>	<br>	
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005372849_001_20210526100105194.jpg?type=w647" alt="" /></span><br>(서울=뉴스1) 이훈철 기자 = 서울시 재개발 활성화를 위한 6대 규제완화 방안.<br><br>boazhoon@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

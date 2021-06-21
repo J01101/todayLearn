@@ -1,0 +1,1665 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<b>효성첨단소재·효성티앤씨 포함<br>빙그레·태영건설 등 7곳은 제외</b><br>							SK바이오사이언스, 동원산업, 대한전선, 효성첨단소재, 효성티앤씨 등 기업 5곳이 국내 증시 대표 지수인 ‘코스피200′ 구성 종목에 새로 편입됐다. 태영건설, 한일현대시멘트, 남선알미늄, SPC삼립, 삼양사, 빙그레, 애경산업 등 7종목은 제외됐다. ‘코스닥150′의 경우는 젬백스, 테스나, 심텍, 파크시스템스, 하나머티리얼즈, 티에스이, 에프에스티, 박셀바이오, 바이넥스, 데브시스터즈, 삼강엠앤티, 유니슨, 아이큐어, 성우하이텍, 아주IB투자, 우리기술투자 등 16곳이 새로 들어가고, 골프존, 케어젠, 한국기업평가 등 16곳은 빠졌다.<br><br>한국거래소는 코스피200과 코스닥150의 구성 종목을 이처럼 변경했다고 25일 밝혔다. 거래소는 6월과 12월 두 차례 정기적으로 구성 종목을 바꾼다. 코스피200지수와 코스닥150지수에 편입되면 외국인과 기관 자금 유입이 기대되지만, 동시에 주가 하락에 베팅하는 공매도 대상이 된다. 거래소 관계자는 “코스피200은 분할 등으로 그동안 202개 기업이었기 때문에 이번에 7곳을 제외하고 5곳만 지정했다”고 말했다.<br><br>이번 주요 지수 종목 변경은 6월 11일부터 적용된다. 이에 따라 대표 지수에서 제외되는 종목은 6월 10일까지만 공매도가 허용되고 11일부터는 빌려서 파는 것은 불가능하다. 증권 업계 관계자는 “지수 편출 종목의 경우 6월 11일부터 공매도는 금지되지만 기존 공매도 물량을 언제 사서 갚을지는 투자자 마음”이라고 말했다.<br><br>지난 11일 코스피에 상장된 SK IET는 시가총액이 10조원 넘는 초대형 종목이지만 상장한 지 6개월이 지나지 않아 이번 발표에서는 빠졌다.<br><br>[이경은 기자 diva@chosun.com]<br><br><br><br>	 <br>		▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=023" target="_blank">조선일보가 뽑은 뉴스, 확인해보세요</a><br>		▶ <a href="https://www.chosun.com/newsletter?utm_source=naver&utm_medium=referral&utm_campaign=naver-link2/" target="_blank">최고 기자들의 뉴스레터 받아보세요</a>	<br>		▶ <a href="https://news.chosun.com/csapp.html?utm_source=naver&utm_medium=referral&utm_campaign=naver-link3/" target="_blank">1등 신문 조선일보, 앱으로 편하게 보세요</a>	<br><br>	<br>	
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<b>효성첨단소재·효성티앤씨 포함<br>빙그레·태영건설 등 7곳은 제외</b><br>							SK바이오사이언스, 동원산업, 대한전선, 효성첨단소재, 효성티앤씨 등 기업 5곳이 국내 증시 대표 지수인 ‘코스피200′ 구성 종목에 새로 편입됐다. 태영건설, 한일현대시멘트, 남선알미늄, SPC삼립, 삼양사, 빙그레, 애경산업 등 7종목은 제외됐다. ‘코스닥150′의 경우는 젬백스, 테스나, 심텍, 파크시스템스, 하나머티리얼즈, 티에스이, 에프에스티, 박셀바이오, 바이넥스, 데브시스터즈, 삼강엠앤티, 유니슨, 아이큐어, 성우하이텍, 아주IB투자, 우리기술투자 등 16곳이 새로 들어가고, 골프존, 케어젠, 한국기업평가 등 16곳은 빠졌다.<br><br>한국거래소는 코스피200과 코스닥150의 구성 종목을 이처럼 변경했다고 25일 밝혔다. 거래소는 6월과 12월 두 차례 정기적으로 구성 종목을 바꾼다. 코스피200지수와 코스닥150지수에 편입되면 외국인과 기관 자금 유입이 기대되지만, 동시에 주가 하락에 베팅하는 공매도 대상이 된다. 거래소 관계자는 “코스피200은 분할 등으로 그동안 202개 기업이었기 때문에 이번에 7곳을 제외하고 5곳만 지정했다”고 말했다.<br><br>이번 주요 지수 종목 변경은 6월 11일부터 적용된다. 이에 따라 대표 지수에서 제외되는 종목은 6월 10일까지만 공매도가 허용되고 11일부터는 빌려서 파는 것은 불가능하다. 증권 업계 관계자는 “지수 편출 종목의 경우 6월 11일부터 공매도는 금지되지만 기존 공매도 물량을 언제 사서 갚을지는 투자자 마음”이라고 말했다.<br><br>지난 11일 코스피에 상장된 SK IET는 시가총액이 10조원 넘는 초대형 종목이지만 상장한 지 6개월이 지나지 않아 이번 발표에서는 빠졌다.<br><br>[이경은 기자 diva@chosun.com]<br><br><br><br>	 <br>		▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=023" target="_blank">조선일보가 뽑은 뉴스, 확인해보세요</a><br>		▶ <a href="https://www.chosun.com/newsletter?utm_source=naver&utm_medium=referral&utm_campaign=naver-link2/" target="_blank">최고 기자들의 뉴스레터 받아보세요</a>	<br>		▶ <a href="https://news.chosun.com/csapp.html?utm_source=naver&utm_medium=referral&utm_campaign=naver-link3/" target="_blank">1등 신문 조선일보, 앱으로 편하게 보세요</a>	<br><br>	<br>	
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<b>효성첨단소재·효성티앤씨 포함<br>빙그레·태영건설 등 7곳은 제외</b><br>							SK바이오사이언스, 동원산업, 대한전선, 효성첨단소재, 효성티앤씨 등 기업 5곳이 국내 증시 대표 지수인 ‘코스피200′ 구성 종목에 새로 편입됐다. 태영건설, 한일현대시멘트, 남선알미늄, SPC삼립, 삼양사, 빙그레, 애경산업 등 7종목은 제외됐다. ‘코스닥150′의 경우는 젬백스, 테스나, 심텍, 파크시스템스, 하나머티리얼즈, 티에스이, 에프에스티, 박셀바이오, 바이넥스, 데브시스터즈, 삼강엠앤티, 유니슨, 아이큐어, 성우하이텍, 아주IB투자, 우리기술투자 등 16곳이 새로 들어가고, 골프존, 케어젠, 한국기업평가 등 16곳은 빠졌다.<br><br>한국거래소는 코스피200과 코스닥150의 구성 종목을 이처럼 변경했다고 25일 밝혔다. 거래소는 6월과 12월 두 차례 정기적으로 구성 종목을 바꾼다. 코스피200지수와 코스닥150지수에 편입되면 외국인과 기관 자금 유입이 기대되지만, 동시에 주가 하락에 베팅하는 공매도 대상이 된다. 거래소 관계자는 “코스피200은 분할 등으로 그동안 202개 기업이었기 때문에 이번에 7곳을 제외하고 5곳만 지정했다”고 말했다.<br><br>이번 주요 지수 종목 변경은 6월 11일부터 적용된다. 이에 따라 대표 지수에서 제외되는 종목은 6월 10일까지만 공매도가 허용되고 11일부터는 빌려서 파는 것은 불가능하다. 증권 업계 관계자는 “지수 편출 종목의 경우 6월 11일부터 공매도는 금지되지만 기존 공매도 물량을 언제 사서 갚을지는 투자자 마음”이라고 말했다.<br><br>지난 11일 코스피에 상장된 SK IET는 시가총액이 10조원 넘는 초대형 종목이지만 상장한 지 6개월이 지나지 않아 이번 발표에서는 빠졌다.<br><br>[이경은 기자 diva@chosun.com]<br><br><br><br>	 <br>		▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=023" target="_blank">조선일보가 뽑은 뉴스, 확인해보세요</a><br>		▶ <a href="https://www.chosun.com/newsletter?utm_source=naver&utm_medium=referral&utm_campaign=naver-link2/" target="_blank">최고 기자들의 뉴스레터 받아보세요</a>	<br>		▶ <a href="https://news.chosun.com/csapp.html?utm_source=naver&utm_medium=referral&utm_campaign=naver-link3/" target="_blank">1등 신문 조선일보, 앱으로 편하게 보세요</a>	<br><br>	<br>	
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<b>효성첨단소재·효성티앤씨 포함<br>빙그레·태영건설 등 7곳은 제외</b><br>							SK바이오사이언스, 동원산업, 대한전선, 효성첨단소재, 효성티앤씨 등 기업 5곳이 국내 증시 대표 지수인 ‘코스피200′ 구성 종목에 새로 편입됐다. 태영건설, 한일현대시멘트, 남선알미늄, SPC삼립, 삼양사, 빙그레, 애경산업 등 7종목은 제외됐다. ‘코스닥150′의 경우는 젬백스, 테스나, 심텍, 파크시스템스, 하나머티리얼즈, 티에스이, 에프에스티, 박셀바이오, 바이넥스, 데브시스터즈, 삼강엠앤티, 유니슨, 아이큐어, 성우하이텍, 아주IB투자, 우리기술투자 등 16곳이 새로 들어가고, 골프존, 케어젠, 한국기업평가 등 16곳은 빠졌다.<br><br>한국거래소는 코스피200과 코스닥150의 구성 종목을 이처럼 변경했다고 25일 밝혔다. 거래소는 6월과 12월 두 차례 정기적으로 구성 종목을 바꾼다. 코스피200지수와 코스닥150지수에 편입되면 외국인과 기관 자금 유입이 기대되지만, 동시에 주가 하락에 베팅하는 공매도 대상이 된다. 거래소 관계자는 “코스피200은 분할 등으로 그동안 202개 기업이었기 때문에 이번에 7곳을 제외하고 5곳만 지정했다”고 말했다.<br><br>이번 주요 지수 종목 변경은 6월 11일부터 적용된다. 이에 따라 대표 지수에서 제외되는 종목은 6월 10일까지만 공매도가 허용되고 11일부터는 빌려서 파는 것은 불가능하다. 증권 업계 관계자는 “지수 편출 종목의 경우 6월 11일부터 공매도는 금지되지만 기존 공매도 물량을 언제 사서 갚을지는 투자자 마음”이라고 말했다.<br><br>지난 11일 코스피에 상장된 SK IET는 시가총액이 10조원 넘는 초대형 종목이지만 상장한 지 6개월이 지나지 않아 이번 발표에서는 빠졌다.<br><br>[이경은 기자 diva@chosun.com]<br><br><br><br>	 <br>		▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=023" target="_blank">조선일보가 뽑은 뉴스, 확인해보세요</a><br>		▶ <a href="https://www.chosun.com/newsletter?utm_source=naver&utm_medium=referral&utm_campaign=naver-link2/" target="_blank">최고 기자들의 뉴스레터 받아보세요</a>	<br>		▶ <a href="https://news.chosun.com/csapp.html?utm_source=naver&utm_medium=referral&utm_campaign=naver-link3/" target="_blank">1등 신문 조선일보, 앱으로 편하게 보세요</a>	<br><br>	<br>	
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Charles & Colvard Ltd c.O>: 최대 2,500만 달러(약 2억 원)의 혼합 쉘프에 대한 찰스 & 콜바드 LTD 파일.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Charles & Colvard Ltd c.O>: 최대 2,500만 달러(약 2억 원)의 혼합 쉘프에 대한 찰스 & 콜바드 LTD 파일.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Charles & Colvard Ltd c.O>: 최대 2,500만 달러(약 2억 원)의 혼합 쉘프에 대한 찰스 & 콜바드 LTD 파일.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Charles & Colvard Ltd c.O>: 최대 2,500만 달러(약 2억 원)의 혼합 쉘프에 대한 찰스 & 콜바드 LTD 파일.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Charles & Colvard Ltd c.O>: 최대 2,500만 달러(약 2억 원)의 혼합 쉘프에 대한 찰스 & 콜바드 LTD 파일.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Charles & Colvard Ltd c.O>: 최대 2,500만 달러(약 2억 원)의 혼합 쉘프에 대한 찰스 & 콜바드 LTD 파일.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Charles & Colvard Ltd c.O>: 최대 2,500만 달러(약 2억 원)의 혼합 쉘프에 대한 찰스 & 콜바드 LTD 파일.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Charles & Colvard Ltd c.O>: 최대 2,500만 달러(약 2억 원)의 혼합 쉘프에 대한 찰스 & 콜바드 LTD 파일.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Charles & Colvard Ltd c.O>: 최대 2,500만 달러(약 2억 원)의 혼합 쉘프에 대한 찰스 & 콜바드 LTD 파일.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Charles & Colvard Ltd c.O>: 최대 2,500만 달러(약 2억 원)의 혼합 쉘프에 대한 찰스 & 콜바드 LTD 파일.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 로열 더치 셸 plc <RDSa.L>:프레스 릴리스 - 쉘은 앨라배마 정유소를 정점 에너지로 판매합니다.셸 - 모바일 정유 및 관련 공동 위치 물류 인프라의 판매에 대한 계약입니다.셸 - 거래 대가는 현금 7천 5백만 달러와 탄화수소 재고의 가치입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 로열 더치 셸 plc <RDSa.L>:프레스 릴리스 - 쉘은 앨라배마 정유소를 정점 에너지로 판매합니다.셸 - 모바일 정유 및 관련 공동 위치 물류 인프라의 판매에 대한 계약입니다.셸 - 거래 대가는 현금 7천 5백만 달러와 탄화수소 재고의 가치입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 로열 더치 셸 plc <RDSa.L>:프레스 릴리스 - 쉘은 앨라배마 정유소를 정점 에너지로 판매합니다.셸 - 모바일 정유 및 관련 공동 위치 물류 인프라의 판매에 대한 계약입니다.셸 - 거래 대가는 현금 7천 5백만 달러와 탄화수소 재고의 가치입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 로열 더치 셸 plc <RDSa.L>:프레스 릴리스 - 쉘은 앨라배마 정유소를 정점 에너지로 판매합니다.셸 - 모바일 정유 및 관련 공동 위치 물류 인프라의 판매에 대한 계약입니다.셸 - 거래 대가는 현금 7천 5백만 달러와 탄화수소 재고의 가치입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 로열 더치 셸 plc <RDSa.L>:프레스 릴리스 - 쉘은 앨라배마 정유소를 정점 에너지로 판매합니다.셸 - 모바일 정유 및 관련 공동 위치 물류 인프라의 판매에 대한 계약입니다.셸 - 거래 대가는 현금 7천 5백만 달러와 탄화수소 재고의 가치입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 로열 더치 셸 plc <RDSa.L>:프레스 릴리스 - 쉘은 앨라배마 정유소를 정점 에너지로 판매합니다.셸 - 모바일 정유 및 관련 공동 위치 물류 인프라의 판매에 대한 계약입니다.셸 - 거래 대가는 현금 7천 5백만 달러와 탄화수소 재고의 가치입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 로열 더치 셸 plc <RDSa.L>:프레스 릴리스 - 쉘은 앨라배마 정유소를 정점 에너지로 판매합니다.셸 - 모바일 정유 및 관련 공동 위치 물류 인프라의 판매에 대한 계약입니다.셸 - 거래 대가는 현금 7천 5백만 달러와 탄화수소 재고의 가치입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 로열 더치 셸 plc <RDSa.L>:프레스 릴리스 - 쉘은 앨라배마 정유소를 정점 에너지로 판매합니다.셸 - 모바일 정유 및 관련 공동 위치 물류 인프라의 판매에 대한 계약입니다.셸 - 거래 대가는 현금 7천 5백만 달러와 탄화수소 재고의 가치입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 로열 더치 셸 plc <RDSa.L>:프레스 릴리스 - 쉘은 앨라배마 정유소를 정점 에너지로 판매합니다.셸 - 모바일 정유 및 관련 공동 위치 물류 인프라의 판매에 대한 계약입니다.셸 - 거래 대가는 현금 7천 5백만 달러와 탄화수소 재고의 가치입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 로열 더치 셸 plc <RDSa.L>:프레스 릴리스 - 쉘은 앨라배마 정유소를 정점 에너지로 판매합니다.셸 - 모바일 정유 및 관련 공동 위치 물류 인프라의 판매에 대한 계약입니다.셸 - 거래 대가는 현금 7천 5백만 달러와 탄화수소 재고의 가치입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 엘프 뷰티 주식회사.N>:Q4 조정 주당 이익 $0.71.Q4 GAAP 주당 이익 $0.00.4분기 매출액은 9,270만 달러이며, 매출액은 8,240만 달러이다.Q4 주당순이익 추정치 0.10달러 - 참고 자료.2022년 순매출액 3억 4300만~3억 5000만 달러 예상2022년 조정 희석 주당 이익 $0.64-0.67을 참조한다.FY2022 주당순이익 보기 0.71달러, 매출 보기 3억3430만 달러 - 참조 데이터.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 엘프 뷰티 주식회사.N>:Q4 조정 주당 이익 $0.71.Q4 GAAP 주당 이익 $0.00.4분기 매출액은 9,270만 달러이며, 매출액은 8,240만 달러이다.Q4 주당순이익 추정치 0.10달러 - 참고 자료.2022년 순매출액 3억 4300만~3억 5000만 달러 예상2022년 조정 희석 주당 이익 $0.64-0.67을 참조한다.FY2022 주당순이익 보기 0.71달러, 매출 보기 3억3430만 달러 - 참조 데이터.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 엘프 뷰티 주식회사.N>:Q4 조정 주당 이익 $0.71.Q4 GAAP 주당 이익 $0.00.4분기 매출액은 9,270만 달러이며, 매출액은 8,240만 달러이다.Q4 주당순이익 추정치 0.10달러 - 참고 자료.2022년 순매출액 3억 4300만~3억 5000만 달러 예상2022년 조정 희석 주당 이익 $0.64-0.67을 참조한다.FY2022 주당순이익 보기 0.71달러, 매출 보기 3억3430만 달러 - 참조 데이터.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 엘프 뷰티 주식회사.N>:Q4 조정 주당 이익 $0.71.Q4 GAAP 주당 이익 $0.00.4분기 매출액은 9,270만 달러이며, 매출액은 8,240만 달러이다.Q4 주당순이익 추정치 0.10달러 - 참고 자료.2022년 순매출액 3억 4300만~3억 5000만 달러 예상2022년 조정 희석 주당 이익 $0.64-0.67을 참조한다.FY2022 주당순이익 보기 0.71달러, 매출 보기 3억3430만 달러 - 참조 데이터.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 엘프 뷰티 주식회사.N>:Q4 조정 주당 이익 $0.71.Q4 GAAP 주당 이익 $0.00.4분기 매출액은 9,270만 달러이며, 매출액은 8,240만 달러이다.Q4 주당순이익 추정치 0.10달러 - 참고 자료.2022년 순매출액 3억 4300만~3억 5000만 달러 예상2022년 조정 희석 주당 이익 $0.64-0.67을 참조한다.FY2022 주당순이익 보기 0.71달러, 매출 보기 3억3430만 달러 - 참조 데이터.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 엘프 뷰티 주식회사.N>:Q4 조정 주당 이익 $0.71.Q4 GAAP 주당 이익 $0.00.4분기 매출액은 9,270만 달러이며, 매출액은 8,240만 달러이다.Q4 주당순이익 추정치 0.10달러 - 참고 자료.2022년 순매출액 3억 4300만~3억 5000만 달러 예상2022년 조정 희석 주당 이익 $0.64-0.67을 참조한다.FY2022 주당순이익 보기 0.71달러, 매출 보기 3억3430만 달러 - 참조 데이터.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 엘프 뷰티 주식회사.N>:Q4 조정 주당 이익 $0.71.Q4 GAAP 주당 이익 $0.00.4분기 매출액은 9,270만 달러이며, 매출액은 8,240만 달러이다.Q4 주당순이익 추정치 0.10달러 - 참고 자료.2022년 순매출액 3억 4300만~3억 5000만 달러 예상2022년 조정 희석 주당 이익 $0.64-0.67을 참조한다.FY2022 주당순이익 보기 0.71달러, 매출 보기 3억3430만 달러 - 참조 데이터.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 엘프 뷰티 주식회사.N>:Q4 조정 주당 이익 $0.71.Q4 GAAP 주당 이익 $0.00.4분기 매출액은 9,270만 달러이며, 매출액은 8,240만 달러이다.Q4 주당순이익 추정치 0.10달러 - 참고 자료.2022년 순매출액 3억 4300만~3억 5000만 달러 예상2022년 조정 희석 주당 이익 $0.64-0.67을 참조한다.FY2022 주당순이익 보기 0.71달러, 매출 보기 3억3430만 달러 - 참조 데이터.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 엘프 뷰티 주식회사.N>:Q4 조정 주당 이익 $0.71.Q4 GAAP 주당 이익 $0.00.4분기 매출액은 9,270만 달러이며, 매출액은 8,240만 달러이다.Q4 주당순이익 추정치 0.10달러 - 참고 자료.2022년 순매출액 3억 4300만~3억 5000만 달러 예상2022년 조정 희석 주당 이익 $0.64-0.67을 참조한다.FY2022 주당순이익 보기 0.71달러, 매출 보기 3억3430만 달러 - 참조 데이터.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - 엘프 뷰티 주식회사.N>:Q4 조정 주당 이익 $0.71.Q4 GAAP 주당 이익 $0.00.4분기 매출액은 9,270만 달러이며, 매출액은 8,240만 달러이다.Q4 주당순이익 추정치 0.10달러 - 참고 자료.2022년 순매출액 3억 4300만~3억 5000만 달러 예상2022년 조정 희석 주당 이익 $0.64-0.67을 참조한다.FY2022 주당순이익 보기 0.71달러, 매출 보기 3억3430만 달러 - 참조 데이터.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Boqii Holding Ltd. b.N>:BOQII는 4분기 및 2021 회계연도의 전체 재무 결과를 발표합니다.4분기 매출액은 2억 340만 파운드로 47.1% 증가했다.Qtrally 희석 주당 순손실은 RMB0.61 (US$0.09)이었다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Boqii Holding Ltd. b.N>:BOQII는 4분기 및 2021 회계연도의 전체 재무 결과를 발표합니다.4분기 매출액은 2억 340만 파운드로 47.1% 증가했다.Qtrally 희석 주당 순손실은 RMB0.61 (US$0.09)이었다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Boqii Holding Ltd. b.N>:BOQII는 4분기 및 2021 회계연도의 전체 재무 결과를 발표합니다.4분기 매출액은 2억 340만 파운드로 47.1% 증가했다.Qtrally 희석 주당 순손실은 RMB0.61 (US$0.09)이었다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Boqii Holding Ltd. b.N>:BOQII는 4분기 및 2021 회계연도의 전체 재무 결과를 발표합니다.4분기 매출액은 2억 340만 파운드로 47.1% 증가했다.Qtrally 희석 주당 순손실은 RMB0.61 (US$0.09)이었다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Boqii Holding Ltd. b.N>:BOQII는 4분기 및 2021 회계연도의 전체 재무 결과를 발표합니다.4분기 매출액은 2억 340만 파운드로 47.1% 증가했다.Qtrally 희석 주당 순손실은 RMB0.61 (US$0.09)이었다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Boqii Holding Ltd. b.N>:BOQII는 4분기 및 2021 회계연도의 전체 재무 결과를 발표합니다.4분기 매출액은 2억 340만 파운드로 47.1% 증가했다.Qtrally 희석 주당 순손실은 RMB0.61 (US$0.09)이었다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Boqii Holding Ltd. b.N>:BOQII는 4분기 및 2021 회계연도의 전체 재무 결과를 발표합니다.4분기 매출액은 2억 340만 파운드로 47.1% 증가했다.Qtrally 희석 주당 순손실은 RMB0.61 (US$0.09)이었다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Boqii Holding Ltd. b.N>:BOQII는 4분기 및 2021 회계연도의 전체 재무 결과를 발표합니다.4분기 매출액은 2억 340만 파운드로 47.1% 증가했다.Qtrally 희석 주당 순손실은 RMB0.61 (US$0.09)이었다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Boqii Holding Ltd. b.N>:BOQII는 4분기 및 2021 회계연도의 전체 재무 결과를 발표합니다.4분기 매출액은 2억 340만 파운드로 47.1% 증가했다.Qtrally 희석 주당 순손실은 RMB0.61 (US$0.09)이었다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Boqii Holding Ltd. b.N>:BOQII는 4분기 및 2021 회계연도의 전체 재무 결과를 발표합니다.4분기 매출액은 2억 340만 파운드로 47.1% 증가했다.Qtrally 희석 주당 순손실은 RMB0.61 (US$0.09)이었다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Alphamab Oncology < 9966.홍콩>: 쑤저우 알파맙과 기술 개발 협력을 발표합니다.JSKN003 프로젝트 및 KN062 COVID-19 항체 프로젝트에 대한 쑤저우 알파맙과의 협업.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Alphamab Oncology < 9966.홍콩>: 쑤저우 알파맙과 기술 개발 협력을 발표합니다.JSKN003 프로젝트 및 KN062 COVID-19 항체 프로젝트에 대한 쑤저우 알파맙과의 협업.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Alphamab Oncology < 9966.홍콩>: 쑤저우 알파맙과 기술 개발 협력을 발표합니다.JSKN003 프로젝트 및 KN062 COVID-19 항체 프로젝트에 대한 쑤저우 알파맙과의 협업.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Alphamab Oncology < 9966.홍콩>: 쑤저우 알파맙과 기술 개발 협력을 발표합니다.JSKN003 프로젝트 및 KN062 COVID-19 항체 프로젝트에 대한 쑤저우 알파맙과의 협업.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Alphamab Oncology < 9966.홍콩>: 쑤저우 알파맙과 기술 개발 협력을 발표합니다.JSKN003 프로젝트 및 KN062 COVID-19 항체 프로젝트에 대한 쑤저우 알파맙과의 협업.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Alphamab Oncology < 9966.홍콩>: 쑤저우 알파맙과 기술 개발 협력을 발표합니다.JSKN003 프로젝트 및 KN062 COVID-19 항체 프로젝트에 대한 쑤저우 알파맙과의 협업.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Alphamab Oncology < 9966.홍콩>: 쑤저우 알파맙과 기술 개발 협력을 발표합니다.JSKN003 프로젝트 및 KN062 COVID-19 항체 프로젝트에 대한 쑤저우 알파맙과의 협업.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Alphamab Oncology < 9966.홍콩>: 쑤저우 알파맙과 기술 개발 협력을 발표합니다.JSKN003 프로젝트 및 KN062 COVID-19 항체 프로젝트에 대한 쑤저우 알파맙과의 협업.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Alphamab Oncology < 9966.홍콩>: 쑤저우 알파맙과 기술 개발 협력을 발표합니다.JSKN003 프로젝트 및 KN062 COVID-19 항체 프로젝트에 대한 쑤저우 알파맙과의 협업.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 26일 (로이터) - Alphamab Oncology < 9966.홍콩>: 쑤저우 알파맙과 기술 개발 협력을 발표합니다.JSKN003 프로젝트 및 KN062 COVID-19 항체 프로젝트에 대한 쑤저우 알파맙과의 협업.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 25일 (로이터) - Paymentus Holdings Inc <PAY.N>:Paymentus는 최초 공개 제품의 가격을 발표합니다.지불수단 - 자사 등급 보통주 1,000,000주를 주당 21.00달러의 가격으로 최초 공모주 가격을 공시한다.주식은 5월 26일부터 뉴욕 증권거래소에서 "결제"라는 표기로 거래를 시작할 것으로 예상됩니다.오퍼링은 5월 28일에 마감될 예정입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 25일 (로이터) - Paymentus Holdings Inc <PAY.N>:Paymentus는 최초 공개 제품의 가격을 발표합니다.지불수단 - 자사 등급 보통주 1,000,000주를 주당 21.00달러의 가격으로 최초 공모주 가격을 공시한다.주식은 5월 26일부터 뉴욕 증권거래소에서 "결제"라는 표기로 거래를 시작할 것으로 예상됩니다.오퍼링은 5월 28일에 마감될 예정입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 25일 (로이터) - Paymentus Holdings Inc <PAY.N>:Paymentus는 최초 공개 제품의 가격을 발표합니다.지불수단 - 자사 등급 보통주 1,000,000주를 주당 21.00달러의 가격으로 최초 공모주 가격을 공시한다.주식은 5월 26일부터 뉴욕 증권거래소에서 "결제"라는 표기로 거래를 시작할 것으로 예상됩니다.오퍼링은 5월 28일에 마감될 예정입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 25일 (로이터) - Paymentus Holdings Inc <PAY.N>:Paymentus는 최초 공개 제품의 가격을 발표합니다.지불수단 - 자사 등급 보통주 1,000,000주를 주당 21.00달러의 가격으로 최초 공모주 가격을 공시한다.주식은 5월 26일부터 뉴욕 증권거래소에서 "결제"라는 표기로 거래를 시작할 것으로 예상됩니다.오퍼링은 5월 28일에 마감될 예정입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 25일 (로이터) - Paymentus Holdings Inc <PAY.N>:Paymentus는 최초 공개 제품의 가격을 발표합니다.지불수단 - 자사 등급 보통주 1,000,000주를 주당 21.00달러의 가격으로 최초 공모주 가격을 공시한다.주식은 5월 26일부터 뉴욕 증권거래소에서 "결제"라는 표기로 거래를 시작할 것으로 예상됩니다.오퍼링은 5월 28일에 마감될 예정입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 25일 (로이터) - Paymentus Holdings Inc <PAY.N>:Paymentus는 최초 공개 제품의 가격을 발표합니다.지불수단 - 자사 등급 보통주 1,000,000주를 주당 21.00달러의 가격으로 최초 공모주 가격을 공시한다.주식은 5월 26일부터 뉴욕 증권거래소에서 "결제"라는 표기로 거래를 시작할 것으로 예상됩니다.오퍼링은 5월 28일에 마감될 예정입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 25일 (로이터) - Paymentus Holdings Inc <PAY.N>:Paymentus는 최초 공개 제품의 가격을 발표합니다.지불수단 - 자사 등급 보통주 1,000,000주를 주당 21.00달러의 가격으로 최초 공모주 가격을 공시한다.주식은 5월 26일부터 뉴욕 증권거래소에서 "결제"라는 표기로 거래를 시작할 것으로 예상됩니다.오퍼링은 5월 28일에 마감될 예정입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 25일 (로이터) - Paymentus Holdings Inc <PAY.N>:Paymentus는 최초 공개 제품의 가격을 발표합니다.지불수단 - 자사 등급 보통주 1,000,000주를 주당 21.00달러의 가격으로 최초 공모주 가격을 공시한다.주식은 5월 26일부터 뉴욕 증권거래소에서 "결제"라는 표기로 거래를 시작할 것으로 예상됩니다.오퍼링은 5월 28일에 마감될 예정입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 25일 (로이터) - Paymentus Holdings Inc <PAY.N>:Paymentus는 최초 공개 제품의 가격을 발표합니다.지불수단 - 자사 등급 보통주 1,000,000주를 주당 21.00달러의 가격으로 최초 공모주 가격을 공시한다.주식은 5월 26일부터 뉴욕 증권거래소에서 "결제"라는 표기로 거래를 시작할 것으로 예상됩니다.오퍼링은 5월 28일에 마감될 예정입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	5월 25일 (로이터) - Paymentus Holdings Inc <PAY.N>:Paymentus는 최초 공개 제품의 가격을 발표합니다.지불수단 - 자사 등급 보통주 1,000,000주를 주당 21.00달러의 가격으로 최초 공모주 가격을 공시한다.주식은 5월 26일부터 뉴욕 증권거래소에서 "결제"라는 표기로 거래를 시작할 것으로 예상됩니다.오퍼링은 5월 28일에 마감될 예정입니다.
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

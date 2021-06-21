@@ -1,0 +1,83 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong style="display:block;overflow:hidden;position:relative;margin:33px 20px 10px 3px;padding-left:11px;font-weight:bold;border-left: 2px solid #141414;">유명희, 오타와 그룹 통상장관 회의서 발언…"논의엔 적극 참여"</strong><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052701710001300_P4_20210527142414052.jpg?type=w647" alt="" /><em class="img_desc">WTO 오타와그룹 통상장관회의<br>(서울=연합뉴스) 유명희 산업통상자원부 통상교섭본부장(윗줄 왼쪽 첫번째)이 지난 26일 저녁 서울 대한상공회의소 영상회의실에서 응고지 오콘조-이웰라 세계무역기구(WTO) 사무총장을 비롯한 14개국 오타와그룹 회원국 통상장관이 화상으로 참석한 가운데 열린 'WTO 오타와그룹 통상장관회의'에 참석해 있다. 2021.5.27 <br>    [산업통상자원부 제공. 재판매 및 DB 금지] photo@yna.co.kr</em></span><br><br>    (서울=연합뉴스) 윤보람 기자 = 유명희 산업통상자원부 통상교섭본부장은 26일 세계무역기구(WTO)의 코로나19 백신 관련 지식재산권(지재권) 유예 논의에 대해 "지재권 보호제도는 혁신의 근간으로 존중돼야 하는 것이 원칙"이라고 말했다.<br><br>    유 본부장은 이날 오후 화상으로 열린 오타와 그룹 통상장관 회의에서 보건 의제를 집중 논의하며 이런 입장을 전달했다고 산업부가 밝혔다.<br><br>    유 본부장은 다만 "(지재권 유예) 관련 논의에 건설적으로 참여하면서 글로벌 백신 생산 증대 방안을 적극 모색하겠다"고 말했다.<br><br>    이어 "기술 이전, 백신 원료의 원활한 공급, 국제 백신 프로젝트 코백스(COVAX) 협력 등과 관련해 전 세계적인 공조를 병행할 필요가 있다"고 강조했다.<br><br>    산업부에 따르면 현재 백신·치료제·진단기기 등 의료품목 전반의 생산 확대를 위해 WTO 지재권 협정(TRIPS)을 일시 유예하는 방안을 두고 선진국은 반대를, 개도국은 지지를 표명하는 등 이견이 계속되고 있다.<br><br>    미국이 최근 코로나19 백신에 대한 지재권 일시 유예를 지지하기로 입장을 바꾸면서 관련 논의가 탄력을 받을 것이라는 전망이 나오지만, 일부 개도국들은 광범위한 지재권 유예를 주장하는 상황이다.<br><br>    이번 회의에서 유 본부장은 코로나19 백신의 전 세계적 생산·공급 확대를 위해 우리나라가 기여한 점을 소개했다.<br><br>    그는 "최근 한미 정상회담에서 합의된 '한미 글로벌 백신 파트너십'으로 한국이 글로벌 백신 허브로 도약할 기반이 마련됐다"며 "세계 2위의 바이오의약품 생산 역량을 활용해 전 세계 백신 공급 확대에 적극 기여하겠다"고 밝혔다.<br><br>    아울러 유 본부장은 최근 오타와 그룹의 '무역과 보건 이니셔티브'에 중국, 우루과이 등 10개 회원국이 추가로 참여한 점을 높이 평가했다.<br><br>    그러면서 "앞으로도 필수 의료물품에 대한 불필요한 수출제한 조치를 자제하고 보다 많은 회원국이 이니셔티브에 동참하도록 독려해야 할 것"이라고 말했다.<br><br>    오타와 그룹은 WTO 개혁을 논의하는 WTO 내 소그룹 모임이다. 우리나라를 비롯해 캐나다, 호주, 싱가포르, 칠레, 유럽연합(EU), 영국 등 총 14개 회원국으로 구성됐다.<br><br>    bryoon@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong style="display:block;overflow:hidden;position:relative;margin:33px 20px 10px 3px;padding-left:11px;font-weight:bold;border-left: 2px solid #141414;">유명희, 오타와 그룹 통상장관 회의서 발언…"논의엔 적극 참여"</strong><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052701710001300_P4_20210527142414052.jpg?type=w647" alt="" /><em class="img_desc">WTO 오타와그룹 통상장관회의<br>(서울=연합뉴스) 유명희 산업통상자원부 통상교섭본부장(윗줄 왼쪽 첫번째)이 지난 26일 저녁 서울 대한상공회의소 영상회의실에서 응고지 오콘조-이웰라 세계무역기구(WTO) 사무총장을 비롯한 14개국 오타와그룹 회원국 통상장관이 화상으로 참석한 가운데 열린 'WTO 오타와그룹 통상장관회의'에 참석해 있다. 2021.5.27 <br>    [산업통상자원부 제공. 재판매 및 DB 금지] photo@yna.co.kr</em></span><br><br>    (서울=연합뉴스) 윤보람 기자 = 유명희 산업통상자원부 통상교섭본부장은 26일 세계무역기구(WTO)의 코로나19 백신 관련 지식재산권(지재권) 유예 논의에 대해 "지재권 보호제도는 혁신의 근간으로 존중돼야 하는 것이 원칙"이라고 말했다.<br><br>    유 본부장은 이날 오후 화상으로 열린 오타와 그룹 통상장관 회의에서 보건 의제를 집중 논의하며 이런 입장을 전달했다고 산업부가 밝혔다.<br><br>    유 본부장은 다만 "(지재권 유예) 관련 논의에 건설적으로 참여하면서 글로벌 백신 생산 증대 방안을 적극 모색하겠다"고 말했다.<br><br>    이어 "기술 이전, 백신 원료의 원활한 공급, 국제 백신 프로젝트 코백스(COVAX) 협력 등과 관련해 전 세계적인 공조를 병행할 필요가 있다"고 강조했다.<br><br>    산업부에 따르면 현재 백신·치료제·진단기기 등 의료품목 전반의 생산 확대를 위해 WTO 지재권 협정(TRIPS)을 일시 유예하는 방안을 두고 선진국은 반대를, 개도국은 지지를 표명하는 등 이견이 계속되고 있다.<br><br>    미국이 최근 코로나19 백신에 대한 지재권 일시 유예를 지지하기로 입장을 바꾸면서 관련 논의가 탄력을 받을 것이라는 전망이 나오지만, 일부 개도국들은 광범위한 지재권 유예를 주장하는 상황이다.<br><br>    이번 회의에서 유 본부장은 코로나19 백신의 전 세계적 생산·공급 확대를 위해 우리나라가 기여한 점을 소개했다.<br><br>    그는 "최근 한미 정상회담에서 합의된 '한미 글로벌 백신 파트너십'으로 한국이 글로벌 백신 허브로 도약할 기반이 마련됐다"며 "세계 2위의 바이오의약품 생산 역량을 활용해 전 세계 백신 공급 확대에 적극 기여하겠다"고 밝혔다.<br><br>    아울러 유 본부장은 최근 오타와 그룹의 '무역과 보건 이니셔티브'에 중국, 우루과이 등 10개 회원국이 추가로 참여한 점을 높이 평가했다.<br><br>    그러면서 "앞으로도 필수 의료물품에 대한 불필요한 수출제한 조치를 자제하고 보다 많은 회원국이 이니셔티브에 동참하도록 독려해야 할 것"이라고 말했다.<br><br>    오타와 그룹은 WTO 개혁을 논의하는 WTO 내 소그룹 모임이다. 우리나라를 비롯해 캐나다, 호주, 싱가포르, 칠레, 유럽연합(EU), 영국 등 총 14개 회원국으로 구성됐다.<br><br>    bryoon@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">가치소비 확산으로 동물복지 정육 수요 확대</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000753686_web_20210526094407_20210526101505185.jpg?type=w647" alt="" /></span><br><br>[서울=뉴시스] 이종희 기자 = 현대백화점이 가치소비를 중요시하는 최근 트렌드를 겨냥해 동물복지 인증 품목을 돼지고기, 닭고기, 계란에 이어 한우로도 확대한다. <br><br>현대백화점은 오는 28일부터 압구정본점 등 전국 8개 점포 식품관에서 '국내 1호 동물복지 인증 한우'를 유통업계에서 처음으로 선보인다고 26일 밝혔다.<br><br>국내 첫 동물복지축산 한우농장으로 인증받은 만희농장(전라남도 해남군 소재)에서 키운 한우다. <br><br>'동물복지축산농장 인증제도'는 동물이 본래의 습성을 유지하면서 살도록 관리하며 동물 복지를 증진한 축산농장을 농림축산검역본부가 인증한다.<br><br>지난 2012년 처음 도입된 이후 현재까지 인증을 받은 300여 농가 가운데 한우농장은 만희농장이 처음이다. 동물복지축산 한우농장으로 인증받기 위해서는 일반 한우 대비 2.8배 넓은 사육 면적, 소 전용 운동장 등을 마련해야 하는 등 기준이 엄격하다. <br><br>이번에 선보이는 만희농장의 한우는 유기농 사료만 먹여 일반적인 한우보다 본연의 육향이 진하다. 구이용 등심·안심·채끝 등을 비롯해 국거리·불고기류 등 10여 부위가 판매된다. 판매 가격은 1++ 등급 기준 등심·채끝(100g) 3만600원, 안심(100g) 3만1100원 등이다. 기존 백화점 식품관에서 판매중인 한우와 비교해 30~40% 높다.<br><br>현대백화점이 '동물복지 인증 한우' 판매에 나서는 이유는 최근 가치소비가 트렌드로 떠오르면서 동물복지 인증을 받은 상품에 대한 수요가 가파르게 늘고 있기 때문이다. 실제로 현대백화점의 지난해 동물복지 인증을 받은 돼지고기와 닭고기 매출은 지난 2019년과 비교해 253.1% 증가했고, 올해 매출도 지난해 같은 기간 대비 40% 이상 늘었다. <br><br>현대백화점 관계자는 "코로나19 장기화 등으로 친환경 식품에 대한 수요가 늘면서, 단순한 유기농을 넘어 사육 환경까지 철저하게 따지는 고객들이 늘었다"며 "앞으로도 동물복지 인증 정육 상품을 지속적으로 확대하는 등, 가치있고 다양한 상품을 고객들에게 선보이기 위해 힘쓸 것"이라고 말했다.<br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> 2papers@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

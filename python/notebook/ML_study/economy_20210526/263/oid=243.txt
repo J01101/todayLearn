@@ -1,0 +1,187 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">미국 정재계 인사 만나 ‘ESG 경영’ 설파<br>SK이노, 탄소포집·저장(CSS) 사업 수행<br>美 배터리 공장 1000명 추가 채용 계획<br>SK텔레콤 인적분할… 지배구조 개편도</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/081/2021/05/26/0003189282_001_20210526181602692.jpg?type=w647" alt="" /><em class="img_desc">최태원 SK그룹 회장</em></span>‘딥체인지’(근본적 변화)와 ‘구성원의 행복’을 설파해 온 최태원 SK그룹 회장이 요즘 ‘ESG 전도사’로 변신했다. ESG는 환경·사회·지배구조의 약자로 기업이 추구해야 할 3가지 분야를 뜻한다. 최 회장이 이끄는 SK그룹도 ESG 경영의 핵심 실천 사항인 친환경 사업에 대한 투자 확대를 본격화했다.<br><br>26일 재계에 따르면 최근 한미 정상회담 경제사절단 대표 자격으로 미국을 방문한 최 회장은 미국 정재계 핵심 인사들과 만나 “ESG 경영이 기후변화, 소득격차, 인구감소라는 전 지구적 문제를 해결할 해법”이라고 강조했다. 미국 측 인사들은 최 회장의 ESG 경영 철학에 공감을 표한 것은 물론, ESG 가치를 향한 최 회장의 열정에 엄지를 치켜세운 것으로 전해졌다.<br><br><!-- MobileAdNew center -->최 회장은 이번 미국 순방길에 SK이노베이션과 포드의 전기차 배터리 합작법인 ‘블루오벌SK’ 설립 계약을 성사시켰다. 한미 양국이 전기차 배터리 사업에 동맹을 맺은 건 ESG 가운데 ‘환경’(Environment) 분야 실천에 해당한다. 조 바이든 대통령이 최 회장을 비롯한 국내 4대 그룹 대표단을 향해 “생큐”를 세 번 외친 것도 국내 기업의 ‘ESG 투자’에 대한 감사의 표현이라 할 수 있다.<br><br>SK그룹은 최 회장의 ‘ESG 열정’에 부응하고자 ESG 이행 작업에 나섰다. SK이노베이션은 이날 한국석유공사와 동해가스전을 활용한 ‘탄소 포집 및 저장’(CCS) 실증 모델을 개발하는 국책과제를 함께 수행한다는 협약을 체결했다. CCS는 지구 온난화 주범인 이산화탄소를 발생단계에서 포집해 제거하는 기술이다.<br><br>SK이노베이션과 SK에너지는 울산 산업시설에서 이산화탄소 포집 기술 관련 모델을 개발하고, 한국석유공사는 이산화탄소 이송·저장 모델 개발에 참여한다. 이성준 SK이노베이션 환경기술원장은 “CCS 기술은 에너지 소비가 많은 산업계에서 이산화탄소 감축을 위한 필수 조건”이라면서 “최적의 CCS 기술을 확보해 ESG 경영 가속화에 힘쓸 것”이라고 말했다.<br><br>아울러 SK이노베이션은 미국 조지아주에 짓는 전기차 배터리 공장에 1000명의 노동자를 올해 안으로 추가 채용하겠다고 밝혔다. 일자리 확대는 ESG 가운데 ‘사회’(Social) 분야를 실천하는 일이다.<br><br>앞서 SK그룹 지주사 SK㈜와 SK머티리얼즈, SKC, SK실트론 등 4사는 각각 100억엔(약 1025억원)씩 총 400억엔(약 4100억원)을 출자해 ‘SK 일본 투자법인’을 설립한다고 공시했다. 최 회장의 의지가 반영된 이 법인은 다양한 ESG 실천 사업에 재무적 투자자로 참여한다.<br><br>최 회장은 ESG의 마지막 퍼즐인 ‘지배구조’(Governance) 개편도 추진한다. SK텔레콤은 인적분할을 통해 쪼개진 두 법인을 연내 재상장하는 방안을 추진하고 있다. 통신분야와 비통신분야를 둘로 나눠 통신업과 반도체·신사업 분야의 경쟁력을 동시에 높이기 위한 의도다. SK하이닉스에 대한 투자가 신속하게 이뤄지도록 지분 구조를 개편해 신규 반도체 사업 진출에 속도를 내려는 목적도 있다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">미국 정재계 인사 만나 ‘ESG 경영’ 설파<br>SK이노, 탄소포집·저장(CSS) 사업 수행<br>美 배터리 공장 1000명 추가 채용 계획<br>SK텔레콤 인적분할… 지배구조 개편도</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/081/2021/05/26/0003189282_001_20210526181602692.jpg?type=w647" alt="" /><em class="img_desc">최태원 SK그룹 회장</em></span>‘딥체인지’(근본적 변화)와 ‘구성원의 행복’을 설파해 온 최태원 SK그룹 회장이 요즘 ‘ESG 전도사’로 변신했다. ESG는 환경·사회·지배구조의 약자로 기업이 추구해야 할 3가지 분야를 뜻한다. 최 회장이 이끄는 SK그룹도 ESG 경영의 핵심 실천 사항인 친환경 사업에 대한 투자 확대를 본격화했다.<br><br>26일 재계에 따르면 최근 한미 정상회담 경제사절단 대표 자격으로 미국을 방문한 최 회장은 미국 정재계 핵심 인사들과 만나 “ESG 경영이 기후변화, 소득격차, 인구감소라는 전 지구적 문제를 해결할 해법”이라고 강조했다. 미국 측 인사들은 최 회장의 ESG 경영 철학에 공감을 표한 것은 물론, ESG 가치를 향한 최 회장의 열정에 엄지를 치켜세운 것으로 전해졌다.<br><br><!-- MobileAdNew center -->최 회장은 이번 미국 순방길에 SK이노베이션과 포드의 전기차 배터리 합작법인 ‘블루오벌SK’ 설립 계약을 성사시켰다. 한미 양국이 전기차 배터리 사업에 동맹을 맺은 건 ESG 가운데 ‘환경’(Environment) 분야 실천에 해당한다. 조 바이든 대통령이 최 회장을 비롯한 국내 4대 그룹 대표단을 향해 “생큐”를 세 번 외친 것도 국내 기업의 ‘ESG 투자’에 대한 감사의 표현이라 할 수 있다.<br><br>SK그룹은 최 회장의 ‘ESG 열정’에 부응하고자 ESG 이행 작업에 나섰다. SK이노베이션은 이날 한국석유공사와 동해가스전을 활용한 ‘탄소 포집 및 저장’(CCS) 실증 모델을 개발하는 국책과제를 함께 수행한다는 협약을 체결했다. CCS는 지구 온난화 주범인 이산화탄소를 발생단계에서 포집해 제거하는 기술이다.<br><br>SK이노베이션과 SK에너지는 울산 산업시설에서 이산화탄소 포집 기술 관련 모델을 개발하고, 한국석유공사는 이산화탄소 이송·저장 모델 개발에 참여한다. 이성준 SK이노베이션 환경기술원장은 “CCS 기술은 에너지 소비가 많은 산업계에서 이산화탄소 감축을 위한 필수 조건”이라면서 “최적의 CCS 기술을 확보해 ESG 경영 가속화에 힘쓸 것”이라고 말했다.<br><br>아울러 SK이노베이션은 미국 조지아주에 짓는 전기차 배터리 공장에 1000명의 노동자를 올해 안으로 추가 채용하겠다고 밝혔다. 일자리 확대는 ESG 가운데 ‘사회’(Social) 분야를 실천하는 일이다.<br><br>앞서 SK그룹 지주사 SK㈜와 SK머티리얼즈, SKC, SK실트론 등 4사는 각각 100억엔(약 1025억원)씩 총 400억엔(약 4100억원)을 출자해 ‘SK 일본 투자법인’을 설립한다고 공시했다. 최 회장의 의지가 반영된 이 법인은 다양한 ESG 실천 사업에 재무적 투자자로 참여한다.<br><br>최 회장은 ESG의 마지막 퍼즐인 ‘지배구조’(Governance) 개편도 추진한다. SK텔레콤은 인적분할을 통해 쪼개진 두 법인을 연내 재상장하는 방안을 추진하고 있다. 통신분야와 비통신분야를 둘로 나눠 통신업과 반도체·신사업 분야의 경쟁력을 동시에 높이기 위한 의도다. SK하이닉스에 대한 투자가 신속하게 이뤄지도록 지분 구조를 개편해 신규 반도체 사업 진출에 속도를 내려는 목적도 있다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">지난해 시범수출 이후 대표 수출 농산물로 육성<br>올해 1000t, 7억 원 규모 수출 목표…농가 소득창출 기여</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000754300_web_20210526172553_20210526173407803.jpg?type=w647" alt="" /><em class="img_desc">[포항=뉴시스] 강진구 기자 = 경북 포항시는 오는 6월 3일 청정 죽장지역에서 생산된 ‘봄 배추’를 대만으로 1차분 16t을 수출한다고 26일 밝혔다.사진은 이날 오전 봄 배추 출하 전경.(사진=포항시 제공) 2021.05.26.photo@newsis.com *재판매 및 DB 금지</em></span>[포항=뉴시스] 강진구 기자 = 경북 포항시는 오는 6월 3일 청정 죽장지역에서 생산된 ‘봄 배추’를 대만으로 1차분 16t을 수출한다고 26일 밝혔다.<br><br>시는 지난해 11월 캐나다와 홍콩으로 가을 배추 38t을 시범 수출한 이래 올해는 계약재배 물량 1000t(7억 원)을 대만·미국·캐나다·홍콩 등지로 수출할 예정이다.<br><br>우선 오는 6월 3일 1차분 16t의 배추를 대만으로 수출한다. 오는 2022년부터는 매년 1200t 이상을 수출할 계획이다.<br><br>이에 시는 계약재배를 통한 안정적인 공급이 이뤄져 농가소득 창출에 이바지 할 것으로 기대하고 있다.<br><br>죽장지역에서 재배되는 배추는 밤낮의 기온차가 커 육질이 단단하고 식감이 좋으며 상품이 균일해 수출경쟁력이 높은 것으로 조사됐다.  <br><br>죽장면 상옥리 일원에서 5월 출하되는 ‘봄 배추’는 시설 토마토 전작이고,  노지에서 재배와 생산되는 양배추는 오는 11월에 출하되는 ‘가을배추’의 전작 농산물이다.<br><br>배성규 시 농식품유통과장은 “죽장지역 대표작물인 배추, 양배추, 토마토를 지역특화 작물로 육성하며 수출 확대를 위해 노력하고 있다”며 “올해 대규모 수출이 예상되는 ‘죽장 배추’는 경쟁력이 높은 만큼 수출이 대폭 확대될 수 있도록 역량을 집중해 수출전문단지로 육성해 나가겠다”고 말했다.<br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> dr.kang@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/AKR20210526150700002_01_i_P4_20210526172112093.jpg?type=w647" alt="" /><em class="img_desc">에이디엠코리아<br>[서울IR 제공]</em></span><br><br>    (서울=연합뉴스) 김아람 기자 = 임상시험수탁기관(CRO) 기업 에이디엠코리아는 일반 공모 청약 경쟁률이 2천345.40대 1로 집계됐다고 26일 밝혔다.<br><br>    증거금은 약 5조133억원을 기록했다.<br><br>    에이디엠코리아는 다음 달 3일 코스닥시장에 상장한다. 공모가는 3천800원이다.<br><br>    강준모 에이디엠코리아 대표는 "상장 후에도 높은 재무 안정성을 기반으로 아시아 대표 CRO가 되도록 최선을 다할 것"이라고 말했다.<br><br>    rice@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/021/2021/05/26/0002472412_001_20210526170103967.jpg?type=w647" alt="" /></span><br><br> LG이노텍(대표 정철동·사진)은 글로벌 자동차 업체인 재규어랜드로버로부터 ‘품질 인증(Jaguar Land Rover Quality Certificate)’을 획득했다고 26일 밝혔다. 프리미엄 브랜드를 지향하는 재규어랜드로버의 품질 인증은 부품 업계 사이에서 까다롭기로 정평이 나 있다. LG이노텍은 2017년부터 재규어랜드로버에 ‘DC-DC(직류-직류) 컨버터’를 공급해 왔는데 품질 인증을 받은 것은 이번이 처음이다. DC-DC 컨버터는 배터리에서 나오는 고압의 직류 전력을 차량 내부 장치에 적합한 저압 직류로 바꿔주는 부품이다.LG이노텍 관계자는 “품질 인증 획득을 계기로 전장부품의 글로벌 품질 경쟁력을 세계 시장에 다시 한번 확고히 입증했다”고 말했다. <br><br>장병철 기자 jjangbeng@munhwa.com<br><br><b>[ <a href="http://www.munhwa.com" target="_blank">문화닷컴</a> | <a href="http://media.naver.com/channel/promotion.nhn?oid=021" target="_blank">네이버 뉴스 채널 구독</a> | <a href="http://m.munhwa.com" target="_blank">모바일 웹</a> | <a href="https://m.post.naver.com/lustforlife1073" target="_blank">슬기로운 문화생활</a> ]</b><br><br><br>[Copyrightⓒmunhwa.com '대한민국 오후를 여는 유일석간 문화일보' 무단 전재 및 재배포 금지(<a href="http://www.munhwa.com/service/gudok_request.html" target="_blank">구독신청:02)3701-5555</a>)]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104609_001_20210526154801709.jpg?type=w647" alt="" /><em class="img_desc">한 유통업체의 면접 모습. 뉴시스</em></span>        <span class="mask"></span>              </div>                        </div>           <br>   신종 코로나바이러스 감염증(코로나19) 여파로 국내 대기업 직원(정규직)들의 고용 희비가 엇갈린 것으로 나타났다. 코로나19 타격을 입은 롯데쇼핑은 직원 2700여명을 줄였고, 비대면 여가ㆍ근로 확산에 따라 코웨이는 1700여 명을 늘렸다.   <br>      <br>   26일 기업평가사이트 CEO스코어는 국내 500대 기업 정규직 증감수를 집계했다. 이 가운데 직원수가 공개된 회사 309곳을 대상으로 2019년 4분기와 올해 1분기의 고용 현황을 비교했다. 코로나19가 확산되기 시작한 게 2020년 1분기였다는 점을 감안해 시기를 정한 것이다.  <br>      <br>   이 조사에 따르면 직원수가 가장 크게 감소한 회사는 롯데쇼핑(-2768명)이다. GS리테일도 직원수가 2678명 줄었다. 감소 비율은 각각 11%와 31%다. 유통업종의 평균 직원수 감소폭은 7.6%에 이른다. 지난해 재무구조 개선 작업을 거친 두산중공업은 1366명(-23.1%)의 직원이 줄었다. 정부의 탈원전 정책으로 영업이익에 타격을 입은 영향도 있다는 게 해석도 업계에서 나온다.  <br>      <br>           <div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104609_002_20210526154801733.jpg?type=w647" alt="" /><em class="img_desc">서울 성동구 희망일자리센터에 걸린 구인정보. 뉴시스</em></span>        <span class="mask"></span>              </div>                        </div>           <br>   현대자동차는 2019년 4분기(1조1643억원)에 비해 올해 1분기(1조6566억원) 영업이익이 증가했지만, 같은 기간 직원수는 1303명(-2.0%) 줄었다. 기아도 933명(-2.7%)이 감소한 것으로 나타났다. 자동차업계 관계자는 “공장 자동화에 따라 정년ㆍ자발적 퇴직 직원수만큼 신규 채용이 이뤄지지 않은 것”이라고 분석했다.  <br>      <br>   반대로 직원수가 가장 많이 증가한 회사는 삼성전자다. 이 기간 6358명의 직원이 늘었는데, 증가율은 6.1%다. 같은 반도체 업종인 SK하이닉스의 직원수도 884명(3.1%) 늘었다. 삼성전자 다음으로는 코웨이의 직원수(1703명, 36.0%)가 많이 증가했다. 특수고용노동자였던 정수기 등 제품 설치ㆍ수리기사들이 정규직으로 전환되고 있는 영향이다.   <br>      <br>   한ㆍ미 정상회담을 계기로 워싱턴에서 모더나와 코로나19 백신 위탁생산 계약을 맺은 삼성바이오로직스의 직원수도 777명(31.5%) 늘었다. 또 소프트웨어 개발자 품귀 상황을 겪고 있는 엔씨소프트(645명, 17.7%)와 네이버(617명, 18.0%)도 직원수 증가 기업 상위에 이름을 올렸다.  <br>      <br>   조사 대상 기업 전체적으로는 정규직 직원수는 114만3018명에서 113만1308명으로 1만여 명이 감소했다. 반면 비정규직 직원수는 7만573명에서 7만2527명으로 증가했다. 이에 대해 CEO스코어는 “코로나19 여파로 좋은 일자리는 줄고 일자리의 질이 나빠졌다"고 해석했다.  <br>      <br>   최선욱 기자 isotope@joongang.co.kr  <br><br><br>▶ <a href="https://news.joins.com/newsletter?utm_source=naver&utm_medium=referral&utm_campaign=link1_naver&utm_content=210526" target="_blank">그가 들려주는 이야기, 이상언의 '더 모닝'</a><br>▶ <a href="https://news.joins.com/issueSeries/1039?utm_source=naver&utm_medium=referral&utm_campaign=link2_naver&utm_content=210526" target="_blank">건강한 주식 맛집, 앤츠랩이 차린 메뉴</a><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=025" target="_blank">'실검'이 사라졌다, 이슈는 어디서 봐?</a><br><br>ⓒ중앙일보(https://joongang.co.kr), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">제56회 공인회계사 제2차시험 총 3708명 지원, 전년보다 179명 증가<br><br>여성 지원자 31%, 최초로 30% 넘겨 <br><br>제2차 시험 6월 26일~27일<br><br>합격자 발표 8월 27일</strong>  <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/123/2021/05/26/0002246983_001_20210526154003045.jpg?type=w647" alt="" /></span><br><br>올해 치러지는 공인회계사 2차 시험 경쟁률은 3.4:1로, 최근 5년 중 가장 높은 것으로 나타났다.<br>  <br>  26일 금융감독원은 이달 13일~25일 제56회 공인회계사 제2차시험 응시원서를 접수한 결과, 총 3708명이 지원해 전년도보다 179명(5.1%) 증가했다고 밝혔다.<br>  <br>  금감원은 최소선발예정인원(1100명)을 기준으로 할 때 경쟁률이 3.4:1로 예상된다고 전했다. 응시대상자(전년 또는 금년 제1차시험 합격자, 제1차시험 면제자) 4212명 중에서 88%가 지원한 셈이다.<br>  <br>  최근 연도별 경쟁률을 보면 2017년 3.2:1, 2018년 3.1:1, 2019년 3:1, 2020년 3.2:1로 올해보다 낮았다.<br>  <br>  성별을 보면 지원자의 69%는 남성이고 여성이 31%인 것으로 나타났다. 여성 비중은 2017년 27.2%, 2018년 26.7%, 2019년 27.5%, 2020년 28.9%로 올해 처음 30%를 넘어섰다.<br>  <br>  지원자 평균 연령은 만 27.2세이며, 20대후반이 52.6%를 차지해 가장 많고, 20대 전반(13.7%), 30대 전반(10.8%) 등의 순으로 나타났다. 54.2%는 대학교 재학 중이고, 75.2%는 상경계열 전공이다.<br>  <br>  응시자 구성을 보면 올해 합격자(동차생)가 1725명, 전년도 합격자(유예생)가 1447명, 올해와 전년도 중복 합격자(중복생)가 481명, 제1차시험 면제자가 55명이다. <br>  <br>  제2차 시험 장소 및 시간은 금융감독원과 금융위원회 홈페이지에 다음달 3일 공고된다.<br>  <br>  제2차 시험은 다음달 26일~27일 2일간 실시될 예정이다.<br>  <br>  최종 합격자 발표는 오는 8월 27일이다.<br><br><strong>▶ <a href="http://www.joseilbo.com" target="_blank">조세일보 홈페이지</a><br>▶ <a href="https://newsstand.naver.com/?pcode=123" target="_blank">조세일보 네이버 뉴스스탠드 구독(종합/경제)</a><strong><br><br>이현재(rozzhj@joseilbo.com)<br><br>저작권자 ⓒ 조세일보(http://www.joseilbo.com). 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

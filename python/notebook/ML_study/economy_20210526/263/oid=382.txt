@@ -1,0 +1,300 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+	<div class="vod_area">
+		<h4 class="blind">동영상 뉴스</h4>
+		<iframe _src="/main/readVod.nhn?oid=374&aid=0000245558" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe>
+	</div>
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong>■ 비즈포커스 - &#39;C레벨 라운지&#39;&nbsp;<br><br>◇ 경제외교 이끈 최태원&nbsp;</strong><br><br>첫 번째 인물은 최태원 SK 회장입니다.&nbsp;<br><br>최태원 회장은 문재인 대통령의 최근 미국 방문 기간동안 현지 유력 경제단체와 싱크탱크 리더 등을 잇달아 만나며 숨가쁘게 움직였습니다.<br><br>미국의 3대 경제단체 가운데 하나인 &#39;비즈니스 라운드 테이블(BRT)&#39;을 비롯해 IT 전문 단체인 정보통신산업협회(ITI), 미국의 유명 싱크탱크로 알려진 애틀랜틱 카운슬(Atlantic Council) 등 성사된 만남의 면면도 화려합니다.<br><br>지난 3월 대한상의 회장에 취임한 이후 첫 해외 출장이었던 만큼, 한국 경제를 세일즈하기 위해&nbsp;종횡무진 활약했는데요.<br><br>최 회장의 미국길에 동행한 삼성전자, 현대차, SK, LG 등 4대 그룹은 무려 44조 원에 달하는 대미 투자 계획을 내놓으며 한미 경제 협력에 힘을 실어줬습니다.<br><br>조 바이든 미국 대통령은 최 회장을 비롯해 우리 기업인들에게 직접 감사를 표했습니다.&nbsp;<br><br>[조 바이든 / 미국 대통령 : 삼성, 현대, SK, LG 여기 자리에 계신지 모르겠는데, 잠시 일어나 주시겠습니까? 매우 감사합니다. 우리는 함께 대단한 일을 할 겁니다.]<br><br>최 회장은 또 자신이 전도사를 자처하는 환경&middot;사회&middot;지배구조 이른바, ESG 경영을 강조하며 미국 경제계와의 협력을 다졌습니다.<br><br>그룹 회장으로서 갖고 있는 경영능력과 통찰력, 대한상의 회장으로서 갖고 있는 대미 네트워크를 통해 이끌어낸 한미 경제 협력이 어떤 결실을 맺을지 계속 지켜보겠습니다.&nbsp;<br><br><strong>◇ 2세 승계 단행 김상철&nbsp;</strong><br><br>저희가 꼽은 두 번째 인물은 김상철 한글과컴퓨터그룹 회장입니다.&nbsp;<br><br>국내 1세대 IT기업 중 한 곳인 한컴도 어느덧 2세 경영 채비를 서두르고 있습니다.&nbsp;<br><br>최근 오너 일가 지분에 큰 변동이 있었는데요.&nbsp;<br><br>김상철 회장과 아내 김정실 사내이사, 한컴 계열사 중 한 곳인 캐피탈 익스프레스가 각각 보유 중이던 한컴 주식 233만여 주가 큰 딸이 운영하는 회사로 넘어갔습니다.<br><br>김연수 한컴그룹 총괄부사장이 대표를 맡고 있는 다토즈와 이 회사가 새로 만든 HCIH를 통해 500억 원에 인수했습니다.&nbsp;<br><br>이로써 다토즈는 한컴 지분 9.4%를 인수하며 2대 주주가 됐습니다.<br><br>회사 측은 오너 지분 관계만 바뀌었을 뿐 경영진이 달라지는 건 아니라는 입장이지만 재계는 한컴 보유 지분이 큰 딸에게 모두 넘어간 이유에 더 주목하고 있습니다.&nbsp;<br><br>인수합병(M&amp;A)과 전략 기획통으로 탄탄한 필모그래피를 쌓아온 만만치 않은 이력 때문일 텐데요.&nbsp;<br><br>한컴 지분 인수 작업을 마친 김 총괄부사장의 향후 행보를 예의주시해야 하는 이유입니다.&nbsp;<br><br><strong>◇ 한국타이어家 장녀의 뒤끝</strong><br><br>마지막 인사는 한국타이어그룹의 장녀 조희경 한국타이어나눔재단 이사장입니다.<br><br>아버지 조양래 회장을 상대로 성년후견 심판을 청구했던 조 이사장이 최근 조 회장에 대한 신체 감정기관 변경을 요청했습니다.<br><br>감정기관으로 지정된 국립정신건강센터를 분당서울대병원으로 변경해달라는 내용의 감정기관 변경 신청서를 법원에 제출했는데요.<br><br>객관적이고 정밀한 검사를 위해 감정기관 변경을 요청했다는 설명입니다.<br><br>그러나 둘째 아들 조현범 사장에게 경영권을 물려준 아버지의 결정이 자발적 의사가 아니란 조희경 이사장의 주장과는 달리 아버지는 법원 심문에서 자신의 건재함을 과시했습니다.&nbsp;<br><br>아버지의 신체 건강 상태가 이상하다는 의혹을&nbsp;꾸준히 제기하고 있는 장녀, 이에 맞서 자신은&nbsp;아무 문제가 없다는 아버지, 한국타이어그룹의&nbsp;경영권을 둘러싼 가족 분쟁은 현재 진행형입니다. &nbsp;<br><br>이번 주 &#39;C-레벨 라운지&#39; 여기까지입니다.<br><br>조슬기 기자(skcho@sbs.co.kr)<br><br><br><br>          <p>▶ <a href='https://tv.naver.com/countmoney' target='_blank'>돈 세는 남자의 기업분석 '카운트머니' [네이버TV]</a></p><p>▶ <a href='https://tv.naver.com/moneylab' target='_blank'>경제를 실험한다~ '머니랩' [네이버TV]</a></p><br>          <p>저작권자 SBS미디어넷 & SBS I&M 무단전재-재배포 금지</p><br>        
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/382/2021/05/26/0000912350_001_20210526162104118.jpg?type=w647" alt="" /></span><br>KT는 DB손해보험과 ‘AI 서비스 로봇 전용 보험’ 개발 협력을 위한 양해각서(MOU)를 체결했다. KT는 DB손해보험이 6월 말 출시할 ‘AI 서빙로봇 서비스형 상품’을 통해 먼저 영업배상 보험에 가입하고, 1년간 로봇을 운영하며 발생하는 사고 데이터를 수집할 계획이다. 또 양사는 이렇게 수집된 데이터를 분석해 로봇에 특화된 전용 보험 상품을 공동 개발한다는 계획이다. <br><br>송재호 KT AI/DX융합사업부문장(부사장)은 “AI 서비스 로봇이 점차 확산되고 있는 현 시장 상황에서 KT와 DB손해보험의 협력은 양질의 고객 만족 서비스를 제공하는 첫 걸음이 될 것이다”며 ”양사 모두 새로운 미래 먹거리 발굴을 위한 협력의 중요성에 대해 공감하고 고객이 만족할 수 있는 상품을 선보이겠다”고 말했다.<br><br>김명근 기자 dionys@donga.com<br><br><br><br><br><br><a href='http://sports.donga.com/Series/20'>▶ 연예현장 진짜 이야기 </a> / <a href='http://sports.donga.com/Pictorial'>스타들의 아찔한 순간</a><br><a href='http://idolpick.donga.com/'>▶ 나의 아이돌을 픽♥ 해주세요. / 이번 주는 누가 1위?</a><br><br>- Copyrights ⓒ <a href='http://sports.donga.com'>스포츠동아</a> 무단 전재 및 재배포 금지 -
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/382/2021/05/26/0000912350_001_20210526162104118.jpg?type=w647" alt="" /></span><br>KT는 DB손해보험과 ‘AI 서비스 로봇 전용 보험’ 개발 협력을 위한 양해각서(MOU)를 체결했다. KT는 DB손해보험이 6월 말 출시할 ‘AI 서빙로봇 서비스형 상품’을 통해 먼저 영업배상 보험에 가입하고, 1년간 로봇을 운영하며 발생하는 사고 데이터를 수집할 계획이다. 또 양사는 이렇게 수집된 데이터를 분석해 로봇에 특화된 전용 보험 상품을 공동 개발한다는 계획이다. <br><br>송재호 KT AI/DX융합사업부문장(부사장)은 “AI 서비스 로봇이 점차 확산되고 있는 현 시장 상황에서 KT와 DB손해보험의 협력은 양질의 고객 만족 서비스를 제공하는 첫 걸음이 될 것이다”며 ”양사 모두 새로운 미래 먹거리 발굴을 위한 협력의 중요성에 대해 공감하고 고객이 만족할 수 있는 상품을 선보이겠다”고 말했다.<br><br>김명근 기자 dionys@donga.com<br><br><br><br><br><br><a href='http://sports.donga.com/Series/20'>▶ 연예현장 진짜 이야기 </a> / <a href='http://sports.donga.com/Pictorial'>스타들의 아찔한 순간</a><br><a href='http://idolpick.donga.com/'>▶ 나의 아이돌을 픽♥ 해주세요. / 이번 주는 누가 1위?</a><br><br>- Copyrights ⓒ <a href='http://sports.donga.com'>스포츠동아</a> 무단 전재 및 재배포 금지 -
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104609_001_20210526154801709.jpg?type=w647" alt="" /><em class="img_desc">한 유통업체의 면접 모습. 뉴시스</em></span>        <span class="mask"></span>              </div>                        </div>           <br>   신종 코로나바이러스 감염증(코로나19) 여파로 국내 대기업 직원(정규직)들의 고용 희비가 엇갈린 것으로 나타났다. 코로나19 타격을 입은 롯데쇼핑은 직원 2700여명을 줄였고, 비대면 여가ㆍ근로 확산에 따라 코웨이는 1700여 명을 늘렸다.   <br>      <br>   26일 기업평가사이트 CEO스코어는 국내 500대 기업 정규직 증감수를 집계했다. 이 가운데 직원수가 공개된 회사 309곳을 대상으로 2019년 4분기와 올해 1분기의 고용 현황을 비교했다. 코로나19가 확산되기 시작한 게 2020년 1분기였다는 점을 감안해 시기를 정한 것이다.  <br>      <br>   이 조사에 따르면 직원수가 가장 크게 감소한 회사는 롯데쇼핑(-2768명)이다. GS리테일도 직원수가 2678명 줄었다. 감소 비율은 각각 11%와 31%다. 유통업종의 평균 직원수 감소폭은 7.6%에 이른다. 지난해 재무구조 개선 작업을 거친 두산중공업은 1366명(-23.1%)의 직원이 줄었다. 정부의 탈원전 정책으로 영업이익에 타격을 입은 영향도 있다는 게 해석도 업계에서 나온다.  <br>      <br>           <div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104609_002_20210526154801733.jpg?type=w647" alt="" /><em class="img_desc">서울 성동구 희망일자리센터에 걸린 구인정보. 뉴시스</em></span>        <span class="mask"></span>              </div>                        </div>           <br>   현대자동차는 2019년 4분기(1조1643억원)에 비해 올해 1분기(1조6566억원) 영업이익이 증가했지만, 같은 기간 직원수는 1303명(-2.0%) 줄었다. 기아도 933명(-2.7%)이 감소한 것으로 나타났다. 자동차업계 관계자는 “공장 자동화에 따라 정년ㆍ자발적 퇴직 직원수만큼 신규 채용이 이뤄지지 않은 것”이라고 분석했다.  <br>      <br>   반대로 직원수가 가장 많이 증가한 회사는 삼성전자다. 이 기간 6358명의 직원이 늘었는데, 증가율은 6.1%다. 같은 반도체 업종인 SK하이닉스의 직원수도 884명(3.1%) 늘었다. 삼성전자 다음으로는 코웨이의 직원수(1703명, 36.0%)가 많이 증가했다. 특수고용노동자였던 정수기 등 제품 설치ㆍ수리기사들이 정규직으로 전환되고 있는 영향이다.   <br>      <br>   한ㆍ미 정상회담을 계기로 워싱턴에서 모더나와 코로나19 백신 위탁생산 계약을 맺은 삼성바이오로직스의 직원수도 777명(31.5%) 늘었다. 또 소프트웨어 개발자 품귀 상황을 겪고 있는 엔씨소프트(645명, 17.7%)와 네이버(617명, 18.0%)도 직원수 증가 기업 상위에 이름을 올렸다.  <br>      <br>   조사 대상 기업 전체적으로는 정규직 직원수는 114만3018명에서 113만1308명으로 1만여 명이 감소했다. 반면 비정규직 직원수는 7만573명에서 7만2527명으로 증가했다. 이에 대해 CEO스코어는 “코로나19 여파로 좋은 일자리는 줄고 일자리의 질이 나빠졌다"고 해석했다.  <br>      <br>   최선욱 기자 isotope@joongang.co.kr  <br><br><br>▶ <a href="https://news.joins.com/newsletter?utm_source=naver&utm_medium=referral&utm_campaign=link1_naver&utm_content=210526" target="_blank">그가 들려주는 이야기, 이상언의 '더 모닝'</a><br>▶ <a href="https://news.joins.com/issueSeries/1039?utm_source=naver&utm_medium=referral&utm_campaign=link2_naver&utm_content=210526" target="_blank">건강한 주식 맛집, 앤츠랩이 차린 메뉴</a><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=025" target="_blank">'실검'이 사라졌다, 이슈는 어디서 봐?</a><br><br>ⓒ중앙일보(https://joongang.co.kr), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong style="display:block;overflow:hidden;position:relative;margin:33px 20px 10px 3px;padding-left:11px;font-weight:bold;border-left: 2px solid #141414;">일부 학부모들 "온라인 홍보·설문조사 탓에 투표율 낮아"<br>교육청 "코로나로 가정통신문 활용 못 해 온라인 방식…재투표 불가"</strong><br><br>(화성=연합뉴스) 최해민 기자 = 교육 당국의 경기 화성 병점지역 학생 재배치 계획이 학부모 찬성 미달로 무산된 가운데, 일부지역 학부모들이 온라인 설문조사 방식을 문제 삼으며 재투표를 요구하고 나섰다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/AKR20210526115900061_01_i_P4_20210526151510582.jpg?type=w647" alt="" /><em class="img_desc">병점지역 학생지배치에 따른 학교 이전 계획 무산<br>[화성오산교육지원청 제공. 재판매 및 DB금지]</em></span><br><br>    화성오산교육지원청은 화성벌말초를 2025년까지 능동지구 내 '능동1초' 신설 부지로 옮기고, 기존 화성벌말초 자리에 진안중을 이전하는 내용의 학교 이전 계획을 세웠다.<br><br>    이는 화성벌말초가 송화초와 도로 하나를 사이에 두고 50m밖에 떨어지지 않은 데다 병점지역 내 중학교 3곳이 모두 북쪽에 몰려 있고, 최근 병점 남쪽으로 병점지구·능동지구 등 개발이 진행되면서 가장 북쪽에 있는 진안중의 선호도가 떨어진다는 등의 이유에서다.<br><br>    이에 따라 교육청은 지난 17일부터 21일까지 5일간 화성벌말초와 진안중 학부모를 상대로 이전 찬성 여부를 묻는 설문조사를 진행했으나 화성벌말초 찬성이 기준치(60%)에 미달하는 53.7%로 나와 이전 계획은 전면 취소됐다.<br><br>    하지만 화성벌말초가 이전할 예정이었던 '능동1초' 부지 인근 아파트 주민들은 이번 설문조사는 온라인으로 진행한 탓에 참여율이 저조했다며 재투표를 요구하는 집단 민원을 제기하고 있다.<br><br>    능동1초 부지 인근 아파트에 거주하는 한 학부모는 "학교 이전은 매우 중요한 사안인데도 교육청과 해당 학교들은 문서가 아닌 학교 정보 알림 시스템인 'e알리미'를 통한 홍보와 조사를 진행했다"며 "이로 인해 2년 전 1차 투표 때보다 '무응답·기권' 비율이 높아 전체 학부모의 의견이 반영됐다고 받아들이기가 어려운 만큼 재투표를 요구한다"고 말했다.<br><br>    실제로 이번 조사에서 화성벌말초는 학부모 588명 중 465명(79.1%)이 응답해 316명(53.7%)이 찬성했고, 진안중은 650명 중 593명(91.2%)이 응답해 398명(61.2%)이 찬성했다.<br><br>    이는 2년 전인 2019년 같은 사안에 대한 두 학교 설문조사 결과, 응답률이 각각 93.6%, 98.7%였던 것과 비교할 때 다소 낮은 수치다.<br><br>    이에 대해 학교 이전을 찬성하는 학부모와 '능동1초' 부지 인근 학부모들은 교육 당국이 1차 때는 문서로 된 가정통신문을 배포한 뒤 수거하는 방식으로 조사했으나, 이번에는 e알리미를 통한 온라인 조사를 벌여 참여율이 낮았다고 주장한다.<br><br>    또 학교 이전에 대한 설명도 서면 가정통신문이 아닌 e알리미로만 홍보하다 보니 사안 자체를 알지 못해 투표에 참여하지 못한 학부모도 있다고 지적했다.<br><br>    투표가 끝난 후 26일 오후 현재까지 화성오산교육청에는 100건이 넘는 재투표 민원이 접수된 상태다.<br><br>    화성오산교육청 관계자는 "코로나라는 특수한 상황 때문에 등교 수업이 이뤄지지 않아 부득이 e알리미로 홍보하고, 온라인으로 설문조사를 진행한 것"이라며 "이달 3일부터 7일까지 사전 안내, 10일부터 14일까지 학부모 설명회 영상자료 유튜브 게재, 17일부터 21일까지 조사 기간 매일 e알리미 홍보, 마지막 날에는 문자메시지로 투표 참여 독려 등 할 수 있는 한 최대한 알렸다"고 말했다.<br><br>    이어 "규정상 재투표는 어렵다"며 "특히 학교 이전을 반대하는 학부모들의 반대 민원도 만만치 않은 상황이라 공정성 차원에서도 객관적으로 진행한 설문조사를 다시 할 수는 없다"고 덧붙였다.<br><br>    goals@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong style="display:block;overflow:hidden;position:relative;margin:33px 20px 10px 3px;padding-left:11px;font-weight:bold;border-left: 2px solid #141414;">일부 학부모들 "온라인 홍보·설문조사 탓에 투표율 낮아"<br>교육청 "코로나로 가정통신문 활용 못 해 온라인 방식…재투표 불가"</strong><br><br>(화성=연합뉴스) 최해민 기자 = 교육 당국의 경기 화성 병점지역 학생 재배치 계획이 학부모 찬성 미달로 무산된 가운데, 일부지역 학부모들이 온라인 설문조사 방식을 문제 삼으며 재투표를 요구하고 나섰다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/AKR20210526115900061_01_i_P4_20210526151510582.jpg?type=w647" alt="" /><em class="img_desc">병점지역 학생지배치에 따른 학교 이전 계획 무산<br>[화성오산교육지원청 제공. 재판매 및 DB금지]</em></span><br><br>    화성오산교육지원청은 화성벌말초를 2025년까지 능동지구 내 '능동1초' 신설 부지로 옮기고, 기존 화성벌말초 자리에 진안중을 이전하는 내용의 학교 이전 계획을 세웠다.<br><br>    이는 화성벌말초가 송화초와 도로 하나를 사이에 두고 50m밖에 떨어지지 않은 데다 병점지역 내 중학교 3곳이 모두 북쪽에 몰려 있고, 최근 병점 남쪽으로 병점지구·능동지구 등 개발이 진행되면서 가장 북쪽에 있는 진안중의 선호도가 떨어진다는 등의 이유에서다.<br><br>    이에 따라 교육청은 지난 17일부터 21일까지 5일간 화성벌말초와 진안중 학부모를 상대로 이전 찬성 여부를 묻는 설문조사를 진행했으나 화성벌말초 찬성이 기준치(60%)에 미달하는 53.7%로 나와 이전 계획은 전면 취소됐다.<br><br>    하지만 화성벌말초가 이전할 예정이었던 '능동1초' 부지 인근 아파트 주민들은 이번 설문조사는 온라인으로 진행한 탓에 참여율이 저조했다며 재투표를 요구하는 집단 민원을 제기하고 있다.<br><br>    능동1초 부지 인근 아파트에 거주하는 한 학부모는 "학교 이전은 매우 중요한 사안인데도 교육청과 해당 학교들은 문서가 아닌 학교 정보 알림 시스템인 'e알리미'를 통한 홍보와 조사를 진행했다"며 "이로 인해 2년 전 1차 투표 때보다 '무응답·기권' 비율이 높아 전체 학부모의 의견이 반영됐다고 받아들이기가 어려운 만큼 재투표를 요구한다"고 말했다.<br><br>    실제로 이번 조사에서 화성벌말초는 학부모 588명 중 465명(79.1%)이 응답해 316명(53.7%)이 찬성했고, 진안중은 650명 중 593명(91.2%)이 응답해 398명(61.2%)이 찬성했다.<br><br>    이는 2년 전인 2019년 같은 사안에 대한 두 학교 설문조사 결과, 응답률이 각각 93.6%, 98.7%였던 것과 비교할 때 다소 낮은 수치다.<br><br>    이에 대해 학교 이전을 찬성하는 학부모와 '능동1초' 부지 인근 학부모들은 교육 당국이 1차 때는 문서로 된 가정통신문을 배포한 뒤 수거하는 방식으로 조사했으나, 이번에는 e알리미를 통한 온라인 조사를 벌여 참여율이 낮았다고 주장한다.<br><br>    또 학교 이전에 대한 설명도 서면 가정통신문이 아닌 e알리미로만 홍보하다 보니 사안 자체를 알지 못해 투표에 참여하지 못한 학부모도 있다고 지적했다.<br><br>    투표가 끝난 후 26일 오후 현재까지 화성오산교육청에는 100건이 넘는 재투표 민원이 접수된 상태다.<br><br>    화성오산교육청 관계자는 "코로나라는 특수한 상황 때문에 등교 수업이 이뤄지지 않아 부득이 e알리미로 홍보하고, 온라인으로 설문조사를 진행한 것"이라며 "이달 3일부터 7일까지 사전 안내, 10일부터 14일까지 학부모 설명회 영상자료 유튜브 게재, 17일부터 21일까지 조사 기간 매일 e알리미 홍보, 마지막 날에는 문자메시지로 투표 참여 독려 등 할 수 있는 한 최대한 알렸다"고 말했다.<br><br>    이어 "규정상 재투표는 어렵다"며 "특히 학교 이전을 반대하는 학부모들의 반대 민원도 만만치 않은 상황이라 공정성 차원에서도 객관적으로 진행한 설문조사를 다시 할 수는 없다"고 덧붙였다.<br><br>    goals@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong style="display:block;overflow:hidden;position:relative;margin:33px 20px 10px 3px;padding-left:11px;font-weight:bold;border-left: 2px solid #141414;">일부 학부모들 "온라인 홍보·설문조사 탓에 투표율 낮아"<br>교육청 "코로나로 가정통신문 활용 못 해 온라인 방식…재투표 불가"</strong><br><br>(화성=연합뉴스) 최해민 기자 = 교육 당국의 경기 화성 병점지역 학생 재배치 계획이 학부모 찬성 미달로 무산된 가운데, 일부지역 학부모들이 온라인 설문조사 방식을 문제 삼으며 재투표를 요구하고 나섰다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/AKR20210526115900061_01_i_P4_20210526151510582.jpg?type=w647" alt="" /><em class="img_desc">병점지역 학생지배치에 따른 학교 이전 계획 무산<br>[화성오산교육지원청 제공. 재판매 및 DB금지]</em></span><br><br>    화성오산교육지원청은 화성벌말초를 2025년까지 능동지구 내 '능동1초' 신설 부지로 옮기고, 기존 화성벌말초 자리에 진안중을 이전하는 내용의 학교 이전 계획을 세웠다.<br><br>    이는 화성벌말초가 송화초와 도로 하나를 사이에 두고 50m밖에 떨어지지 않은 데다 병점지역 내 중학교 3곳이 모두 북쪽에 몰려 있고, 최근 병점 남쪽으로 병점지구·능동지구 등 개발이 진행되면서 가장 북쪽에 있는 진안중의 선호도가 떨어진다는 등의 이유에서다.<br><br>    이에 따라 교육청은 지난 17일부터 21일까지 5일간 화성벌말초와 진안중 학부모를 상대로 이전 찬성 여부를 묻는 설문조사를 진행했으나 화성벌말초 찬성이 기준치(60%)에 미달하는 53.7%로 나와 이전 계획은 전면 취소됐다.<br><br>    하지만 화성벌말초가 이전할 예정이었던 '능동1초' 부지 인근 아파트 주민들은 이번 설문조사는 온라인으로 진행한 탓에 참여율이 저조했다며 재투표를 요구하는 집단 민원을 제기하고 있다.<br><br>    능동1초 부지 인근 아파트에 거주하는 한 학부모는 "학교 이전은 매우 중요한 사안인데도 교육청과 해당 학교들은 문서가 아닌 학교 정보 알림 시스템인 'e알리미'를 통한 홍보와 조사를 진행했다"며 "이로 인해 2년 전 1차 투표 때보다 '무응답·기권' 비율이 높아 전체 학부모의 의견이 반영됐다고 받아들이기가 어려운 만큼 재투표를 요구한다"고 말했다.<br><br>    실제로 이번 조사에서 화성벌말초는 학부모 588명 중 465명(79.1%)이 응답해 316명(53.7%)이 찬성했고, 진안중은 650명 중 593명(91.2%)이 응답해 398명(61.2%)이 찬성했다.<br><br>    이는 2년 전인 2019년 같은 사안에 대한 두 학교 설문조사 결과, 응답률이 각각 93.6%, 98.7%였던 것과 비교할 때 다소 낮은 수치다.<br><br>    이에 대해 학교 이전을 찬성하는 학부모와 '능동1초' 부지 인근 학부모들은 교육 당국이 1차 때는 문서로 된 가정통신문을 배포한 뒤 수거하는 방식으로 조사했으나, 이번에는 e알리미를 통한 온라인 조사를 벌여 참여율이 낮았다고 주장한다.<br><br>    또 학교 이전에 대한 설명도 서면 가정통신문이 아닌 e알리미로만 홍보하다 보니 사안 자체를 알지 못해 투표에 참여하지 못한 학부모도 있다고 지적했다.<br><br>    투표가 끝난 후 26일 오후 현재까지 화성오산교육청에는 100건이 넘는 재투표 민원이 접수된 상태다.<br><br>    화성오산교육청 관계자는 "코로나라는 특수한 상황 때문에 등교 수업이 이뤄지지 않아 부득이 e알리미로 홍보하고, 온라인으로 설문조사를 진행한 것"이라며 "이달 3일부터 7일까지 사전 안내, 10일부터 14일까지 학부모 설명회 영상자료 유튜브 게재, 17일부터 21일까지 조사 기간 매일 e알리미 홍보, 마지막 날에는 문자메시지로 투표 참여 독려 등 할 수 있는 한 최대한 알렸다"고 말했다.<br><br>    이어 "규정상 재투표는 어렵다"며 "특히 학교 이전을 반대하는 학부모들의 반대 민원도 만만치 않은 상황이라 공정성 차원에서도 객관적으로 진행한 설문조사를 다시 할 수는 없다"고 덧붙였다.<br><br>    goals@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104588_001_20210526145402769.jpg?type=w647" alt="" /><em class="img_desc">포스코는 26일 전남 광양 율촌산업단지에 이차전지 주요 원료인 수산화리튬 공장 착공식을 했다 . 사진 포스코</em></span>        <span class="mask"></span>              </div>                        </div>        포스코는 26일 전남 광양 율촌산업단지 내에 전기차 배터리의 양극재 원료인 수산화리튬 공장을 착공했다. 지난해 4월 이사회 승인을 얻어 별도 출범한 포스코리튬솔루션이 짓는 공장은 율촌산업단지 내 19만6000㎡ 부지에 7600억원을 투자해 2023년 준공한다.    <br>           <div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104588_002_20210526145402796.jpg?type=w647" alt="" /><em class="img_desc">리튬이온 이차전지 양극재 공정. 사진 포스코</em></span>        <span class="mask"></span>              </div>                        </div>        수산화리튬을 대규모로 생산하는 공장은 사실상 국내에서 처음이다. 앞서 포스코는 2018년부터 시험 공장을 통해 수산화리튬을 생산했다. 포스코리튬솔루션은 이 공장에서 연산 4만3000t의 수산화리튬을 생산할 계획이다. 이는 전기차 100만대분의 양극재를 만들 수 있는 양이다.    <br>      <br>   수산화리튬은 양극 전구체(양극재 전 중간재)와 혼합해 양극재를 완성하는 주요 원료로 최근 수요가 늘었다. 기존 탄산리튬보다 수산화화리튬이 들어간 양극재가 에너지 밀도가 높다. 수산화리튬은 탄산리튬을 재가공해 얻기도 하지만, 광양 공장에서 생산할 수산화리튬은 리튬 정광(광석)에서 바로 추출하는 방식이다. 앞서 포스코는 호주 필바라사로부터 리튬 광석을 공급받기로 계약을 맺었다.   <br>      <br>   이로써 포스코는 전남 광양에 수산화리튬 원료부터 양극재 공장까지 배터리 소재 공급망을 더 촘촘하게 갖추게 됐다. 앞서 2019년 포스코케미칼은 율촌산업단지에 양극재 생산 공장을 설립했으며, 올해 약 3만t의 제품을 생산할 예정이다. 최정우 포스코 회장은 이날 착공식에서 "리튬 국산화는 포스코그룹이 100년 기업으로 성장하기 위한 중요한 토대"라며 "글로벌 시장에서 치열하게 경쟁하고 있는 국내 이차전지산업 경쟁력 확보에 기여하게 될 것"이라고 말했다.  <br>      <br>   포스코는 전기차 배터리 밸류 체인(가치 사슬) 확보를 위해 분주하게 움직이고 있다. 특히 배터리 소재와 원료 확보에서 국내 기업 중 가장 적극적인 투자를 진행 중이다. 2018년 호주 필바라미네랄스와 리튬 정광 장기 구매 계약을 맺은 데 이어 같은 해 아르헨티나 염호를 2억8000만 달러(약 3300억원)에 인수했다. 이 염호엔 리튬이 약 1350만t 매장된 것으로 추산된다. 당초 구매 계약을 할 때보다 6배 늘어난 수치다.   <br>      <br>   포스코는 향후 광석과 염수 리튬 추출 사업에 지속적인 투자를 통해 2023년까지 연 7만t 규모의 리튬 생산 체제를 구축할 방침이다. 2030년 생산 목표는 22만t이다.   <br><br>김영주 기자 humanest@joongang.co.kr   <br><br><br>▶ <a href="https://news.joins.com/newsletter?utm_source=naver&utm_medium=referral&utm_campaign=link1_naver&utm_content=210526" target="_blank">그가 들려주는 이야기, 이상언의 '더 모닝'</a><br>▶ <a href="https://news.joins.com/issueSeries/1039?utm_source=naver&utm_medium=referral&utm_campaign=link2_naver&utm_content=210526" target="_blank">건강한 주식 맛집, 앤츠랩이 차린 메뉴</a><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=025" target="_blank">'실검'이 사라졌다, 이슈는 어디서 봐?</a><br><br>ⓒ중앙일보(https://joongang.co.kr), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">정부, 29일까지 10개 특별세션 통해 2050 탄소중립 실현 '모색'<br>26일 해양·27일 비즈니스, 생물다양성 세션 개최 예정</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005373929_001_20210526142604692.jpg?type=w647" alt="" /><em class="img_desc">24일 오후 서울 중구 을지로 동대문디자인플라자에서 열린 2021 P4G 서울 정상회의 특별세션 '지방 정부 탄소 중립 실천'이 진행되고 있다. 2021.5.24/뉴스1 &#169; News1 임세영 기자</em></span><br>(세종=뉴스1) 나혜윤 기자 = 환경 분야 다자정상회의 '2021 P4G 서울 녹색미래 정상회의'가 오는 30~31일 개최를 앞두고 있는 가운데, 정부가 이에 앞서 운영 중인 '특별세션'에서는 순환경제 및 2050년 탄소중립 실현을 위한 다양한 방안들이 논의되고 있다. <br><br>26일 환경부에 따르면 정부는 P4G(녹색성장 및 글로벌 목표 2030을 위한 연대) 정상회의 개최에 앞서 오는 29일까지 10개의 특별세션을 개최한다. 정부는 24일부터 29일까지를 'P4G 녹색미래주간'으로 지정하고 &#916;지자체의 탄소중립 실천 &#916;해양 &#916;산림 &#916;녹색금융 &#916;녹색기술 &#916;그린뉴딜 &#916;비즈니스 포럼 &#916;생물다양성 &#916;시민사회 &#916;미래세대 등 10개의 특별세션을 개최한다. <br><br>정부는 녹색미래주간을 통해 국가 주도의 '2030 탄소중립'과 순환경제, 친환경 성장을 위한 지방정부의 정책 등을 공유하며 녹색성장을 도모할 계획이다. <br><br>특별세션은 현재까지 &#916;탄소중립실천-글로벌 탄소중립을 위한 지방정부의 역할(환경부) &#916;그린뉴딜-녹색 경제로의 청정 전환(기획재정부) &#916;시민사회-풀뿌리 시민사회 참여를 통한 정의로운 녹색 회복(환경부) 등의 주제를 통해 기후위기 극복을 위한 탄소중립과 녹색미래 실천 방안을 모색했다. <br><br>탄소중립실천 세션에서는 도넛경제학의 저자인 케이트 레이워스가 '도시, 저탄소사회 전환을 이끌다'라는 주제로 기조연설에 나섰다. <br><br>레이워스는 멜버른의 풍력발전단지, 암스테르담의 순환경제 등의 사례를 통해 지구의 순환체계 안에서 공존하는 '계획을 통한 재생'과 브리질 쿠리치바의 대주교통, 비엔나의 주택분배정책 등의 사례를 언급하며 '계획을 통한 분배'를 강조했다.  <br><br>그린뉴딜 세션에서는 야닉 그레마렉 녹색기후기금(GCF) 사무총장이 '코로나19 상황 속 지속가능한 개발을 위한 재원의 역할' 보고서를 발표하고, 각 국가들이 이산화탄소의 세부 배출 저감 경로와 자금 조달 계획을 마련해야 할 필요성을 강조했다. <br><br>특히 홍남기 부총리 겸 기재부 장관은 그린뉴딜 특별세션을 계기로 25일 그레마렉 사무총장과 면담을 통해 국내 그린뉴딜 기업의 해외진출 지원을 위한 우리 정부의 지원방안을 논의했다. <br><br>양측은 GCF사업 중 8개 사업, 총사업비 23억달러 수준인 한국 기관이 참여하는 그린뉴딜 해외사업을 확대하고, 사업참여 기반 강화를 위해 한국의 GCF 인증기구 수를 확대해 나가기로 협의했다.<br><br>전날(25일) 열린 시민사회 세션에서는 공정하고 친환경적인 경제로의 전환 행동을 위한 정부-시민사회-기업 파트너십 방안과 과제에 대한 대담이 진행됐다. 패널들은 녹색 전환을 위한 P4G 지속가능성 및 포용성 전략과 녹색 경기회복과 SDGs 달성을 위한 사회적 경제의 역할과 과제에 대해 토론했다. <br><br>이날 오후 8시부터는 &#916;해양-해양을 통한 푸른회복(해양수산부) 특별세션이 예정돼있다. 27일에는 &#916;비즈니스포럼-ESG&middot;녹색기술 시대의 새로운 경영 대전환(대한상공회의소&middot;산업통상자원부) &#916;생물다양성-미래의 희망 '생물 다양성 회복'(환경부) 세션이 진행될 예정이다. <br><br>28일에는 &#916;녹색기술-탄소중립 사회를 위한 패스파인더(과학기술정보통신부)와 &#916;산림-글로벌 탄소중립과 평화를 위한 산림(산림청)이 예정됐고 29일에는 &#916;녹색금융-포스트 코로나19 녹색회복을 위한 금융의 역할(금융위원회) &#916;미래세대-지구의 목소리, 지구를 위한 목소리(국가기후환경회의)가 진행된다.<br><br>freshness410@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<b>삼성 OLED 유해물질 방출량 기존 LCD 대비 절반 수준</b><br><br>삼성 노트북용 유기발광다이오드(OLED) 패널이 글로벌 인증기관 ‘UL(Underwriters Laboratories)’로부터 공기질 안전성을 인정받았다.<br><br>삼성디스플레이는 자사의 노트북용 OLED 총 9종(13.3∼16인치)이 유해물질 배출량을 최소화해 UL에서 ‘그린가드 골드’ 인증을 받았다고 26일 밝혔다. 이 패널은 최근 삼성전자가 출시한 ‘갤럭시 북 프로’ 시리즈에도 적용됐다.<br><br>그린가드 골드는 전자제품, 의료기기 등의 제품에서 발생하는 휘발성 유기화합물 등을 측정해 방출량이 기준치 이하일 경우 부여하는 친환경 인증으로, 제품의 실내 공기질 안전성에 대한 영향을 판단하는 기준으로 사용된다.<br><br>삼성디스플레이는 휘발성 유기화합물 발생의 주요 원인인 플라스틱 시트 사용을 최소화한 친환경 노트북용 OLED를 개발했다. UL과 공동 진행한 평가에 따르면 삼성 OLED는 백라이트를 사용하지 않는 자발광 구조로 유해물질 방출량을 기존 LCD 대비 절반 수준으로 줄였다.<br><br>삼성디스플레이 관계자는 “신종 코로나바이러스 감염증(코로나19) 시대에 밀폐된 실내 공간에서 노트북 사용시간이 급격히 늘면서 건강한 사용 환경에 대한 관심이 높아지고 있다”며 “업계 최초로 ‘그린가드’를 획득한 노트북용 OLED를 출시하면서 소비자들에게 건강하고 안전한 제품 선택의 기회를 제공하게 됐다”고 말했다. <br><br>장병철 기자<br><br><b>[ <a href="http://www.munhwa.com" target="_blank">문화닷컴</a> | <a href="http://media.naver.com/channel/promotion.nhn?oid=021" target="_blank">네이버 뉴스 채널 구독</a> | <a href="http://m.munhwa.com" target="_blank">모바일 웹</a> | <a href="https://m.post.naver.com/lustforlife1073" target="_blank">슬기로운 문화생활</a> ]</b><br><br>[Copyrightⓒmunhwa.com '대한민국 오후를 여는 유일석간 문화일보' 무단 전재 및 재배포 금지(<a href="http://www.munhwa.com/service/gudok_request.html" target="_blank">구독신청:02)3701-5555</a>)]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052612580001300_P4_20210526133814214.jpg?type=w647" alt="" /></span><br><br>    (영종도=연합뉴스) 임헌정 기자 = 26일 영종도 인천국제공항 1터미널에서 해외입국자들이 검역 절차를 안내받고 있다. 2021.5.26<br><br>    kane@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

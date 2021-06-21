@@ -1,0 +1,481 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/031/2021/05/26/0000600759_001_20210526174301939.jpg?type=w647" alt="" /><em class="img_desc"> [사진=코웨이 ]</em></span><br><br>[아이뉴스24 민혜정 기자] <B>◆ 코웨이, 공기청정기 라이브 커머스 인기</b><br><br>코웨이가 네이버 쇼핑 라이브 스토어를 통해 진행한 라이브 커머스 방송에서 시청수 24만뷰를 돌파하며 인기행진을 이어가고 있다.<br><br>코웨이는 지난 25일 오후 5시부터 1시간 동안 진행된 네이버 쇼핑 라이브 카트리지 공기청정기 방송에서 시청수 24만 뷰를 기록했다. 또 방송이 진행되는 동안 최고 동시 접속자 1만명, 스토어 찜 5만명을 기록하며 코웨이 혁신 제품에 대한 고객의 관심을 입증했다.<br><br><b>◆아이리버,  TV 전 라인업 네이버 쇼핑라이브</b><br><br>아이리버가 26일 오후 8시에 아이리버 TV를 만나볼 수 있는 네이버 쇼핑라이브를 진행한다.<br><br>아이리버가 네이버 쇼핑라이브에서 첫 선을 보이는 제품은 지난 해 브랜드 20주년을 기념해 출시한 아이리버 TV 전 라인업이다. 구글 공식 인증을 받은 안드로이드 TV 2종 ▲ITV-MA6511(65인치) ▲TV-MA501(50인치)과 일반 TV 2종 ▲ITV-KF5501(55인치)▲ITV-KF4301(43인치)로 라이브 방송 중에만 최대 20% 할인된 가격에 만나볼 수 있다.<br><br><B>◆ 시그니파이, '필립스 UV-C 에어살균기' 와디즈 선공개</b><br><br>시그니파이코리아(구 필립스라이팅코리아)의 신제품  '필립스 UV-C 에어살균기'가 정식 출시 전 와디즈 펀딩을 통해 첫 선을 보인다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/031/2021/05/26/0000600759_002_20210526174301954.jpg?type=w647" alt="" /><em class="img_desc"> [사진=시그니파이코리아]</em></span><br><br>이번에 와디즈에서 첫 선을 보이는 '필립스 UV-C 에어살균기'는 고용량의 UV-C 광원을 장착해 코로나19 바이러스를 포함, 수많은 바이러스 및 세균 제거 기능에 대한 공인 시험 성적을 취득하는 등 높은 살균력을 자랑하는 제품이다.<br><br><b>◆ 에코백스 디봇 T9, 빅스마일데이에서 로봇청소기 판매 1위</B><br><br>글로벌 가전 로봇 기업 에코백스가 지난 18일까지 이베이코리아에서 진행한 '빅스마일데이'에서 현빈 로봇청소기 '에코백스 디봇 T9’이 단일 모델로는 로봇청소기 부문 판매 1위를 기록했다.<br><br>빅스마일데이는 이베이코리아가 운영하는 옥션, G마켓 등에서 열리는 연중 최대 온라인 쇼핑 축제다. 에코백스는 이번 빅스마일데이에서 현빈 로봇청소기 에코백스 디봇 T9을 판매해 약 8억3천만원의 매출액(총 1천200대 이상 판매)을 기록하며, 단일 모델로는 로봇청소기 부문 판매 1위를 차지했다.<br><br><address>/민혜정 기자(<a href=mailto:hye555@inews24.com>hye555@inews24.com)</a></address><br><br><a target='new' href='https://media.naver.com/channel/promotion.nhn?oid=031' >▶네이버 채널에서 '아이뉴스24'를 구독해주세요.</a><br><br><a target='new' href='https://tv.naver.com/inewstv'>▶재밌는 아이뉴스TV 영상보기</a> <a target='new' href='http://www.inews24.com'>▶아이뉴스24 바로가기</a><br><br>[ⓒ 아이뉴스24 무단전재 및 재배포 금지]<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">뉴스카페<br><br>조회수 475만건 인기 폭발</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552346_001_20210527020601406.jpg?type=w647" alt="" /></span><br>한 소년이 곰인형을 불만스럽게 바라보고 있다. 곰인형은 긴장한 채 윗옷을 벗는다. 이어 세탁기가 돌아간다. 소년은 곰인형을 혼내거나 버리려는 게 아니라 더러워진 옷을 빨아주려 했던 것. 그리고 나오는 노래 가사. “난 다시 깨달았어 았어. 날 사랑했다는 것을.”(서태지와 아이들 ‘컴백홈’)<br><br>삼성전자가 지난 14일 공개한 비스포크 가전 광고 영상의 한 대목이다. 이 영상은 26일 기준 조회수 475만 건을 돌파하는 등 화제가 되고 있다. 원곡 뮤직비디오(134만 건)보다 조회수가 많다. 시청자들이 남긴 댓글도 300건이 넘는다. TV에서 이 광고를 본 뒤 다시 보고 싶어서 유튜브를 찾았다는 반응이 주를 이뤘다.<br><br>‘컴 비스포크 홈’이라는 제목으로 제작된 이 광고 영상의 모티브는 서태지와 아이들의 ‘컴백홈’ 뮤직비디오다. 노래에 맞춰 삼성 비스포크의 여러 가전 제품을 소개한다. 비스포크 가전으로 자신에게 맞게 꾸며진 집으로 오라는 내용을 담았다.<br><br>컴백홈의 가사, 서태지와 아이들의 안무와 뮤직비디오 등에서 모티브를 얻은 연출이 영상 곳곳에 등장했다. 양현석과 이주노가 서로 교차하는 안무에서 착안해 청소기 먼지통을 비우는 장면을 연출한 것이 대표적이다.<br><br>이 노래를 광고에 쓰자는 아이디어를 낸 직원은 제일기획의 20대 막내 팀원이다. ‘세상에서 가장 나다운 공간인 집으로 돌아가자’는 메시지를 전할 수 있는 곡을 찾다가 ‘컴백홈’을 골랐다는 설명이다.<br><br>광고를 제작한 이슬기 제일기획 크리에이티브 디렉터(CD)는 “서태지의 음악을 듣고 자란 30~40대가 공감할 수 있고, 10~20대도 신선함을 느낄 것이라는 판단에 배경음악으로 선택했다”며 “신혼부부 위주였던 타깃층을 전 연령층으로 넓히는 효과를 노렸다”고 설명했다.<br><br>이수빈 기자 lsb@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">뉴스카페<br><br>조회수 475만건 인기 폭발</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552346_001_20210527020601406.jpg?type=w647" alt="" /></span><br>한 소년이 곰인형을 불만스럽게 바라보고 있다. 곰인형은 긴장한 채 윗옷을 벗는다. 이어 세탁기가 돌아간다. 소년은 곰인형을 혼내거나 버리려는 게 아니라 더러워진 옷을 빨아주려 했던 것. 그리고 나오는 노래 가사. “난 다시 깨달았어 았어. 날 사랑했다는 것을.”(서태지와 아이들 ‘컴백홈’)<br><br>삼성전자가 지난 14일 공개한 비스포크 가전 광고 영상의 한 대목이다. 이 영상은 26일 기준 조회수 475만 건을 돌파하는 등 화제가 되고 있다. 원곡 뮤직비디오(134만 건)보다 조회수가 많다. 시청자들이 남긴 댓글도 300건이 넘는다. TV에서 이 광고를 본 뒤 다시 보고 싶어서 유튜브를 찾았다는 반응이 주를 이뤘다.<br><br>‘컴 비스포크 홈’이라는 제목으로 제작된 이 광고 영상의 모티브는 서태지와 아이들의 ‘컴백홈’ 뮤직비디오다. 노래에 맞춰 삼성 비스포크의 여러 가전 제품을 소개한다. 비스포크 가전으로 자신에게 맞게 꾸며진 집으로 오라는 내용을 담았다.<br><br>컴백홈의 가사, 서태지와 아이들의 안무와 뮤직비디오 등에서 모티브를 얻은 연출이 영상 곳곳에 등장했다. 양현석과 이주노가 서로 교차하는 안무에서 착안해 청소기 먼지통을 비우는 장면을 연출한 것이 대표적이다.<br><br>이 노래를 광고에 쓰자는 아이디어를 낸 직원은 제일기획의 20대 막내 팀원이다. ‘세상에서 가장 나다운 공간인 집으로 돌아가자’는 메시지를 전할 수 있는 곡을 찾다가 ‘컴백홈’을 골랐다는 설명이다.<br><br>광고를 제작한 이슬기 제일기획 크리에이티브 디렉터(CD)는 “서태지의 음악을 듣고 자란 30~40대가 공감할 수 있고, 10~20대도 신선함을 느낄 것이라는 판단에 배경음악으로 선택했다”며 “신혼부부 위주였던 타깃층을 전 연령층으로 넓히는 효과를 노렸다”고 설명했다.<br><br>이수빈 기자 lsb@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/050/2021/05/26/0000057516_001_20210526170902075.jpg?type=w647" alt="" /></span>LG전자가 국내 가전회사 가운데 처음으로 무인매장을 운영한다.<br><br>26일 LG전자에 따르면, LG전자가 야간 시간대에 무인매장으로 운영하는 LG베스트샵은 서울 강서본점, 금천본점, 봉천점, 불광본점, 쌍문본점, 서초본점 등 서울 지역의 6개 매장을 포함해 인천 부평구청점, 경기 일산본점, 부산 사상본점 등 총 9곳이다.<br><br>무인매장은 직원들이 퇴근한 이후인 오후 8시 30분부터 자정까지 평일은 물론 주말에도 동일하게 운영된다.<br><br>LG전자는 비대면 상담과 무인매장에 대한 고객들의 니즈가 높아지는 트렌드를 반영해 이 같은 무인매장 운영을 결정했다고 밝혔다.<br><br>고객은 매장 입구에서 QR코드를 스캔해 본인 인증을 거친 후 매장에 들어올 수 있다. 이후 매장 안에서 자유롭게 제품을 체험할 수 있다. 제품에 대한 상세정보가 필요하면 매장 내 여러 곳에 설치된 키오스크를 이용하거나 스마트폰으로 LG전자 홈페이지 또는 모바일앱 &lsquo;LGE.COM&rsquo; 에 접속해 최적화된 화면에서 검색할 수 있다.<br><br>고객이 각 매장의 카카오톡 채널에서 일대일 상담 메뉴를 통해 제품 정보, 매장 이용방법 등을 문의하면 바로 알려준다. 또 직원과의 대면 상담이 필요한 고객은 키오스크에서 상담을 예약하면 직원이 근무하는 시간에 다시 방문해 상담을 받을 수 있다.<br><br>무인매장은 매장에서 대면 상담을 받았던 고객이 구매 결정을 앞두고 제품을 한 번 더 보고 싶을 때에도 유용하다.<br><br>이번에 무인매장을 본격적으로 도입하기 전에 한 매장에서 야간 무인매장을 시범 운영한 결과, 고객들은 &ldquo;부담 없이 편하게 여러 번 방문할 수 있어서 좋다&rdquo;, &ldquo;구입할 제품이 아닌 다른 제품도 편하게 체험했다&rdquo;, &ldquo;제품을 충분히 체험하니 구매 의향이 높아졌다&rdquo; 등 긍정적인 평가를 내렸다.<br><br>LG전자는 고객의 반응과 운영 결과 등을 다각도로 분석해 향후 무인매장과 운영시간을 늘릴 계획이다.<br><br>오승진 LG전자 한국영업본부 한국전략담당은 &ldquo;언택트 경험을 선호하는 고객의 니즈에 발 빠르게 대응해 대면 상담 없이 편리하게 쇼핑할 수 있도록 무인매장을 런칭했다&rdquo;며 &ldquo;고객이 새로운 경험을 하며 LG전자 제품과 매장에 보다 친숙하게 접근할 수 있는 계기가 될 것&rdquo;이라고 말했다.<br><br>정채희 기자 <a href="mailto:poof34@hankyung.com">poof34@hankyung.com</a><br><br>▶ <a href="https://bit.ly/3wamHVB" target="_blank">한경비즈니스 네이버 뉴스에서 [구독 클릭]</a><br>▶ <a href="https://magazine.hankyung.com/apps/member?mode=subscription" target="_blank">잡지 정기구독 신청</a><br>▶ <a href="https://bit.ly/3yDTCnH" target="_blank">미래가 궁금하다면? &lt;한경무크 3종&gt;을 확인하세요. </a> <br><br>ⓒ 한경비즈니스, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005374516_001_20210526162015784.jpg?type=w647" alt="" /></span><br>(서울=뉴스1) = 문승욱 산업통상자원부 장관이 26일 오후 산업단지공단 인천본부 대회의실에서 '청년 일자리 창출을 위한 청년과의 대화'를 주재하고 있다. (산업통상자원부 제공) 2021.5.26/뉴스1<br><br>photo@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005374516_001_20210526162015784.jpg?type=w647" alt="" /></span><br>(서울=뉴스1) = 문승욱 산업통상자원부 장관이 26일 오후 산업단지공단 인천본부 대회의실에서 '청년 일자리 창출을 위한 청년과의 대화'를 주재하고 있다. (산업통상자원부 제공) 2021.5.26/뉴스1<br><br>photo@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552268_001_20210526161101379.jpg?type=w647" alt="" /></span><br>아이큐비아(IQVIA)는 오늘 아이큐비아 바이오테크(IQVIA Biotech)의 일본 및 아태 지역(JAPAC) 진출을 발표했다. 이는 바이오테크와 신흥 바이오 제약 기업을 대상으로 통합 임상 및 상업 솔루션을 제공하기 위한 맞춤형 접근 방식의 일환이다. 아이큐비아 바이오테크는 아이큐비아의 기술력에 기반한 유연한 솔루션 제공을 위해 간소화된 운영 절차와 과학적 전문성을 활용하며, 이를 통해 혁신적 기업들이 의약품 개발과 상용화 단계에 도달하도록 지원한다.<br><br>아이큐비아 연구 개발(R&D) 솔루션의 리처드 스타우브(Richard Staub) 사장은 “바이오테크 기업들이 바이오로직스, 의약품 및 백신 개발에 더욱 박차를 가함에 따라 이들의 성공을 지원함으로써 우리 모두의 성공을 이룰 수 있다”며, “아이큐비아 바이오테크가 JAPAC 지역에 진출함으로써 소규모 기업에 특화된 기민한 솔루션과 자원으로 바이오테크 기업들의 목표를 도울 수 있게 되었다”고 덧붙였다.<br><br>아이큐비아 바이오테크는 2019년 초 북미 및 유럽 지역에서 출범했으며, 바이오테크 기업들의 투명하고 목적에 맞는 임상 절차와 치료 분야별 전담 전문가가 포진한 파트너에 대한 니즈에 맞춰 설계되었다. 론칭 후 아이큐비아 바이오테크는 바이오테크 회사들과 코로나19 임상 연구를 포함한 수백건의 신규 임상 시험을 착수했다.<br><br>종양학, 중추신경계질환, 피부과학, 심혈관 및 희귀질환 분야 전문성을 보유한 아이큐비아 바이오테크의 JAPAC 지역 총괄 본사는 싱가포르에 있으며, 지역 내 15개국에 사무소를 두고 있다. 아이큐비아 바이오테크 JAPAC 전담팀은 신약개발 과정 전반에 걸친 지능적인 연결고리를 구축하여 바이오테크 회사들의 특별한 니즈에 부합하는 역량을 갖추고 있다.<br><br>아이큐비아 바이오테크 JAPAC 총괄이자 APAC 의료 총책임자(CMO)인 센틸 소칼링암(Senthil Sockalingam) 박사는 “바이오테크 기업들의 글로벌 진출에 대한 포부가 점점 높아지고, 글로벌 신흥 회사의 아시아 태평양 지역 진출 수요도 늘어나고 있다”며, “고객들은 아이큐비아 바이오테크 전문팀이 제공하는 유연한 맞춤형 통합 솔루션과 완벽하게 연계된 매끄러운 서비스를 경험하게 될 것”이라고 덧붙였다.<br><br>아이큐비아 바이오테크 JAPAC에 관한 자세한 정보는 홈페이지에서 확인할 수 있다.<br><br>한경닷컴 뉴스룸 open@hankyung.com<br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005374393_001_20210526160014267.jpg?type=w647" alt="" /></span><br>(서울=뉴스1) = 임혜숙 과학기술정보통신부 장관이 26일 오후 서울 서초구 모빌테크를 방문, 김재승 모빌테크 대표로부터 '자율주행 모빌리티용 3차원 정밀지도 제작 차량' 등에 대한 설명을 듣고 있다. (과학기술정보통신부 제공) 2021.5.26/뉴스1<br><br>photo@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/029/2021/05/26/0002676198_001_20210526192902998.jpg?type=w647" alt="" /><em class="img_desc">롯데홈쇼핑 직원이 파트너사를 방문해 생산·보관시설 위생 상태를 점검하고 있다. 롯데홈쇼핑 제공        </em></span>롯데홈쇼핑이 식품 유통과정에서 일어날 수 있는 식중독균 등 각종 세균으로 인한 사고를 사전에 차단하기 위해 식품 위생관리를 강화하며 선제적으로 대응하고 있다.<br><br>롯데홈쇼핑은 올해 더위가 빨라지고, 6~8월 평균 기온과 폭염일수가 평년보다 높을 것으로 전망됨에 따라, 지난 3일부터 9월 30일까지를 '하절기 식품안전 강화 기간'으로 정하고, 식품 위생관리를 강화한다고 26일 밝혔다.<br><br>이는 식중독 등 식품 안전사고가 여름철에 집중적으로 발생하는 만큼 선제적인 관리를 통해 사전 예방을 하기 위한 조치다. <br><br>이에 따라 냉장·냉동식품 배송 시 보냉제를 추가하며, 식품안전 강화 기간에는 변질되기 쉬운 젓갈, 회, 떡류 등 고위험 식품 판매를 중단한다.<br><br>또한 아이스홍시, 블루베리 등 냉동 과일을 비롯해 냉면, 콩국수 등 비가열 식품의 위생 상태를 집중 점검한다. 냉장·냉동식품 제조 파트너사를 직접 방문해 80개 항목으로 구성된 자체 위생점검 체크 리스트를 기반으로 생산, 보관시설의 위생 상태를 살핀다. 또한 암행 주문을 통해 상품 신선도, 원산지, 미생물 검사 등 품질 점검도 수시로 진행한다. 이외에도 어린이 기호식품 내 위해 물질 포함 여부 등 안전성 검사를 매월 진행할 예정이다. <br><br>한편, 롯데홈쇼핑은 올해 식품안전 전문교육 프로그램 '식품안전스쿨'을 개설하고, 파트너사와 내부 관련 직원을 대상으로 식품 관련 법규, 인증 등 식품안전에 대한 교육을 진행하고 있다. 지난 4월 식품기술사 자격증을 보유한 전문 강사의 진행으로 내부 직원을 대상으로 교육을 완료했으며, 이달부터 100여 개 파트너사에 대한 비대면 교육이 진행 중이다. 앞으로도 '식품안전스쿨'을 통해 식품 안전에 대한 교육 및 컨설팅을 적극적으로 전개해 나갈 예정이다. <br><br>이형식 롯데홈쇼핑 방송심의실장은 "올해 때이른 더위와 폭염이 예상됨에 따라 식품 사고를 사전에 차단하기 위해 식품안전 강화 기간을 정하고 체계적으로 품질관리를 하고 있다"며 "식품 제조부터 배송까지 집중적인 위생관리는 물론, 파트너사와 내부 직원에 대한 교육을 통해 식품안전의 중요성을 내재화 하는 등 여름철 식품안전에 만전을 기할 것"이라고 말했다.<br><br>김수연기자 newsnews@dt.co.kr <br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=029' target='_blank' >▶[ 네이버 메인에서 디지털타임스 구독 ]</a> / <a href='https://newsstand.naver.com/029' target='_blank' >▶[ 뉴스스탠드 구독 ]</a><br><a href='http://www.dt.co.kr/' target='_blank' >▶디지털타임스 홈페이지 바로가기</a><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/029/2021/05/26/0002676198_001_20210526192902998.jpg?type=w647" alt="" /><em class="img_desc">롯데홈쇼핑 직원이 파트너사를 방문해 생산·보관시설 위생 상태를 점검하고 있다. 롯데홈쇼핑 제공        </em></span>롯데홈쇼핑이 식품 유통과정에서 일어날 수 있는 식중독균 등 각종 세균으로 인한 사고를 사전에 차단하기 위해 식품 위생관리를 강화하며 선제적으로 대응하고 있다.<br><br>롯데홈쇼핑은 올해 더위가 빨라지고, 6~8월 평균 기온과 폭염일수가 평년보다 높을 것으로 전망됨에 따라, 지난 3일부터 9월 30일까지를 '하절기 식품안전 강화 기간'으로 정하고, 식품 위생관리를 강화한다고 26일 밝혔다.<br><br>이는 식중독 등 식품 안전사고가 여름철에 집중적으로 발생하는 만큼 선제적인 관리를 통해 사전 예방을 하기 위한 조치다. <br><br>이에 따라 냉장·냉동식품 배송 시 보냉제를 추가하며, 식품안전 강화 기간에는 변질되기 쉬운 젓갈, 회, 떡류 등 고위험 식품 판매를 중단한다.<br><br>또한 아이스홍시, 블루베리 등 냉동 과일을 비롯해 냉면, 콩국수 등 비가열 식품의 위생 상태를 집중 점검한다. 냉장·냉동식품 제조 파트너사를 직접 방문해 80개 항목으로 구성된 자체 위생점검 체크 리스트를 기반으로 생산, 보관시설의 위생 상태를 살핀다. 또한 암행 주문을 통해 상품 신선도, 원산지, 미생물 검사 등 품질 점검도 수시로 진행한다. 이외에도 어린이 기호식품 내 위해 물질 포함 여부 등 안전성 검사를 매월 진행할 예정이다. <br><br>한편, 롯데홈쇼핑은 올해 식품안전 전문교육 프로그램 '식품안전스쿨'을 개설하고, 파트너사와 내부 관련 직원을 대상으로 식품 관련 법규, 인증 등 식품안전에 대한 교육을 진행하고 있다. 지난 4월 식품기술사 자격증을 보유한 전문 강사의 진행으로 내부 직원을 대상으로 교육을 완료했으며, 이달부터 100여 개 파트너사에 대한 비대면 교육이 진행 중이다. 앞으로도 '식품안전스쿨'을 통해 식품 안전에 대한 교육 및 컨설팅을 적극적으로 전개해 나갈 예정이다. <br><br>이형식 롯데홈쇼핑 방송심의실장은 "올해 때이른 더위와 폭염이 예상됨에 따라 식품 사고를 사전에 차단하기 위해 식품안전 강화 기간을 정하고 체계적으로 품질관리를 하고 있다"며 "식품 제조부터 배송까지 집중적인 위생관리는 물론, 파트너사와 내부 직원에 대한 교육을 통해 식품안전의 중요성을 내재화 하는 등 여름철 식품안전에 만전을 기할 것"이라고 말했다.<br><br>김수연기자 newsnews@dt.co.kr <br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=029' target='_blank' >▶[ 네이버 메인에서 디지털타임스 구독 ]</a> / <a href='https://newsstand.naver.com/029' target='_blank' >▶[ 뉴스스탠드 구독 ]</a><br><a href='http://www.dt.co.kr/' target='_blank' >▶디지털타임스 홈페이지 바로가기</a><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">155억원 규모 바이오일레븐 보통주 36만6891주 취득</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000754145_web_20210526153357_20210526154010836.jpg?type=w647" alt="" /></span>[서울=뉴시스] 오동현 기자 = 민앤지가 연결 종속기업 '바이오일레븐'의 최대주주로 올라섰다. <br><br>민앤지는 26일 이사회를 열고 약 155억원 규모의 바이오일레븐 보통주 36만6891주 취득에 대한 안건을 결의했다.<br><br>이로써 민앤지의 바이오일레븐 지분율은 기존 13.78%(33만주)에서 29.11%(69만6891 주)로 증가됐다.<br><br>바이오일레븐은 4500억 보장 균수로 식약처 개별 인정을 받은 ‘드시모네’를 보유한 바이오테크 기업이다. 건강기능식품 사업을 비롯해 헬스케어 서비스, 신약개발 사업 등 다양한 사업을 전개하고 있으며, 최근 중국을 비롯한 해외시장에 진출했다. <br><br>지난해 1월에는 재단법인 스크립스코리아항체연구원과 ‘3세대 면역항암 항체치료제’ 기술 이전 및 공동연구 개발을 위한 업무 협약을 맺고 마이크로바이옴을 기반으로 한 면역항암제 연구 개발 분야 진출을 공식화한 바 있다.<br><br>민앤지는 지난해 4월 바이오일레븐을 주요 종속회사로 편입시키고, 올해 1분기까지 5분기 연속 최대 매출을 경신했다. 이번 지분 취득을 통해 바이오일레븐에 대한 지배력을 더욱 강화하는 한편 사업 다각화를 통한 기업가치 증대 효과를 거둘 것으로 기대하고 있다.<br><br>이현철 민앤지 대표는 “바이오일레븐은 지난해 주요 종속회사로 편입된 이후 상호 간 긍정적인 사업 시너지를 내며 민앤지의 외형 성장에도 큰 기여를 했다”며 “앞으로 최대주주로서 바이오일레븐에 대한 전폭적인 지원을 아끼지 않을 것”이라고 말했다.<br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> odong85@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/629/2021/05/26/202170871622008029_20210527104207181.jpg?type=w647" alt="" /><em class="img_desc">26일 업계에 따르면 창원지방법원은 지난 20일 정규직과 계약직 간 임금차별은 부당하다는 판결을 내렸다. 사진은 서울 시내 한 아파트 공사 현장 전경. /이재빈 기자</em></span><br><br><strong>"임금과 복지 처우, 정규직과 동일해야"</strong><br><br>[더팩트｜이재빈 기자] 건설 현장 계약직 근로자에게 임금을 차별하는 것은 부당하다는 법원의 판결이 나왔다. 기술자격수당도 통상임금에 포함시켜야 한다는 주장도 받아들여졌다. 업계에서는 이번 판결이 대부분의 건설사에 영향을 미칠 것으로 보고 있다.<br><br>26일 건설업계에 따르면 창원지방법원 제5민사부는 지난 20일 한 대형건설사 노조 조합원이 회사를 상대로 제기한 임금청구소송에서 원고 부분 승소 판결을 내렸다. 앞서 노조는 2019년 7월 계약직과 정규직 간 임금차별 시정과 기술자격수당 통상임금 인정 등을 주장하며 창원지법에 차별 시정 및 통상임금 청구 소송을 접수했다.<br><br>이날 법원이 원고 부분 승소 판결을 내림에 따라 계약직 근로자는 그간 정규직과 차별받던 임금 격차분을 모두 지급받게 됐다.<br><br>노조 관계자는 "법원은 무기계약직에 대해 따로 마련된 취업규칙이 없다면 정규직에 대한 취업규칙을 적용해 임금과 복지에 대한 처우를 정규직과 똑같이 적용하라는 주문을 냈다"며 "그간 계약직은 똑같은 업무를 수행함에도 정규직에 비해 적은 임금을 받아왔다. 이번 판결로 동일노동 동일임금 원칙이 바로서게 됐다"고 설명했다.<br><br>아울러 법원은 기술자격수당을 통상임금으로 인정하기로 했다. 그간 대부분의 건설사는 건축사·기술사·안전·산업위생관리 등을 소지한 근로자에게 매월 기술자격수당을 지급해 왔다. 하지만 통상임금에서는 기술자격수당을 제외해 연차수당이나 시간외수당, 퇴직금 책정 시에는 기술자격수당이 반영되지 않았다. 이날 법원은 기술자격수당을 '정기적, 일률적, 고정적으로 소정근로에 대해 지급되는 금액'으로 판단했다.<br><br>법원이 노조의 손을 들어줌에 따라 각 건설사는 인력·임금체계 재정비를 고심해야 하는 상황이다. 건설업계는 그간 프로젝트 계약직(PJT)에 대한 취업규칙이 따로 없다는 점을 이용해 상대적으로 더 적은 임금을 제공해 왔다. 하지만 2017년 PJT를 계약직이 아닌 무기계약직으로 봐야 한다는 대법원 판결이 나온 데 이어 임금차별도 시정해야 한다는 판결이 나온 만큼 PJT 처우 개선에 착수할 전망이다.<br><br>홍순관 건설기업노조 위원장은 "규모있는 상위권 건설사가 노동자 권리를 존중해야 부실시공 없고 안전한 건설현장을 만들 수 있따"며 "급증하고 있는 PJT의 부당한 차별을 시정해 나가겠다"고 말했다.<br><br>fuego@tf.co.kr<br><br><br><br><a href="http://fannstar.tf.co.kr/event/view/fanbership20092109" target="_blank"> - BTS 공연 비하인드 사진 얻는 방법? [팬버십 가입하기▶]  </a><br><a href="http://fannstar.tf.co.kr/" target="_blank"> - 내 아이돌 순위는 내가 정한다! [팬앤스타 투표하기] </a><br><br>저작권자 ⓒ 특종에 강한 더팩트 & tf.co.kr 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/629/2021/05/26/202170871622008029_20210527104207181.jpg?type=w647" alt="" /><em class="img_desc">26일 업계에 따르면 창원지방법원은 지난 20일 정규직과 계약직 간 임금차별은 부당하다는 판결을 내렸다. 사진은 서울 시내 한 아파트 공사 현장 전경. /이재빈 기자</em></span><br><br><strong>"임금과 복지 처우, 정규직과 동일해야"</strong><br><br>[더팩트｜이재빈 기자] 건설 현장 계약직 근로자에게 임금을 차별하는 것은 부당하다는 법원의 판결이 나왔다. 기술자격수당도 통상임금에 포함시켜야 한다는 주장도 받아들여졌다. 업계에서는 이번 판결이 대부분의 건설사에 영향을 미칠 것으로 보고 있다.<br><br>26일 건설업계에 따르면 창원지방법원 제5민사부는 지난 20일 한 대형건설사 노조 조합원이 회사를 상대로 제기한 임금청구소송에서 원고 부분 승소 판결을 내렸다. 앞서 노조는 2019년 7월 계약직과 정규직 간 임금차별 시정과 기술자격수당 통상임금 인정 등을 주장하며 창원지법에 차별 시정 및 통상임금 청구 소송을 접수했다.<br><br>이날 법원이 원고 부분 승소 판결을 내림에 따라 계약직 근로자는 그간 정규직과 차별받던 임금 격차분을 모두 지급받게 됐다.<br><br>노조 관계자는 "법원은 무기계약직에 대해 따로 마련된 취업규칙이 없다면 정규직에 대한 취업규칙을 적용해 임금과 복지에 대한 처우를 정규직과 똑같이 적용하라는 주문을 냈다"며 "그간 계약직은 똑같은 업무를 수행함에도 정규직에 비해 적은 임금을 받아왔다. 이번 판결로 동일노동 동일임금 원칙이 바로서게 됐다"고 설명했다.<br><br>아울러 법원은 기술자격수당을 통상임금으로 인정하기로 했다. 그간 대부분의 건설사는 건축사·기술사·안전·산업위생관리 등을 소지한 근로자에게 매월 기술자격수당을 지급해 왔다. 하지만 통상임금에서는 기술자격수당을 제외해 연차수당이나 시간외수당, 퇴직금 책정 시에는 기술자격수당이 반영되지 않았다. 이날 법원은 기술자격수당을 '정기적, 일률적, 고정적으로 소정근로에 대해 지급되는 금액'으로 판단했다.<br><br>법원이 노조의 손을 들어줌에 따라 각 건설사는 인력·임금체계 재정비를 고심해야 하는 상황이다. 건설업계는 그간 프로젝트 계약직(PJT)에 대한 취업규칙이 따로 없다는 점을 이용해 상대적으로 더 적은 임금을 제공해 왔다. 하지만 2017년 PJT를 계약직이 아닌 무기계약직으로 봐야 한다는 대법원 판결이 나온 데 이어 임금차별도 시정해야 한다는 판결이 나온 만큼 PJT 처우 개선에 착수할 전망이다.<br><br>홍순관 건설기업노조 위원장은 "규모있는 상위권 건설사가 노동자 권리를 존중해야 부실시공 없고 안전한 건설현장을 만들 수 있따"며 "급증하고 있는 PJT의 부당한 차별을 시정해 나가겠다"고 말했다.<br><br>fuego@tf.co.kr<br><br><br><br><a href="http://fannstar.tf.co.kr/event/view/fanbership20092109" target="_blank"> - BTS 공연 비하인드 사진 얻는 방법? [팬버십 가입하기▶]  </a><br><a href="http://fannstar.tf.co.kr/" target="_blank"> - 내 아이돌 순위는 내가 정한다! [팬앤스타 투표하기] </a><br><br>저작권자 ⓒ 특종에 강한 더팩트 & tf.co.kr 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/629/2021/05/26/202170871622008029_20210527104207181.jpg?type=w647" alt="" /><em class="img_desc">26일 업계에 따르면 창원지방법원은 지난 20일 정규직과 계약직 간 임금차별은 부당하다는 판결을 내렸다. 사진은 서울 시내 한 아파트 공사 현장 전경. /이재빈 기자</em></span><br><br><strong>"임금과 복지 처우, 정규직과 동일해야"</strong><br><br>[더팩트｜이재빈 기자] 건설 현장 계약직 근로자에게 임금을 차별하는 것은 부당하다는 법원의 판결이 나왔다. 기술자격수당도 통상임금에 포함시켜야 한다는 주장도 받아들여졌다. 업계에서는 이번 판결이 대부분의 건설사에 영향을 미칠 것으로 보고 있다.<br><br>26일 건설업계에 따르면 창원지방법원 제5민사부는 지난 20일 한 대형건설사 노조 조합원이 회사를 상대로 제기한 임금청구소송에서 원고 부분 승소 판결을 내렸다. 앞서 노조는 2019년 7월 계약직과 정규직 간 임금차별 시정과 기술자격수당 통상임금 인정 등을 주장하며 창원지법에 차별 시정 및 통상임금 청구 소송을 접수했다.<br><br>이날 법원이 원고 부분 승소 판결을 내림에 따라 계약직 근로자는 그간 정규직과 차별받던 임금 격차분을 모두 지급받게 됐다.<br><br>노조 관계자는 "법원은 무기계약직에 대해 따로 마련된 취업규칙이 없다면 정규직에 대한 취업규칙을 적용해 임금과 복지에 대한 처우를 정규직과 똑같이 적용하라는 주문을 냈다"며 "그간 계약직은 똑같은 업무를 수행함에도 정규직에 비해 적은 임금을 받아왔다. 이번 판결로 동일노동 동일임금 원칙이 바로서게 됐다"고 설명했다.<br><br>아울러 법원은 기술자격수당을 통상임금으로 인정하기로 했다. 그간 대부분의 건설사는 건축사·기술사·안전·산업위생관리 등을 소지한 근로자에게 매월 기술자격수당을 지급해 왔다. 하지만 통상임금에서는 기술자격수당을 제외해 연차수당이나 시간외수당, 퇴직금 책정 시에는 기술자격수당이 반영되지 않았다. 이날 법원은 기술자격수당을 '정기적, 일률적, 고정적으로 소정근로에 대해 지급되는 금액'으로 판단했다.<br><br>법원이 노조의 손을 들어줌에 따라 각 건설사는 인력·임금체계 재정비를 고심해야 하는 상황이다. 건설업계는 그간 프로젝트 계약직(PJT)에 대한 취업규칙이 따로 없다는 점을 이용해 상대적으로 더 적은 임금을 제공해 왔다. 하지만 2017년 PJT를 계약직이 아닌 무기계약직으로 봐야 한다는 대법원 판결이 나온 데 이어 임금차별도 시정해야 한다는 판결이 나온 만큼 PJT 처우 개선에 착수할 전망이다.<br><br>홍순관 건설기업노조 위원장은 "규모있는 상위권 건설사가 노동자 권리를 존중해야 부실시공 없고 안전한 건설현장을 만들 수 있따"며 "급증하고 있는 PJT의 부당한 차별을 시정해 나가겠다"고 말했다.<br><br>fuego@tf.co.kr<br><br><br><br><a href="http://fannstar.tf.co.kr/event/view/fanbership20092109" target="_blank"> - BTS 공연 비하인드 사진 얻는 방법? [팬버십 가입하기▶]  </a><br><a href="http://fannstar.tf.co.kr/" target="_blank"> - 내 아이돌 순위는 내가 정한다! [팬앤스타 투표하기] </a><br><br>저작권자 ⓒ 특종에 강한 더팩트 & tf.co.kr 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/277/2021/05/26/0004909115_001_20210526121204625.jpg?type=w647" alt="" /><em class="img_desc">스킨그래머 스윗 앤 젠틀 2종.</em></span><br><br>[아시아경제 임춘한 기자] 베이식스의 클린뷰티 브랜드 ‘스킨그래머’가 프랑스 비건 인증 기관 이브로부터 인증을 받은 ‘스윗 앤 젠틀 2종’을 출시했다. 이 제품은 현대인들의 약해진 모발을 건강하게 가꾸어 줄 비타민 B5(판테놀), B7(바이오틴)이 함유된 제품이다.<br><br>‘스윗 앤 젠틀 샴푸 바’는 코코넛 유래 세정제와 옥수수 전분, 참숯 그리고 멘톨로 구성된 내추럴 클린 콤플렉스가 두피 모공 사이사이의 노폐물과 피지를 말끔히 씻어주고 청량감을 준다. 각질 제거에 탁월한 살리실산과 풍부한 미네랄을 담은 다시마 추출물로 구성된 씨위드 클린 콤플렉스가 두피 각질 제거에 도움을 주고 모발에 영양을 선사한다. <br><br>단 1회 사용으로도 두피 각질 36.1%, 두피 피지(유분) 93.82%가 감소되었다는 인체 적용시험까지 완료했다. ‘스윗 앤 젠틀 트리트먼트’는 아르간 커넬 오일과 해바라기씨 오일, 코코넛 야자 오일로 이루어진 내추럴 블렌딩 오일이 모발에 촉촉한 영양을 부여해 윤기와 탄력을 선사한다.<br><br>임춘한 기자 choon@asiae.co.kr<br><br><a href="https://www.asiae.co.kr/fortune/index.htm?utm_source=navernews&utm_medium=naver_view&utm_campaign=fortune">▶ 속 시원한 풀이! 2021년 정통사주·운세·토정비결</a><br><a href="https://www.asiae.co.kr/event/2021/jobgo/">▶ 직장인을 위한 '빅데이터 분석' 국비 특화과정 모집</a><br><a href="https://core.asiae.co.kr/?utm_source=naver_article&utm_medium=pc_mobile&utm_campaign=core">▶ 투자 성공의 핵심은 기업분석! 'CORE' 바로가기</a><br><br>&lt;ⓒ경제를 보는 눈, 세계를 보는 창 아시아경제 무단전재 배포금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이재윤 기자] <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592625_001_20210526113902104.jpg?type=w647" alt="" /><em class="img_desc">중소기업중앙회 자료사진./사진=뉴스1</em></span>중소기업중앙회(이하 중앙회)는 26일 10시 서울 본회 이사회회의실에서 정세균 전 국무총리와 최저임금, 납품단가 연동제 도입 등 주요 애로사항을 논의했다고 밝혔다.<br><br>이 자리에는 국회 과학기술정보방송통신위원장을 맡고 있는 더불어민주당 이원욱 의원 등도 자리했다. 중소기업계에서는 김기문 중앙회장을 비롯해 정윤숙 한국여성경제인협회장과 업종별 중소기업협동조합 이사장 등 30여명이 참석했다.<br><br>김 중앙회장은 &quot;요즘 중소기업인들을 가장 힘들게 하는 것은 구조적인 △거래의 불공정 △시장의 불균형 △제도의 불합리 등 신경제3불문제&quot;라며 &quot;우리 사회가 반드시 해결해야 한다&quot;고 강조했다.<br><br>중소기업인들은 최저임금 결정시 지불능력과 업종, 기업규모를 고려해 줄 것을 요구했다. 최근 원자재가격 급등과 관련해 납품단가 연동제 도입을 적극 추진해 달라는 목소리도 있었다. 주요 납품처인 대기업에서 단가인상을 차일피일 미루거나, 단가조정을 요청해도 신규 제품만 일부 반영해 된다고 토로했다. 최저가 입찰로 납품할수록 손해를 보는 조달시장의 불합리도 시정을 요구했다. <br><br>이 밖에도 온라인플랫폼 독과점과 수익불균형 시정을 위한 &#039;온라인 플랫폼 거래 공정화 지원&#039;, 중소기업 승계 활성화를 위한 가업승계시 업종변경 자율화와 가업승계 증여세 과세특례 한도 확대, 중대재해법의 사업주 처벌에서 1년 이상 징역 삭제 및 7년 이하 상한 규정 설치 등을 주문하기도 했다.<br><br><!--article_split-->이재윤 기자 mton@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005373275_001_20210526111204660.jpg?type=w647" alt="" /></span><br>(인천=뉴스1) 정진욱 기자 = 박남춘 인천시장 26일 인천시 연수구 바이오 의약품 생산 기업 삼성바이오로직스에서 열린 더불어민주당 최고위원회의에서 발언하고 있다. 2021.5.26/뉴스1<br><br>gamja@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">'킹덤'·'스카이캐슬' 등<br>유명 IP 게임으로 제공</strong>[서울경제] <br><br><span stockcode='078340'>컴투스(078340)</span>는 스토리 게임 플랫폼 ‘스토리픽(Storypick)’을 글로벌 시장에 출시한다고 26일 밝혔다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003914883_001_20210526110203046.jpg?type=w647" alt="" /></span><br><br>스토리 게임이란 이용자의 선택에 따라 게임 결말이 달라질 수 있는 게임 장르다. 컴투스는 스토리픽의 글로벌 서버를 열고 미국 및 유럽을 포함한 전 세계에서 서비스한다. 글로벌 서버에서는 국내에서 인기를 얻은 총 14편을 우선적으로 선보이며, 모든 콘텐츠는 영어로 제공한다.<br><br>스토리픽은 지난해 국내 출시해 애플 앱스토어 시뮬레이션 부분 인기 게임 1위를 기록했다. 드라마 ‘킹덤’·‘스카이캐슬’, 영화 ‘늑대의 유혹’ 등 유명 지식재산권(IP)을 쌍방향 형식(인터랙티브) 콘텐츠로 제공해 화제를 모았다. 이외에도 원천 IP를 활용한 스토리 게임 ‘일진에게 찍혔을 때’는 웹드라마로 제작돼 유튜브 누적 조회수 1억 건을 돌파했다.<br><br>컴투스 관계자는 “최근 세계적으로 인기를 끌고 있는 한국적 소재의 스토리 콘텐츠를 내세워 글로벌 스토리 게임 시장에서 경쟁력을 확보하겠다”고 말했다. <br><br>/정다은 기자 downright@sedaily.com<br><br><ul><li><a href="https://bit.ly/3bhqTuL" target="_blank" style="color:#000000">▶ [지구용] 투명해진 맥주병, 그런데 말입니다...</a></li><li><a href="https://thepolitics.sedaily.com" target="_blank" style="color:#000000">▶ 서울경제 더 폴리틱스 뉴스를 만나보세요!</a></li><li><a href="https://www.sedaily.com/v/Zipchelin" target="_blank" style="color:#000000">▶ 미슐랭 가이드처럼 알찬 부동산 뉴스 '집슐랭'</a></li></ul><br><br>저작권자 ⓒ 서울경제, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

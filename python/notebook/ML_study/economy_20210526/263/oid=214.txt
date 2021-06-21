@@ -1,0 +1,239 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="vod_area"><iframe _src="/main/readVod.nhn?oid=056&aid=0011051475&position=1&autoPlay=true&viewType=" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe></div><br><br>[앵커]<br><br>여러분, 안녕하십니까?<br><br>백신을 한 번만 맞아도 당장 다음 달부터 가족들과 더 여럿이 모일 수 있고, 7월부터는 야외에서 마스크를 벗어도 됩니다.<br><br>정부가 코로나19 백신 접종에 따른 혜택들을 발표했습니다.<br><br>첫 소식, 김도영 기자가 전해드립니다.<br><br> [리포트]<br><br> 현재 직계가족은  8인까지만 모임이 허용됩니다.<br><br> 하지만 다음 달부터 백신을 한 번이라도 맞은 사람은 인원에서 제외합니다.<br><br> 예를 들어 가족 중 할아버지 할머니  두 명이 접종했다면 이 두 사람에 인원제한 범위인 8명을 더해 모두 10명이 모일 수 있습니다.<br><br> [권덕철/중앙재난안전대책본부 1차장 : "고령층뿐 아니라 1차 접종자는 인원제한에서 제외되므로 가족 내 접종자가 많아질수록 모일 수 있는 인원은 늘어나게 됩니다."]<br><br> 노인복지시설에선  접종자들을 위한 프로그램도 열리고 경로당도 운영이 가능합니다.<br><br>  국립공원과 고궁 등의 공공시설 이용료 할인, 무료입장 혜택도 있습니다.<br><br> 정부 목표는  다음 달 말까지 전 국민의 25%인 1,300만 명이 1차 접종을 마치는 겁니다.<br><br> 이 목표가 달성되면 7월부터는 방역 조치가 더욱 완화됩니다.<br><br> 백신을 한 번만 맞았더라도  야외에서 마스크를 안 써도 됩니다.<br><br> [박혜경/중앙방역대책본부 방역지원단장 : "(1차 접종자는) 야외에서의 전파 가능성이 매우 낮은 것으로 보고 있고, 타인으로의 전파 가능성도 매우 낮아져 있는 상황이라고 판단하고."]<br><br> 예방접종을 완료하면 5인 이상 사적모임 금지 기준에서 제외됩니다.<br><br> 식당과 카페 등은 1차 접종자는 실외, 2차 접종자는 실내외 모두  인원 제한에 상관없이  이용할 수 있습니다.<br><br> 예배와 미사, 법회 등  대면 종교활동도  인원 기준에서 빠지게 됩니다.<br><br> 국민 70%가 1차 접종을 마치는 9월 말 이후엔  거리두기와 방역수칙이 대폭 완화될 것으로 보입니다.<br><br> [김부겸/중앙재난안전대책본부장 : "집단면역이 달성되는 시점에서는 실내에서의 마스크 착용 완화도 검토하게 될 것입니다."]<br><br> 정부는 이와 함께 접종률이 높은 지자체에 방역조치를 완화하는 권한도 확대하고 재난안전특별교부세를 지원하는 방안도 검토 중입니다.<br><br> KBS 뉴스 김도영입니다.<br><br> 영상편집:사명환/그래픽:김현갑<br><br><center><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/056/2021/05/26/0011051475_004_20210526222302707.png?type=w647" alt="" /></span></center><br><br>김도영 (peace1000@kbs.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=056" target="_blank">▶ 더 빠르고 정확한 소식을 원하시면 KBS뉴스 구독!</a><br><a href="http://news.kbs.co.kr/special/covid19/vaccine.html"_blank">▶ 코로나19 언제 어떤 백신을 누가 맞을까?</a><br><a href="https://pf.kakao.com/_REkxbE" target="_blank">▶ 뉴스 제보하기 [여기를 클릭!]</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span style="border-left:4px solid #959595; padding-left: 20px; display: inline-block"><strong>코인마켓캡 시세 비트코인 8.47% 뛴 4만257달러<br>가상화폐 대신 금·은 투자 인플레 헤지 수단 부각</strong></span><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/009/2021/05/26/0004799943_001_20210526214402810.jpg?type=w647" alt="" /><em class="img_desc">[사진 제공 = 연합뉴스]</em></span>국내서 비트코인 개당 가격이 오름세를 보이면서 4800만원대에 거래되고 있다.<br><br>26일 오후 9시 30분 국내 거래소 빗썸에서 가상화폐 대장격인 비트코인 개당 가격은 24시간 전보다 4.78% 오른 4828만4000원에 거래되고 있다. 이더리움은 8.18% 급등한 342만7000원이다.<br><br>같은 시간 업비트에서도 비트코인 개당 가격은 4800만원대로, 전일 대비 2.51% 상승한 4822만6000원에 시세가 형성돼 있다.<br><br>이더리움은 전일 대비 3.47% 오른 343만1000원, 도지코인은 0.47% 상승한 428원이다.<br><br>가상화폐는 주식시장과 달리 거래소 단위로 거래가 이뤄져 같은 종류라도 거래소별로 거래 가격이 조금씩 다르다.<br><br>글로벌 가상화폐 시황 중계사이트인 코인마켓캡에 따르면 같은 시간(한국시간 기준) 비트코인은 24시간 전보다 8.47% 뛴 4만257달러에 시세가 형성됐다. 이더리움은 16.72% 급등한 2865달러를, 도지코인은 7.06% 오른 35.71센트를 각각 기록했다.<br><br>앞서 비트코인 가격은 지난 19일 30% 가량 폭락하며 한때 3만달러에 바짝 근접했다. 이더리움은 지난 11일 개당 4300달러를 넘었다가 내림세가 이어져 현재 2800달러대를 오르내리고 있다.<br><br>가상화폐 시장에는 최근 악재가 이어졌다. 미국 정부는 지난 20일(현지시간) 1만달러 이상 가상화폐 거래에 대해 국세청(IRS)에 신고 의무를 부과하는 등 가상화폐 규제에 나선다고 밝혔다. 바로 전날에는 중국이 가상자산 발행과 거래금지를 넘어 채굴까지 금지하기로 했다. 일론 머스크가 트위터를 통해 돌발 메시지를 던지는 것도 가상화폐 시장에 불확실성을 높이고 있다.<br><br><hr style="border:0.5px solid#333333; display: block !important;"><B>비트코인 가격 아직 바닥 근접하지 않았다 주장도<hr style="border:0.5px solid#333333; display: block !important;"></b><br><br>최근 가상자산 시장에서 비트코인 등 가상화폐 가격이 급락하며 변동성이 커지는 가운데 일각에서는 아직 바닥에 근접하지 않았다는 전망과 함께 투자자들이 이제는 금과 은 등 원자재 시장에 주목할 것이라는 주장도 나온다.   <br><br>구겐하임파트너스의 스캇 미너드(Scott Minerd) 최고투자책임자(CIO)는 지난 25일(현지시간) CNBC에 출연해 "돈은 가상화폐를 떠나고 사람들은 여전히 인플레이션 헤지 수단을 찾고 있기 때문에 금과 은이 더 좋은 장소가 될 것"이라고 말했다. 지난달 비트코인 붕괴를 경고했던 미너드 CIO는 비트코인의 추가 하락을 예상했다. 그는 비트코인 가격이 5만5000달러 근처였던 지난달 21일 "매우 거품이 많아 보인다"며 "단기적으로 50% 급락해 2만~3만달러 사이가 될 수 있다"고 전망한 바 있다. 그는 이날 역시 가상화폐 시장이 안정되려면 시간이 걸릴 것이라고 예상했다.<br><br>미너드 CIO는 "경쟁 통화가 확산되면서 비트코인에 투자했던 사람들이 돈을 빼내 다른 코인에 배분하고 있다"며 "인터넷 버블처럼 생존자가 누구일지 물음 속에서 정리할 시간을 갖기 위해 가격 하락과 자금 유출을 겪어야만 하는데, 향후 몇 년 동안 겪어야 할 일도 바로 그것"이라고 말했다.<br><br>국내에서도 암호화폐 가격 급등락으로 불안감을 느낀 투자자들이 다시 금에 주목하고 있다는 분석도 나온다. 대표적인 안전자산인 금은 위험자산과 가격이 반대로 움직이는 경향을 보인다. 금이 인플레이션(추세적인 물가 상승) 헤지(hedge·위험 회피) 수단으로 부각하고 있는 것. 추세적으로 물가가 오를 경우 다른 자산에 비해 금이 가치 유지에 더 용이하기 때문이다.<br><br>황병진 NH투자증권 연구원은 "금과 같은 안전자산 선호 현상이 적어도 올해 2분기까지, 길게 보면 8월까지 이어질 전망"이라며 "앞으로의 (금값 흐름의) 관건은 금리를 자극할 미국 연방준비제도(연준)의 테이퍼링(자산매입 축소) 언급 여부가 제롬 파월 연준 의장의 입에서 직접 언급되는 것"이라고 말했다.<br><br>김소현 대신증권 연구원은 "전반적으로 금값이 오르고 있고 인플레이션 우려가 계속 나오고 있는 가운데 실제로도 이런 우려가 높아지는 상황"이라며 "인플레이션 헤지 수요로 금에 대한 투자 매력이 높아지고 있고 이런 추세가 올해 상반기, 길면 연말까지 이어질 것으로 예상한다"고 말했다.<br><br>[전종헌 매경닷컴 기자 cap@mk.co.kr]<br><br><!-- r_start //--><!-- r_end //--><a href="https://media.naver.com/channel/promotion.nhn?oid=009" target="_blank">▶ '경제 1위' 매일경제, 네이버에서 구독하세요</a><br><a href="https://www.mk.co.kr/premium/series/20121/?utm_source=naver&utm_medium=promotion&utm_campaign=make" target="_blank">▶ 이 제품은 '이렇게 만들죠' 영상으로 만나요</a><br><a href="https://tv.naver.com/mkestatetv" target="_blank">▶ 부동산의 모든것 '매부리TV'가 펼칩니다</a><br><br>[ⓒ 매일경제 & mk.co.kr, 무단전재 및 재배포 금지]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/082/2021/05/26/0001093865_001_20210526202302535.jpg?type=w647" alt="" /></span><div style="font-size:12px;">이상인 고용노동부 근로감독관이 뿌리·조선산업 주52시간제 도입 설명회에서 발언하고 있다. 중소기업중앙회 제공</div><br><br>뿌리·조선업계가 주 52시간제 도입을 앞두고 인력 구하기가 힘들어 사실상 인위적인 근로시간 조정이 어렵다고 밝혔다.<br><br>중소기업중앙회는 26일 오후 고용노동부·산업통상자원부와 공동으로 뿌리·조선산업 주52시간제 도입지원 설명회를 열었다.<br><br>이번 설명회에서는 고용노동부에 재직 중인 근로감독관이 직접 뿌리·조선업종에 맞는 교대제 개편방안, 유연근로제 활용방안 등을 실제 사례를 들어가며 상세히 안내했다.<br><br>이어 박종필 고용부 근로감독정책단장이 현장에 참석한 뿌리·조선업계 종사자들의 질의에 답변하고 애로를 청취하는 시간도 가졌다.<br><br>이종길 한국금속열처리공업협동조합 전무는 “뿌리산업은 24시간 내내 기계를 돌려야 해 주52시간제 준수를 위해서는 인력 충원을 통한 교대제 개편이 불가피하지만 국내 청장년층은 취업을 기피하고 외국인 근로자마저 입국이 중단되어 뾰족한 대응책이 없다”라고 어려움을 호소했다.<br><br>또 조선업계 참석자들은 공통적으로 “조선업은 기후에 영향을 받는 야외작업이 빈번해 유연근로제 도입을 위한 인위적인 근로시간 조정이 매우 어려우며 인력충원을 통해 대응하려 해도 추가 숙련인력을 구할 수가 없다”고 말했다.<br><br>또 조선업계측은 “4월 15일 확대경제장관회의에서 대통령께서 급증하는 수주 물량이 차질없이 소화될 수 있도록 조선산업 지원을 당부했는데 이를 위해서는 인력 수급이 어려운 도장·사상·족장 등 직종에 한해서라도 특별연장근로 인가기간 확대 등의 대응책을 마련해 주어야 한다”고 말했다.<br><br>도장은 선박 표면을 페인트칠을 하는 작업이며 사상은 선박 표면의 녹슨 부분을 기계로 제거하는 작업을 말한다. 또 족장은 선박 제작시 높은 곳에서 작업할 때 이를 위한 발판을 제작하는 작업이다.<br><br>이에 대해 이태희 중소기업중앙회 스마트일자리본부장은 “만성적인 인력난 등으로 주52시간제 준수가 버거운 뿌리와 조선 산업의 현실에 충분히 공감한다”며 “주52시간제가 부작용없이 현장에 안착될 수 있도록 애로사항을 토대로 개선 및 추가 지원방안에 대해서 고용노동부와 적극 협의해나가겠다”고 답했다.<br><br>이날 설명회는 온라인으로 실시간 생중계 했으며 영상은 중소기업중앙회 유투브 채널에서 다시 시청이 가능하다.<br><br>김덕준 기자 casiopea@busan.com<br><br><br><br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=082'>▶ 네이버에서 부산일보 구독하기 클릭!</a><br><a href='https://here.busan.com/bbs/login.php?urlencode=www.busan.com'>▶ 부산닷컴 회원가입. 회원 전환하면 부산일보 지면보기 무료이벤트</a><br><a href='http://www.busan.com'>▶ 부산일보 홈 바로가기</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/082/2021/05/26/0001093865_001_20210526202302535.jpg?type=w647" alt="" /></span><div style="font-size:12px;">이상인 고용노동부 근로감독관이 뿌리·조선산업 주52시간제 도입 설명회에서 발언하고 있다. 중소기업중앙회 제공</div><br><br>뿌리·조선업계가 주 52시간제 도입을 앞두고 인력 구하기가 힘들어 사실상 인위적인 근로시간 조정이 어렵다고 밝혔다.<br><br>중소기업중앙회는 26일 오후 고용노동부·산업통상자원부와 공동으로 뿌리·조선산업 주52시간제 도입지원 설명회를 열었다.<br><br>이번 설명회에서는 고용노동부에 재직 중인 근로감독관이 직접 뿌리·조선업종에 맞는 교대제 개편방안, 유연근로제 활용방안 등을 실제 사례를 들어가며 상세히 안내했다.<br><br>이어 박종필 고용부 근로감독정책단장이 현장에 참석한 뿌리·조선업계 종사자들의 질의에 답변하고 애로를 청취하는 시간도 가졌다.<br><br>이종길 한국금속열처리공업협동조합 전무는 “뿌리산업은 24시간 내내 기계를 돌려야 해 주52시간제 준수를 위해서는 인력 충원을 통한 교대제 개편이 불가피하지만 국내 청장년층은 취업을 기피하고 외국인 근로자마저 입국이 중단되어 뾰족한 대응책이 없다”라고 어려움을 호소했다.<br><br>또 조선업계 참석자들은 공통적으로 “조선업은 기후에 영향을 받는 야외작업이 빈번해 유연근로제 도입을 위한 인위적인 근로시간 조정이 매우 어려우며 인력충원을 통해 대응하려 해도 추가 숙련인력을 구할 수가 없다”고 말했다.<br><br>또 조선업계측은 “4월 15일 확대경제장관회의에서 대통령께서 급증하는 수주 물량이 차질없이 소화될 수 있도록 조선산업 지원을 당부했는데 이를 위해서는 인력 수급이 어려운 도장·사상·족장 등 직종에 한해서라도 특별연장근로 인가기간 확대 등의 대응책을 마련해 주어야 한다”고 말했다.<br><br>도장은 선박 표면을 페인트칠을 하는 작업이며 사상은 선박 표면의 녹슨 부분을 기계로 제거하는 작업을 말한다. 또 족장은 선박 제작시 높은 곳에서 작업할 때 이를 위한 발판을 제작하는 작업이다.<br><br>이에 대해 이태희 중소기업중앙회 스마트일자리본부장은 “만성적인 인력난 등으로 주52시간제 준수가 버거운 뿌리와 조선 산업의 현실에 충분히 공감한다”며 “주52시간제가 부작용없이 현장에 안착될 수 있도록 애로사항을 토대로 개선 및 추가 지원방안에 대해서 고용노동부와 적극 협의해나가겠다”고 답했다.<br><br>이날 설명회는 온라인으로 실시간 생중계 했으며 영상은 중소기업중앙회 유투브 채널에서 다시 시청이 가능하다.<br><br>김덕준 기자 casiopea@busan.com<br><br><br><br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=082'>▶ 네이버에서 부산일보 구독하기 클릭!</a><br><a href='https://here.busan.com/bbs/login.php?urlencode=www.busan.com'>▶ 부산닷컴 회원가입. 회원 전환하면 부산일보 지면보기 무료이벤트</a><br><a href='http://www.busan.com'>▶ 부산일보 홈 바로가기</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">해수부, 지자체·해경과 3주간 1만2538개소 조사<br>165개소 미표시 또는 거짓표시…7년 징역 또는 1억원 벌금 등</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/277/2021/05/26/0004909388_001_20210526171503507.jpg?type=w647" alt="" /><em class="img_desc">경상남도 통영시의 어업인이 지난달 26일 통영시 정량동 이순신공원 앞 해상에서 '후쿠시마 원전 오염수 방류 규탄 통영대회'를 열고 일본 정부를 규탄하는 모습.(이미지 출처=연합뉴스)</em></span><br><br>[세종=아시아경제 문채석 기자] 일본이 후쿠시마 원전 방사능 오염수를 바다에 뿌리기로 해 국민 불안이 커진 가운데 수산물 원산지를 제대로 표시하지 않은 업체 165개소가 정부에 덜미를 잡혔다. 적발 품목의 절반이 일본산이었던 것으로 드러났다. <br><br>26일 해양수산부는 지난달 22일부터 지난 12일까지 3주간 지방자치단체, 해양경찰청 등과 수산물 원산지 표시 특별점검을 한 결과 1만2538개소 중 165개소가 법을 어긴 것으로 드러났다고 밝혔다. <br><br>구체적으로 원산지를 표시하지 않은 업체는 123개소, 거짓으로 표시한 업체는 42개소였다. 적발 품목은 191건으로 일본산 47.7%, 중국산 18.8%, 러시아산 5.2% 순이다.<br><br>원산지를 거짓 표시한 품목 49건 중에는 일본산이 28건으로 가장 많았고 러시아산(6건), 중국산(5건)이 뒤를 이었다. 품목별로는 돔류(32.3%)에 이어 가리비(17.3%), 명태(6.3%) 및 낙지(4.2%) 순이었다.<br><br>해수부는 이번에 잡아낸 165개소 중 거짓 표시 42개소를 고발하기로 했다. 이들은 최대 7년 이하의 징역 또는 1억원 이하의 벌금에 처해진다. 원산지를 표시하지 않은 123개소는 위반금액에 따라 1000만원 이해의 과태료를 물 예정이다.<br><br>해수부는 수입수산물 유통이력 점검을 강화하기로 했다. 위반 실적이 많은 수산물은 지자체, 해경과 협력해 연중 집중 단속을 할 방침이다. 아울러 소비자 단체, 민관협의회와의 협력을 통해 수산물 수입·유통·판매 업체들이 스스로 제도를 지키도록 적극 노력한다.<br><br>김준석 해수부 수산정책실장은 "판매자는 투명한 원산지 표시만이 소비자의 신뢰와 매출을 얻는 최선의 방법임을 재인식하고, 소비자는 안심하고 수산물을 사 먹는 구조를 만드는 게 중요하다"며 "수산물 구매 시 원산지 표시를 반드시 확인하고 의심될 경우 수산물 원산지 표시위반 신고 전화 또는 카카오톡 '수산물원산지표시' 채널에 적극 제보해주기 바란다"고 당부했다. <br><br>세종=문채석 기자 chaeso@asiae.co.kr<br><br><a href="https://www.asiae.co.kr/fortune/index.htm?utm_source=navernews&utm_medium=naver_view&utm_campaign=fortune">▶ 속 시원한 풀이! 2021년 정통사주·운세·토정비결</a><br><a href="https://www.asiae.co.kr/event/2021/jobgo/">▶ 직장인을 위한 '빅데이터 분석' 국비 특화과정 모집</a><br><a href="https://core.asiae.co.kr/?utm_source=naver_article&utm_medium=pc_mobile&utm_campaign=core">▶ 투자 성공의 핵심은 기업분석! 'CORE' 바로가기</a><br><br>&lt;ⓒ경제를 보는 눈, 세계를 보는 창 아시아경제 무단전재 배포금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/056/2021/05/26/0011051277_001_20210526171503796.jpg?type=w647" alt="" /></span> <br>아시아나항공과 금호건설의 주식 매매 거래가 정지됐습니다. <br> <br>한국거래소 유가증권시장본부는 오늘(26일) 전 경영진의 횡령 및 배임 혐의에 따른 기소설에 대해 조회 공시를 요구하며 매매 거래를 정지했다고 공시했습니다.<br> <br>조회공시 답변 시한은 내일(27일) 오후 6시까지입니다. <br> <br>한편 이날 서울중앙지검 공정거래조사부(김민형 부장검사)는 독점규제 및 공정거래에 관한 법률 위반과 특정경제범죄가중처벌법상 횡령·배임 혐의로 박삼구 전 금호아시아나그룹 회장을 구속기소 했습니다.<br><br>김진호 (hit@kbs.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=056" target="_blank">▶ 더 빠르고 정확한 소식을 원하시면 KBS뉴스 구독!</a><br><a href="http://news.kbs.co.kr/special/covid19/vaccine.html"_blank">▶ 코로나19 언제 어떤 백신을 누가 맞을까?</a><br><a href="https://pf.kakao.com/_REkxbE" target="_blank">▶ 뉴스 제보하기 [여기를 클릭!]</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104588_001_20210526145402769.jpg?type=w647" alt="" /><em class="img_desc">포스코는 26일 전남 광양 율촌산업단지에 이차전지 주요 원료인 수산화리튬 공장 착공식을 했다 . 사진 포스코</em></span>        <span class="mask"></span>              </div>                        </div>        포스코는 26일 전남 광양 율촌산업단지 내에 전기차 배터리의 양극재 원료인 수산화리튬 공장을 착공했다. 지난해 4월 이사회 승인을 얻어 별도 출범한 포스코리튬솔루션이 짓는 공장은 율촌산업단지 내 19만6000㎡ 부지에 7600억원을 투자해 2023년 준공한다.    <br>           <div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104588_002_20210526145402796.jpg?type=w647" alt="" /><em class="img_desc">리튬이온 이차전지 양극재 공정. 사진 포스코</em></span>        <span class="mask"></span>              </div>                        </div>        수산화리튬을 대규모로 생산하는 공장은 사실상 국내에서 처음이다. 앞서 포스코는 2018년부터 시험 공장을 통해 수산화리튬을 생산했다. 포스코리튬솔루션은 이 공장에서 연산 4만3000t의 수산화리튬을 생산할 계획이다. 이는 전기차 100만대분의 양극재를 만들 수 있는 양이다.    <br>      <br>   수산화리튬은 양극 전구체(양극재 전 중간재)와 혼합해 양극재를 완성하는 주요 원료로 최근 수요가 늘었다. 기존 탄산리튬보다 수산화화리튬이 들어간 양극재가 에너지 밀도가 높다. 수산화리튬은 탄산리튬을 재가공해 얻기도 하지만, 광양 공장에서 생산할 수산화리튬은 리튬 정광(광석)에서 바로 추출하는 방식이다. 앞서 포스코는 호주 필바라사로부터 리튬 광석을 공급받기로 계약을 맺었다.   <br>      <br>   이로써 포스코는 전남 광양에 수산화리튬 원료부터 양극재 공장까지 배터리 소재 공급망을 더 촘촘하게 갖추게 됐다. 앞서 2019년 포스코케미칼은 율촌산업단지에 양극재 생산 공장을 설립했으며, 올해 약 3만t의 제품을 생산할 예정이다. 최정우 포스코 회장은 이날 착공식에서 "리튬 국산화는 포스코그룹이 100년 기업으로 성장하기 위한 중요한 토대"라며 "글로벌 시장에서 치열하게 경쟁하고 있는 국내 이차전지산업 경쟁력 확보에 기여하게 될 것"이라고 말했다.  <br>      <br>   포스코는 전기차 배터리 밸류 체인(가치 사슬) 확보를 위해 분주하게 움직이고 있다. 특히 배터리 소재와 원료 확보에서 국내 기업 중 가장 적극적인 투자를 진행 중이다. 2018년 호주 필바라미네랄스와 리튬 정광 장기 구매 계약을 맺은 데 이어 같은 해 아르헨티나 염호를 2억8000만 달러(약 3300억원)에 인수했다. 이 염호엔 리튬이 약 1350만t 매장된 것으로 추산된다. 당초 구매 계약을 할 때보다 6배 늘어난 수치다.   <br>      <br>   포스코는 향후 광석과 염수 리튬 추출 사업에 지속적인 투자를 통해 2023년까지 연 7만t 규모의 리튬 생산 체제를 구축할 방침이다. 2030년 생산 목표는 22만t이다.   <br><br>김영주 기자 humanest@joongang.co.kr   <br><br><br>▶ <a href="https://news.joins.com/newsletter?utm_source=naver&utm_medium=referral&utm_campaign=link1_naver&utm_content=210526" target="_blank">그가 들려주는 이야기, 이상언의 '더 모닝'</a><br>▶ <a href="https://news.joins.com/issueSeries/1039?utm_source=naver&utm_medium=referral&utm_campaign=link2_naver&utm_content=210526" target="_blank">건강한 주식 맛집, 앤츠랩이 차린 메뉴</a><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=025" target="_blank">'실검'이 사라졌다, 이슈는 어디서 봐?</a><br><br>ⓒ중앙일보(https://joongang.co.kr), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052612580001300_P4_20210526133814214.jpg?type=w647" alt="" /></span><br><br>    (영종도=연합뉴스) 임헌정 기자 = 26일 영종도 인천국제공항 1터미널에서 해외입국자들이 검역 절차를 안내받고 있다. 2021.5.26<br><br>    kane@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052612580001300_P4_20210526133814214.jpg?type=w647" alt="" /></span><br><br>    (영종도=연합뉴스) 임헌정 기자 = 26일 영종도 인천국제공항 1터미널에서 해외입국자들이 검역 절차를 안내받고 있다. 2021.5.26<br><br>    kane@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

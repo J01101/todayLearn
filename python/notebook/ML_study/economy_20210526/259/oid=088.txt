@@ -1,0 +1,27 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div><table cellspacing=0 border=0 cellpadding=0 align='center'><caption></caption><tr><td align=top><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/417/2021/05/26/0000697482_001_20210526093506270.jpg?type=w647" alt="" /><em class="img_desc">우리금융 본점 전경./사진=우리금융</em></span></td></tr></table></div>우리금융그룹은 지주사와 우리은행 등 전 그룹사 임직원을 대상으로 신종 코로나바이러스 감염증(코로나19) 백신 접종에 따른 유급휴가를 시행한다고 26일 밝혔다.<br><br>이에 따라 임직원은 각 회차별 백신 접종 시 접종 당일과 함께 이상 반응이 있을 경우 의사 소견서 등 별도의 서류제출 없이 유급휴가를 사용할 수 있다.<br><br>우리금융그룹 관계자는 "임직원의 건강과 생명을 지키고 백신 접종률 제고 정책에 적극 동참하기 위해 코로나19 백신 접종 휴가를 실시하기로 했다"며 "임직원에게 충분한 휴식을 보장하는 등 안심하고 예방접종을 받을 수 있도록 적극 권장해 나갈 것"이라고 말했다.<br><br>박슬기 기자 seul6@mt.co.kr<br><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=0&date=20210202092615" target="_blank">▶뜨거운 증시, 오늘의 특징주는? </a>  <a href="https://moneys.mt.co.kr/redirectAd.php?id=1&date=20210202092615" target="_blank">▶여론확인 &#39;머니S설문&#39; </a><br><a href="https://moneys.mt.co.kr/redirectAd.php?id=2&date=20210202092615" target="_blank">▶머니S, 네이버 메인에서 보세요</a>  <br><br>&lt;저작권자 ⓒ &#39;성공을 꿈꾸는 사람들의 경제 뉴스&#39; 머니S, 무단전재 및 재배포 금지&gt;<br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

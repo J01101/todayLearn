@@ -1,0 +1,318 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<iframe src="https://player.audiop.naver.com/player?cpId=audioclip&cpMetaId=CH_508_EP_1638" title="골라듣는 뉴스룸 플레이어" width="507px" height="160px" frameborder="0" scrolling="no" class="naveraudioplayer"></iframe><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/055/2021/05/26/0000896689_001_20210526185302199.jpg?type=w647" alt="" /></span><br><div style="text-align: center;"><br>&#x1f3a7; 아래 주소로 접속하시면 음성으로 기사를 들을 수 있습니다.<br>[ https://news.sbs.co.kr/n/?id=N1006330727 ]<br> </div><span style="font-size:16px"><strong>[골룸] 뭘스트리트 33 : 애증의 테슬라, 손절은 아직 이르다?</strong></span><br><br>장거리 전기차의 선두주자로 표준을 만들어온 혁신 기업 테슬라.<br><br>하지만 최근에는 CEO 일론 머스크가 비트코인 등에 관련된 여러 구설수로 시끄럽고, 엎친데 덮친격으로 수직으로 솟았던 주가가 조정을 받으며 고평가 논란까지 일고 있는데요.<br><br>국내 서학 개미들의 엄청난 사랑을 받아온 테슬라의 미래 가치는 무엇인지 치열해진 전기차 업계에서 '자율주행' 기술로 선두를 유지할 수 있을 지 종합적으로 따져봅니다.<br><br>00:00 전기차 테슬라의 미래가치는?<br>10:10 바람 잘 날 없는 머스크<br>13:20 코인에 관한 논란<br>17:25 매출과 영업 이익 사이?<br>20:08 자율주행의 절대 강자<br>27:35 스페이스X가 미칠 영향은<br>29:18 치열해진 전기차 업계<br>32:31 테슬라의 신차들<br><br>*본 콘텐츠에 포함되는 투자정보는 참고만을 위해서 전해드립니다.<br>&nbsp;투자의 판단과 책임은 전적으로 투자자에게 있습니다.<br><br><span style="font-size:16px"><span style="color:rgb(105, 105, 105)"><strong>▶ <span style="font-size:12px">&lt;골룸: 골라듣는 뉴스룸&gt; 팟캐스트는 '팟빵', '네이버 오디오클립', '애플 팟캐스트'에서도 들을 수 있습니다.</span></strong><br>- '팟빵' 접속하기<br><span>[ http://podbbang.com/ch/8888 ]</span><br>- '네이버 오디오클립' 접속하기<br><span>[ http://naver.me/FfpbjhZj ]</span><br>- '애플 팟캐스트'로 접속하기<br><span>[ https://podcasts.apple.com/kr/podcast/id964021756 ]</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div>&nbsp;</div><br><br>정호선 기자(hosun@sbs.co.kr)<br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000261&plink=FOOT&cooper=NAVER">▶ 더 깊은 인물 이야기 [그, 사람]</a><br><a href="https://news.sbs.co.kr/news/newsHotIssueList.do?tagId=10000050973&plink=FOOT&cooper=NAVER">▶ 코로나19 현황 속보</a><br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000260&plink=FOOT&cooper=NAVER">※ ⓒ SBS & SBS Digital News Lab. : 무단복제 및 재배포 금지</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<iframe src="https://player.audiop.naver.com/player?cpId=audioclip&cpMetaId=CH_508_EP_1638" title="골라듣는 뉴스룸 플레이어" width="507px" height="160px" frameborder="0" scrolling="no" class="naveraudioplayer"></iframe><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/055/2021/05/26/0000896689_001_20210526185302199.jpg?type=w647" alt="" /></span><br><div style="text-align: center;"><br>&#x1f3a7; 아래 주소로 접속하시면 음성으로 기사를 들을 수 있습니다.<br>[ https://news.sbs.co.kr/n/?id=N1006330727 ]<br> </div><span style="font-size:16px"><strong>[골룸] 뭘스트리트 33 : 애증의 테슬라, 손절은 아직 이르다?</strong></span><br><br>장거리 전기차의 선두주자로 표준을 만들어온 혁신 기업 테슬라.<br><br>하지만 최근에는 CEO 일론 머스크가 비트코인 등에 관련된 여러 구설수로 시끄럽고, 엎친데 덮친격으로 수직으로 솟았던 주가가 조정을 받으며 고평가 논란까지 일고 있는데요.<br><br>국내 서학 개미들의 엄청난 사랑을 받아온 테슬라의 미래 가치는 무엇인지 치열해진 전기차 업계에서 '자율주행' 기술로 선두를 유지할 수 있을 지 종합적으로 따져봅니다.<br><br>00:00 전기차 테슬라의 미래가치는?<br>10:10 바람 잘 날 없는 머스크<br>13:20 코인에 관한 논란<br>17:25 매출과 영업 이익 사이?<br>20:08 자율주행의 절대 강자<br>27:35 스페이스X가 미칠 영향은<br>29:18 치열해진 전기차 업계<br>32:31 테슬라의 신차들<br><br>*본 콘텐츠에 포함되는 투자정보는 참고만을 위해서 전해드립니다.<br>&nbsp;투자의 판단과 책임은 전적으로 투자자에게 있습니다.<br><br><span style="font-size:16px"><span style="color:rgb(105, 105, 105)"><strong>▶ <span style="font-size:12px">&lt;골룸: 골라듣는 뉴스룸&gt; 팟캐스트는 '팟빵', '네이버 오디오클립', '애플 팟캐스트'에서도 들을 수 있습니다.</span></strong><br>- '팟빵' 접속하기<br><span>[ http://podbbang.com/ch/8888 ]</span><br>- '네이버 오디오클립' 접속하기<br><span>[ http://naver.me/FfpbjhZj ]</span><br>- '애플 팟캐스트'로 접속하기<br><span>[ https://podcasts.apple.com/kr/podcast/id964021756 ]</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div>&nbsp;</div><br><br>정호선 기자(hosun@sbs.co.kr)<br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000261&plink=FOOT&cooper=NAVER">▶ 더 깊은 인물 이야기 [그, 사람]</a><br><a href="https://news.sbs.co.kr/news/newsHotIssueList.do?tagId=10000050973&plink=FOOT&cooper=NAVER">▶ 코로나19 현황 속보</a><br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000260&plink=FOOT&cooper=NAVER">※ ⓒ SBS & SBS Digital News Lab. : 무단복제 및 재배포 금지</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<iframe src="https://player.audiop.naver.com/player?cpId=audioclip&cpMetaId=CH_508_EP_1638" title="골라듣는 뉴스룸 플레이어" width="507px" height="160px" frameborder="0" scrolling="no" class="naveraudioplayer"></iframe><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/055/2021/05/26/0000896689_001_20210526185302199.jpg?type=w647" alt="" /></span><br><div style="text-align: center;"><br>&#x1f3a7; 아래 주소로 접속하시면 음성으로 기사를 들을 수 있습니다.<br>[ https://news.sbs.co.kr/n/?id=N1006330727 ]<br> </div><span style="font-size:16px"><strong>[골룸] 뭘스트리트 33 : 애증의 테슬라, 손절은 아직 이르다?</strong></span><br><br>장거리 전기차의 선두주자로 표준을 만들어온 혁신 기업 테슬라.<br><br>하지만 최근에는 CEO 일론 머스크가 비트코인 등에 관련된 여러 구설수로 시끄럽고, 엎친데 덮친격으로 수직으로 솟았던 주가가 조정을 받으며 고평가 논란까지 일고 있는데요.<br><br>국내 서학 개미들의 엄청난 사랑을 받아온 테슬라의 미래 가치는 무엇인지 치열해진 전기차 업계에서 '자율주행' 기술로 선두를 유지할 수 있을 지 종합적으로 따져봅니다.<br><br>00:00 전기차 테슬라의 미래가치는?<br>10:10 바람 잘 날 없는 머스크<br>13:20 코인에 관한 논란<br>17:25 매출과 영업 이익 사이?<br>20:08 자율주행의 절대 강자<br>27:35 스페이스X가 미칠 영향은<br>29:18 치열해진 전기차 업계<br>32:31 테슬라의 신차들<br><br>*본 콘텐츠에 포함되는 투자정보는 참고만을 위해서 전해드립니다.<br>&nbsp;투자의 판단과 책임은 전적으로 투자자에게 있습니다.<br><br><span style="font-size:16px"><span style="color:rgb(105, 105, 105)"><strong>▶ <span style="font-size:12px">&lt;골룸: 골라듣는 뉴스룸&gt; 팟캐스트는 '팟빵', '네이버 오디오클립', '애플 팟캐스트'에서도 들을 수 있습니다.</span></strong><br>- '팟빵' 접속하기<br><span>[ http://podbbang.com/ch/8888 ]</span><br>- '네이버 오디오클립' 접속하기<br><span>[ http://naver.me/FfpbjhZj ]</span><br>- '애플 팟캐스트'로 접속하기<br><span>[ https://podcasts.apple.com/kr/podcast/id964021756 ]</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div>&nbsp;</div><br><br>정호선 기자(hosun@sbs.co.kr)<br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000261&plink=FOOT&cooper=NAVER">▶ 더 깊은 인물 이야기 [그, 사람]</a><br><a href="https://news.sbs.co.kr/news/newsHotIssueList.do?tagId=10000050973&plink=FOOT&cooper=NAVER">▶ 코로나19 현황 속보</a><br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000260&plink=FOOT&cooper=NAVER">※ ⓒ SBS & SBS Digital News Lab. : 무단복제 및 재배포 금지</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	경영난에 빠진 르노삼성자동차가 다음달부터 유럽 시장에서 소형 스포츠유틸리티차(SUV) XM3를 본격 판매한다고 26일 밝혔다. 수출명은 ‘뉴 아르카나’다.<br><br>르노삼성차는 지난 3월 프랑스·독일·이탈리아·스페인 등 4개국에 XM3 1.3 가솔린 터보 모델을 출시했다. 이번에는 하이브리드 모델을 새로 추가해 판매 지역을 유럽 내 28개 국가로 확대했다. 사실상 유럽 전역 판매에 나서는 셈이다. 사전 출시에서는 목표였던 7250대를 초과했고, 이달 말까지 8000대 이상의 판매 실적을 올릴 것으로 예상된다. XM3는 프랑스 자동차 전문 매거진 오토모토가 선정한 ‘최고의 SUV’에서 1위를 차지하는 등 유럽에서 호평을 받고 있다. XM3는 르노삼성차 중앙연구소가 글로벌 프로젝트를 통해 연구개발해 선보인 모델이다. 러시아를 제외한 전 세계 판매 물량을 부산공장에서 생산하고 있다. 지난해 7월 남미 지역에 처음 진출했고, 같은 해 12월 핵심 시장인 유럽 수출이 이뤄졌다. XM3의 총수출 실적은 현재까지 1만 3000대에 달한다.<br><br><!-- MobileAdNew center -->도미니크 시뇨라 르노삼성차 사장은 “XM3가 뛰어난 품질과 가격 경쟁력을 가지고 유럽 시장에 안정적으로 공급을 이어 갈 수 있다면 부산공장의 생산 물량 회복과 임직원의 고용 안정에도 크게 기여할 수 있을 것”이라고 말했다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">미국 정재계 인사 만나 ‘ESG 경영’ 설파<br>SK이노, 탄소포집·저장(CSS) 사업 수행<br>美 배터리 공장 1000명 추가 채용 계획<br>SK텔레콤 인적분할… 지배구조 개편도</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/081/2021/05/26/0003189282_001_20210526181602692.jpg?type=w647" alt="" /><em class="img_desc">최태원 SK그룹 회장</em></span>‘딥체인지’(근본적 변화)와 ‘구성원의 행복’을 설파해 온 최태원 SK그룹 회장이 요즘 ‘ESG 전도사’로 변신했다. ESG는 환경·사회·지배구조의 약자로 기업이 추구해야 할 3가지 분야를 뜻한다. 최 회장이 이끄는 SK그룹도 ESG 경영의 핵심 실천 사항인 친환경 사업에 대한 투자 확대를 본격화했다.<br><br>26일 재계에 따르면 최근 한미 정상회담 경제사절단 대표 자격으로 미국을 방문한 최 회장은 미국 정재계 핵심 인사들과 만나 “ESG 경영이 기후변화, 소득격차, 인구감소라는 전 지구적 문제를 해결할 해법”이라고 강조했다. 미국 측 인사들은 최 회장의 ESG 경영 철학에 공감을 표한 것은 물론, ESG 가치를 향한 최 회장의 열정에 엄지를 치켜세운 것으로 전해졌다.<br><br><!-- MobileAdNew center -->최 회장은 이번 미국 순방길에 SK이노베이션과 포드의 전기차 배터리 합작법인 ‘블루오벌SK’ 설립 계약을 성사시켰다. 한미 양국이 전기차 배터리 사업에 동맹을 맺은 건 ESG 가운데 ‘환경’(Environment) 분야 실천에 해당한다. 조 바이든 대통령이 최 회장을 비롯한 국내 4대 그룹 대표단을 향해 “생큐”를 세 번 외친 것도 국내 기업의 ‘ESG 투자’에 대한 감사의 표현이라 할 수 있다.<br><br>SK그룹은 최 회장의 ‘ESG 열정’에 부응하고자 ESG 이행 작업에 나섰다. SK이노베이션은 이날 한국석유공사와 동해가스전을 활용한 ‘탄소 포집 및 저장’(CCS) 실증 모델을 개발하는 국책과제를 함께 수행한다는 협약을 체결했다. CCS는 지구 온난화 주범인 이산화탄소를 발생단계에서 포집해 제거하는 기술이다.<br><br>SK이노베이션과 SK에너지는 울산 산업시설에서 이산화탄소 포집 기술 관련 모델을 개발하고, 한국석유공사는 이산화탄소 이송·저장 모델 개발에 참여한다. 이성준 SK이노베이션 환경기술원장은 “CCS 기술은 에너지 소비가 많은 산업계에서 이산화탄소 감축을 위한 필수 조건”이라면서 “최적의 CCS 기술을 확보해 ESG 경영 가속화에 힘쓸 것”이라고 말했다.<br><br>아울러 SK이노베이션은 미국 조지아주에 짓는 전기차 배터리 공장에 1000명의 노동자를 올해 안으로 추가 채용하겠다고 밝혔다. 일자리 확대는 ESG 가운데 ‘사회’(Social) 분야를 실천하는 일이다.<br><br>앞서 SK그룹 지주사 SK㈜와 SK머티리얼즈, SKC, SK실트론 등 4사는 각각 100억엔(약 1025억원)씩 총 400억엔(약 4100억원)을 출자해 ‘SK 일본 투자법인’을 설립한다고 공시했다. 최 회장의 의지가 반영된 이 법인은 다양한 ESG 실천 사업에 재무적 투자자로 참여한다.<br><br>최 회장은 ESG의 마지막 퍼즐인 ‘지배구조’(Governance) 개편도 추진한다. SK텔레콤은 인적분할을 통해 쪼개진 두 법인을 연내 재상장하는 방안을 추진하고 있다. 통신분야와 비통신분야를 둘로 나눠 통신업과 반도체·신사업 분야의 경쟁력을 동시에 높이기 위한 의도다. SK하이닉스에 대한 투자가 신속하게 이뤄지도록 지분 구조를 개편해 신규 반도체 사업 진출에 속도를 내려는 목적도 있다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">미국 정재계 인사 만나 ‘ESG 경영’ 설파<br>SK이노, 탄소포집·저장(CSS) 사업 수행<br>美 배터리 공장 1000명 추가 채용 계획<br>SK텔레콤 인적분할… 지배구조 개편도</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/081/2021/05/26/0003189282_001_20210526181602692.jpg?type=w647" alt="" /><em class="img_desc">최태원 SK그룹 회장</em></span>‘딥체인지’(근본적 변화)와 ‘구성원의 행복’을 설파해 온 최태원 SK그룹 회장이 요즘 ‘ESG 전도사’로 변신했다. ESG는 환경·사회·지배구조의 약자로 기업이 추구해야 할 3가지 분야를 뜻한다. 최 회장이 이끄는 SK그룹도 ESG 경영의 핵심 실천 사항인 친환경 사업에 대한 투자 확대를 본격화했다.<br><br>26일 재계에 따르면 최근 한미 정상회담 경제사절단 대표 자격으로 미국을 방문한 최 회장은 미국 정재계 핵심 인사들과 만나 “ESG 경영이 기후변화, 소득격차, 인구감소라는 전 지구적 문제를 해결할 해법”이라고 강조했다. 미국 측 인사들은 최 회장의 ESG 경영 철학에 공감을 표한 것은 물론, ESG 가치를 향한 최 회장의 열정에 엄지를 치켜세운 것으로 전해졌다.<br><br><!-- MobileAdNew center -->최 회장은 이번 미국 순방길에 SK이노베이션과 포드의 전기차 배터리 합작법인 ‘블루오벌SK’ 설립 계약을 성사시켰다. 한미 양국이 전기차 배터리 사업에 동맹을 맺은 건 ESG 가운데 ‘환경’(Environment) 분야 실천에 해당한다. 조 바이든 대통령이 최 회장을 비롯한 국내 4대 그룹 대표단을 향해 “생큐”를 세 번 외친 것도 국내 기업의 ‘ESG 투자’에 대한 감사의 표현이라 할 수 있다.<br><br>SK그룹은 최 회장의 ‘ESG 열정’에 부응하고자 ESG 이행 작업에 나섰다. SK이노베이션은 이날 한국석유공사와 동해가스전을 활용한 ‘탄소 포집 및 저장’(CCS) 실증 모델을 개발하는 국책과제를 함께 수행한다는 협약을 체결했다. CCS는 지구 온난화 주범인 이산화탄소를 발생단계에서 포집해 제거하는 기술이다.<br><br>SK이노베이션과 SK에너지는 울산 산업시설에서 이산화탄소 포집 기술 관련 모델을 개발하고, 한국석유공사는 이산화탄소 이송·저장 모델 개발에 참여한다. 이성준 SK이노베이션 환경기술원장은 “CCS 기술은 에너지 소비가 많은 산업계에서 이산화탄소 감축을 위한 필수 조건”이라면서 “최적의 CCS 기술을 확보해 ESG 경영 가속화에 힘쓸 것”이라고 말했다.<br><br>아울러 SK이노베이션은 미국 조지아주에 짓는 전기차 배터리 공장에 1000명의 노동자를 올해 안으로 추가 채용하겠다고 밝혔다. 일자리 확대는 ESG 가운데 ‘사회’(Social) 분야를 실천하는 일이다.<br><br>앞서 SK그룹 지주사 SK㈜와 SK머티리얼즈, SKC, SK실트론 등 4사는 각각 100억엔(약 1025억원)씩 총 400억엔(약 4100억원)을 출자해 ‘SK 일본 투자법인’을 설립한다고 공시했다. 최 회장의 의지가 반영된 이 법인은 다양한 ESG 실천 사업에 재무적 투자자로 참여한다.<br><br>최 회장은 ESG의 마지막 퍼즐인 ‘지배구조’(Governance) 개편도 추진한다. SK텔레콤은 인적분할을 통해 쪼개진 두 법인을 연내 재상장하는 방안을 추진하고 있다. 통신분야와 비통신분야를 둘로 나눠 통신업과 반도체·신사업 분야의 경쟁력을 동시에 높이기 위한 의도다. SK하이닉스에 대한 투자가 신속하게 이뤄지도록 지분 구조를 개편해 신규 반도체 사업 진출에 속도를 내려는 목적도 있다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552420_001_20210526190501379.jpg?type=w647" alt="" /></span>&#39;카카오톡 선물하기&#39; 등 모바일 상품권 서비스를 운영하는 1위 업체  쿠프마케팅이 매물로 나왔다.<br><br>26일 투자은행((IB) 업계에 따르면 쿠프마케팅의 최대 주주인 NH투자증권-IBK, 국내 사모펀드(PEF) 스틱인베스트먼트는 이 회사의 경영권을 포함한 지분을 매각하기로 하고, 마케팅 작업을 벌이고 있다. 매각주관사는 씨티글로벌마켓증권이다.<br><br>2005년 설립된 쿠프마케팅은 &#39;카카오톡 선물하기&#39; 서비스 등을 운영하는 것으로 유명한 모바일 상품권 플랫폼 업체다. 외식, 공연, 도서, 화장품 등 다양한 브랜드와 제휴해 실물 상품과 교환할 수 있는 모바일 상품권 시스템을 갖추고 있다. 2019년 기준 250개 브랜드와 제휴를 맺고 9200개의 상품을 판매하고 있다. 스타벅스, 투썸플레이스, 파리바게뜨, 맥도날드, 배스킨라빈스, 이마트 등 국내 중소 중견기업부터 대기업까지 제휴를 맺고 있다. <br><br>실물 상품을 넘어 보험 판매까지 영역을 확대했다. 2018년 인슈어테크 전문기업인 쿠프파이맵스를 설립해 지난해 말 부터 새롭게 보험 모바일 쿠폰 선물하기 서비스를 선보였다. 보험업은 전문성 확보가 중요한 영역이지만, 그간 쿠폰 선물하기 서비스를 통해 쌓은 노하우를 바탕으로 정식으로 서비스를 런칭하게 됐다. 쿠프마케팅은 보험을 시작으로 금융 영역까지 넘본다는 계획이다. 지난해 매출은 약 660억원,  영업손실 53억원을 기록했다.<br> <br>쿠프마케팅은 올해 들어 동남아 시장 공략에도 나선다. 이를 위해 최근 인도네시아 모바일 쿠폰업체 알드믹 테크놀로지 인도네시아의 경영권을 인수했다. 인도네시아는 인구 약 2억7000만명에 달하는 세계 4위의 인구 대국인데다, 젊은 인구가 많아 최근 모바일 쿠폰을 마케팅에 활용하는 기업이 증가해 관련 사업에 대한 수요도 커지고 있다.  알드믹 테크놀로지는 주로 기업 대상 모바일 쿠폰 유통과 솔루션을 개발·운영하는 대표적 업체다.  인도네시아 최대 담배 회사인 삼포르나(Sampoerna), 존슨앤존슨, 유니레버 등이 주요 거래처다.<br><br>스틱과 NH는 인수한 지 4년 만에 매각에 나선다. 스틱은 NH투자증권 PE본부와 공동으로 쿠프마케팅 지분 70%를 455억원에 최근 인수했다. <br><br>김채연 기자 why29@hankyung.com <br><br><strong style="color:inherit"><span style="color:#000080;">≪이 기사는 05월26일(18:01) 자본시장의 혜안 ‘</span><span style="color:#ff0000;">마켓인사이트</span><span style="color:#000080;">’에 게재된 기사입니다≫</span></strong><br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552420_001_20210526190501379.jpg?type=w647" alt="" /></span>&#39;카카오톡 선물하기&#39; 등 모바일 상품권 서비스를 운영하는 1위 업체  쿠프마케팅이 매물로 나왔다.<br><br>26일 투자은행((IB) 업계에 따르면 쿠프마케팅의 최대 주주인 NH투자증권-IBK, 국내 사모펀드(PEF) 스틱인베스트먼트는 이 회사의 경영권을 포함한 지분을 매각하기로 하고, 마케팅 작업을 벌이고 있다. 매각주관사는 씨티글로벌마켓증권이다.<br><br>2005년 설립된 쿠프마케팅은 &#39;카카오톡 선물하기&#39; 서비스 등을 운영하는 것으로 유명한 모바일 상품권 플랫폼 업체다. 외식, 공연, 도서, 화장품 등 다양한 브랜드와 제휴해 실물 상품과 교환할 수 있는 모바일 상품권 시스템을 갖추고 있다. 2019년 기준 250개 브랜드와 제휴를 맺고 9200개의 상품을 판매하고 있다. 스타벅스, 투썸플레이스, 파리바게뜨, 맥도날드, 배스킨라빈스, 이마트 등 국내 중소 중견기업부터 대기업까지 제휴를 맺고 있다. <br><br>실물 상품을 넘어 보험 판매까지 영역을 확대했다. 2018년 인슈어테크 전문기업인 쿠프파이맵스를 설립해 지난해 말 부터 새롭게 보험 모바일 쿠폰 선물하기 서비스를 선보였다. 보험업은 전문성 확보가 중요한 영역이지만, 그간 쿠폰 선물하기 서비스를 통해 쌓은 노하우를 바탕으로 정식으로 서비스를 런칭하게 됐다. 쿠프마케팅은 보험을 시작으로 금융 영역까지 넘본다는 계획이다. 지난해 매출은 약 660억원,  영업손실 53억원을 기록했다.<br> <br>쿠프마케팅은 올해 들어 동남아 시장 공략에도 나선다. 이를 위해 최근 인도네시아 모바일 쿠폰업체 알드믹 테크놀로지 인도네시아의 경영권을 인수했다. 인도네시아는 인구 약 2억7000만명에 달하는 세계 4위의 인구 대국인데다, 젊은 인구가 많아 최근 모바일 쿠폰을 마케팅에 활용하는 기업이 증가해 관련 사업에 대한 수요도 커지고 있다.  알드믹 테크놀로지는 주로 기업 대상 모바일 쿠폰 유통과 솔루션을 개발·운영하는 대표적 업체다.  인도네시아 최대 담배 회사인 삼포르나(Sampoerna), 존슨앤존슨, 유니레버 등이 주요 거래처다.<br><br>스틱과 NH는 인수한 지 4년 만에 매각에 나선다. 스틱은 NH투자증권 PE본부와 공동으로 쿠프마케팅 지분 70%를 455억원에 최근 인수했다. <br><br>김채연 기자 why29@hankyung.com <br><br><strong style="color:inherit"><span style="color:#000080;">≪이 기사는 05월26일(18:01) 자본시장의 혜안 ‘</span><span style="color:#ff0000;">마켓인사이트</span><span style="color:#000080;">’에 게재된 기사입니다≫</span></strong><br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552420_001_20210526190501379.jpg?type=w647" alt="" /></span>&#39;카카오톡 선물하기&#39; 등 모바일 상품권 서비스를 운영하는 1위 업체  쿠프마케팅이 매물로 나왔다.<br><br>26일 투자은행((IB) 업계에 따르면 쿠프마케팅의 최대 주주인 NH투자증권-IBK, 국내 사모펀드(PEF) 스틱인베스트먼트는 이 회사의 경영권을 포함한 지분을 매각하기로 하고, 마케팅 작업을 벌이고 있다. 매각주관사는 씨티글로벌마켓증권이다.<br><br>2005년 설립된 쿠프마케팅은 &#39;카카오톡 선물하기&#39; 서비스 등을 운영하는 것으로 유명한 모바일 상품권 플랫폼 업체다. 외식, 공연, 도서, 화장품 등 다양한 브랜드와 제휴해 실물 상품과 교환할 수 있는 모바일 상품권 시스템을 갖추고 있다. 2019년 기준 250개 브랜드와 제휴를 맺고 9200개의 상품을 판매하고 있다. 스타벅스, 투썸플레이스, 파리바게뜨, 맥도날드, 배스킨라빈스, 이마트 등 국내 중소 중견기업부터 대기업까지 제휴를 맺고 있다. <br><br>실물 상품을 넘어 보험 판매까지 영역을 확대했다. 2018년 인슈어테크 전문기업인 쿠프파이맵스를 설립해 지난해 말 부터 새롭게 보험 모바일 쿠폰 선물하기 서비스를 선보였다. 보험업은 전문성 확보가 중요한 영역이지만, 그간 쿠폰 선물하기 서비스를 통해 쌓은 노하우를 바탕으로 정식으로 서비스를 런칭하게 됐다. 쿠프마케팅은 보험을 시작으로 금융 영역까지 넘본다는 계획이다. 지난해 매출은 약 660억원,  영업손실 53억원을 기록했다.<br> <br>쿠프마케팅은 올해 들어 동남아 시장 공략에도 나선다. 이를 위해 최근 인도네시아 모바일 쿠폰업체 알드믹 테크놀로지 인도네시아의 경영권을 인수했다. 인도네시아는 인구 약 2억7000만명에 달하는 세계 4위의 인구 대국인데다, 젊은 인구가 많아 최근 모바일 쿠폰을 마케팅에 활용하는 기업이 증가해 관련 사업에 대한 수요도 커지고 있다.  알드믹 테크놀로지는 주로 기업 대상 모바일 쿠폰 유통과 솔루션을 개발·운영하는 대표적 업체다.  인도네시아 최대 담배 회사인 삼포르나(Sampoerna), 존슨앤존슨, 유니레버 등이 주요 거래처다.<br><br>스틱과 NH는 인수한 지 4년 만에 매각에 나선다. 스틱은 NH투자증권 PE본부와 공동으로 쿠프마케팅 지분 70%를 455억원에 최근 인수했다. <br><br>김채연 기자 why29@hankyung.com <br><br><strong style="color:inherit"><span style="color:#000080;">≪이 기사는 05월26일(18:01) 자본시장의 혜안 ‘</span><span style="color:#ff0000;">마켓인사이트</span><span style="color:#000080;">’에 게재된 기사입니다≫</span></strong><br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+	<div class="vod_area">
+		<h4 class="blind">동영상 뉴스</h4>
+		<iframe _src="/main/readVod.nhn?oid=374&aid=0000245558" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe>
+	</div>
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong>■ 비즈포커스 - &#39;C레벨 라운지&#39;&nbsp;<br><br>◇ 경제외교 이끈 최태원&nbsp;</strong><br><br>첫 번째 인물은 최태원 SK 회장입니다.&nbsp;<br><br>최태원 회장은 문재인 대통령의 최근 미국 방문 기간동안 현지 유력 경제단체와 싱크탱크 리더 등을 잇달아 만나며 숨가쁘게 움직였습니다.<br><br>미국의 3대 경제단체 가운데 하나인 &#39;비즈니스 라운드 테이블(BRT)&#39;을 비롯해 IT 전문 단체인 정보통신산업협회(ITI), 미국의 유명 싱크탱크로 알려진 애틀랜틱 카운슬(Atlantic Council) 등 성사된 만남의 면면도 화려합니다.<br><br>지난 3월 대한상의 회장에 취임한 이후 첫 해외 출장이었던 만큼, 한국 경제를 세일즈하기 위해&nbsp;종횡무진 활약했는데요.<br><br>최 회장의 미국길에 동행한 삼성전자, 현대차, SK, LG 등 4대 그룹은 무려 44조 원에 달하는 대미 투자 계획을 내놓으며 한미 경제 협력에 힘을 실어줬습니다.<br><br>조 바이든 미국 대통령은 최 회장을 비롯해 우리 기업인들에게 직접 감사를 표했습니다.&nbsp;<br><br>[조 바이든 / 미국 대통령 : 삼성, 현대, SK, LG 여기 자리에 계신지 모르겠는데, 잠시 일어나 주시겠습니까? 매우 감사합니다. 우리는 함께 대단한 일을 할 겁니다.]<br><br>최 회장은 또 자신이 전도사를 자처하는 환경&middot;사회&middot;지배구조 이른바, ESG 경영을 강조하며 미국 경제계와의 협력을 다졌습니다.<br><br>그룹 회장으로서 갖고 있는 경영능력과 통찰력, 대한상의 회장으로서 갖고 있는 대미 네트워크를 통해 이끌어낸 한미 경제 협력이 어떤 결실을 맺을지 계속 지켜보겠습니다.&nbsp;<br><br><strong>◇ 2세 승계 단행 김상철&nbsp;</strong><br><br>저희가 꼽은 두 번째 인물은 김상철 한글과컴퓨터그룹 회장입니다.&nbsp;<br><br>국내 1세대 IT기업 중 한 곳인 한컴도 어느덧 2세 경영 채비를 서두르고 있습니다.&nbsp;<br><br>최근 오너 일가 지분에 큰 변동이 있었는데요.&nbsp;<br><br>김상철 회장과 아내 김정실 사내이사, 한컴 계열사 중 한 곳인 캐피탈 익스프레스가 각각 보유 중이던 한컴 주식 233만여 주가 큰 딸이 운영하는 회사로 넘어갔습니다.<br><br>김연수 한컴그룹 총괄부사장이 대표를 맡고 있는 다토즈와 이 회사가 새로 만든 HCIH를 통해 500억 원에 인수했습니다.&nbsp;<br><br>이로써 다토즈는 한컴 지분 9.4%를 인수하며 2대 주주가 됐습니다.<br><br>회사 측은 오너 지분 관계만 바뀌었을 뿐 경영진이 달라지는 건 아니라는 입장이지만 재계는 한컴 보유 지분이 큰 딸에게 모두 넘어간 이유에 더 주목하고 있습니다.&nbsp;<br><br>인수합병(M&amp;A)과 전략 기획통으로 탄탄한 필모그래피를 쌓아온 만만치 않은 이력 때문일 텐데요.&nbsp;<br><br>한컴 지분 인수 작업을 마친 김 총괄부사장의 향후 행보를 예의주시해야 하는 이유입니다.&nbsp;<br><br><strong>◇ 한국타이어家 장녀의 뒤끝</strong><br><br>마지막 인사는 한국타이어그룹의 장녀 조희경 한국타이어나눔재단 이사장입니다.<br><br>아버지 조양래 회장을 상대로 성년후견 심판을 청구했던 조 이사장이 최근 조 회장에 대한 신체 감정기관 변경을 요청했습니다.<br><br>감정기관으로 지정된 국립정신건강센터를 분당서울대병원으로 변경해달라는 내용의 감정기관 변경 신청서를 법원에 제출했는데요.<br><br>객관적이고 정밀한 검사를 위해 감정기관 변경을 요청했다는 설명입니다.<br><br>그러나 둘째 아들 조현범 사장에게 경영권을 물려준 아버지의 결정이 자발적 의사가 아니란 조희경 이사장의 주장과는 달리 아버지는 법원 심문에서 자신의 건재함을 과시했습니다.&nbsp;<br><br>아버지의 신체 건강 상태가 이상하다는 의혹을&nbsp;꾸준히 제기하고 있는 장녀, 이에 맞서 자신은&nbsp;아무 문제가 없다는 아버지, 한국타이어그룹의&nbsp;경영권을 둘러싼 가족 분쟁은 현재 진행형입니다. &nbsp;<br><br>이번 주 &#39;C-레벨 라운지&#39; 여기까지입니다.<br><br>조슬기 기자(skcho@sbs.co.kr)<br><br><br><br>          <p>▶ <a href='https://tv.naver.com/countmoney' target='_blank'>돈 세는 남자의 기업분석 '카운트머니' [네이버TV]</a></p><p>▶ <a href='https://tv.naver.com/moneylab' target='_blank'>경제를 실험한다~ '머니랩' [네이버TV]</a></p><br>          <p>저작권자 SBS미디어넷 & SBS I&M 무단전재-재배포 금지</p><br>        
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">해외 연기금 비해 책임투자 비중 낮아 높여야 한다는 부담 속<br>기계적인 적용될까 우려<br>네덜란드·미국·일본 연기금 다양한 방식 도입</strong>[서울경제] <br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915086_001_20210526165003897.jpg?type=w647" alt="" /></span><br><br>국민연금이 환경·사회·지배구조(ESG)투자 차원에서 특정 기업 투자를 배제하는 네거티브(nagative) 원칙 도입을 앞두고 자율성을 줘야 한다는 지적이 나오고 있다. ESG 투자 비중을 키우되, 투자 운용역이 현실적인 판단을 할 수 있는 여지를 둬야 한다는 것이다. 최근 국민연금은 해외연기금과 자산운용사와 협업을 늘리고 있는데 이들의 ESG투자 노하우를 확보할 수 있을지 주목된다. <br><br>26일 국민연금에 따르면 연금은 28일 기금운용위원회에서 ESG투자 강화를 위한 네거티브 원칙 도입을 논의한다. 석탄 화력 등 탄소배출이 많은 에너지를 사용하거나 담배나 술, 무기 등 특정 업종에 투자를 금지하거나 회수하는 방식이다. 제조 과정에서 인권을 유린하거나 삼림파괴 등 환경을 훼손하는 행위에 발생해도 투자를 금지한다. 국민연금은 지난달에도 같은 안건을 논의했으나 위원들은 수익과 연관성이 불분명하고 투자 집행 과정에서 나올 현실적인 문제를 고려해야 한다는 반론을 제기했다. <br><br>당시 회의에서는 네거티브 원칙에 따라 국민연금이 해외 석탄 발전 관련 사업이나 관련 기업 투자를 철회하면 중국이 대신 가져갈 것이라는 비판이 나왔다. 상대적으로 ESG 관리가 소홀한 중국 기업이 해당 사업을 진행하면 한국에서 맡았을 때보다 오히려 탄소 배출이 더 커질 수 있다는 얘기다. <br><br>네거티브 원칙은 유럽을 필두로 전세계 연기금과 자산운용사 사이에서 가장 많이 사용하는 ESG투자 방식이다. 국내 기업 중 KT&amp;G·포비스TNC(담배생산), 풍산·한화·LIG·S&amp;T(무기), 포스코(노동탄압, 환경파괴) 등이 네덜란드나 스웨덴 연기금 등의 투자 배제 대상에 올라있다. 다만 구체적인 적용 방식은 연기금이나 운용사 별로 다양하다. <br><br>네덜란드 공적연금(APG)은 최근 국민연금 기금운용본부 고위 관계자와 만나 ESG투자 원칙이 확고하지만 경우에 따라 융통성 있게 집행한다고 설명했다. 석탄 화력 발전이어도 탄소배출을 줄일 수 있거나 탄소배출권을 확보하는 등 대안이 있다면 투자가 가능하다는 것이다. <br><br>네덜란드 연금은 투자배제를 최후의 수단으로 삼고 수년간 기업 경영진과 해법을 찾는다. 그럼에도 개선이 없을 경우는 해당 기업의 지분을 매각한다. 최근에는 투자배제 기준을 정교화하기 위해 담배나 무기 등 특정 영역에 해당하더라도 최대 4개의 기준에 충족되어야 배제한다. <br><br>석유를 함유한 모래인 오일샌드는 석유 자원으로 분류되어 투자배제 대상이지만 네덜란드 연금은 전세계 에너지 수요를 고려해 지속가능성을 추구하고 인권을 존중하는 오일 샌드 기업이면 투자를 허용한다. <br><br>미국 캘리포니아 주 공무원퇴직연금(CalPERS·캘퍼스)는 책임투자를 지속가능성에 기반해 바라본다. 단기적인 수익률이나 윤리성이 아니라 장기적인 수익을 내기 위해 네거티브 원칙을 활용하는 것이다. <br><br>이에 따라 캘퍼스는 최근 투자 배제 정책을 재검토하겠다는 입장을 밝혔다. 연금 자산이 연금 지급액보다 부족한 점, 담배 관련 기업 투자 배제로 손실이 발생한 점 등을 고려한 결과다. <br><br>전세계 연기금 중 규모 1위인 일본 공적연금은 ESG 원칙에 부합하는 기업에 투자를 늘리는 포지티브(positive) 원칙을 도입했다. 일본 공적연금은 2016년에서 2019년 사이 ESG투자 자산 규모 5배 가까이 늘리면서 주목받고 있다. <br><br>기금운용위 관계자는 “무턱대고 네거티브 투자를 도입하겠다는 선언을 하기 전에 구체적으로 어떻게 투자 원칙을 확정할지 충분한 논의 후 결정하지 않으면 역설적인 상황이 발생할 수 있다”고 설명했다. <br><br>/임세원 기자 why@sedaily.com<br><br><ul><li><a href="https://bit.ly/3bhqTuL" target="_blank" style="color:#000000">▶ [지구용] 투명해진 맥주병, 그런데 말입니다...</a></li><li><a href="https://thepolitics.sedaily.com" target="_blank" style="color:#000000">▶ 서울경제 더 폴리틱스 뉴스를 만나보세요!</a></li><li><a href="https://www.sedaily.com/v/Zipchelin" target="_blank" style="color:#000000">▶ 미슐랭 가이드처럼 알찬 부동산 뉴스 '집슐랭'</a></li></ul><br><br>저작권자 ⓒ 서울경제, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/277/2021/05/26/0004909338_001_20210526161003533.jpg?type=w647" alt="" /><em class="img_desc">안경덕 고용노동부 장관. /문호남 기자 munonam@</em></span><br><br>[세종=아시아경제 문채석 기자] 안경덕 고용노동부 장관은 26일 노동자 사망사고가 여러 차례 발생한 중소 건설 현장을 방문해 안전상황을 점검한 이후 재해예방 기관들과 간담회를 열었다.<br><br>고용부에 따르면 안 장관은 이날 오전 서울 제기동에 있는 자율주택 정비사업 신축 공사장을 찾아 현장의 안전조치 사항을 점검했다.<br><br>안 장관은 "대부분 산재 사망사고는 가장 기본적인 안전 조치가 지켜지지 않아 발생하고 있다"며 "특히 소규모 건축공사 현장은 '추락' 위험이 상존하므로 현장 소장부터 노동자까지 공사가 완료될 때까지 각별한 안전관리를 당부드린다"고 말했다.<br><br>이후 안 장관은 중소 규모 건설현장(1억~120억원) 안전관리를 지도하는 건설재해예방 전문기관들과 간담회를 가졌다.<br><br>이 자리에서 안 장관은 민간 재해예방 기관들의 적극적인 노력을 당부했다. 또 기술지도 실효성을 높이기 위한 논의를 거쳤다.<br><br>각 기관은 중점 추진 중인 기술지도 내용과 현장소장-노동자들의 안전활동 유도를 위한 기관별 특화방안을 발표했다.<br><br>안 장관은 "산재 사망사고 감축을 위해서는 사망사고 절반을 차지하는 건설업의 안전관리가 중요하다"며 "안전관리가 열악한 50억원 미만 소규모 현장을 대상으로 무료 기술지도 등 지원 사업을 대폭 강화하도록 내년도 예산 증액(630억→1610억원)을 추진할 계획"이라고 언급했다.<br><br>안 장관은 "이번 간담회를 시작으로 건설현장만 아니라 제조업 등 산재 사망사고가 다발하는 분야에도 직접 현장을 확인하며 관리해 나갈 계획"이라고 밝혔다. <br><br>세종=문채석 기자 chaeso@asiae.co.kr<br><br><a href="https://www.asiae.co.kr/fortune/index.htm?utm_source=navernews&utm_medium=naver_view&utm_campaign=fortune">▶ 속 시원한 풀이! 2021년 정통사주·운세·토정비결</a><br><a href="https://www.asiae.co.kr/event/2021/jobgo/">▶ 직장인을 위한 '빅데이터 분석' 국비 특화과정 모집</a><br><a href="https://core.asiae.co.kr/?utm_source=naver_article&utm_medium=pc_mobile&utm_campaign=core">▶ 투자 성공의 핵심은 기업분석! 'CORE' 바로가기</a><br><br>&lt;ⓒ경제를 보는 눈, 세계를 보는 창 아시아경제 무단전재 배포금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

@@ -1,0 +1,399 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="vod_area"><iframe _src="/main/readVod.nhn?oid=056&aid=0011051475&position=1&autoPlay=true&viewType=" width="647" height="363" frameborder="0" marginheight="0" marginwidth="0" title="영상 플레이어" allowfullscreen="true"></iframe></div><br><br>[앵커]<br><br>여러분, 안녕하십니까?<br><br>백신을 한 번만 맞아도 당장 다음 달부터 가족들과 더 여럿이 모일 수 있고, 7월부터는 야외에서 마스크를 벗어도 됩니다.<br><br>정부가 코로나19 백신 접종에 따른 혜택들을 발표했습니다.<br><br>첫 소식, 김도영 기자가 전해드립니다.<br><br> [리포트]<br><br> 현재 직계가족은  8인까지만 모임이 허용됩니다.<br><br> 하지만 다음 달부터 백신을 한 번이라도 맞은 사람은 인원에서 제외합니다.<br><br> 예를 들어 가족 중 할아버지 할머니  두 명이 접종했다면 이 두 사람에 인원제한 범위인 8명을 더해 모두 10명이 모일 수 있습니다.<br><br> [권덕철/중앙재난안전대책본부 1차장 : "고령층뿐 아니라 1차 접종자는 인원제한에서 제외되므로 가족 내 접종자가 많아질수록 모일 수 있는 인원은 늘어나게 됩니다."]<br><br> 노인복지시설에선  접종자들을 위한 프로그램도 열리고 경로당도 운영이 가능합니다.<br><br>  국립공원과 고궁 등의 공공시설 이용료 할인, 무료입장 혜택도 있습니다.<br><br> 정부 목표는  다음 달 말까지 전 국민의 25%인 1,300만 명이 1차 접종을 마치는 겁니다.<br><br> 이 목표가 달성되면 7월부터는 방역 조치가 더욱 완화됩니다.<br><br> 백신을 한 번만 맞았더라도  야외에서 마스크를 안 써도 됩니다.<br><br> [박혜경/중앙방역대책본부 방역지원단장 : "(1차 접종자는) 야외에서의 전파 가능성이 매우 낮은 것으로 보고 있고, 타인으로의 전파 가능성도 매우 낮아져 있는 상황이라고 판단하고."]<br><br> 예방접종을 완료하면 5인 이상 사적모임 금지 기준에서 제외됩니다.<br><br> 식당과 카페 등은 1차 접종자는 실외, 2차 접종자는 실내외 모두  인원 제한에 상관없이  이용할 수 있습니다.<br><br> 예배와 미사, 법회 등  대면 종교활동도  인원 기준에서 빠지게 됩니다.<br><br> 국민 70%가 1차 접종을 마치는 9월 말 이후엔  거리두기와 방역수칙이 대폭 완화될 것으로 보입니다.<br><br> [김부겸/중앙재난안전대책본부장 : "집단면역이 달성되는 시점에서는 실내에서의 마스크 착용 완화도 검토하게 될 것입니다."]<br><br> 정부는 이와 함께 접종률이 높은 지자체에 방역조치를 완화하는 권한도 확대하고 재난안전특별교부세를 지원하는 방안도 검토 중입니다.<br><br> KBS 뉴스 김도영입니다.<br><br> 영상편집:사명환/그래픽:김현갑<br><br><center><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/056/2021/05/26/0011051475_004_20210526222302707.png?type=w647" alt="" /></span></center><br><br>김도영 (peace1000@kbs.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=056" target="_blank">▶ 더 빠르고 정확한 소식을 원하시면 KBS뉴스 구독!</a><br><a href="http://news.kbs.co.kr/special/covid19/vaccine.html"_blank">▶ 코로나19 언제 어떤 백신을 누가 맞을까?</a><br><a href="https://pf.kakao.com/_REkxbE" target="_blank">▶ 뉴스 제보하기 [여기를 클릭!]</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span style="border-left:4px solid #959595; padding-left: 20px; display: inline-block"><strong>코인마켓캡 시세 비트코인 8.47% 뛴 4만257달러<br>가상화폐 대신 금·은 투자 인플레 헤지 수단 부각</strong></span><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/009/2021/05/26/0004799943_001_20210526214402810.jpg?type=w647" alt="" /><em class="img_desc">[사진 제공 = 연합뉴스]</em></span>국내서 비트코인 개당 가격이 오름세를 보이면서 4800만원대에 거래되고 있다.<br><br>26일 오후 9시 30분 국내 거래소 빗썸에서 가상화폐 대장격인 비트코인 개당 가격은 24시간 전보다 4.78% 오른 4828만4000원에 거래되고 있다. 이더리움은 8.18% 급등한 342만7000원이다.<br><br>같은 시간 업비트에서도 비트코인 개당 가격은 4800만원대로, 전일 대비 2.51% 상승한 4822만6000원에 시세가 형성돼 있다.<br><br>이더리움은 전일 대비 3.47% 오른 343만1000원, 도지코인은 0.47% 상승한 428원이다.<br><br>가상화폐는 주식시장과 달리 거래소 단위로 거래가 이뤄져 같은 종류라도 거래소별로 거래 가격이 조금씩 다르다.<br><br>글로벌 가상화폐 시황 중계사이트인 코인마켓캡에 따르면 같은 시간(한국시간 기준) 비트코인은 24시간 전보다 8.47% 뛴 4만257달러에 시세가 형성됐다. 이더리움은 16.72% 급등한 2865달러를, 도지코인은 7.06% 오른 35.71센트를 각각 기록했다.<br><br>앞서 비트코인 가격은 지난 19일 30% 가량 폭락하며 한때 3만달러에 바짝 근접했다. 이더리움은 지난 11일 개당 4300달러를 넘었다가 내림세가 이어져 현재 2800달러대를 오르내리고 있다.<br><br>가상화폐 시장에는 최근 악재가 이어졌다. 미국 정부는 지난 20일(현지시간) 1만달러 이상 가상화폐 거래에 대해 국세청(IRS)에 신고 의무를 부과하는 등 가상화폐 규제에 나선다고 밝혔다. 바로 전날에는 중국이 가상자산 발행과 거래금지를 넘어 채굴까지 금지하기로 했다. 일론 머스크가 트위터를 통해 돌발 메시지를 던지는 것도 가상화폐 시장에 불확실성을 높이고 있다.<br><br><hr style="border:0.5px solid#333333; display: block !important;"><B>비트코인 가격 아직 바닥 근접하지 않았다 주장도<hr style="border:0.5px solid#333333; display: block !important;"></b><br><br>최근 가상자산 시장에서 비트코인 등 가상화폐 가격이 급락하며 변동성이 커지는 가운데 일각에서는 아직 바닥에 근접하지 않았다는 전망과 함께 투자자들이 이제는 금과 은 등 원자재 시장에 주목할 것이라는 주장도 나온다.   <br><br>구겐하임파트너스의 스캇 미너드(Scott Minerd) 최고투자책임자(CIO)는 지난 25일(현지시간) CNBC에 출연해 "돈은 가상화폐를 떠나고 사람들은 여전히 인플레이션 헤지 수단을 찾고 있기 때문에 금과 은이 더 좋은 장소가 될 것"이라고 말했다. 지난달 비트코인 붕괴를 경고했던 미너드 CIO는 비트코인의 추가 하락을 예상했다. 그는 비트코인 가격이 5만5000달러 근처였던 지난달 21일 "매우 거품이 많아 보인다"며 "단기적으로 50% 급락해 2만~3만달러 사이가 될 수 있다"고 전망한 바 있다. 그는 이날 역시 가상화폐 시장이 안정되려면 시간이 걸릴 것이라고 예상했다.<br><br>미너드 CIO는 "경쟁 통화가 확산되면서 비트코인에 투자했던 사람들이 돈을 빼내 다른 코인에 배분하고 있다"며 "인터넷 버블처럼 생존자가 누구일지 물음 속에서 정리할 시간을 갖기 위해 가격 하락과 자금 유출을 겪어야만 하는데, 향후 몇 년 동안 겪어야 할 일도 바로 그것"이라고 말했다.<br><br>국내에서도 암호화폐 가격 급등락으로 불안감을 느낀 투자자들이 다시 금에 주목하고 있다는 분석도 나온다. 대표적인 안전자산인 금은 위험자산과 가격이 반대로 움직이는 경향을 보인다. 금이 인플레이션(추세적인 물가 상승) 헤지(hedge·위험 회피) 수단으로 부각하고 있는 것. 추세적으로 물가가 오를 경우 다른 자산에 비해 금이 가치 유지에 더 용이하기 때문이다.<br><br>황병진 NH투자증권 연구원은 "금과 같은 안전자산 선호 현상이 적어도 올해 2분기까지, 길게 보면 8월까지 이어질 전망"이라며 "앞으로의 (금값 흐름의) 관건은 금리를 자극할 미국 연방준비제도(연준)의 테이퍼링(자산매입 축소) 언급 여부가 제롬 파월 연준 의장의 입에서 직접 언급되는 것"이라고 말했다.<br><br>김소현 대신증권 연구원은 "전반적으로 금값이 오르고 있고 인플레이션 우려가 계속 나오고 있는 가운데 실제로도 이런 우려가 높아지는 상황"이라며 "인플레이션 헤지 수요로 금에 대한 투자 매력이 높아지고 있고 이런 추세가 올해 상반기, 길면 연말까지 이어질 것으로 예상한다"고 말했다.<br><br>[전종헌 매경닷컴 기자 cap@mk.co.kr]<br><br><!-- r_start //--><!-- r_end //--><a href="https://media.naver.com/channel/promotion.nhn?oid=009" target="_blank">▶ '경제 1위' 매일경제, 네이버에서 구독하세요</a><br><a href="https://www.mk.co.kr/premium/series/20121/?utm_source=naver&utm_medium=promotion&utm_campaign=make" target="_blank">▶ 이 제품은 '이렇게 만들죠' 영상으로 만나요</a><br><a href="https://tv.naver.com/mkestatetv" target="_blank">▶ 부동산의 모든것 '매부리TV'가 펼칩니다</a><br><br>[ⓒ 매일경제 & mk.co.kr, 무단전재 및 재배포 금지]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span style="border-left:4px solid #959595; padding-left: 20px; display: inline-block"><strong>코인마켓캡 시세 비트코인 8.47% 뛴 4만257달러<br>가상화폐 대신 금·은 투자 인플레 헤지 수단 부각</strong></span><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/009/2021/05/26/0004799943_001_20210526214402810.jpg?type=w647" alt="" /><em class="img_desc">[사진 제공 = 연합뉴스]</em></span>국내서 비트코인 개당 가격이 오름세를 보이면서 4800만원대에 거래되고 있다.<br><br>26일 오후 9시 30분 국내 거래소 빗썸에서 가상화폐 대장격인 비트코인 개당 가격은 24시간 전보다 4.78% 오른 4828만4000원에 거래되고 있다. 이더리움은 8.18% 급등한 342만7000원이다.<br><br>같은 시간 업비트에서도 비트코인 개당 가격은 4800만원대로, 전일 대비 2.51% 상승한 4822만6000원에 시세가 형성돼 있다.<br><br>이더리움은 전일 대비 3.47% 오른 343만1000원, 도지코인은 0.47% 상승한 428원이다.<br><br>가상화폐는 주식시장과 달리 거래소 단위로 거래가 이뤄져 같은 종류라도 거래소별로 거래 가격이 조금씩 다르다.<br><br>글로벌 가상화폐 시황 중계사이트인 코인마켓캡에 따르면 같은 시간(한국시간 기준) 비트코인은 24시간 전보다 8.47% 뛴 4만257달러에 시세가 형성됐다. 이더리움은 16.72% 급등한 2865달러를, 도지코인은 7.06% 오른 35.71센트를 각각 기록했다.<br><br>앞서 비트코인 가격은 지난 19일 30% 가량 폭락하며 한때 3만달러에 바짝 근접했다. 이더리움은 지난 11일 개당 4300달러를 넘었다가 내림세가 이어져 현재 2800달러대를 오르내리고 있다.<br><br>가상화폐 시장에는 최근 악재가 이어졌다. 미국 정부는 지난 20일(현지시간) 1만달러 이상 가상화폐 거래에 대해 국세청(IRS)에 신고 의무를 부과하는 등 가상화폐 규제에 나선다고 밝혔다. 바로 전날에는 중국이 가상자산 발행과 거래금지를 넘어 채굴까지 금지하기로 했다. 일론 머스크가 트위터를 통해 돌발 메시지를 던지는 것도 가상화폐 시장에 불확실성을 높이고 있다.<br><br><hr style="border:0.5px solid#333333; display: block !important;"><B>비트코인 가격 아직 바닥 근접하지 않았다 주장도<hr style="border:0.5px solid#333333; display: block !important;"></b><br><br>최근 가상자산 시장에서 비트코인 등 가상화폐 가격이 급락하며 변동성이 커지는 가운데 일각에서는 아직 바닥에 근접하지 않았다는 전망과 함께 투자자들이 이제는 금과 은 등 원자재 시장에 주목할 것이라는 주장도 나온다.   <br><br>구겐하임파트너스의 스캇 미너드(Scott Minerd) 최고투자책임자(CIO)는 지난 25일(현지시간) CNBC에 출연해 "돈은 가상화폐를 떠나고 사람들은 여전히 인플레이션 헤지 수단을 찾고 있기 때문에 금과 은이 더 좋은 장소가 될 것"이라고 말했다. 지난달 비트코인 붕괴를 경고했던 미너드 CIO는 비트코인의 추가 하락을 예상했다. 그는 비트코인 가격이 5만5000달러 근처였던 지난달 21일 "매우 거품이 많아 보인다"며 "단기적으로 50% 급락해 2만~3만달러 사이가 될 수 있다"고 전망한 바 있다. 그는 이날 역시 가상화폐 시장이 안정되려면 시간이 걸릴 것이라고 예상했다.<br><br>미너드 CIO는 "경쟁 통화가 확산되면서 비트코인에 투자했던 사람들이 돈을 빼내 다른 코인에 배분하고 있다"며 "인터넷 버블처럼 생존자가 누구일지 물음 속에서 정리할 시간을 갖기 위해 가격 하락과 자금 유출을 겪어야만 하는데, 향후 몇 년 동안 겪어야 할 일도 바로 그것"이라고 말했다.<br><br>국내에서도 암호화폐 가격 급등락으로 불안감을 느낀 투자자들이 다시 금에 주목하고 있다는 분석도 나온다. 대표적인 안전자산인 금은 위험자산과 가격이 반대로 움직이는 경향을 보인다. 금이 인플레이션(추세적인 물가 상승) 헤지(hedge·위험 회피) 수단으로 부각하고 있는 것. 추세적으로 물가가 오를 경우 다른 자산에 비해 금이 가치 유지에 더 용이하기 때문이다.<br><br>황병진 NH투자증권 연구원은 "금과 같은 안전자산 선호 현상이 적어도 올해 2분기까지, 길게 보면 8월까지 이어질 전망"이라며 "앞으로의 (금값 흐름의) 관건은 금리를 자극할 미국 연방준비제도(연준)의 테이퍼링(자산매입 축소) 언급 여부가 제롬 파월 연준 의장의 입에서 직접 언급되는 것"이라고 말했다.<br><br>김소현 대신증권 연구원은 "전반적으로 금값이 오르고 있고 인플레이션 우려가 계속 나오고 있는 가운데 실제로도 이런 우려가 높아지는 상황"이라며 "인플레이션 헤지 수요로 금에 대한 투자 매력이 높아지고 있고 이런 추세가 올해 상반기, 길면 연말까지 이어질 것으로 예상한다"고 말했다.<br><br>[전종헌 매경닷컴 기자 cap@mk.co.kr]<br><br><!-- r_start //--><!-- r_end //--><a href="https://media.naver.com/channel/promotion.nhn?oid=009" target="_blank">▶ '경제 1위' 매일경제, 네이버에서 구독하세요</a><br><a href="https://www.mk.co.kr/premium/series/20121/?utm_source=naver&utm_medium=promotion&utm_campaign=make" target="_blank">▶ 이 제품은 '이렇게 만들죠' 영상으로 만나요</a><br><a href="https://tv.naver.com/mkestatetv" target="_blank">▶ 부동산의 모든것 '매부리TV'가 펼칩니다</a><br><br>[ⓒ 매일경제 & mk.co.kr, 무단전재 및 재배포 금지]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/029/2021/05/26/0002676290_001_20210526192104027.jpg?type=w647" alt="" /><em class="img_desc">홍남기(왼쪽 네번째) 부총리가 26일 서울 혜화동 서울대병원 의학연구혁신센터에서 열린 '제10차 혁신성장 BIG3 추진회의'에 참석해 회의 시작에 앞서 참석자들과 함께 김효수 의생명연구원장으로부터 신약.의료기기 개발현황 설명을 듣고 있다. &lt;기획제정부 제공&gt;    </em></span>정부가 2023년부터 6년간 약 1조원을 투입해 '바이오 빅데이터 댐'을 구축한다.<br><br>26일 서울대학교병원에서 열린 '제10차 혁신성장 BIG3 추진 회의'에서 홍남기 부총리는 "바이오산업은 지속가능한 성장을 위한 신성장동력"이라며 "바이오 빅데이터 수집을 하는 '국가통합 바이오 댐'을 구축하겠다"며 이같이 밝혔다. <br><br>홍 부총리는 "데이터 기반 정밀의료가 바이오헬스 미래를 주도할 것으로 전망되면서 미국과 영국, 중국은 바이오 빅데이터 구축 활용을 위한 대규모 투자를 추진 중"이라며 "먼저 질환별 환자 40만명, 자발적 참여자 60만명 등 100만명 바이오 빅데이터를 수집하는 소위 '국가통합 바이오 댐'을 2028년까지 100% 구축할 것"이라고 말했다.<br><br>이어 "민감정보인 바이오 빅데이터의 원활하고 안전한 활용 등을 위해 빅데이터 표준화 및 품질관리를 위한 표준작업절차(SOP) 수립, 플랫폼 구축, 슈퍼컴퓨팅 기반 보안 분석환경 구축 등도 추진할 것"이라고 설명했다.<br><br>이날 회의에선 의료기기산업 육성전략이 논의됐다. 고령화 등에 따라 국내 의료기기산업은 빠르게 성장하고 있지만, 사용경험과 인지도 부족으로 시장진출에 한계가 있는 상항이다. 이에 정부는 2025년까지 세계시장 점유율 7위를 달성하기 위해 국내 의료기기 전략 분야 집중육성, 산업생태계 조성 등을 추진할 계획이다. <br><br>홍 부총리는 "국내 의료기기 활성화를 위해 병원부설 교육훈련센터 2개에 이어 광역형 센터 2개(수도권 1개, 비수도권 1개)를 추가로 구축하고 디지털 헬스 테스트베드 운영과 함께 혁신 의료기기 사용 의료기술은 건보 체계에 신속하게 포함할 것"이라며 "체외진단, 치과·영상진단 등 주력분야에 대해 범부처 전주기 연구개발(R&D)을 추진하고, 해외진출 지원을 위해 의료기기 국제인증지원센터를 구축할 것"이라고 설명했다. <br><br>이어 "신의료기술 평가 맞춤형 컨설팅을 시행하고, 신속 시장출시를 위한 허가·심사 특례개선, 의료기기산업 종합지원센터를 애로 해소의 허브로 활용할 계획이다"고 말했다. 또 "글로벌 백신허브 도약기반 구축을 위한 방안도 마련 중에 있고 조만간 발표할 것"이라고 덧붙였다.박재찬기자 jcpark@dt.co.kr <br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=029' target='_blank' >▶[ 네이버 메인에서 디지털타임스 구독 ]</a> / <a href='https://newsstand.naver.com/029' target='_blank' >▶[ 뉴스스탠드 구독 ]</a><br><a href='http://www.dt.co.kr/' target='_blank' >▶디지털타임스 홈페이지 바로가기</a><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104609_001_20210526154801709.jpg?type=w647" alt="" /><em class="img_desc">한 유통업체의 면접 모습. 뉴시스</em></span>        <span class="mask"></span>              </div>                        </div>           <br>   신종 코로나바이러스 감염증(코로나19) 여파로 국내 대기업 직원(정규직)들의 고용 희비가 엇갈린 것으로 나타났다. 코로나19 타격을 입은 롯데쇼핑은 직원 2700여명을 줄였고, 비대면 여가ㆍ근로 확산에 따라 코웨이는 1700여 명을 늘렸다.   <br>      <br>   26일 기업평가사이트 CEO스코어는 국내 500대 기업 정규직 증감수를 집계했다. 이 가운데 직원수가 공개된 회사 309곳을 대상으로 2019년 4분기와 올해 1분기의 고용 현황을 비교했다. 코로나19가 확산되기 시작한 게 2020년 1분기였다는 점을 감안해 시기를 정한 것이다.  <br>      <br>   이 조사에 따르면 직원수가 가장 크게 감소한 회사는 롯데쇼핑(-2768명)이다. GS리테일도 직원수가 2678명 줄었다. 감소 비율은 각각 11%와 31%다. 유통업종의 평균 직원수 감소폭은 7.6%에 이른다. 지난해 재무구조 개선 작업을 거친 두산중공업은 1366명(-23.1%)의 직원이 줄었다. 정부의 탈원전 정책으로 영업이익에 타격을 입은 영향도 있다는 게 해석도 업계에서 나온다.  <br>      <br>           <div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104609_002_20210526154801733.jpg?type=w647" alt="" /><em class="img_desc">서울 성동구 희망일자리센터에 걸린 구인정보. 뉴시스</em></span>        <span class="mask"></span>              </div>                        </div>           <br>   현대자동차는 2019년 4분기(1조1643억원)에 비해 올해 1분기(1조6566억원) 영업이익이 증가했지만, 같은 기간 직원수는 1303명(-2.0%) 줄었다. 기아도 933명(-2.7%)이 감소한 것으로 나타났다. 자동차업계 관계자는 “공장 자동화에 따라 정년ㆍ자발적 퇴직 직원수만큼 신규 채용이 이뤄지지 않은 것”이라고 분석했다.  <br>      <br>   반대로 직원수가 가장 많이 증가한 회사는 삼성전자다. 이 기간 6358명의 직원이 늘었는데, 증가율은 6.1%다. 같은 반도체 업종인 SK하이닉스의 직원수도 884명(3.1%) 늘었다. 삼성전자 다음으로는 코웨이의 직원수(1703명, 36.0%)가 많이 증가했다. 특수고용노동자였던 정수기 등 제품 설치ㆍ수리기사들이 정규직으로 전환되고 있는 영향이다.   <br>      <br>   한ㆍ미 정상회담을 계기로 워싱턴에서 모더나와 코로나19 백신 위탁생산 계약을 맺은 삼성바이오로직스의 직원수도 777명(31.5%) 늘었다. 또 소프트웨어 개발자 품귀 상황을 겪고 있는 엔씨소프트(645명, 17.7%)와 네이버(617명, 18.0%)도 직원수 증가 기업 상위에 이름을 올렸다.  <br>      <br>   조사 대상 기업 전체적으로는 정규직 직원수는 114만3018명에서 113만1308명으로 1만여 명이 감소했다. 반면 비정규직 직원수는 7만573명에서 7만2527명으로 증가했다. 이에 대해 CEO스코어는 “코로나19 여파로 좋은 일자리는 줄고 일자리의 질이 나빠졌다"고 해석했다.  <br>      <br>   최선욱 기자 isotope@joongang.co.kr  <br><br><br>▶ <a href="https://news.joins.com/newsletter?utm_source=naver&utm_medium=referral&utm_campaign=link1_naver&utm_content=210526" target="_blank">그가 들려주는 이야기, 이상언의 '더 모닝'</a><br>▶ <a href="https://news.joins.com/issueSeries/1039?utm_source=naver&utm_medium=referral&utm_campaign=link2_naver&utm_content=210526" target="_blank">건강한 주식 맛집, 앤츠랩이 차린 메뉴</a><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=025" target="_blank">'실검'이 사라졌다, 이슈는 어디서 봐?</a><br><br>ⓒ중앙일보(https://joongang.co.kr), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/056/2021/05/26/0011051248_001_20210526160407568.jpg?type=w647" alt="" /></span> <br>한국경영자총협회는 입법 예고된 소비자기본법 개정안에 대한 반대 의견을 공정거래위원회에 제출했다고 오늘(26일) 밝혔습니다.<br> <br>공정위가 입법 예고한 소비자기본법 개정안은 예방적 금지 청구권 도입과 소송허가 절차 폐지 등을 통해 소비자단체소송 제기 요건을 완화했고, 소비자권익증진과 관련한 실태조사를 위해 필요한 자료를 사업자에게 요구할 수 있도록 했습니다.<br> <br>경총은 "예방적 금지 청구권 도입 등으로 소송이 남발되고, 빈번한 실태조사 시행에 기업의 자료 제출 부담이 커지고 영업기밀도 유출될 수 있다"고 주장했습니다.<br> <br>특히 경총은 소비자단체소송 제기 요건 완화와 관련해, "소비자 권익의 '현저한 침해 예상'만으로 소송이 가능한 예방적 금지 청구를 허용하고, 소송 필요성을 사전점검하는 허가 절차를 없애면 기획소송 등 제도가 악용될 우려가 있다"고 지적했습니다. <br> <br>경총은 "소송 제기 요건 완화보다 현행 제도 보완이 바람직하다"면서 "불가피하게 소송제기 요건이 완화돼도 소비자단체 소송이 남용되지 않도록 보완장치가 마련돼야 한다"고 강조했습니다.<br><br>[사진 출처 : 연합뉴스]<br><br>김지숙 (jskim84@kbs.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=056" target="_blank">▶ 더 빠르고 정확한 소식을 원하시면 KBS뉴스 구독!</a><br><a href="http://news.kbs.co.kr/special/covid19/vaccine.html"_blank">▶ 코로나19 언제 어떤 백신을 누가 맞을까?</a><br><a href="https://pf.kakao.com/_REkxbE" target="_blank">▶ 뉴스 제보하기 [여기를 클릭!]</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052616470001300_P4_20210526151914113.jpg?type=w647" alt="" /></span><br><br>    (서울=연합뉴스) 한상균 기자 = 한정애 환경부 장관이 26일 양재동 더케이호텔에서 '2030년 무공해차 전환100' 제3차 선언식 후 전시 차량을 보고 있다. <br><br>    이번 행사에는 운수ㆍ물류 참여기업 관계자들이 참석했다. 2021.5.26<br><br>    xyz@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915010_001_20210526151603430.jpg?type=w647" alt="" /></span><br>[서울경제] <br><br>경기 화성 동탄2신도시에 분양된 ‘로또 단지’ ‘동탄역 금강펜테리움 더 시글로’가 세 자릿수의 높은 경쟁률로 1순위 청약을 마감했다.<br><br>26일 청약홈에 따르면 해당 단지는 지난 25일 진행된 1순위 청약에서 170가구 모집에 2만2,936명이 몰리며 평균 134.9대 1의 평균 청약 경쟁률을 기록했다. 최고 경쟁률은 전용면적 58㎡A 기타경기(966대 1)에서 나왔다. 해당 단지는 분양가는 상한제를 적용받아 전용 52㎡ 기준 3억3,900만∼3억4,700만원, 전용 58㎡ 기준 3억9,800만∼4억800만원으로 분양가가 책정됐다. 단지는 지하 3층·지상 38층, 3개 동, 전용면적 52~ 58㎡, 380가구 규모의 주상복합아파트이며, 지상 1층과 2층에는 근린생활시설이 들어선다. 주택형별 가구 수는 △52㎡A 108가구 △52㎡B 82가구 △58㎡A 108가구 △58㎡B 82가구 등이다.<br><br>분양가 상한제가 적용되는 동탄2신도시는 시세 대비 저렴한 가격에 분양 물량이 쏟아지면서 청약자들의 관심을 모으고 있다. 앞서 화성시 동탄2신도시에서 분양한 ‘동탄역 디에트르 퍼스티지’는 지난 11일 1순위 청약에서 302가구 모집에 24만4,343명이 접수해 평균 809.1대 1의 경쟁률을 기록하기도 했다.<br><br>/권혁준 기자 awlkwon@sedaily.com<br><br><ul><li><a href="https://bit.ly/3bhqTuL" target="_blank" style="color:#000000">▶ [지구용] 투명해진 맥주병, 그런데 말입니다...</a></li><li><a href="https://thepolitics.sedaily.com" target="_blank" style="color:#000000">▶ 서울경제 더 폴리틱스 뉴스를 만나보세요!</a></li><li><a href="https://www.sedaily.com/v/Zipchelin" target="_blank" style="color:#000000">▶ 미슐랭 가이드처럼 알찬 부동산 뉴스 '집슐랭'</a></li></ul><br><br>저작권자 ⓒ 서울경제, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">농촌경제연구원, 유통변화로 소매비중 60%<br>“지역농산물 순환체계 핵심시설로 활용해야”<br>푸드플랜·공공성결합 가능성 높아, 판매체계 개선도 필요</strong>인구 감소, 대기업자본의 농산물 도소매 유통 분야 유입, 로컬푸드 직매장 등으로 지역의 농산물 도매시장이 경쟁력을 잃어가고 있다.<br><br>지역별 유통경로를 분석해보니 최종 유통단계에서 각 지역의 외식업체와 소매업체의 비중이 약 60% 이상을 차지하는 것으로 나타났으며, 이들은 신선하고 저렴한 지역농산물 공급을 희망하는 것으로 조사됐다.<br><br>이에 따라 지방 도매시장을 지역농산물 유통 순환체계의 핵심시설로 활용해 지역 농산물 유통을 활성화하고, 푸드플랜과 지방 도매시장의 공공성을 결합해 활력을 높여야 한다는 주장이 제기됐다.<br><br>이는 한국농촌경제연구원(KREI)이 ‘지역유통 순환체계 구축을 위한 지방 도매시장 기능 재편방안’ 연구를 통해 제시됐다.<br><br>연구책임자인 최병옥 연구위원은 “지역 내 지역농산물 이용률을 높이기 위해서는 소매업체와 외식업체가 지역농산물의 이용률을 향상 시킬 수 있는 방안을 모색하는 것이 필요하다”며 “이들의 주요 농산물 공급처인 지방 도매시장이 향후 지역농산물 취급 확대를 위한 방안을 수립·시행하는 것이 지역농산물 시장 규모를 확대할 수 있는 핵심”이라고 강조했다.<br><br>연구진은 도매시장의 기능인 농산물의 수집·가격 결정·분산 등의 수행이 어려운 지방 도매시장을 대상으로 해당 소재 지역 중 푸드플랜이 수립된 춘천시·익산시·진주시를 사례지역으로 설정해 조사·분석했다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/119/2021/05/26/0002496226_001_20210526145302964.jpeg?type=w647" alt="" /><em class="img_desc">대구의 한 농수산물도매시장에서 관계자들이 산지에서 올라온 수박을 출하하기 위해 하역작업을 하고 있다. ⓒ뉴시스</em></span>사례지역의 먹거리 유통실태를 분석한 결과, 대부분의 주요 생산품목이 산지유통시설을 통해 외부 대도시로 공급되고 있으며, 지역 도매시장의 거래 상위품목에는 지역 주요 생산품목이 없는 것으로 파악됐다.<br><br>즉 지역에서 생산된 농산물이 외부로 공급되는 비중이 높아지면서, 지역 내 생산과 소비의 불균형이 발생하고 있었다.<br><br>하지만 이와 별개로 로컬푸드 직매장 점포 수와 매출액은 확대되는 것으로 나타났고 소비자의 지역 먹거리 선호도는 증가하고 있어, 이에 따른 지역농산물의 지역 내 소비 확대 가능성도 보인다는 분석이다.<br><br>이와 관련, 지역농산물 취급에 대해 도매시장법인·중도매인·소매점·외식업체 모두 확대의 필요성을 거론했고, 지역농산물 유통의 핵심인 도매시장법인과 중도매인도 지역유통 순환체계가 필요하다며 참여 의향도 보인 것으로 조사됐다.<br><br>연구팀은 도매시장에 비영리법인형태의 유통 주체와 푸드플랜 관련 시설을 연계한다면 단기간에 지역농산물 취급 확대가 가능할 것이라고 전했다.<br><br>또한 연구진은 지역농산물 순환체계의 핵심 시설로 지방 도매시장을 활용하기 위한 기본 방향에 유통·물류 기능과 공간 활용 혁신, 맞춤형 생산·소비체계로 유통 혁신, 제도와 운영시스템 혁신 등을 제안했다.<br><br>이를 위한 정책과제로 ▲로컬푸드의 지역 범위 확대 ▲타 지역과 전략적 제휴 ▲유통·물류 기능 확대, 도매시장 공간 활용 ▲지역농산물 생산과 소비조직 연계 ▲지역농산물 순환을 통한 재생산 촉진 ▲제도·수급관리·판매체계 개선을 들었다.<br><br>데일리안 이소희 기자 (aswith@dailian.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=119">▶ 데일리안 네이버 구독하기</a><br><a href="http://naver.me/xorooYvI">★ 구독만 해도 스타벅스쿠폰이 쏟아진다!</a><br><a target="_blank" href="https://m.dailian.co.kr/report">▶ 제보하기</a><br><br>ⓒ (주)데일리안 - 무단전재, 변형, 무단배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104588_001_20210526145402769.jpg?type=w647" alt="" /><em class="img_desc">포스코는 26일 전남 광양 율촌산업단지에 이차전지 주요 원료인 수산화리튬 공장 착공식을 했다 . 사진 포스코</em></span>        <span class="mask"></span>              </div>                        </div>        포스코는 26일 전남 광양 율촌산업단지 내에 전기차 배터리의 양극재 원료인 수산화리튬 공장을 착공했다. 지난해 4월 이사회 승인을 얻어 별도 출범한 포스코리튬솔루션이 짓는 공장은 율촌산업단지 내 19만6000㎡ 부지에 7600억원을 투자해 2023년 준공한다.    <br>           <div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104588_002_20210526145402796.jpg?type=w647" alt="" /><em class="img_desc">리튬이온 이차전지 양극재 공정. 사진 포스코</em></span>        <span class="mask"></span>              </div>                        </div>        수산화리튬을 대규모로 생산하는 공장은 사실상 국내에서 처음이다. 앞서 포스코는 2018년부터 시험 공장을 통해 수산화리튬을 생산했다. 포스코리튬솔루션은 이 공장에서 연산 4만3000t의 수산화리튬을 생산할 계획이다. 이는 전기차 100만대분의 양극재를 만들 수 있는 양이다.    <br>      <br>   수산화리튬은 양극 전구체(양극재 전 중간재)와 혼합해 양극재를 완성하는 주요 원료로 최근 수요가 늘었다. 기존 탄산리튬보다 수산화화리튬이 들어간 양극재가 에너지 밀도가 높다. 수산화리튬은 탄산리튬을 재가공해 얻기도 하지만, 광양 공장에서 생산할 수산화리튬은 리튬 정광(광석)에서 바로 추출하는 방식이다. 앞서 포스코는 호주 필바라사로부터 리튬 광석을 공급받기로 계약을 맺었다.   <br>      <br>   이로써 포스코는 전남 광양에 수산화리튬 원료부터 양극재 공장까지 배터리 소재 공급망을 더 촘촘하게 갖추게 됐다. 앞서 2019년 포스코케미칼은 율촌산업단지에 양극재 생산 공장을 설립했으며, 올해 약 3만t의 제품을 생산할 예정이다. 최정우 포스코 회장은 이날 착공식에서 "리튬 국산화는 포스코그룹이 100년 기업으로 성장하기 위한 중요한 토대"라며 "글로벌 시장에서 치열하게 경쟁하고 있는 국내 이차전지산업 경쟁력 확보에 기여하게 될 것"이라고 말했다.  <br>      <br>   포스코는 전기차 배터리 밸류 체인(가치 사슬) 확보를 위해 분주하게 움직이고 있다. 특히 배터리 소재와 원료 확보에서 국내 기업 중 가장 적극적인 투자를 진행 중이다. 2018년 호주 필바라미네랄스와 리튬 정광 장기 구매 계약을 맺은 데 이어 같은 해 아르헨티나 염호를 2억8000만 달러(약 3300억원)에 인수했다. 이 염호엔 리튬이 약 1350만t 매장된 것으로 추산된다. 당초 구매 계약을 할 때보다 6배 늘어난 수치다.   <br>      <br>   포스코는 향후 광석과 염수 리튬 추출 사업에 지속적인 투자를 통해 2023년까지 연 7만t 규모의 리튬 생산 체제를 구축할 방침이다. 2030년 생산 목표는 22만t이다.   <br><br>김영주 기자 humanest@joongang.co.kr   <br><br><br>▶ <a href="https://news.joins.com/newsletter?utm_source=naver&utm_medium=referral&utm_campaign=link1_naver&utm_content=210526" target="_blank">그가 들려주는 이야기, 이상언의 '더 모닝'</a><br>▶ <a href="https://news.joins.com/issueSeries/1039?utm_source=naver&utm_medium=referral&utm_campaign=link2_naver&utm_content=210526" target="_blank">건강한 주식 맛집, 앤츠랩이 차린 메뉴</a><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=025" target="_blank">'실검'이 사라졌다, 이슈는 어디서 봐?</a><br><br>ⓒ중앙일보(https://joongang.co.kr), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104588_001_20210526145402769.jpg?type=w647" alt="" /><em class="img_desc">포스코는 26일 전남 광양 율촌산업단지에 이차전지 주요 원료인 수산화리튬 공장 착공식을 했다 . 사진 포스코</em></span>        <span class="mask"></span>              </div>                        </div>        포스코는 26일 전남 광양 율촌산업단지 내에 전기차 배터리의 양극재 원료인 수산화리튬 공장을 착공했다. 지난해 4월 이사회 승인을 얻어 별도 출범한 포스코리튬솔루션이 짓는 공장은 율촌산업단지 내 19만6000㎡ 부지에 7600억원을 투자해 2023년 준공한다.    <br>           <div class="ab_photo photo_center " >      <div class="image">                <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/025/2021/05/26/0003104588_002_20210526145402796.jpg?type=w647" alt="" /><em class="img_desc">리튬이온 이차전지 양극재 공정. 사진 포스코</em></span>        <span class="mask"></span>              </div>                        </div>        수산화리튬을 대규모로 생산하는 공장은 사실상 국내에서 처음이다. 앞서 포스코는 2018년부터 시험 공장을 통해 수산화리튬을 생산했다. 포스코리튬솔루션은 이 공장에서 연산 4만3000t의 수산화리튬을 생산할 계획이다. 이는 전기차 100만대분의 양극재를 만들 수 있는 양이다.    <br>      <br>   수산화리튬은 양극 전구체(양극재 전 중간재)와 혼합해 양극재를 완성하는 주요 원료로 최근 수요가 늘었다. 기존 탄산리튬보다 수산화화리튬이 들어간 양극재가 에너지 밀도가 높다. 수산화리튬은 탄산리튬을 재가공해 얻기도 하지만, 광양 공장에서 생산할 수산화리튬은 리튬 정광(광석)에서 바로 추출하는 방식이다. 앞서 포스코는 호주 필바라사로부터 리튬 광석을 공급받기로 계약을 맺었다.   <br>      <br>   이로써 포스코는 전남 광양에 수산화리튬 원료부터 양극재 공장까지 배터리 소재 공급망을 더 촘촘하게 갖추게 됐다. 앞서 2019년 포스코케미칼은 율촌산업단지에 양극재 생산 공장을 설립했으며, 올해 약 3만t의 제품을 생산할 예정이다. 최정우 포스코 회장은 이날 착공식에서 "리튬 국산화는 포스코그룹이 100년 기업으로 성장하기 위한 중요한 토대"라며 "글로벌 시장에서 치열하게 경쟁하고 있는 국내 이차전지산업 경쟁력 확보에 기여하게 될 것"이라고 말했다.  <br>      <br>   포스코는 전기차 배터리 밸류 체인(가치 사슬) 확보를 위해 분주하게 움직이고 있다. 특히 배터리 소재와 원료 확보에서 국내 기업 중 가장 적극적인 투자를 진행 중이다. 2018년 호주 필바라미네랄스와 리튬 정광 장기 구매 계약을 맺은 데 이어 같은 해 아르헨티나 염호를 2억8000만 달러(약 3300억원)에 인수했다. 이 염호엔 리튬이 약 1350만t 매장된 것으로 추산된다. 당초 구매 계약을 할 때보다 6배 늘어난 수치다.   <br>      <br>   포스코는 향후 광석과 염수 리튬 추출 사업에 지속적인 투자를 통해 2023년까지 연 7만t 규모의 리튬 생산 체제를 구축할 방침이다. 2030년 생산 목표는 22만t이다.   <br><br>김영주 기자 humanest@joongang.co.kr   <br><br><br>▶ <a href="https://news.joins.com/newsletter?utm_source=naver&utm_medium=referral&utm_campaign=link1_naver&utm_content=210526" target="_blank">그가 들려주는 이야기, 이상언의 '더 모닝'</a><br>▶ <a href="https://news.joins.com/issueSeries/1039?utm_source=naver&utm_medium=referral&utm_campaign=link2_naver&utm_content=210526" target="_blank">건강한 주식 맛집, 앤츠랩이 차린 메뉴</a><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=025" target="_blank">'실검'이 사라졌다, 이슈는 어디서 봐?</a><br><br>ⓒ중앙일보(https://joongang.co.kr), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005373967_001_20210526143204740.jpg?type=w647" alt="" /></span><br>(세종=뉴스1) 장수영 기자 = 유은혜 사회부총리 겸 교육부 장관이 26일 정부세종청사에서 열린 서울-세종 영상 사회관계장관회의에 참석하고 있다. 2021.5.26/뉴스1<br><br>presy@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	 <span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/014/2021/05/26/0004645608_001_20210526140803321.jpg?type=w647" alt="" /><em class="img_desc">이정희 국민권익위원회 부위원장이 26일 정부세종청사 권익위 브리핑실에서 '장애인 고용촉진 제도상 문제점 및 개선방안' 관련 브리핑을하고 있다. /사진=뉴스1</em></span>  <br><br>[파이낸셜뉴스]앞으로 장애인 의무 고용 비율을 달성하지 못한 공공기관 명단이 공개된다. 기존 의무고용률 80% 미만 기관에 한해서 명단을 공표해오던 것에서 비율과 관계 없이 미달한 전 공공기관으로 명단 공개 대상이 확대되는 것이다.  <br>  <br>이정희 국민권익위원회 부위원장은 26일 오전 정부세종청사에서 브리핑을 열어 이러한 내용을 골자로 한 '장애인 고용촉진 제도의 실효성 제고 방안'을 고용노동부 등에 제도개선을 권고했다고 밝혔다.  <br>  <br>고용노동부와 교육부 등 해당 정부 부처는 2022년 5월까지 권익위가 마련한 방안을 토대로 제도 개선에 나서기로 했다.  <br>  <br>장애인고용법에 따르면 월평균 상시50명 이상 근로자를 고용하는 사업주는 장애인을 일정 비율 이상 의무적으로 고용하도록 규정하고 있다.  <br>  <br>법에서 정한 민간 기관의 의무고용률은 3.1%이며, 정부와 공공기관의 의무고용률은 이보다 높은 3.4%다. 상시 근로자 100명 이상 사업장에서 의무고용률을 채우지 못하면 고용부담금을 부과하도록 하고 있다.  <br>  <br>권익위가 실태조사를 벌인 결과 정부의 경우 비공무원 영역에서는 장애인 의무고용률이 5.06%로 목표치를 상회했지만, 공무원 영역의 경우는 2.86%로 목표치에 미달했다. 반면 비공무원 공공기관의 고용부담금은 2017년 220억원, 2018년 280억원, 2019년 400억원 등 계속 증가 추세에 있다.  <br>  <br>권익위에 따르면 올해 부과되는 정부와 공공부문의 부담금은 800억원 대로 크게 늘어날 것으로 추정된다. 2022년 부담금 50% 감면이 종료되는 교육청을 포함하면 2023년부터는 부담금 납부 규모가 더 늘어날 수 있다는 게 권익위 판단이다. 이에 권익위는 공공부문에서 장애인 의무고용을 높이기 위한 연차별 계획을 수립&middot;추진키로 했다. 우선 향후 공공기관 성과 평가 때 장애인 의무고용률 반영 비율을 높이도록 했다.  <br>  <br>또 의무고용 미달 기관에 대한 명단 공표 기준을 강화키로 했다. 전년도 월평균 기준으로 의무고용률이 미달한 공공기관 명단을 공개하는 방식으로 공공기관들이 명단공표 회피 목적으로 일시적으로 장애인을 고용하는 사례를 원천 차단키로 했다.  <br>  <br>특히 명단공표 사전 예고 대상의 경우 기존 장애인 의무고용률 80%에 미달할 경우 외부에 공표해오던 것에서 향후 미달한 전 공공기관의 명단을 공표하는 방향으로 대상을 확대했다.  <br>  <br>이정희 권익위 부위원장은 &quot;공공기관이 장애인 의무고용 이행을 하지 않고 부담금으로 대체하는 것은 공공기관의 사회적 가치 실현을 바라는 국민요구는 물론, 법 취지에 상충하는 것&quot;이라면서 &quot;이번 제도 개선을 계기로 공공기관이 적극적인 일자리 창출과 장애인 등 사회적 약자 권익증진에 더욱 관심을 갖기 바란다&quot;고 말했다.  <br><br><span id="customByline">beruf@fnnews.com 이진혁 기자</span>  <br>  <br> <strong><a target="_blank" href="https://www.fnnews.com/pineapple.html?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=pineapple"><u>▶ 날로먹고 구워먹는 금융이슈 [파인애플]</u></a><br><a target="_blank" href="https://www.fnnews.com/moasis?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=moasis"><u>▶ 모(毛)아 모아 [모아시스]</u></a><br><a target="_blank" href="https://hugs.fnnews.com/home?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=hugslink"><u>▶ 헉! 소리나는 스!토리 뉴스 [헉스]</u></a></strong> <br> <br>※ 저작권자 ⓒ 파이낸셜뉴스. 무단 전재-재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052612940001300_P4_20210526134713120.jpg?type=w647" alt="" /></span><br><br>    (서울=연합뉴스) 김인철 기자 = 26일 서울 강남구 삼성동 코엑스에서 열린 서울리빙디자인페어에서 방문객들이 '풍화, 아세안의 빛' 전시를 관람하고 있다. 2021.5.26<br><br>    yatoya@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/001/2021/05/26/PYH2021052612940001300_P4_20210526134713120.jpg?type=w647" alt="" /></span><br><br>    (서울=연합뉴스) 김인철 기자 = 26일 서울 강남구 삼성동 코엑스에서 열린 서울리빙디자인페어에서 방문객들이 '풍화, 아세안의 빛' 전시를 관람하고 있다. 2021.5.26<br><br>    yatoya@yna.co.kr<br><br><span><a href="https://media.naver.com/channel/promotion.nhn?oid=001" target="_blank">▶네이버에서도 뉴스는 연합뉴스[구독 클릭]</a><br><a href="https://www.yna.co.kr/theme-list/factcheck?input=1195s" target="_blank">▶[팩트체크]모더나 백신에 독성물질 포함?…아니다 </a><a href="https://www.yna.co.kr/board/jebo/index?input=offer_naver" target="_blank" style="margin-left:10px;"><br>▶제보하기</a></span><br><br>&lt;저작권자(c) 연합뉴스(https://www.yna.co.kr/), 무단 전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

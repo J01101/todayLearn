@@ -1,0 +1,29 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[서울=뉴시스]이재준 기자 = 중국판 위성항법 시스템(GPS) 베이더우(北斗)의 시장 규모가 오는 2025년까지 1조 위안(약 175조1000억원) 정도로 확대할 전망이라고 신화망(新華網)과 신랑망(新浪網) 등이 26일 보도했다.<br><br>매체는 관련업계 회의에서 나온 자료를 토대로 중국 위성항법(내비게이션) 산업이 연평균 20% 이상 성장을 보이고 있다며 이같이 전했다.<br><br>지난해 중국 관련 제품과 서비스 시장은 4000억 위안을 돌파했다고 한다.<br><br>베이더우는 미국이 독점 운용하는 GPS를 대체하기 위해 중국이 개발 추진한 끝에 작년 6월 시스템 구축을 완료하고 7월에 전면 서비스에 들어갔다.<br><br>중국은 베이더우 구축으로 자국 위성시장의 성장을 촉진하는 한편 시진핑(習近平) 국가주석이 제창한 새로운 실크로드 경제권 구상 일대일로(一帶一路)에 참여한 국가를 포함한 각국의 서비스 이용을 적극적으로 지원하고 있다.<br><br>매체는 베이더우와 연관한 제품을 약 120개국에 수출하고 있으며 전 세계 서비스 이용자가 1억명을 넘었다고 밝혔다.<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20200731_0016525052_web_20200731125432_20210527000006049.jpg?type=w647" alt="" /><em class="img_desc">[베이징=신화/뉴시스] 31일 중국 베이징 인민대회당에서 베이더우 위성항법시스템 구축 및 개통식이 열리고 있다. 이날 행사에서 시진핑 국가주석은 베이더우 시스템 개통을 공식 선언했다. 2020.07.31</em></span><br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> yjjs@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

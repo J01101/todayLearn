@@ -1,0 +1,235 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/029/2021/05/26/0002676305_001_20210526193305410.jpg?type=w647" alt="" /><em class="img_desc">(제주맥주 제공)    </em></span>제주맥주는 코스닥시장 상장 첫날인 26일 강세를 보였다. <br><br>이날 제주맥주는 시초가 4780원에 시작해, 2.51% 오른 4900원에 장을 마감했다. 이는 공모가(3200원)와 비교해 53.13% 상승한 수치다. 이날 제주맥주는 5481억원이 거래되며 국내 증시 종목 중 세번째로 많은 거래대금을 기록했다. 개인 투자자의 순매수액(477억원)도 세 번째로 많았다.<br><br>제주맥주는 지난 2015년 설립된 크래프트(수제) 맥주를 제조·수입·유통하는 회사다. 지난 13일과 14일 진행된 일반 공모 청약에서 1748.25대1의 경쟁률을 보였다. 앞서 지난 10~11일 진행한 기관 대상 수요예측에서 경쟁률 1356.43대1을 보였다.<br><br>반면 같은 날 코스닥시장에 상장한 진시스템의 경우 시초가(1만9100원)대바 8.90% 내린 1만7400원에 마쳤다. 공모가(2만원)대비 13.00% 낮은 수치다. 진시스템은 2010년 설립된 진시스템은 진단 장비·키트·시약 등을 개발·생산하는 분자 진단 전문 기업이다.김병탁기자 kbt4@dt.co.kr <br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=029' target='_blank' >▶[ 네이버 메인에서 디지털타임스 구독 ]</a> / <a href='https://newsstand.naver.com/029' target='_blank' >▶[ 뉴스스탠드 구독 ]</a><br><a href='http://www.dt.co.kr/' target='_blank' >▶디지털타임스 홈페이지 바로가기</a><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">실적은 바닥… 투자 신중해야</strong>  최근 정부의 '백신여권' 제도 도입 기대감으로 해외여행 수요가 폭발할 것이라는 기대감에 여행&middot;항공주가 일제히 상승했다. 다만 전문가들은 여전히 저비용항공사(LCC)와 일부 여행사의 실적은 바닥 수준이라 신중하게 투자해야 한다고 조언했다.  <br>  <br>26일 증시에서 하나투어 주가는 전 거래일 대비 1600원(2.00%) 오른 8만1600원에 마감됐다. 지난 3일만 하더라도 주가가 6만4800원대였으나 16거래일 만에 25.92%나 급등하면서 8만원대를 넘어섰다. 지난 25일에는 장중 8만2800원으로 52주 신고가를 기록하기도 했다. 모두투어도 이날 1.16% 상승한 2만6250원을 기록했다. 모두투어는 이달 들어 15.63% 상승했다.  <br>  <br>여객수요 회복 기대감에 항공회사 주가도 상승세다. 대한항공 주가는 이날 0.80% 오른 3만1500원에 거래됐다. 지난 3일 2만6400원이었던 것을 고려하면 16거래일 만에 19.31% 상승했다. 아시아나항공 주가는 이날 7.17%나 급등했고 진에어 4.31%, 제주항공 1.86%, 에어부산은 0.99% 올랐다.  <br>  <br>호텔 관련주도 상승세다. 호텔신라는 이날 4.58% 상승했으며 파라다이스 2.10%, 강원랜드 2.20%, 아난티 14.50%, 롯데관광개발 0.24%, 용평리조트는 4.24% 상승했다.  <br>  <br>최근 여행&middot;항공&middot;호텔 관련주들이 급등한 것은 정부와 여당이 코로나19 백신 접종자에게 인센티브를 주는 방안을 추진했기 때문이다. 특히 국가 간 상호인증을 통해 접종자는 해외에서도 자가격리를 면제하는 '백신여권' 제도가 도입될 것이란 예상이 나오자 해외여행에 대한 기대감도 커졌다. 이미 올 추석 연휴를 노린 해외여행 상품이 인기를 끄는 등 '보복여행' 수요가 폭발하고 있다.  <br>  <br>성준원 신한금융투자 연구원은 &quot;일부 항공사와 여행사를 중심으로 오는 9월 출발 전세기를 준비하려는 움직임이 나타나고 있다&quot;고 말했다. 이어 &quot;국내 인구의 10%(550만명)가 백신 2차 접종까지 완료한다고 가정하면 지난 3월 7만3000명이었던 출국자 수가 9월 13만2000명, 10월 18만7000명, 11월 27만4000명, 12월 35만7000명 등으로 늘 것&quot;이라고 분석했다. 다만 아직 여전히 여행 관련기업들의 실적이 회복되지 못한 상황이라 투자심리는 개선되고 있으나 투자는 신중해야 한다는 분석도 나오고 있다.  <br>  <br>양지환 대신증권 연구원은 &quot;집단면역이 형성되더라도 코로나19 이전 단계로 국제선 운항 재개와 수요회복까지는 많은 시일이 소요될 것으로 추정되는 만큼 실적개선에는 시간이 걸릴 것&quot;이라고 말했다.  <br><br><span id="customByline">kmk@fnnews.com 김민기 기자</span>  <br><br><strong><a target="_blank" href="https://www.fnnews.com/pineapple.html?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=pineapple"><u>▶ 날로먹고 구워먹는 금융이슈 [파인애플]</u></a><br><a target="_blank" href="https://www.fnnews.com/moasis?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=moasis"><u>▶ 모(毛)아 모아 [모아시스]</u></a><br><a target="_blank" href="https://hugs.fnnews.com/home?utm_source=naver&amp;utm_medium=naver_arcview&amp;utm_campaign=hugslink"><u>▶ 헉! 소리나는 스!토리 뉴스 [헉스]</u></a></strong> <br> <br>※ 저작권자 ⓒ 파이낸셜뉴스. 무단 전재-재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 조준영 기자] 2021년도 제56회 공인회계사 제2차시험 응시원서를 접수한 결과 총 3708명이 지원해 전년 보다 179명(5.1%) 증가한 것으로 나타났다.<br><br>26일 금융감독원에 따르면 경쟁률은 최소선발예정인원 1100명을 기준으로 3.4:1로 예상된다. 응시대상자 4212명 중 88%가 지원했다.<br><br>성별구성을 살펴보면 지원자의 69%는 남성이고 여성은 31%로 나타났다. 여성비중은 꾸준히 증가추세다. 지난 2017년 27.2%였던 여성비중은 △2018년 26.7% △2019년 27.5% △2020년 28.9% △2021년 31% 순으로 늘어났다.<br><br>지원자 평균연령은 만 27.2세이며 20대 후반이 52.6%를 차지해 가장 많았고 20대전반(13.7%), 30대전반(10.8%) 등 순서였다.<br><br>학력별로는 54.2%가 대학교 재학 중이고 75.2%는 상경계열을 전공한 것으로 나타났다.<br><br>제2차시험 장소 및 시간은 내달 3일 금감원 공인회계사시험 홈페이지 및 금융위원회 홈페이지에 공고되며 제2차시험은 내달 26일부터 27일까지 2일간 실시된다.<br><br>2차시험 합격자는 오는 8월27일 발표된다.<br><br><!--article_split-->조준영 기자 cho@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[이데일리 MARKETPOINT]<br>15:30 현재 코스피 기관 3368억 순매수<br><br>마켓포인트 (stockind@edaily.co.kr)<br><br><a target="_blank" href="https://www.edaily.co.kr/newsplus">▶ #24시간 빠른 #미리보는 뉴스 #eNews+</a><br><a target="_blank" href="http://media.naver.com/channel/promotion.nhn?oid=018">▶ 네이버에서 '이데일리 뉴스'를 만나보세요</a><br><a target="_blank" href="http://snaptime.edaily.co.kr/">▶ 빡침해소, 청춘뉘우스 '스냅타임'</a><br><br><p><br>＜ⓒ종합 경제정보 미디어 이데일리 - 무단전재 & 재배포 금지＞</p>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[이데일리 MARKETPOINT]<br>15:30 현재 코스피 기관 3368억 순매수<br><br>마켓포인트 (stockind@edaily.co.kr)<br><br><a target="_blank" href="https://www.edaily.co.kr/newsplus">▶ #24시간 빠른 #미리보는 뉴스 #eNews+</a><br><a target="_blank" href="http://media.naver.com/channel/promotion.nhn?oid=018">▶ 네이버에서 '이데일리 뉴스'를 만나보세요</a><br><a target="_blank" href="http://snaptime.edaily.co.kr/">▶ 빡침해소, 청춘뉘우스 '스냅타임'</a><br><br><p><br>＜ⓒ종합 경제정보 미디어 이데일리 - 무단전재 & 재배포 금지＞</p>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 강민수 기자] [특징주]<br><br>코스닥 새내기주 진시스템이 상장 첫날 강세다. <br><br>26일 오전 9시 7분 현재 진시스템은 시초가 대비 1900원(9.95%) 오른 2만1000원에 거래되고 있다. 이날 진시스템의 시초가는 공모가(2만원)에 소폭 못 미치는 1만9100원에 결정됐다. 공모주의 상장일 시초가는 공모가의 90~200% 범위 내에서 정해진다. <br><br>2010년 설립된 진시스템은 신속 현장 분자진단 플랫폼 전문 기업이다. 플랫폼은 진단장비와 바이오칩 기반 진단키트를 통칭하는 솔루션을 의미한다.<br><br>진시스템의 지난해 매출액은 전년 대비 1068% 증가한 133억원, 영업이익은 흑자전환해 33억원을 기록했다. 이 가운데 코로나19 관련 매출은 약 90억원을 차지한다.<br><br><!--article_split-->강민수 기자 fullwater7@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong style="color:inherit"><span style="color: rgb(9, 83, 146);">  ≪이 기사는 05월25일(16:25) 자본시장의 혜안 <span style="color: rgb(255, 1, 3);">‘마켓인사이트’</span>에 게재된 기사입니다≫</span></strong><br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004551913_001_20210526090203550.jpg?type=w647" alt="" /><em class="img_desc">사진=한주금속</em></span>자동차 부품 업체 한주금속의 실질적인 재무부담이 확대되고 있다.<br><br>한국신용평가는 25일 한주금속의 무보증사채 신용등급으로 BB-를 매기면서 이같이 평가했다.<br><br>한주금속은 알루미늄 주조 기술을 바탕으로 엔진 부품과 알루미늄 휠 등을 주력으로 생산하고 있다. 현대자동차 내 주물 사업 부문이 분사해 설립됐으며, 르노와 1차 협력 계약을 체결한 후 오랜 영업 관계를 유지하고 있다. 전략적 목적상 한주금속의 지분을 보유하고 있는 서한산업(지분율 14.57%)을 통해 현대차 관련 매출도 점차 확대하고 있다.<br><br>품목 다변화로 수익성도 좋아졌지만 신규 품목 설비 투자로 재무부담이 확대됐다. 지난해 설비투자 부담이 다소 줄었지만 원재료 매입 결제 방식 변경으로 운전자본부담이 늘었다. 이 때문에 매출채권할인과 부채성 자본항목을 고려한 조정순차입금은 2015년 말 326억원에서 지난해 말 626억원으로 증가했다.<br><br>한국신용평가는 "과거 글로벌 금융위기 당시 대규모 외화 관련 손실을 인식하면서 발생한 결손금이 2019년부터 잉여금으로 전환됐지만 여전히 재무완충성이 취약하다"며 "자본항목인 상환우선주와 전환상환우선주의 부채적 성격을 감안하면 실질 재무완충성은 더욱 취약한 수준"이라고 평가했다.<br><br>김은정 기자 kej@hankyung.com <br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[이데일리 유준하 기자] 신한금융투자는 26일 이오플로우(294090)에 대해 유럽인증(CE) 취득을 통해 이오패치(EOPatch) 경쟁력을 다시 한 번 입증했다면서 올해 하반기 유럽 론칭을 시작으로 글로벌 진출이 가속할 것으로 내다봤다. 이날 목표주가와 투자의견은 따로 제시하지 않았다.<br><br><TABLE cellSpacing="5" cellPadding="0" width="456" align="CENTER" bgColor="ffffff" border="0"><TR><TD style="PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px;" bgColor="ffffff"><TABLE cellSpacing="5" cellPadding="0" bgColor="ffffff" border="0"><TR><TD><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/018/2021/05/26/0004938797_001_20210526083301521.jpg?type=w647" alt="" /></span></TD></TR></TABLE></TD></TR></TABLE>이오플로우는 지난 25일 웨어러블 약물주입기 솔루션 이오패치의 유럽 CE 인증을 취득했다고 공시했다. 이번 인증은 이오패치와 컨트롤러(ADM), 이오패치 스마트폰 전용 어플리케이션에 대한 건이며 1형 당뇨 환자 및 중증 2형 당뇨 환자를 대상으로 한다. <br><br>지난 3월 이오패치 국내 론칭에 이어 CE 인증까지 획득함에 따라 글로벌시장 진출이 가능해졌으며 이에 따른 실적 성장 모멘텀이 본격화될 것이란 전망이 나온다.<br><br>원재희 신한금융투자 연구원은 “이오패치는 유럽 내 보험 적용 품목 등록을 마치고 올해 하반기부터 판매가 이뤄질 예정”이라며 “유럽 파트너사 메나리니가 전담하게 될 예정이며 예상 소요 기간은 약 3개월”이라고 설명했다.<br><br>이는 보험을 적용하는 국가별로 관련 정책이 상이한 것에 기인하며 경쟁사인 인슐렛이 자사 제품에 대한 유럽 내 보험 적용 품목 등록을 마친 사례가 있기 때문에 이오플로우 역시 문제 없이 등록이 가능할 것으로 전망된다.<br><br>원 연구원은 “이오플로우는 지난 2019년 유럽 파트너사 메나리니와 5년간 1500억원 규모 이오패치 독점 공급 계약을 체결한 바 있다”며 “유럽 주요 17개 국가를 포함 캐나다, 호주, 남미 등 유럽 CE 인증을 적용하는 주요 국가에서 이오패치를 판매할 수 있다”고 짚었다.<br><br>유럽 진출 지연으로 인한 불확실성으로 이오플로우 주가가 지난달 이후 부진했지만 CE 인증을 획득함에 따라 관련된 불확실성 해소로 투자 매력이 높아졌다고 판단했다.<br><br>원 연구원은 “추가적으로 향후 인공췌장, 인공신장 시장으로의 확장과 인슐린 외 의약품 주입기 시장 진출 감안 시 현 주가는 눈여겨 봐야 할 구간”이라고 강조했다.<br><br>유준하 (xylitol@edaily.co.kr)<br><br><a target="_blank" href="https://www.edaily.co.kr/newsplus">▶ #24시간 빠른 #미리보는 뉴스 #eNews+</a><br><a target="_blank" href="http://media.naver.com/channel/promotion.nhn?oid=018">▶ 네이버에서 '이데일리 뉴스'를 만나보세요</a><br><a target="_blank" href="http://snaptime.edaily.co.kr/">▶ 빡침해소, 청춘뉘우스 '스냅타임'</a><br><br><p><br>＜ⓒ종합 경제정보 미디어 이데일리 - 무단전재 & 재배포 금지＞</p>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/009/2021/05/26/0004799382_001_20210526062601427.jpg?type=w647" alt="" /><em class="img_desc">[사진 = 연합뉴스]</em></span> 뉴욕증시가 경제 지표에 실망에 하락 마감했다.<br><br>25일(현지시간) 미국 뉴욕증권거래소에서 다우존스30산업평균지수는 전일 대비 81.52포인트(0.24%) 떨어진 3만4312.46에, 스탠더드앤드푸어스(S&P)500지수는 8.92포인트(0.21%) 낮은 4188.13에, 나스닥지수는 4.00포인트(0.03%) 하락한 1만3657.17에 장을 마쳤다.<br><br>최근 비트코인과 기술주의 흐름이 관계성을 보이면서 이날 비트코인이 떨어지자 주식도 약세를 보였다. 전일 4만 달러에 육박한 비트코인은 이날 3만7000달러대까지 떨어졌다.<br><br>이달 미국 소비자신뢰지수는 예상보다 낮았다. 시장 전문가들은 118.7을 내다봤지만, 117.2로 나타났다. 지난달 수치 역시 121.7에서 117.5로 낮아졌다. <br><br>10년물 미 국채금리 역시 전일 1.608% 수준에서 이날 한 때 1.570%까지 떨어졌다.<br><br>또한, 미국의 주택 가격은 크게 상승하고 있다. S&P 코어로직 케이스 실러가 집계한 지난 3월 전미 주택가격지수는 연율로 13.2% 올랐다. 이는 전달(12%)보다 높은 것으로 지난 2005년 12월 이후 최고 상승세다. 지난달 신규 주택판매는 전월보다 5.9% 감소한 계절조정 연율 86만3000채로, 월스트리트저널의 예상치인 95만9000채보다 적었다.<br><br>미국 연방준비제도(연준·Fed) 당국자들은 물가상승률이 높아도 단기적 성격일 것으로 보고 한동안 완화적인 기조를 유지하겠단 입장을 재차 확인했다.<br><br>리처드 클라리다 연준 부의장은 이날 야후 파이낸스와의 인터뷰에서 "앞으로 회의에서 자산매입 프로그램 축소를 논의할 시기가 올 것"이라면서도 "지표 흐름에 달렸다"고 말했다.<br><br>클라리다 연준 부의장은 "인플레이션이 대체로 일시적일 것"이라며 "만약 지속적인 인플레이션이 현실화되더라도 연준은 이를 해결할 수단을 갖고 있다"고 전했다.<br><br>찰스 에번스 시카고 연방준비은행 총재는 "인플레이션이 걷잡을 수 없이 치솟을 것이라는 우려는 잘못된 것"이라면서 "당장 완화적인 통화 정책을 철회할 필요가 없다"고 밝혔다.<br><br>업종별로는 에너지 관련 주식이 2% 넘게 떨어졌다. 금융주도 1% 안팎으로 감소했다.<br><br>미국 유나이티드항공은 이달 역내 티켓 판매 수익이 지난 2019년보다 많자 이날 주식이 1.50% 올랐으며, 아마존은 반독점법 위반 혐의로 소송을 당했음에도 0.43% 뛰었다.<br><br>시카고상품거래소 페드워치에 따르면 연방기금 금리선물 시장은 오는 12월 25bp 기준금리 인상 가능성을 6.7%로 반영했으며, 시카고옵션거래소에서 변동성지수(VIX)는 전일 대비 0.44포인트(2.39%) 뛴 18.84를 기록했다.<br><br>[배윤경 매경닷컴 기자 bykj@mk.co.kr]<br><br><!-- r_start //--><!-- r_end //--><a href="https://media.naver.com/channel/promotion.nhn?oid=009" target="_blank">▶ '경제 1위' 매일경제, 네이버에서 구독하세요</a><br><a href="https://www.mk.co.kr/premium/series/20121/?utm_source=naver&utm_medium=promotion&utm_campaign=make" target="_blank">▶ 이 제품은 '이렇게 만들죠' 영상으로 만나요</a><br><a href="https://tv.naver.com/mkestatetv" target="_blank">▶ 부동산의 모든것 '매부리TV'가 펼칩니다</a><br><br>[ⓒ 매일경제 & mk.co.kr, 무단전재 및 재배포 금지]
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

@@ -1,0 +1,341 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/029/2021/05/26/0002676290_001_20210526192104027.jpg?type=w647" alt="" /><em class="img_desc">홍남기(왼쪽 네번째) 부총리가 26일 서울 혜화동 서울대병원 의학연구혁신센터에서 열린 '제10차 혁신성장 BIG3 추진회의'에 참석해 회의 시작에 앞서 참석자들과 함께 김효수 의생명연구원장으로부터 신약.의료기기 개발현황 설명을 듣고 있다. &lt;기획제정부 제공&gt;    </em></span>정부가 2023년부터 6년간 약 1조원을 투입해 '바이오 빅데이터 댐'을 구축한다.<br><br>26일 서울대학교병원에서 열린 '제10차 혁신성장 BIG3 추진 회의'에서 홍남기 부총리는 "바이오산업은 지속가능한 성장을 위한 신성장동력"이라며 "바이오 빅데이터 수집을 하는 '국가통합 바이오 댐'을 구축하겠다"며 이같이 밝혔다. <br><br>홍 부총리는 "데이터 기반 정밀의료가 바이오헬스 미래를 주도할 것으로 전망되면서 미국과 영국, 중국은 바이오 빅데이터 구축 활용을 위한 대규모 투자를 추진 중"이라며 "먼저 질환별 환자 40만명, 자발적 참여자 60만명 등 100만명 바이오 빅데이터를 수집하는 소위 '국가통합 바이오 댐'을 2028년까지 100% 구축할 것"이라고 말했다.<br><br>이어 "민감정보인 바이오 빅데이터의 원활하고 안전한 활용 등을 위해 빅데이터 표준화 및 품질관리를 위한 표준작업절차(SOP) 수립, 플랫폼 구축, 슈퍼컴퓨팅 기반 보안 분석환경 구축 등도 추진할 것"이라고 설명했다.<br><br>이날 회의에선 의료기기산업 육성전략이 논의됐다. 고령화 등에 따라 국내 의료기기산업은 빠르게 성장하고 있지만, 사용경험과 인지도 부족으로 시장진출에 한계가 있는 상항이다. 이에 정부는 2025년까지 세계시장 점유율 7위를 달성하기 위해 국내 의료기기 전략 분야 집중육성, 산업생태계 조성 등을 추진할 계획이다. <br><br>홍 부총리는 "국내 의료기기 활성화를 위해 병원부설 교육훈련센터 2개에 이어 광역형 센터 2개(수도권 1개, 비수도권 1개)를 추가로 구축하고 디지털 헬스 테스트베드 운영과 함께 혁신 의료기기 사용 의료기술은 건보 체계에 신속하게 포함할 것"이라며 "체외진단, 치과·영상진단 등 주력분야에 대해 범부처 전주기 연구개발(R&D)을 추진하고, 해외진출 지원을 위해 의료기기 국제인증지원센터를 구축할 것"이라고 설명했다. <br><br>이어 "신의료기술 평가 맞춤형 컨설팅을 시행하고, 신속 시장출시를 위한 허가·심사 특례개선, 의료기기산업 종합지원센터를 애로 해소의 허브로 활용할 계획이다"고 말했다. 또 "글로벌 백신허브 도약기반 구축을 위한 방안도 마련 중에 있고 조만간 발표할 것"이라고 덧붙였다.박재찬기자 jcpark@dt.co.kr <br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=029' target='_blank' >▶[ 네이버 메인에서 디지털타임스 구독 ]</a> / <a href='https://newsstand.naver.com/029' target='_blank' >▶[ 뉴스스탠드 구독 ]</a><br><a href='http://www.dt.co.kr/' target='_blank' >▶디지털타임스 홈페이지 바로가기</a><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<iframe src="https://player.audiop.naver.com/player?cpId=audioclip&cpMetaId=CH_508_EP_1638" title="골라듣는 뉴스룸 플레이어" width="507px" height="160px" frameborder="0" scrolling="no" class="naveraudioplayer"></iframe><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/055/2021/05/26/0000896689_001_20210526185302199.jpg?type=w647" alt="" /></span><br><div style="text-align: center;"><br>&#x1f3a7; 아래 주소로 접속하시면 음성으로 기사를 들을 수 있습니다.<br>[ https://news.sbs.co.kr/n/?id=N1006330727 ]<br> </div><span style="font-size:16px"><strong>[골룸] 뭘스트리트 33 : 애증의 테슬라, 손절은 아직 이르다?</strong></span><br><br>장거리 전기차의 선두주자로 표준을 만들어온 혁신 기업 테슬라.<br><br>하지만 최근에는 CEO 일론 머스크가 비트코인 등에 관련된 여러 구설수로 시끄럽고, 엎친데 덮친격으로 수직으로 솟았던 주가가 조정을 받으며 고평가 논란까지 일고 있는데요.<br><br>국내 서학 개미들의 엄청난 사랑을 받아온 테슬라의 미래 가치는 무엇인지 치열해진 전기차 업계에서 '자율주행' 기술로 선두를 유지할 수 있을 지 종합적으로 따져봅니다.<br><br>00:00 전기차 테슬라의 미래가치는?<br>10:10 바람 잘 날 없는 머스크<br>13:20 코인에 관한 논란<br>17:25 매출과 영업 이익 사이?<br>20:08 자율주행의 절대 강자<br>27:35 스페이스X가 미칠 영향은<br>29:18 치열해진 전기차 업계<br>32:31 테슬라의 신차들<br><br>*본 콘텐츠에 포함되는 투자정보는 참고만을 위해서 전해드립니다.<br>&nbsp;투자의 판단과 책임은 전적으로 투자자에게 있습니다.<br><br><span style="font-size:16px"><span style="color:rgb(105, 105, 105)"><strong>▶ <span style="font-size:12px">&lt;골룸: 골라듣는 뉴스룸&gt; 팟캐스트는 '팟빵', '네이버 오디오클립', '애플 팟캐스트'에서도 들을 수 있습니다.</span></strong><br>- '팟빵' 접속하기<br><span>[ http://podbbang.com/ch/8888 ]</span><br>- '네이버 오디오클립' 접속하기<br><span>[ http://naver.me/FfpbjhZj ]</span><br>- '애플 팟캐스트'로 접속하기<br><span>[ https://podcasts.apple.com/kr/podcast/id964021756 ]</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div>&nbsp;</div><br><br>정호선 기자(hosun@sbs.co.kr)<br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000261&plink=FOOT&cooper=NAVER">▶ 더 깊은 인물 이야기 [그, 사람]</a><br><a href="https://news.sbs.co.kr/news/newsHotIssueList.do?tagId=10000050973&plink=FOOT&cooper=NAVER">▶ 코로나19 현황 속보</a><br><br><a href="https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000260&plink=FOOT&cooper=NAVER">※ ⓒ SBS & SBS Digital News Lab. : 무단복제 및 재배포 금지</a>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">미국 정재계 인사 만나 ‘ESG 경영’ 설파<br>SK이노, 탄소포집·저장(CSS) 사업 수행<br>美 배터리 공장 1000명 추가 채용 계획<br>SK텔레콤 인적분할… 지배구조 개편도</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/081/2021/05/26/0003189282_001_20210526181602692.jpg?type=w647" alt="" /><em class="img_desc">최태원 SK그룹 회장</em></span>‘딥체인지’(근본적 변화)와 ‘구성원의 행복’을 설파해 온 최태원 SK그룹 회장이 요즘 ‘ESG 전도사’로 변신했다. ESG는 환경·사회·지배구조의 약자로 기업이 추구해야 할 3가지 분야를 뜻한다. 최 회장이 이끄는 SK그룹도 ESG 경영의 핵심 실천 사항인 친환경 사업에 대한 투자 확대를 본격화했다.<br><br>26일 재계에 따르면 최근 한미 정상회담 경제사절단 대표 자격으로 미국을 방문한 최 회장은 미국 정재계 핵심 인사들과 만나 “ESG 경영이 기후변화, 소득격차, 인구감소라는 전 지구적 문제를 해결할 해법”이라고 강조했다. 미국 측 인사들은 최 회장의 ESG 경영 철학에 공감을 표한 것은 물론, ESG 가치를 향한 최 회장의 열정에 엄지를 치켜세운 것으로 전해졌다.<br><br><!-- MobileAdNew center -->최 회장은 이번 미국 순방길에 SK이노베이션과 포드의 전기차 배터리 합작법인 ‘블루오벌SK’ 설립 계약을 성사시켰다. 한미 양국이 전기차 배터리 사업에 동맹을 맺은 건 ESG 가운데 ‘환경’(Environment) 분야 실천에 해당한다. 조 바이든 대통령이 최 회장을 비롯한 국내 4대 그룹 대표단을 향해 “생큐”를 세 번 외친 것도 국내 기업의 ‘ESG 투자’에 대한 감사의 표현이라 할 수 있다.<br><br>SK그룹은 최 회장의 ‘ESG 열정’에 부응하고자 ESG 이행 작업에 나섰다. SK이노베이션은 이날 한국석유공사와 동해가스전을 활용한 ‘탄소 포집 및 저장’(CCS) 실증 모델을 개발하는 국책과제를 함께 수행한다는 협약을 체결했다. CCS는 지구 온난화 주범인 이산화탄소를 발생단계에서 포집해 제거하는 기술이다.<br><br>SK이노베이션과 SK에너지는 울산 산업시설에서 이산화탄소 포집 기술 관련 모델을 개발하고, 한국석유공사는 이산화탄소 이송·저장 모델 개발에 참여한다. 이성준 SK이노베이션 환경기술원장은 “CCS 기술은 에너지 소비가 많은 산업계에서 이산화탄소 감축을 위한 필수 조건”이라면서 “최적의 CCS 기술을 확보해 ESG 경영 가속화에 힘쓸 것”이라고 말했다.<br><br>아울러 SK이노베이션은 미국 조지아주에 짓는 전기차 배터리 공장에 1000명의 노동자를 올해 안으로 추가 채용하겠다고 밝혔다. 일자리 확대는 ESG 가운데 ‘사회’(Social) 분야를 실천하는 일이다.<br><br>앞서 SK그룹 지주사 SK㈜와 SK머티리얼즈, SKC, SK실트론 등 4사는 각각 100억엔(약 1025억원)씩 총 400억엔(약 4100억원)을 출자해 ‘SK 일본 투자법인’을 설립한다고 공시했다. 최 회장의 의지가 반영된 이 법인은 다양한 ESG 실천 사업에 재무적 투자자로 참여한다.<br><br>최 회장은 ESG의 마지막 퍼즐인 ‘지배구조’(Governance) 개편도 추진한다. SK텔레콤은 인적분할을 통해 쪼개진 두 법인을 연내 재상장하는 방안을 추진하고 있다. 통신분야와 비통신분야를 둘로 나눠 통신업과 반도체·신사업 분야의 경쟁력을 동시에 높이기 위한 의도다. SK하이닉스에 대한 투자가 신속하게 이뤄지도록 지분 구조를 개편해 신규 반도체 사업 진출에 속도를 내려는 목적도 있다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">미국 정재계 인사 만나 ‘ESG 경영’ 설파<br>SK이노, 탄소포집·저장(CSS) 사업 수행<br>美 배터리 공장 1000명 추가 채용 계획<br>SK텔레콤 인적분할… 지배구조 개편도</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/081/2021/05/26/0003189282_001_20210526181602692.jpg?type=w647" alt="" /><em class="img_desc">최태원 SK그룹 회장</em></span>‘딥체인지’(근본적 변화)와 ‘구성원의 행복’을 설파해 온 최태원 SK그룹 회장이 요즘 ‘ESG 전도사’로 변신했다. ESG는 환경·사회·지배구조의 약자로 기업이 추구해야 할 3가지 분야를 뜻한다. 최 회장이 이끄는 SK그룹도 ESG 경영의 핵심 실천 사항인 친환경 사업에 대한 투자 확대를 본격화했다.<br><br>26일 재계에 따르면 최근 한미 정상회담 경제사절단 대표 자격으로 미국을 방문한 최 회장은 미국 정재계 핵심 인사들과 만나 “ESG 경영이 기후변화, 소득격차, 인구감소라는 전 지구적 문제를 해결할 해법”이라고 강조했다. 미국 측 인사들은 최 회장의 ESG 경영 철학에 공감을 표한 것은 물론, ESG 가치를 향한 최 회장의 열정에 엄지를 치켜세운 것으로 전해졌다.<br><br><!-- MobileAdNew center -->최 회장은 이번 미국 순방길에 SK이노베이션과 포드의 전기차 배터리 합작법인 ‘블루오벌SK’ 설립 계약을 성사시켰다. 한미 양국이 전기차 배터리 사업에 동맹을 맺은 건 ESG 가운데 ‘환경’(Environment) 분야 실천에 해당한다. 조 바이든 대통령이 최 회장을 비롯한 국내 4대 그룹 대표단을 향해 “생큐”를 세 번 외친 것도 국내 기업의 ‘ESG 투자’에 대한 감사의 표현이라 할 수 있다.<br><br>SK그룹은 최 회장의 ‘ESG 열정’에 부응하고자 ESG 이행 작업에 나섰다. SK이노베이션은 이날 한국석유공사와 동해가스전을 활용한 ‘탄소 포집 및 저장’(CCS) 실증 모델을 개발하는 국책과제를 함께 수행한다는 협약을 체결했다. CCS는 지구 온난화 주범인 이산화탄소를 발생단계에서 포집해 제거하는 기술이다.<br><br>SK이노베이션과 SK에너지는 울산 산업시설에서 이산화탄소 포집 기술 관련 모델을 개발하고, 한국석유공사는 이산화탄소 이송·저장 모델 개발에 참여한다. 이성준 SK이노베이션 환경기술원장은 “CCS 기술은 에너지 소비가 많은 산업계에서 이산화탄소 감축을 위한 필수 조건”이라면서 “최적의 CCS 기술을 확보해 ESG 경영 가속화에 힘쓸 것”이라고 말했다.<br><br>아울러 SK이노베이션은 미국 조지아주에 짓는 전기차 배터리 공장에 1000명의 노동자를 올해 안으로 추가 채용하겠다고 밝혔다. 일자리 확대는 ESG 가운데 ‘사회’(Social) 분야를 실천하는 일이다.<br><br>앞서 SK그룹 지주사 SK㈜와 SK머티리얼즈, SKC, SK실트론 등 4사는 각각 100억엔(약 1025억원)씩 총 400억엔(약 4100억원)을 출자해 ‘SK 일본 투자법인’을 설립한다고 공시했다. 최 회장의 의지가 반영된 이 법인은 다양한 ESG 실천 사업에 재무적 투자자로 참여한다.<br><br>최 회장은 ESG의 마지막 퍼즐인 ‘지배구조’(Governance) 개편도 추진한다. SK텔레콤은 인적분할을 통해 쪼개진 두 법인을 연내 재상장하는 방안을 추진하고 있다. 통신분야와 비통신분야를 둘로 나눠 통신업과 반도체·신사업 분야의 경쟁력을 동시에 높이기 위한 의도다. SK하이닉스에 대한 투자가 신속하게 이뤄지도록 지분 구조를 개편해 신규 반도체 사업 진출에 속도를 내려는 목적도 있다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">미국 정재계 인사 만나 ‘ESG 경영’ 설파<br>SK이노, 탄소포집·저장(CSS) 사업 수행<br>美 배터리 공장 1000명 추가 채용 계획<br>SK텔레콤 인적분할… 지배구조 개편도</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/081/2021/05/26/0003189282_001_20210526181602692.jpg?type=w647" alt="" /><em class="img_desc">최태원 SK그룹 회장</em></span>‘딥체인지’(근본적 변화)와 ‘구성원의 행복’을 설파해 온 최태원 SK그룹 회장이 요즘 ‘ESG 전도사’로 변신했다. ESG는 환경·사회·지배구조의 약자로 기업이 추구해야 할 3가지 분야를 뜻한다. 최 회장이 이끄는 SK그룹도 ESG 경영의 핵심 실천 사항인 친환경 사업에 대한 투자 확대를 본격화했다.<br><br>26일 재계에 따르면 최근 한미 정상회담 경제사절단 대표 자격으로 미국을 방문한 최 회장은 미국 정재계 핵심 인사들과 만나 “ESG 경영이 기후변화, 소득격차, 인구감소라는 전 지구적 문제를 해결할 해법”이라고 강조했다. 미국 측 인사들은 최 회장의 ESG 경영 철학에 공감을 표한 것은 물론, ESG 가치를 향한 최 회장의 열정에 엄지를 치켜세운 것으로 전해졌다.<br><br><!-- MobileAdNew center -->최 회장은 이번 미국 순방길에 SK이노베이션과 포드의 전기차 배터리 합작법인 ‘블루오벌SK’ 설립 계약을 성사시켰다. 한미 양국이 전기차 배터리 사업에 동맹을 맺은 건 ESG 가운데 ‘환경’(Environment) 분야 실천에 해당한다. 조 바이든 대통령이 최 회장을 비롯한 국내 4대 그룹 대표단을 향해 “생큐”를 세 번 외친 것도 국내 기업의 ‘ESG 투자’에 대한 감사의 표현이라 할 수 있다.<br><br>SK그룹은 최 회장의 ‘ESG 열정’에 부응하고자 ESG 이행 작업에 나섰다. SK이노베이션은 이날 한국석유공사와 동해가스전을 활용한 ‘탄소 포집 및 저장’(CCS) 실증 모델을 개발하는 국책과제를 함께 수행한다는 협약을 체결했다. CCS는 지구 온난화 주범인 이산화탄소를 발생단계에서 포집해 제거하는 기술이다.<br><br>SK이노베이션과 SK에너지는 울산 산업시설에서 이산화탄소 포집 기술 관련 모델을 개발하고, 한국석유공사는 이산화탄소 이송·저장 모델 개발에 참여한다. 이성준 SK이노베이션 환경기술원장은 “CCS 기술은 에너지 소비가 많은 산업계에서 이산화탄소 감축을 위한 필수 조건”이라면서 “최적의 CCS 기술을 확보해 ESG 경영 가속화에 힘쓸 것”이라고 말했다.<br><br>아울러 SK이노베이션은 미국 조지아주에 짓는 전기차 배터리 공장에 1000명의 노동자를 올해 안으로 추가 채용하겠다고 밝혔다. 일자리 확대는 ESG 가운데 ‘사회’(Social) 분야를 실천하는 일이다.<br><br>앞서 SK그룹 지주사 SK㈜와 SK머티리얼즈, SKC, SK실트론 등 4사는 각각 100억엔(약 1025억원)씩 총 400억엔(약 4100억원)을 출자해 ‘SK 일본 투자법인’을 설립한다고 공시했다. 최 회장의 의지가 반영된 이 법인은 다양한 ESG 실천 사업에 재무적 투자자로 참여한다.<br><br>최 회장은 ESG의 마지막 퍼즐인 ‘지배구조’(Governance) 개편도 추진한다. SK텔레콤은 인적분할을 통해 쪼개진 두 법인을 연내 재상장하는 방안을 추진하고 있다. 통신분야와 비통신분야를 둘로 나눠 통신업과 반도체·신사업 분야의 경쟁력을 동시에 높이기 위한 의도다. SK하이닉스에 대한 투자가 신속하게 이뤄지도록 지분 구조를 개편해 신규 반도체 사업 진출에 속도를 내려는 목적도 있다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">미국 정재계 인사 만나 ‘ESG 경영’ 설파<br>SK이노, 탄소포집·저장(CSS) 사업 수행<br>美 배터리 공장 1000명 추가 채용 계획<br>SK텔레콤 인적분할… 지배구조 개편도</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/081/2021/05/26/0003189282_001_20210526181602692.jpg?type=w647" alt="" /><em class="img_desc">최태원 SK그룹 회장</em></span>‘딥체인지’(근본적 변화)와 ‘구성원의 행복’을 설파해 온 최태원 SK그룹 회장이 요즘 ‘ESG 전도사’로 변신했다. ESG는 환경·사회·지배구조의 약자로 기업이 추구해야 할 3가지 분야를 뜻한다. 최 회장이 이끄는 SK그룹도 ESG 경영의 핵심 실천 사항인 친환경 사업에 대한 투자 확대를 본격화했다.<br><br>26일 재계에 따르면 최근 한미 정상회담 경제사절단 대표 자격으로 미국을 방문한 최 회장은 미국 정재계 핵심 인사들과 만나 “ESG 경영이 기후변화, 소득격차, 인구감소라는 전 지구적 문제를 해결할 해법”이라고 강조했다. 미국 측 인사들은 최 회장의 ESG 경영 철학에 공감을 표한 것은 물론, ESG 가치를 향한 최 회장의 열정에 엄지를 치켜세운 것으로 전해졌다.<br><br><!-- MobileAdNew center -->최 회장은 이번 미국 순방길에 SK이노베이션과 포드의 전기차 배터리 합작법인 ‘블루오벌SK’ 설립 계약을 성사시켰다. 한미 양국이 전기차 배터리 사업에 동맹을 맺은 건 ESG 가운데 ‘환경’(Environment) 분야 실천에 해당한다. 조 바이든 대통령이 최 회장을 비롯한 국내 4대 그룹 대표단을 향해 “생큐”를 세 번 외친 것도 국내 기업의 ‘ESG 투자’에 대한 감사의 표현이라 할 수 있다.<br><br>SK그룹은 최 회장의 ‘ESG 열정’에 부응하고자 ESG 이행 작업에 나섰다. SK이노베이션은 이날 한국석유공사와 동해가스전을 활용한 ‘탄소 포집 및 저장’(CCS) 실증 모델을 개발하는 국책과제를 함께 수행한다는 협약을 체결했다. CCS는 지구 온난화 주범인 이산화탄소를 발생단계에서 포집해 제거하는 기술이다.<br><br>SK이노베이션과 SK에너지는 울산 산업시설에서 이산화탄소 포집 기술 관련 모델을 개발하고, 한국석유공사는 이산화탄소 이송·저장 모델 개발에 참여한다. 이성준 SK이노베이션 환경기술원장은 “CCS 기술은 에너지 소비가 많은 산업계에서 이산화탄소 감축을 위한 필수 조건”이라면서 “최적의 CCS 기술을 확보해 ESG 경영 가속화에 힘쓸 것”이라고 말했다.<br><br>아울러 SK이노베이션은 미국 조지아주에 짓는 전기차 배터리 공장에 1000명의 노동자를 올해 안으로 추가 채용하겠다고 밝혔다. 일자리 확대는 ESG 가운데 ‘사회’(Social) 분야를 실천하는 일이다.<br><br>앞서 SK그룹 지주사 SK㈜와 SK머티리얼즈, SKC, SK실트론 등 4사는 각각 100억엔(약 1025억원)씩 총 400억엔(약 4100억원)을 출자해 ‘SK 일본 투자법인’을 설립한다고 공시했다. 최 회장의 의지가 반영된 이 법인은 다양한 ESG 실천 사업에 재무적 투자자로 참여한다.<br><br>최 회장은 ESG의 마지막 퍼즐인 ‘지배구조’(Governance) 개편도 추진한다. SK텔레콤은 인적분할을 통해 쪼개진 두 법인을 연내 재상장하는 방안을 추진하고 있다. 통신분야와 비통신분야를 둘로 나눠 통신업과 반도체·신사업 분야의 경쟁력을 동시에 높이기 위한 의도다. SK하이닉스에 대한 투자가 신속하게 이뤄지도록 지분 구조를 개편해 신규 반도체 사업 진출에 속도를 내려는 목적도 있다.<br><br>이영준 기자 the@seoul.co.kr<br><br><br><br><a href='http://media.naver.com/channel/promotion.nhn?oid=081'>▶ 네이버에서 서울신문 구독하기 클릭!</a> <br> <a href='https://www.seoul.co.kr/SpecialEdition/gapDisaster/'>▶ [인터랙티브] 코로나 청년 잔혹사 </a> <br> <a href='https://nownews.seoul.co.kr'>▶ [나우뉴스] 세상에 이런 일이</a><br><br>ⓒ 서울신문(www.seoul.co.kr), 무단전재 및 재배포금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552420_001_20210526190501379.jpg?type=w647" alt="" /></span>&#39;카카오톡 선물하기&#39; 등 모바일 상품권 서비스를 운영하는 1위 업체  쿠프마케팅이 매물로 나왔다.<br><br>26일 투자은행((IB) 업계에 따르면 쿠프마케팅의 최대 주주인 NH투자증권-IBK, 국내 사모펀드(PEF) 스틱인베스트먼트는 이 회사의 경영권을 포함한 지분을 매각하기로 하고, 마케팅 작업을 벌이고 있다. 매각주관사는 씨티글로벌마켓증권이다.<br><br>2005년 설립된 쿠프마케팅은 &#39;카카오톡 선물하기&#39; 서비스 등을 운영하는 것으로 유명한 모바일 상품권 플랫폼 업체다. 외식, 공연, 도서, 화장품 등 다양한 브랜드와 제휴해 실물 상품과 교환할 수 있는 모바일 상품권 시스템을 갖추고 있다. 2019년 기준 250개 브랜드와 제휴를 맺고 9200개의 상품을 판매하고 있다. 스타벅스, 투썸플레이스, 파리바게뜨, 맥도날드, 배스킨라빈스, 이마트 등 국내 중소 중견기업부터 대기업까지 제휴를 맺고 있다. <br><br>실물 상품을 넘어 보험 판매까지 영역을 확대했다. 2018년 인슈어테크 전문기업인 쿠프파이맵스를 설립해 지난해 말 부터 새롭게 보험 모바일 쿠폰 선물하기 서비스를 선보였다. 보험업은 전문성 확보가 중요한 영역이지만, 그간 쿠폰 선물하기 서비스를 통해 쌓은 노하우를 바탕으로 정식으로 서비스를 런칭하게 됐다. 쿠프마케팅은 보험을 시작으로 금융 영역까지 넘본다는 계획이다. 지난해 매출은 약 660억원,  영업손실 53억원을 기록했다.<br> <br>쿠프마케팅은 올해 들어 동남아 시장 공략에도 나선다. 이를 위해 최근 인도네시아 모바일 쿠폰업체 알드믹 테크놀로지 인도네시아의 경영권을 인수했다. 인도네시아는 인구 약 2억7000만명에 달하는 세계 4위의 인구 대국인데다, 젊은 인구가 많아 최근 모바일 쿠폰을 마케팅에 활용하는 기업이 증가해 관련 사업에 대한 수요도 커지고 있다.  알드믹 테크놀로지는 주로 기업 대상 모바일 쿠폰 유통과 솔루션을 개발·운영하는 대표적 업체다.  인도네시아 최대 담배 회사인 삼포르나(Sampoerna), 존슨앤존슨, 유니레버 등이 주요 거래처다.<br><br>스틱과 NH는 인수한 지 4년 만에 매각에 나선다. 스틱은 NH투자증권 PE본부와 공동으로 쿠프마케팅 지분 70%를 455억원에 최근 인수했다. <br><br>김채연 기자 why29@hankyung.com <br><br><strong style="color:inherit"><span style="color:#000080;">≪이 기사는 05월26일(18:01) 자본시장의 혜안 ‘</span><span style="color:#ff0000;">마켓인사이트</span><span style="color:#000080;">’에 게재된 기사입니다≫</span></strong><br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/015/2021/05/26/0004552420_001_20210526190501379.jpg?type=w647" alt="" /></span>&#39;카카오톡 선물하기&#39; 등 모바일 상품권 서비스를 운영하는 1위 업체  쿠프마케팅이 매물로 나왔다.<br><br>26일 투자은행((IB) 업계에 따르면 쿠프마케팅의 최대 주주인 NH투자증권-IBK, 국내 사모펀드(PEF) 스틱인베스트먼트는 이 회사의 경영권을 포함한 지분을 매각하기로 하고, 마케팅 작업을 벌이고 있다. 매각주관사는 씨티글로벌마켓증권이다.<br><br>2005년 설립된 쿠프마케팅은 &#39;카카오톡 선물하기&#39; 서비스 등을 운영하는 것으로 유명한 모바일 상품권 플랫폼 업체다. 외식, 공연, 도서, 화장품 등 다양한 브랜드와 제휴해 실물 상품과 교환할 수 있는 모바일 상품권 시스템을 갖추고 있다. 2019년 기준 250개 브랜드와 제휴를 맺고 9200개의 상품을 판매하고 있다. 스타벅스, 투썸플레이스, 파리바게뜨, 맥도날드, 배스킨라빈스, 이마트 등 국내 중소 중견기업부터 대기업까지 제휴를 맺고 있다. <br><br>실물 상품을 넘어 보험 판매까지 영역을 확대했다. 2018년 인슈어테크 전문기업인 쿠프파이맵스를 설립해 지난해 말 부터 새롭게 보험 모바일 쿠폰 선물하기 서비스를 선보였다. 보험업은 전문성 확보가 중요한 영역이지만, 그간 쿠폰 선물하기 서비스를 통해 쌓은 노하우를 바탕으로 정식으로 서비스를 런칭하게 됐다. 쿠프마케팅은 보험을 시작으로 금융 영역까지 넘본다는 계획이다. 지난해 매출은 약 660억원,  영업손실 53억원을 기록했다.<br> <br>쿠프마케팅은 올해 들어 동남아 시장 공략에도 나선다. 이를 위해 최근 인도네시아 모바일 쿠폰업체 알드믹 테크놀로지 인도네시아의 경영권을 인수했다. 인도네시아는 인구 약 2억7000만명에 달하는 세계 4위의 인구 대국인데다, 젊은 인구가 많아 최근 모바일 쿠폰을 마케팅에 활용하는 기업이 증가해 관련 사업에 대한 수요도 커지고 있다.  알드믹 테크놀로지는 주로 기업 대상 모바일 쿠폰 유통과 솔루션을 개발·운영하는 대표적 업체다.  인도네시아 최대 담배 회사인 삼포르나(Sampoerna), 존슨앤존슨, 유니레버 등이 주요 거래처다.<br><br>스틱과 NH는 인수한 지 4년 만에 매각에 나선다. 스틱은 NH투자증권 PE본부와 공동으로 쿠프마케팅 지분 70%를 455억원에 최근 인수했다. <br><br>김채연 기자 why29@hankyung.com <br><br><strong style="color:inherit"><span style="color:#000080;">≪이 기사는 05월26일(18:01) 자본시장의 혜안 ‘</span><span style="color:#ff0000;">마켓인사이트</span><span style="color:#000080;">’에 게재된 기사입니다≫</span></strong><br><br><br><br>▶ <a href="https://media.naver.com/channel/promotion.nhn?oid=015" target="_blank"><b>경제지 네이버 구독 첫 400만, 한국경제 받아보세요</b></a><br>▶ <a href="https://www.hankyung.com/newsletter" target="_blank">한경 고품격 뉴스레터, 원클릭으로 구독하세요</a><br>▶ <a href="http://plus.hankyung.com/apps/service.introduction" target="_blank">한국경제신문과 WSJ, 모바일한경으로 보세요</a> <br><br>ⓒ 한국경제 & <a href="http://www.hankyung.com" target="_blank">hankyung.com</a>, 무단전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">지난해 시범수출 이후 대표 수출 농산물로 육성<br>올해 1000t, 7억 원 규모 수출 목표…농가 소득창출 기여</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/003/2021/05/26/NISI20210526_0000754300_web_20210526172553_20210526173407803.jpg?type=w647" alt="" /><em class="img_desc">[포항=뉴시스] 강진구 기자 = 경북 포항시는 오는 6월 3일 청정 죽장지역에서 생산된 ‘봄 배추’를 대만으로 1차분 16t을 수출한다고 26일 밝혔다.사진은 이날 오전 봄 배추 출하 전경.(사진=포항시 제공) 2021.05.26.photo@newsis.com *재판매 및 DB 금지</em></span>[포항=뉴시스] 강진구 기자 = 경북 포항시는 오는 6월 3일 청정 죽장지역에서 생산된 ‘봄 배추’를 대만으로 1차분 16t을 수출한다고 26일 밝혔다.<br><br>시는 지난해 11월 캐나다와 홍콩으로 가을 배추 38t을 시범 수출한 이래 올해는 계약재배 물량 1000t(7억 원)을 대만·미국·캐나다·홍콩 등지로 수출할 예정이다.<br><br>우선 오는 6월 3일 1차분 16t의 배추를 대만으로 수출한다. 오는 2022년부터는 매년 1200t 이상을 수출할 계획이다.<br><br>이에 시는 계약재배를 통한 안정적인 공급이 이뤄져 농가소득 창출에 이바지 할 것으로 기대하고 있다.<br><br>죽장지역에서 재배되는 배추는 밤낮의 기온차가 커 육질이 단단하고 식감이 좋으며 상품이 균일해 수출경쟁력이 높은 것으로 조사됐다.  <br><br>죽장면 상옥리 일원에서 5월 출하되는 ‘봄 배추’는 시설 토마토 전작이고,  노지에서 재배와 생산되는 양배추는 오는 11월에 출하되는 ‘가을배추’의 전작 농산물이다.<br><br>배성규 시 농식품유통과장은 “죽장지역 대표작물인 배추, 양배추, 토마토를 지역특화 작물로 육성하며 수출 확대를 위해 노력하고 있다”며 “올해 대규모 수출이 예상되는 ‘죽장 배추’는 경쟁력이 높은 만큼 수출이 대폭 확대될 수 있도록 역량을 집중해 수출전문단지로 육성해 나가겠다”고 말했다.<br><br><a href="https://www.newsis.com/?ref=chul" target="_blank">☞공감언론 뉴시스</a> dr.kang@newsis.com<br><br><a href='https://media.naver.com/channel/promotion.nhn?oid=003' target= '_blank' >▶ 네이버에서 뉴시스 구독하기</a><br><a href='http://kartprice.net/' target= '_blank' >▶ K-Artprice, 유명 미술작품 가격 공개</a><br><a href='https://mobile.newsis.com/stock.html' target= '_blank' >▶ 뉴시스 빅데이터 MSI 주가시세표 바로가기</a><br><br>&lt;ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">해수부, 지자체·해경과 3주간 1만2538개소 조사<br>165개소 미표시 또는 거짓표시…7년 징역 또는 1억원 벌금 등</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/277/2021/05/26/0004909388_001_20210526171503507.jpg?type=w647" alt="" /><em class="img_desc">경상남도 통영시의 어업인이 지난달 26일 통영시 정량동 이순신공원 앞 해상에서 '후쿠시마 원전 오염수 방류 규탄 통영대회'를 열고 일본 정부를 규탄하는 모습.(이미지 출처=연합뉴스)</em></span><br><br>[세종=아시아경제 문채석 기자] 일본이 후쿠시마 원전 방사능 오염수를 바다에 뿌리기로 해 국민 불안이 커진 가운데 수산물 원산지를 제대로 표시하지 않은 업체 165개소가 정부에 덜미를 잡혔다. 적발 품목의 절반이 일본산이었던 것으로 드러났다. <br><br>26일 해양수산부는 지난달 22일부터 지난 12일까지 3주간 지방자치단체, 해양경찰청 등과 수산물 원산지 표시 특별점검을 한 결과 1만2538개소 중 165개소가 법을 어긴 것으로 드러났다고 밝혔다. <br><br>구체적으로 원산지를 표시하지 않은 업체는 123개소, 거짓으로 표시한 업체는 42개소였다. 적발 품목은 191건으로 일본산 47.7%, 중국산 18.8%, 러시아산 5.2% 순이다.<br><br>원산지를 거짓 표시한 품목 49건 중에는 일본산이 28건으로 가장 많았고 러시아산(6건), 중국산(5건)이 뒤를 이었다. 품목별로는 돔류(32.3%)에 이어 가리비(17.3%), 명태(6.3%) 및 낙지(4.2%) 순이었다.<br><br>해수부는 이번에 잡아낸 165개소 중 거짓 표시 42개소를 고발하기로 했다. 이들은 최대 7년 이하의 징역 또는 1억원 이하의 벌금에 처해진다. 원산지를 표시하지 않은 123개소는 위반금액에 따라 1000만원 이해의 과태료를 물 예정이다.<br><br>해수부는 수입수산물 유통이력 점검을 강화하기로 했다. 위반 실적이 많은 수산물은 지자체, 해경과 협력해 연중 집중 단속을 할 방침이다. 아울러 소비자 단체, 민관협의회와의 협력을 통해 수산물 수입·유통·판매 업체들이 스스로 제도를 지키도록 적극 노력한다.<br><br>김준석 해수부 수산정책실장은 "판매자는 투명한 원산지 표시만이 소비자의 신뢰와 매출을 얻는 최선의 방법임을 재인식하고, 소비자는 안심하고 수산물을 사 먹는 구조를 만드는 게 중요하다"며 "수산물 구매 시 원산지 표시를 반드시 확인하고 의심될 경우 수산물 원산지 표시위반 신고 전화 또는 카카오톡 '수산물원산지표시' 채널에 적극 제보해주기 바란다"고 당부했다. <br><br>세종=문채석 기자 chaeso@asiae.co.kr<br><br><a href="https://www.asiae.co.kr/fortune/index.htm?utm_source=navernews&utm_medium=naver_view&utm_campaign=fortune">▶ 속 시원한 풀이! 2021년 정통사주·운세·토정비결</a><br><a href="https://www.asiae.co.kr/event/2021/jobgo/">▶ 직장인을 위한 '빅데이터 분석' 국비 특화과정 모집</a><br><a href="https://core.asiae.co.kr/?utm_source=naver_article&utm_medium=pc_mobile&utm_campaign=core">▶ 투자 성공의 핵심은 기업분석! 'CORE' 바로가기</a><br><br>&lt;ⓒ경제를 보는 눈, 세계를 보는 창 아시아경제 무단전재 배포금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/382/2021/05/26/0000912350_001_20210526162104118.jpg?type=w647" alt="" /></span><br>KT는 DB손해보험과 ‘AI 서비스 로봇 전용 보험’ 개발 협력을 위한 양해각서(MOU)를 체결했다. KT는 DB손해보험이 6월 말 출시할 ‘AI 서빙로봇 서비스형 상품’을 통해 먼저 영업배상 보험에 가입하고, 1년간 로봇을 운영하며 발생하는 사고 데이터를 수집할 계획이다. 또 양사는 이렇게 수집된 데이터를 분석해 로봇에 특화된 전용 보험 상품을 공동 개발한다는 계획이다. <br><br>송재호 KT AI/DX융합사업부문장(부사장)은 “AI 서비스 로봇이 점차 확산되고 있는 현 시장 상황에서 KT와 DB손해보험의 협력은 양질의 고객 만족 서비스를 제공하는 첫 걸음이 될 것이다”며 ”양사 모두 새로운 미래 먹거리 발굴을 위한 협력의 중요성에 대해 공감하고 고객이 만족할 수 있는 상품을 선보이겠다”고 말했다.<br><br>김명근 기자 dionys@donga.com<br><br><br><br><br><br><a href='http://sports.donga.com/Series/20'>▶ 연예현장 진짜 이야기 </a> / <a href='http://sports.donga.com/Pictorial'>스타들의 아찔한 순간</a><br><a href='http://idolpick.donga.com/'>▶ 나의 아이돌을 픽♥ 해주세요. / 이번 주는 누가 1위?</a><br><br>- Copyrights ⓒ <a href='http://sports.donga.com'>스포츠동아</a> 무단 전재 및 재배포 금지 -
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/382/2021/05/26/0000912350_001_20210526162104118.jpg?type=w647" alt="" /></span><br>KT는 DB손해보험과 ‘AI 서비스 로봇 전용 보험’ 개발 협력을 위한 양해각서(MOU)를 체결했다. KT는 DB손해보험이 6월 말 출시할 ‘AI 서빙로봇 서비스형 상품’을 통해 먼저 영업배상 보험에 가입하고, 1년간 로봇을 운영하며 발생하는 사고 데이터를 수집할 계획이다. 또 양사는 이렇게 수집된 데이터를 분석해 로봇에 특화된 전용 보험 상품을 공동 개발한다는 계획이다. <br><br>송재호 KT AI/DX융합사업부문장(부사장)은 “AI 서비스 로봇이 점차 확산되고 있는 현 시장 상황에서 KT와 DB손해보험의 협력은 양질의 고객 만족 서비스를 제공하는 첫 걸음이 될 것이다”며 ”양사 모두 새로운 미래 먹거리 발굴을 위한 협력의 중요성에 대해 공감하고 고객이 만족할 수 있는 상품을 선보이겠다”고 말했다.<br><br>김명근 기자 dionys@donga.com<br><br><br><br><br><br><a href='http://sports.donga.com/Series/20'>▶ 연예현장 진짜 이야기 </a> / <a href='http://sports.donga.com/Pictorial'>스타들의 아찔한 순간</a><br><a href='http://idolpick.donga.com/'>▶ 나의 아이돌을 픽♥ 해주세요. / 이번 주는 누가 1위?</a><br><br>- Copyrights ⓒ <a href='http://sports.donga.com'>스포츠동아</a> 무단 전재 및 재배포 금지 -
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">농촌경제연구원, 유통변화로 소매비중 60%<br>“지역농산물 순환체계 핵심시설로 활용해야”<br>푸드플랜·공공성결합 가능성 높아, 판매체계 개선도 필요</strong>인구 감소, 대기업자본의 농산물 도소매 유통 분야 유입, 로컬푸드 직매장 등으로 지역의 농산물 도매시장이 경쟁력을 잃어가고 있다.<br><br>지역별 유통경로를 분석해보니 최종 유통단계에서 각 지역의 외식업체와 소매업체의 비중이 약 60% 이상을 차지하는 것으로 나타났으며, 이들은 신선하고 저렴한 지역농산물 공급을 희망하는 것으로 조사됐다.<br><br>이에 따라 지방 도매시장을 지역농산물 유통 순환체계의 핵심시설로 활용해 지역 농산물 유통을 활성화하고, 푸드플랜과 지방 도매시장의 공공성을 결합해 활력을 높여야 한다는 주장이 제기됐다.<br><br>이는 한국농촌경제연구원(KREI)이 ‘지역유통 순환체계 구축을 위한 지방 도매시장 기능 재편방안’ 연구를 통해 제시됐다.<br><br>연구책임자인 최병옥 연구위원은 “지역 내 지역농산물 이용률을 높이기 위해서는 소매업체와 외식업체가 지역농산물의 이용률을 향상 시킬 수 있는 방안을 모색하는 것이 필요하다”며 “이들의 주요 농산물 공급처인 지방 도매시장이 향후 지역농산물 취급 확대를 위한 방안을 수립·시행하는 것이 지역농산물 시장 규모를 확대할 수 있는 핵심”이라고 강조했다.<br><br>연구진은 도매시장의 기능인 농산물의 수집·가격 결정·분산 등의 수행이 어려운 지방 도매시장을 대상으로 해당 소재 지역 중 푸드플랜이 수립된 춘천시·익산시·진주시를 사례지역으로 설정해 조사·분석했다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/119/2021/05/26/0002496226_001_20210526145302964.jpeg?type=w647" alt="" /><em class="img_desc">대구의 한 농수산물도매시장에서 관계자들이 산지에서 올라온 수박을 출하하기 위해 하역작업을 하고 있다. ⓒ뉴시스</em></span>사례지역의 먹거리 유통실태를 분석한 결과, 대부분의 주요 생산품목이 산지유통시설을 통해 외부 대도시로 공급되고 있으며, 지역 도매시장의 거래 상위품목에는 지역 주요 생산품목이 없는 것으로 파악됐다.<br><br>즉 지역에서 생산된 농산물이 외부로 공급되는 비중이 높아지면서, 지역 내 생산과 소비의 불균형이 발생하고 있었다.<br><br>하지만 이와 별개로 로컬푸드 직매장 점포 수와 매출액은 확대되는 것으로 나타났고 소비자의 지역 먹거리 선호도는 증가하고 있어, 이에 따른 지역농산물의 지역 내 소비 확대 가능성도 보인다는 분석이다.<br><br>이와 관련, 지역농산물 취급에 대해 도매시장법인·중도매인·소매점·외식업체 모두 확대의 필요성을 거론했고, 지역농산물 유통의 핵심인 도매시장법인과 중도매인도 지역유통 순환체계가 필요하다며 참여 의향도 보인 것으로 조사됐다.<br><br>연구팀은 도매시장에 비영리법인형태의 유통 주체와 푸드플랜 관련 시설을 연계한다면 단기간에 지역농산물 취급 확대가 가능할 것이라고 전했다.<br><br>또한 연구진은 지역농산물 순환체계의 핵심 시설로 지방 도매시장을 활용하기 위한 기본 방향에 유통·물류 기능과 공간 활용 혁신, 맞춤형 생산·소비체계로 유통 혁신, 제도와 운영시스템 혁신 등을 제안했다.<br><br>이를 위한 정책과제로 ▲로컬푸드의 지역 범위 확대 ▲타 지역과 전략적 제휴 ▲유통·물류 기능 확대, 도매시장 공간 활용 ▲지역농산물 생산과 소비조직 연계 ▲지역농산물 순환을 통한 재생산 촉진 ▲제도·수급관리·판매체계 개선을 들었다.<br><br>데일리안 이소희 기자 (aswith@dailian.co.kr)<br><br><a href="https://media.naver.com/channel/promotion.nhn?oid=119">▶ 데일리안 네이버 구독하기</a><br><a href="http://naver.me/xorooYvI">★ 구독만 해도 스타벅스쿠폰이 쏟아진다!</a><br><a target="_blank" href="https://m.dailian.co.kr/report">▶ 제보하기</a><br><br>ⓒ (주)데일리안 - 무단전재, 변형, 무단배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

@@ -1,0 +1,1067 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	[머니투데이 이민하 기자] [[유니밸리-한양대 2-3]선주문 방식 차세대 패션 플랫폼 '모예'...송하윤 대표 "아디어만 있으면 브랜드 제작"]<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_001_20210527041601549.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_002_20210527041601633.jpg?type=w647" alt="" /></span>&quot;아이디어만 있으면 누구나 멋진 옷을 만들 수 있는 디자이너가 될 수 있습니다. &#039;이 옷을 내가 만들면 더 예쁘게 만들 수 있을 것 같은데&#039; 하고 생각만 하지 말고 직접 만들어 보세요. &quot;<br><br>송하윤 모예 대표는 최근 머니투데이와 만나 &quot;아이디어만 있으면 최소한의 비용만으로 자신의 브랜드 시제품 제작부터 양산까지 한번에 할 수 있도록 돕는 패션 플랫폼으로 자리잡는 게 목표&quot;라며 이같이 밝혔다. 한양대 창업지원단의 도움을 받아 2019년 7월 설립된 모예는 &#039;모두가 예술가&#039;라는 콘셉트를 가진 패션 플랫폼 스타트업이다. <br><br>모예의 기본적인 사업구조는 크라우드펀딩 방식이다. 패션 부문에 특화해 서비스를 고도화한 부분이 여느 크라우드펀딩과 차별점이다. 브랜드 아이디어만 있으면 누구나 디자이너가 될 수 있고, 소비자는 다른 곳에 없는 하나뿐인 상품을 살 수 있다. 판매자는 최소 시제품 제작 비용으로 상품을 출시할 수 있다. 실제 상품 제작과 판매 페이지 개설, 마케팅 등 판매를 위한 후속 절차는 모두 모예에서 처리한다.<br><br>송 대표는 &quot;패션 프로젝트에 특화된 크라우드 펀딩 플랫폼 방식으로 판매자가 부담해야 하는 초기 생산비용을 기존 대비 97%까지 줄였다&quot;며 &quot;1개 시제품(샘플)을 제작해 등록한 뒤 물량 생산 전에 주문을 받아 수요를 정확하게 파악할 수 있다&quot;고 설명했다.<br><!--start_block--><div class="highlightBlock" style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div><div style="display:none;"><br></div><div style="display:none;">━<br></div><b>&#039;프리오더&#039; 시스템 고도화…시제품 20만원 들여 매출 2억2000만원 </b><div style="display:none;"><br>━</div><div style="display:none;"><br></div><div class="highlightBlock" style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div><!--end_block--><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_003_20210527041601647.jpg?type=w647" alt="" /></span>올해 1월부터 &#039;선주문&#039;(프리오더) 시스템을 고도화했다. 프리오더는 &#039;선주문 후제작&#039; 방식의 주문 시스템이다. 송 대표는 &quot;프리오더는 디자이너가 고유의 브랜드를 키우기 위한 시스템&quot;이라며 &quot;크라우드펀딩과 달리 다른 곳에 없는 단독 프로젝트만 진행하는 게 기본 방침&quot;이라고 강조했다. 기존 유통 제품과 유사하거나 동대문 구입, 해외 수입 제품 등은 진행할 수 없다. 기존에 유명인의 블로그나 사회관계망서비스(SNS)에서 주로 진행했던 온라인 선주문 방식과 달리 모든 진행 과정을 데이터로 집계, 정확한 수요 예측이 가능하다.<br><br>프리오더 방식을 적용한 이후 현재까지 판매자로 등록한 디자이너는 모두 500명에 달한다. 이중 첫 샘플을 제작, 프로젝트를 진행한 비율은 80%에 달한다. 초기 비용으로 샘플 제작비 5만~30만원만 있으면 프로젝트 진행이 가능하다. 프로젝트 예정공고 기간부터 프리오더 진행기간까지 약 3주가 소요된다. 최소 목표금액은 50만, 100만, 300만원 단위로 설정된다. 다용도 가방(멀티백)을 만드는 샤이하우스도 모예 플랫폼에서 첫 브랜드 제품을 내놨다. 이 브랜드는 샘플비 20만원으로 2100만원의 자금을 모집했다. 다른 가방 브랜드 플랫어바웃은 4번의 프로젝트를 통해 단일 제품으로 누적 2억2000만원 매출을 기록했다.<br><br>플랫폼 입점 기본 수수료는 무료다. 추가적인 마케팅이나 컨설팅이 필요한 경우에만 별도 수수료를 내면 된다. 송 대표는 &quot;추구하는 목표가 시간과 비용, 절차 등 초기 진입 장벽을 낮춰 누구나 브랜드 디자이너가 될 수 있도록 돕는 것이기 때문에  앞으로도 기본적인 무료 수수료 정책은 고수할 방침&quot;이라고 강조했다.<br><br>올해는 상반기 중 모바일 앱(애플리케이션) 출시를 앞두고 있다. 토스·카카오페이 등 주요 간편결제 기능, 디자이너와 직접 소통 기능을 추가하는 등 편의성을 높일 계획이다. 송 대표는 &quot;독창적인 여러 브랜드들이 지속가능할 수 있게 돕고, 제휴 파트너사들을 확대해 서비스 편의성을 높여갈 것&quot;이라고 말했다.<br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/008/2021/05/26/0004592444_004_20210527041601665.jpg?type=w647" alt="" /><em class="img_desc">송하윤 모예 대표 인터뷰 /사진=이기범 기자 leekb@</em></span><br><br><!--article_split-->이민하 기자 minhari@mt.co.kr<br><br><a href="https://www.mt.co.kr/redirectAd.php?id=0&date=20210517041123" target="_blank">▶부동산 투자는 [부릿지]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=1&date=20210517041123" target="_blank">▶주식 투자는 [부꾸미TALK]</a><br><a href="https://www.mt.co.kr/redirectAd.php?id=2&date=20210517041123" target="_blank">▶부자되는 뉴스, 머니투데이 구독하기</a>  <br><br>&lt;저작권자 ⓒ &#39;돈이 보이는 리얼타임 뉴스&#39; 머니투데이, 무단전재 및 재배포 금지&gt; <br><br>
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 

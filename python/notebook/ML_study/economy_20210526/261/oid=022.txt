@@ -1,0 +1,183 @@
+ class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">서울과 인천·일산·부산 등 9개지점<br>야간 무인 매장으로 변신···“퇴근후 쇼핑 OK”</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915222_001_20210526223342690.jpg?type=w647" alt="" /><em class="img_desc">LG전자 모델들이 야간에 무인매장으로 운영되는 LG베스트샵에서 키오스크를 이용해 제품 정보를 확인하고 있다./사진제공=LG전자</em></span><br>[서울경제] <br><br>LG전자가 국내 가전회사로는 처음으로 무인매장 운영에 나선다. 퇴근 이후 즐기는 쇼핑이나 비대면 상담을 원하는 소비자들이 욕구에 부응해 매출 확대를 노린다는 전략이다.<br><br>LG전자는 26일부터 서울과 인천, 부산 등 총 9곳의 LG베스트샵을 오후 8시 30분부터 자정까지 무인 매장으로 운영한다. 야간에 무인매장으로 바뀌는 곳은 서울 강서본점, 금천본점, 봉천점, 불광본점, 쌍문본점, 서초본점 등 서울 지역의 6개 매장을 포함해 인천 부평구청점, 경기 일산본점, 부산 사상본점이다. 무인매장은 직원들이 퇴근한 이후인 오후 8시 30분부터 자정까지 평일은 물론 주말에도 동일하게 운영된다.<br><br>무인매장을 방문한 고객은 매장 입구에서 QR코드를 스캔해 본인 인증을 거친 후 매장에 들어올 수 있다. 이후 매장 안에서 자유롭게 제품을 체험할 수 있다. 제품에 대한 상세정보가 필요하면 매장 내 여러 곳에 설치된 키오스크를 이용하거나 스마트폰으로 LG전자 홈페이지 또는 모바일앱 ‘LGE.COM’ 에 접속해 최적화된 화면에서 검색할 수 있다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915222_002_20210526223342739.jpg?type=w647" alt="" /><em class="img_desc">LG베스트샵 매장에서 LG전자 모델들이 입구에서 QR코드를 스캔해 본인 인증 절차를 진행하고 있다./사진제공=LG전자</em></span><br><br>무인매장이지만 고객 필요에 따라 기술적 상담도 제공한다. 고객이 각 매장의 카카오톡 채널에서 일대일 상담 메뉴를 통해 제품 정보, 매장 이용방법 등을 문의하면 LG베스트샵 직원이 실시간으로 대응한다. 또 직원과의 대면 상담이 필요한 고객은 키오스크에서 상담을 예약하면 직원이 근무하는 시간에 다시 방문해 상담을 받을 수 있다. 무인매장은 매장에서 대면 상담을 받았던 고객이 구매 결정을 앞두고 제품을 한 번 더 보고 싶을 때에도 유용할 것으로 보인다.<br><br>야간 무인매장을 시범 운영한 곳에 대해 고객들은 “부담 없이 편하게 여러 번 방문할 수 있어서 좋다”, “구입할 제품이 아닌 다른 제품도 편하게 체험했다”, “제품을 충분히 체험하니 구매 의향이 높아졌다” 등 긍정적으로 평가했다는 것이 LG전자의 설명이다. LG전자는 고객의 반응과 운영 결과 등을 다각도로 분석해 향후 무인매장과 운영시간을 늘릴 계획이다.<br><br>오승진 LG전자 한국영업본부 한국전략담당은 “언택트 경험을 선호하는 고객의 니즈에 발 빠르게 대응해 대면 상담 없이 편리하게 쇼핑할 수 있도록 무인매장을 선보였다”며 “고객이 새로운 경험을 하며 LG전자 제품과 매장에 보다 친숙하게 접근할 수 있는 계기가 될 것”이라고 말했다.<br><br>/이수민 기자 noenemy@sedaily.com<br><br><ul><li><a href="https://bit.ly/3bhqTuL" target="_blank" style="color:#000000">▶ [지구용] 투명해진 맥주병, 그런데 말입니다...</a></li><li><a href="https://thepolitics.sedaily.com" target="_blank" style="color:#000000">▶ 서울경제 더 폴리틱스 뉴스를 만나보세요!</a></li><li><a href="https://www.sedaily.com/v/Zipchelin" target="_blank" style="color:#000000">▶ 미슐랭 가이드처럼 알찬 부동산 뉴스 '집슐랭'</a></li></ul><br><br>저작권자 ⓒ 서울경제, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">서울과 인천·일산·부산 등 9개지점<br>야간 무인 매장으로 변신···“퇴근후 쇼핑 OK”</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915222_001_20210526223342690.jpg?type=w647" alt="" /><em class="img_desc">LG전자 모델들이 야간에 무인매장으로 운영되는 LG베스트샵에서 키오스크를 이용해 제품 정보를 확인하고 있다./사진제공=LG전자</em></span><br>[서울경제] <br><br>LG전자가 국내 가전회사로는 처음으로 무인매장 운영에 나선다. 퇴근 이후 즐기는 쇼핑이나 비대면 상담을 원하는 소비자들이 욕구에 부응해 매출 확대를 노린다는 전략이다.<br><br>LG전자는 26일부터 서울과 인천, 부산 등 총 9곳의 LG베스트샵을 오후 8시 30분부터 자정까지 무인 매장으로 운영한다. 야간에 무인매장으로 바뀌는 곳은 서울 강서본점, 금천본점, 봉천점, 불광본점, 쌍문본점, 서초본점 등 서울 지역의 6개 매장을 포함해 인천 부평구청점, 경기 일산본점, 부산 사상본점이다. 무인매장은 직원들이 퇴근한 이후인 오후 8시 30분부터 자정까지 평일은 물론 주말에도 동일하게 운영된다.<br><br>무인매장을 방문한 고객은 매장 입구에서 QR코드를 스캔해 본인 인증을 거친 후 매장에 들어올 수 있다. 이후 매장 안에서 자유롭게 제품을 체험할 수 있다. 제품에 대한 상세정보가 필요하면 매장 내 여러 곳에 설치된 키오스크를 이용하거나 스마트폰으로 LG전자 홈페이지 또는 모바일앱 ‘LGE.COM’ 에 접속해 최적화된 화면에서 검색할 수 있다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915222_002_20210526223342739.jpg?type=w647" alt="" /><em class="img_desc">LG베스트샵 매장에서 LG전자 모델들이 입구에서 QR코드를 스캔해 본인 인증 절차를 진행하고 있다./사진제공=LG전자</em></span><br><br>무인매장이지만 고객 필요에 따라 기술적 상담도 제공한다. 고객이 각 매장의 카카오톡 채널에서 일대일 상담 메뉴를 통해 제품 정보, 매장 이용방법 등을 문의하면 LG베스트샵 직원이 실시간으로 대응한다. 또 직원과의 대면 상담이 필요한 고객은 키오스크에서 상담을 예약하면 직원이 근무하는 시간에 다시 방문해 상담을 받을 수 있다. 무인매장은 매장에서 대면 상담을 받았던 고객이 구매 결정을 앞두고 제품을 한 번 더 보고 싶을 때에도 유용할 것으로 보인다.<br><br>야간 무인매장을 시범 운영한 곳에 대해 고객들은 “부담 없이 편하게 여러 번 방문할 수 있어서 좋다”, “구입할 제품이 아닌 다른 제품도 편하게 체험했다”, “제품을 충분히 체험하니 구매 의향이 높아졌다” 등 긍정적으로 평가했다는 것이 LG전자의 설명이다. LG전자는 고객의 반응과 운영 결과 등을 다각도로 분석해 향후 무인매장과 운영시간을 늘릴 계획이다.<br><br>오승진 LG전자 한국영업본부 한국전략담당은 “언택트 경험을 선호하는 고객의 니즈에 발 빠르게 대응해 대면 상담 없이 편리하게 쇼핑할 수 있도록 무인매장을 선보였다”며 “고객이 새로운 경험을 하며 LG전자 제품과 매장에 보다 친숙하게 접근할 수 있는 계기가 될 것”이라고 말했다.<br><br>/이수민 기자 noenemy@sedaily.com<br><br><ul><li><a href="https://bit.ly/3bhqTuL" target="_blank" style="color:#000000">▶ [지구용] 투명해진 맥주병, 그런데 말입니다...</a></li><li><a href="https://thepolitics.sedaily.com" target="_blank" style="color:#000000">▶ 서울경제 더 폴리틱스 뉴스를 만나보세요!</a></li><li><a href="https://www.sedaily.com/v/Zipchelin" target="_blank" style="color:#000000">▶ 미슐랭 가이드처럼 알찬 부동산 뉴스 '집슐랭'</a></li></ul><br><br>저작권자 ⓒ 서울경제, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">서울과 인천·일산·부산 등 9개지점<br>야간 무인 매장으로 변신···“퇴근후 쇼핑 OK”</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915222_001_20210526223342690.jpg?type=w647" alt="" /><em class="img_desc">LG전자 모델들이 야간에 무인매장으로 운영되는 LG베스트샵에서 키오스크를 이용해 제품 정보를 확인하고 있다./사진제공=LG전자</em></span><br>[서울경제] <br><br>LG전자가 국내 가전회사로는 처음으로 무인매장 운영에 나선다. 퇴근 이후 즐기는 쇼핑이나 비대면 상담을 원하는 소비자들이 욕구에 부응해 매출 확대를 노린다는 전략이다.<br><br>LG전자는 26일부터 서울과 인천, 부산 등 총 9곳의 LG베스트샵을 오후 8시 30분부터 자정까지 무인 매장으로 운영한다. 야간에 무인매장으로 바뀌는 곳은 서울 강서본점, 금천본점, 봉천점, 불광본점, 쌍문본점, 서초본점 등 서울 지역의 6개 매장을 포함해 인천 부평구청점, 경기 일산본점, 부산 사상본점이다. 무인매장은 직원들이 퇴근한 이후인 오후 8시 30분부터 자정까지 평일은 물론 주말에도 동일하게 운영된다.<br><br>무인매장을 방문한 고객은 매장 입구에서 QR코드를 스캔해 본인 인증을 거친 후 매장에 들어올 수 있다. 이후 매장 안에서 자유롭게 제품을 체험할 수 있다. 제품에 대한 상세정보가 필요하면 매장 내 여러 곳에 설치된 키오스크를 이용하거나 스마트폰으로 LG전자 홈페이지 또는 모바일앱 ‘LGE.COM’ 에 접속해 최적화된 화면에서 검색할 수 있다.<br><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/011/2021/05/26/0003915222_002_20210526223342739.jpg?type=w647" alt="" /><em class="img_desc">LG베스트샵 매장에서 LG전자 모델들이 입구에서 QR코드를 스캔해 본인 인증 절차를 진행하고 있다./사진제공=LG전자</em></span><br><br>무인매장이지만 고객 필요에 따라 기술적 상담도 제공한다. 고객이 각 매장의 카카오톡 채널에서 일대일 상담 메뉴를 통해 제품 정보, 매장 이용방법 등을 문의하면 LG베스트샵 직원이 실시간으로 대응한다. 또 직원과의 대면 상담이 필요한 고객은 키오스크에서 상담을 예약하면 직원이 근무하는 시간에 다시 방문해 상담을 받을 수 있다. 무인매장은 매장에서 대면 상담을 받았던 고객이 구매 결정을 앞두고 제품을 한 번 더 보고 싶을 때에도 유용할 것으로 보인다.<br><br>야간 무인매장을 시범 운영한 곳에 대해 고객들은 “부담 없이 편하게 여러 번 방문할 수 있어서 좋다”, “구입할 제품이 아닌 다른 제품도 편하게 체험했다”, “제품을 충분히 체험하니 구매 의향이 높아졌다” 등 긍정적으로 평가했다는 것이 LG전자의 설명이다. LG전자는 고객의 반응과 운영 결과 등을 다각도로 분석해 향후 무인매장과 운영시간을 늘릴 계획이다.<br><br>오승진 LG전자 한국영업본부 한국전략담당은 “언택트 경험을 선호하는 고객의 니즈에 발 빠르게 대응해 대면 상담 없이 편리하게 쇼핑할 수 있도록 무인매장을 선보였다”며 “고객이 새로운 경험을 하며 LG전자 제품과 매장에 보다 친숙하게 접근할 수 있는 계기가 될 것”이라고 말했다.<br><br>/이수민 기자 noenemy@sedaily.com<br><br><ul><li><a href="https://bit.ly/3bhqTuL" target="_blank" style="color:#000000">▶ [지구용] 투명해진 맥주병, 그런데 말입니다...</a></li><li><a href="https://thepolitics.sedaily.com" target="_blank" style="color:#000000">▶ 서울경제 더 폴리틱스 뉴스를 만나보세요!</a></li><li><a href="https://www.sedaily.com/v/Zipchelin" target="_blank" style="color:#000000">▶ 미슐랭 가이드처럼 알찬 부동산 뉴스 '집슐랭'</a></li></ul><br><br>저작권자 ⓒ 서울경제, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/421/2021/05/26/0005374516_001_20210526162015784.jpg?type=w647" alt="" /></span><br>(서울=뉴스1) = 문승욱 산업통상자원부 장관이 26일 오후 산업단지공단 인천본부 대회의실에서 '청년 일자리 창출을 위한 청년과의 대화'를 주재하고 있다. (산업통상자원부 제공) 2021.5.26/뉴스1<br><br>photo@news1.kr<br><br><a target="_blank" href="https://media.naver.com/channel/promotion.nhn?oid=421"  >▶ 네이버 메인에서 [뉴스1] 구독하기!</a><br><a target="_blank" href="https://bbc.news1.kr/" >▶  뉴스1&BBC 한글 뉴스</a><a target="_blank" href="http://recruit.news1.kr"  > ▶  뉴스1 공채12기 수습기자 모집</a><br><br>&#169; 뉴스1코리아(<a href='https://www.news1.kr' target='_blank'>news1.kr</a>), 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/629/2021/05/26/202170871622008029_20210527104207181.jpg?type=w647" alt="" /><em class="img_desc">26일 업계에 따르면 창원지방법원은 지난 20일 정규직과 계약직 간 임금차별은 부당하다는 판결을 내렸다. 사진은 서울 시내 한 아파트 공사 현장 전경. /이재빈 기자</em></span><br><br><strong>"임금과 복지 처우, 정규직과 동일해야"</strong><br><br>[더팩트｜이재빈 기자] 건설 현장 계약직 근로자에게 임금을 차별하는 것은 부당하다는 법원의 판결이 나왔다. 기술자격수당도 통상임금에 포함시켜야 한다는 주장도 받아들여졌다. 업계에서는 이번 판결이 대부분의 건설사에 영향을 미칠 것으로 보고 있다.<br><br>26일 건설업계에 따르면 창원지방법원 제5민사부는 지난 20일 한 대형건설사 노조 조합원이 회사를 상대로 제기한 임금청구소송에서 원고 부분 승소 판결을 내렸다. 앞서 노조는 2019년 7월 계약직과 정규직 간 임금차별 시정과 기술자격수당 통상임금 인정 등을 주장하며 창원지법에 차별 시정 및 통상임금 청구 소송을 접수했다.<br><br>이날 법원이 원고 부분 승소 판결을 내림에 따라 계약직 근로자는 그간 정규직과 차별받던 임금 격차분을 모두 지급받게 됐다.<br><br>노조 관계자는 "법원은 무기계약직에 대해 따로 마련된 취업규칙이 없다면 정규직에 대한 취업규칙을 적용해 임금과 복지에 대한 처우를 정규직과 똑같이 적용하라는 주문을 냈다"며 "그간 계약직은 똑같은 업무를 수행함에도 정규직에 비해 적은 임금을 받아왔다. 이번 판결로 동일노동 동일임금 원칙이 바로서게 됐다"고 설명했다.<br><br>아울러 법원은 기술자격수당을 통상임금으로 인정하기로 했다. 그간 대부분의 건설사는 건축사·기술사·안전·산업위생관리 등을 소지한 근로자에게 매월 기술자격수당을 지급해 왔다. 하지만 통상임금에서는 기술자격수당을 제외해 연차수당이나 시간외수당, 퇴직금 책정 시에는 기술자격수당이 반영되지 않았다. 이날 법원은 기술자격수당을 '정기적, 일률적, 고정적으로 소정근로에 대해 지급되는 금액'으로 판단했다.<br><br>법원이 노조의 손을 들어줌에 따라 각 건설사는 인력·임금체계 재정비를 고심해야 하는 상황이다. 건설업계는 그간 프로젝트 계약직(PJT)에 대한 취업규칙이 따로 없다는 점을 이용해 상대적으로 더 적은 임금을 제공해 왔다. 하지만 2017년 PJT를 계약직이 아닌 무기계약직으로 봐야 한다는 대법원 판결이 나온 데 이어 임금차별도 시정해야 한다는 판결이 나온 만큼 PJT 처우 개선에 착수할 전망이다.<br><br>홍순관 건설기업노조 위원장은 "규모있는 상위권 건설사가 노동자 권리를 존중해야 부실시공 없고 안전한 건설현장을 만들 수 있따"며 "급증하고 있는 PJT의 부당한 차별을 시정해 나가겠다"고 말했다.<br><br>fuego@tf.co.kr<br><br><br><br><a href="http://fannstar.tf.co.kr/event/view/fanbership20092109" target="_blank"> - BTS 공연 비하인드 사진 얻는 방법? [팬버십 가입하기▶]  </a><br><a href="http://fannstar.tf.co.kr/" target="_blank"> - 내 아이돌 순위는 내가 정한다! [팬앤스타 투표하기] </a><br><br>저작권자 ⓒ 특종에 강한 더팩트 & tf.co.kr 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<font size=-1 color=#ffffff>[한국경제TV 이준호 기자]</font><br><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/215/2021/05/26/A202105260254_1_20210526152107011.jpg?type=w647" alt="" /></span><br><br>유한킴벌리는 새로운 개념의 마스크인 '크리넥스 KF-AD(비말차단) 라이트핏 쿨 마스크’를 출시했다고 밝혔다.<br><br>‘크리넥스 라이트핏 쿨 마스크’는 접촉냉감의 원리를 활용한 것이 큰 특징이다.<br><br>마스크가 피부에 닿았을 때 피부 표면온도를 낮춰 피부에서 옷감으로 빠르게 열이 이동해 차가움을 느낄 수 있도록 설계됐다.<br><br>특히 필터일체형 외피원단을 사용해 기존 자사 마스크 대비 두께는 42% 더 얇게, 접촉냉감지수는 19% 더 높게 설계해 착용감을 개선했다.<br><br>‘크리넥스 라이트핏 쿨 마스크’는 식품의약품안전처 의약외품 허가를 획득한 비말차단용(KFAD) 마스크로 필터의 세균여과효율(BFE)이 99% 이상이다.<br><br>유한킴벌리 관계자는 "마스크 착용이 가장 힘든 시기인 여름철 고객들의 편안하고 안전한 마스크 착용에 도움을 드리고자 쿨 마스크’를 개발했다"고 말했다.<br><br>이준호기자 jhlee2@wowtv.co.kr<br><br>▶<a href="https://media.naver.com/channel/promotion.nhn?oid=215" TITLE="네이버에서 한국경제TV 채널 구독하기">네이버에서 경제·증권 전문방송의 한국경제TV를 구독하세요</a><br>▶<a href="https://tv.naver.com/hkwowtv" TITLE="한국경제TV LIVE 보기">대한민국 No.1 재테크 - 증권정보 / 주식상담 / 부동산 [LIVE 보기]</a></br></br>ⓒ 한국경제TV, 무단 전재 및 재배포 금지
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div  class="_article_body_contents">
+	<!-- 본문 내용 -->
+	<!-- TV플레이어 -->
+
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추가
+function _flash_removeCallback() {}
+</script>
+	
+	<strong class="media_end_summary">프리즘, LED 스탠드 '브로드윙 M'<br>800㎜ 초대형 LED 스탠드, 넓은 배광 면적과 3단계 밝기 조절</strong><span class="end_photo_org"><img src="https://imgnews.pstatic.net/image/277/2021/05/26/0004909063_001_20210526112707943.jpg?type=w647" alt="" /><em class="img_desc">프리즘의 LED 스탠드, '브로드윙 M(LSP-9100)'. [사진제공=프리즘]</em></span><br><br>[아시아경제 김종화 기자]LED조명기구 전문기업 '프리즘'에서 출시한 '프리즘 LED스탠드 브로드윙 M(LSP-9100)'은 공간의 분위기를 바꿔주고 집중력을 높여주는 조명이다. 삼성 휴먼 센트릭 LED칩을 사용해 멜라토닌 호르몬 조절, 생체리듬 활성화, 집중력 향상 등을 고려한 사용자 중심 LED스탠드다.<br><br>생체리듬 LED조명은 빛의 파장을 이용해 생체 호르몬 '멜라토닌'의 분비량을 조절한다. 낮 시간대 멜라토닌이 일반 LED조명을 사용할 때보다 18% 적게 분비돼 두뇌 활동을 촉진하고 집중력을 최대 10% 높여 학습과 업무 능률을 향상에 도움을 준다.<br><br>800㎜ 초대형 프로페셔널LED로 넓은 배광 면적을 확보했고, 주변 환경에 따라 3단계 밝기와 색온도를 조절할 수 있다. 각도를 조절할 수 있고, 평평한 곳에 놓고 쓰는 '베이스 타입', 책상 두께 8.5㎝까지 고정할 수 있는 '클램프 타입'이 있다. 눈부심 방지 가드를 적용해 빛이 눈에 직접적으로 닿지 않아 자극이 적고 LED모듈에서 나오는 빛이 확산 판을 통해 부드럽고 고르게 퍼진다.<br><br>LED 사용시간이 최대 4만 시간으로 에너지 소비가 일반 조명보다 80% 낮아서 비용 절약과 환경에 긍정적이다. 헤드 상단부에 동작감지 센서를 탑재해 타이머로 사용시간을 설정할 수 있다. 사용자가 자리를 비우면 자동으로 소등하고, 다시 앉으면 자동으로 점등해 전력 소모를 최소화한다.<br><br>프리즘 관계자는 "최근 재택근무와 홈스쿨링 등 실내 생활 비중이 높아진 만큼 '브로드윙 M'은 실내 분위기를 새롭게 전환할 수 있으며, 사용자 건강과 전력 감소를 고려한 신개념 LED스탠드"라고 말했다.<br><br>김종화 기자 justin@asiae.co.kr<br><br><a href="https://www.asiae.co.kr/fortune/index.htm?utm_source=navernews&utm_medium=naver_view&utm_campaign=fortune">▶ 속 시원한 풀이! 2021년 정통사주·운세·토정비결</a><br><a href="https://www.asiae.co.kr/event/2021/jobgo/">▶ 직장인을 위한 '빅데이터 분석' 국비 특화과정 모집</a><br><a href="https://core.asiae.co.kr/?utm_source=naver_article&utm_medium=pc_mobile&utm_campaign=core">▶ 투자 성공의 핵심은 기업분석! 'CORE' 바로가기</a><br><br>&lt;ⓒ경제를 보는 눈, 세계를 보는 창 아시아경제 무단전재 배포금지&gt;
+	<!-- // 본문 내용 -->
+	</div>
+	<!-- [D] .guide_categorization_title 내 링크가 클릭되면 .guide_categorization_ct display:block; 해주세요 -->
+
+
+	
+
+
+
+	
+	
+		
+	
+
+
+<div 
